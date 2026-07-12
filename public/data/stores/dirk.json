@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-12T14:41:25.376631+00:00",
+  "updated_at": "2026-07-12T15:38:54.661136+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste Geschilde ananas",
@@ -11,7 +11,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "De Vleeschmeesters Biefstukreepjes",
@@ -20,7 +20,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Firat Turkse pizza",
@@ -29,7 +29,7 @@
       "inhoud_waarde": 240,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Pastasalade",
@@ -38,7 +38,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Vruchtensoezen",
@@ -47,7 +47,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
       "productnaam": "Zalmfilet met huid",
@@ -56,7 +56,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Aperol",
@@ -65,7 +65,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Casa Defrà Prosecco",
@@ -74,7 +74,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Bits & Bites Buitenlandse kaas",
@@ -83,7 +83,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Bits & Bites Kaasblokjes",
@@ -92,7 +92,7 @@
       "inhoud_waarde": 130,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Disaronno Originale",
@@ -101,7 +101,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Mediterraneo ovenbrood",
@@ -110,7 +110,7 @@
       "inhoud_waarde": 215,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
       "productnaam": "Paolo grissini of dips",
@@ -119,7 +119,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "1 de Beste Geschilde ananas",
@@ -128,7 +128,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Paolo grissini of dips",
@@ -137,7 +137,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "1 de Beste IJsbergsla",
@@ -146,7 +146,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "BIO+ Hollandse suikermaïs",
@@ -155,7 +155,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Blauwe bessen, frambozen of Hollandse aardbeien",
@@ -164,7 +164,7 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Diepvries"
+      "categorie": null
     },
     {
       "productnaam": "Hollandse aubergine",
@@ -173,7 +173,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Rauwkostsalade",
@@ -182,7 +182,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Nectarines",
@@ -191,7 +191,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Pitloze witte druiven",
@@ -200,7 +200,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "XL watermeloen",
@@ -209,7 +209,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Hak groente of appelmoes",
@@ -218,7 +218,7 @@
       "inhoud_waarde": 720,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "1 de Beste Watermeloen part",
@@ -227,7 +227,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Galia meloen",
@@ -236,7 +236,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Hollandse spitskool",
@@ -245,7 +245,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Kersen",
@@ -254,7 +254,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Mini romaine sla",
@@ -263,7 +263,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Radijs",
@@ -272,7 +272,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Royal Gala appels",
@@ -281,7 +281,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Verspakket van de maand - WK Nacho's",
@@ -290,7 +290,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Grote knoflook",
@@ -299,7 +299,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Hollandse waspeen",
@@ -308,7 +308,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "De Vleeschmeesters Biefstukreepjes",
@@ -317,7 +317,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Firat Turkse pizza",
@@ -326,7 +326,7 @@
       "inhoud_waarde": 240,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Zalmfilet met huid",
@@ -335,7 +335,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "De Vleeschmeesters Gemarineerde lapjes",
@@ -344,7 +344,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "De Vleeschmeesters Runder- of kipchipolata's",
@@ -353,7 +353,7 @@
       "inhoud_waarde": 5,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Hollandse nieuwe haring",
@@ -362,7 +362,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "De Vleeschmeesters Varkensoesters",
@@ -371,7 +371,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Valess",
@@ -380,7 +380,7 @@
       "inhoud_waarde": 180,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "1 de Beste Grillworst",
@@ -389,7 +389,7 @@
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "1 de Beste Achterham flinterdun",
@@ -398,7 +398,7 @@
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Wahid kipfilet",
@@ -407,7 +407,7 @@
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Vruchtensoezen",
@@ -416,7 +416,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Crumbel mini koek",
@@ -425,7 +425,7 @@
       "inhoud_waarde": 240,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Danerolles croissants",
@@ -434,7 +434,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
       "productnaam": "Kadir's halal frikandelbroodje",
@@ -443,7 +443,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
       "productnaam": "Italiaanse bol",
@@ -452,7 +452,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
       "productnaam": "Vloerbrood volkoren",
@@ -461,7 +461,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
       "productnaam": "Wasa crunchy cheddar bites",
@@ -470,7 +470,7 @@
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Calvé pindakaas",
@@ -479,7 +479,7 @@
       "inhoud_waarde": 650,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "LU Prince",
@@ -488,7 +488,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Sultana",
@@ -497,7 +497,7 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Overig"
+      "categorie": null
     },
     {
       "productnaam": "Bits & Bites Buitenlandse kaas",
@@ -506,7 +506,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Heks’nkaas origineel",
@@ -515,7 +515,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Uniekaas kaasplakken 48+",
@@ -524,7 +524,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Becel",
@@ -533,7 +533,7 @@
       "inhoud_waarde": 550,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Danio kwark",
@@ -542,7 +542,7 @@
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Parrano rasp, snippers of mozzarella",
@@ -551,7 +551,7 @@
       "inhoud_waarde": 135,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Campina kwark Griekse stijl",
@@ -560,7 +560,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Danone Danette",
@@ -569,7 +569,7 @@
       "inhoud_waarde": 4,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Beemster Signature kaastapenade",
@@ -578,7 +578,7 @@
       "inhoud_waarde": 140,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Chocomel of Optimel protein",
@@ -587,7 +587,7 @@
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Alpro houdbaar",
@@ -596,7 +596,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Aperol",
@@ -605,7 +605,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Casa Defrà Prosecco",
@@ -614,7 +614,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Healthy People",
@@ -623,7 +623,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Douwe Egberts espresso concentrate",
@@ -632,7 +632,7 @@
       "inhoud_waarde": 485,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "L'OR of Douwe Egberts Excellent koffiebonen",
@@ -641,7 +641,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Nescafé koffiespecialiteiten",
@@ -650,7 +650,7 @@
       "inhoud_waarde": 25,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Coca-Cola, Fanta, Sprite of Fernandes",
@@ -659,7 +659,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Crystal Clear",
@@ -668,7 +668,7 @@
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
       "productnaam": "Dubbeldrank",
@@ -677,7 +677,7 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Sourcy Vitaminwater",
@@ -686,7 +686,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Hoegaarden",
@@ -695,7 +695,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Grolsch beugel",
@@ -704,7 +704,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Hertog Jan 0.0",
@@ -713,7 +713,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Pauwel Tripel Karmeliet 0.0",
@@ -722,7 +722,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Chilano",
@@ -731,7 +731,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Diamond Allure",
@@ -740,7 +740,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Zaanse mayonaise saté",
@@ -749,7 +749,7 @@
       "inhoud_waarde": 190,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Quaker Cruesli",
@@ -758,7 +758,7 @@
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Bravo Tosya risotto rijst",
@@ -767,7 +767,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Hellmann's of Calvé mayonaise",
@@ -776,7 +776,7 @@
       "inhoud_waarde": 430,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Pastasalade",
@@ -785,7 +785,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Bits & Bites Kaasblokjes",
@@ -794,7 +794,7 @@
       "inhoud_waarde": 130,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Mediterraneo ovenbrood",
@@ -803,7 +803,7 @@
       "inhoud_waarde": 215,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
       "productnaam": "Paolo grissini of dips",
@@ -812,7 +812,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 12 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Danerolles croissants",
@@ -821,7 +821,7 @@
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
       "productnaam": "Maza",
@@ -830,7 +830,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Magioni bloemkool pizzabodem",
@@ -839,7 +839,7 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Mealmasters verse maaltijd",
@@ -848,7 +848,7 @@
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Diepvries"
+      "categorie": null
     },
     {
       "productnaam": "Jan volkoren poffertjes",
@@ -857,7 +857,7 @@
       "inhoud_waarde": 30,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Chicken Tonight",
@@ -866,7 +866,7 @@
       "inhoud_waarde": 535,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Bertolli pesto",
@@ -875,7 +875,7 @@
       "inhoud_waarde": 185,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Verspakket van de maand - WK Nacho's",
@@ -884,7 +884,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Ben & Jerry's pints of Magnum",
@@ -893,7 +893,7 @@
       "inhoud_waarde": 465,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Overig"
+      "categorie": null
     },
     {
       "productnaam": "Iglo Ping & Klaar bami babi pangang",
@@ -902,7 +902,7 @@
       "inhoud_waarde": 380,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Kwekkeboom oven & airfryer bitterballen",
@@ -911,7 +911,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Queens visfilets",
@@ -920,7 +920,7 @@
       "inhoud_waarde": 375,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Always discreet",
@@ -929,7 +929,7 @@
       "inhoud_waarde": 28,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Nivea crème",
@@ -938,7 +938,7 @@
       "inhoud_waarde": 150,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Sanex douchegel",
@@ -947,7 +947,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Andrélon shampoo of conditioner",
@@ -956,7 +956,7 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Prodent tandpasta",
@@ -965,7 +965,7 @@
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Dove deodorant",
@@ -974,7 +974,7 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Smuldier vers vlees maaltijd",
@@ -983,7 +983,7 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Tempo tissues of zakdoekjes",
@@ -992,7 +992,7 @@
       "inhoud_waarde": 70,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
       "productnaam": "Airwick Pure & Freshmatic",
@@ -1001,7 +1001,7 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
       "productnaam": "Dettol reiniger",
@@ -1010,7 +1010,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
       "productnaam": "Dreft Max Power handafwas",
@@ -1019,7 +1019,7 @@
       "inhoud_waarde": 450,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
       "productnaam": "Felix kattenvoer",
@@ -1028,7 +1028,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Overig"
+      "categorie": null
     },
     {
       "productnaam": "Robijn wasparfum",
@@ -1037,7 +1037,7 @@
       "inhoud_waarde": 342,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Robijn wasverzachter",
@@ -1046,7 +1046,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Sun vaatwas",
@@ -1055,7 +1055,7 @@
       "inhoud_waarde": 16,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Robijn wasmiddel",
@@ -1064,7 +1064,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Citronella kaars in glas",
@@ -1073,7 +1073,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "12 - 18 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Better Pete biologische chips",
@@ -1082,7 +1082,7 @@
       "inhoud_waarde": 75,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Wilhelmina suikervrije pepermunt",
@@ -1091,7 +1091,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Haribo of Maoam uitdeelzak",
@@ -1100,7 +1100,7 @@
       "inhoud_waarde": 375,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Mentos",
@@ -1109,7 +1109,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Cheetos, Hamka's, Pomtips of Mama Mia's",
@@ -1118,7 +1118,7 @@
       "inhoud_waarde": 130,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     }
   ]
 }

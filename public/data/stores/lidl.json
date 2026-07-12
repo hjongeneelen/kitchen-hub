@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-12T14:40:56.074247+00:00",
+  "updated_at": "2026-07-12T15:38:52.459125+00:00",
   "deals": [
     {
       "productnaam": "DR. OETKER Big Americans",
@@ -38,7 +38,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "HEINEKEN",
@@ -902,7 +902,7 @@
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Krieltjes naturel",
@@ -957,150 +957,6 @@
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
       "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Rainbow donuts",
-      "korting_tekst": null,
-      "actieprijs": 2.59,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Cruffin",
-      "korting_tekst": null,
-      "actieprijs": 0.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Pastel de Nata",
-      "korting_tekst": null,
-      "actieprijs": 0.55,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Extra mager rundergehakt",
-      "korting_tekst": null,
-      "actieprijs": 7.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Procureur gekruid",
-      "korting_tekst": null,
-      "actieprijs": 7.99,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Zigeunergehaktschnitzels",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Knakworsten XXL",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 480,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Zalmspiesen gemarineerd",
-      "korting_tekst": null,
-      "actieprijs": 4.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Protein yoghurt",
-      "korting_tekst": null,
-      "actieprijs": 0.69,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "Kipfilet naturel",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "OPTIMEL Yoghurt",
-      "korting_tekst": null,
-      "actieprijs": 1.19,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "ALMHOF Fruityoghurt",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "DE RUIJTER Kleintjes",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "PENOTTI Speculoos",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Snacks & Snoep"
-    },
-    {
-      "productnaam": "WASA Crackers",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 260,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Nasi, bami, kipsaté of babi pangang",
-      "korting_tekst": null,
-      "actieprijs": 3.39,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Kruidenierswaren"
     },
     {
       "productnaam": "Vakantiekaas jong belegen stuk",
@@ -1226,7 +1082,7 @@
       "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "WIJKO Satésaus kant & klaar",
@@ -1235,7 +1091,7 @@
       "inhoud_waarde": 520,
       "inhoud_unit": "gram",
       "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Pinot Grigio Rosé Della Venezie",
@@ -1658,7 +1514,7 @@
       "inhoud_waarde": 425,
       "inhoud_unit": "ml",
       "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Haver barista",
@@ -1676,7 +1532,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
       "productnaam": "Hortensia premium",
@@ -1685,7 +1541,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Oleander",
@@ -1694,7 +1550,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Chrysant",
@@ -1703,7 +1559,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Zonnebloemen",
@@ -1712,79 +1568,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Speklapjes",
-      "korting_tekst": null,
-      "actieprijs": 6.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipdijfilet",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Braadworsten",
-      "korting_tekst": null,
-      "actieprijs": 4.19,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Spekburger",
-      "korting_tekst": null,
-      "actieprijs": 2.02,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "HAK Potgroenten",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 370,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Friet",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Chicken Tonight",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 535,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Stuk Goudse 48+ kaas",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 13/07 - 19/07",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Buitenschaal keramiek",
@@ -1802,7 +1586,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "DOUWE EGBERTS Koffiebonen",
@@ -1811,7 +1595,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "PRÉSIDENT le brie",
@@ -1829,7 +1613,7 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "SPA Reine of Intens",
@@ -1847,7 +1631,7 @@
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
       "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Kipdrumsticks",

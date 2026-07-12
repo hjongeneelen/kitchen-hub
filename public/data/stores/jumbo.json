@@ -2,25 +2,142 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-12T11:59:31.153024+00:00",
+  "updated_at": "2026-07-12T15:46:14.934816+00:00",
   "deals": [
     {
-      "productnaam": "Alle Jumbo groene salades",
+      "productnaam": "Jumbo Groene Boeren Salade 295 g",
       "korting_tekst": "2 voor 6,00",
-      "actieprijs": 6.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 295,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
-      "productnaam": "Alle snackgroente",
-      "korting_tekst": "2 voor 4,00",
-      "actieprijs": 4.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "productnaam": "Jumbo Groene Salade Coleslaw 350 g",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 3.69,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Salade Witlof 335 g",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 335,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Groene Salade Kimchi 265 g",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 265,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Groene Salade Italiaanse Stijl 250 g",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Groene Salade Rauwkost 275 g",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 3.29,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Groene Salade Tomaat & Komkommer 340 g",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Groene Caesar Salade 285 g",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 285,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Groene Salade Griekse Stijl 255 g",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 255,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Groene Salade Hollandse Stijl 275 g",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Snackgroente Komkommertjes 400 g",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 3.39,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Snackgroente Tomaatjes 500 g",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Snackgroente Tomaatjes Mix 400 g",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Snackgroente Pitloze Paprikaatjes 300 g",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Snackgroente Paprikaatjes Mix 300 g",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Nederlandse kersen",
@@ -29,7 +146,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Nederlandse aardbeien",
@@ -38,7 +155,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Nectarines of wilde perziken",
@@ -47,7 +164,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Jonagold appels",
@@ -56,7 +173,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Spitskool",
@@ -65,7 +182,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Frambozen",
@@ -74,7 +191,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Avocado",
@@ -83,7 +200,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Rode of blauwe pitloze druiven",
@@ -92,7 +209,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Zoete punt paprika mix",
@@ -101,7 +218,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Bloemkool",
@@ -110,7 +227,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Jumbo verse friet",
@@ -119,25 +236,106 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Diepvries"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Jumbo fruitmixen met dressing",
+      "productnaam": "Jumbo Meloen Trio Muntdressing 400 g",
       "korting_tekst": "25% korting",
       "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
-      "productnaam": "Alle meloenen",
+      "productnaam": "Jumbo Fruitmix Frambozendressing 400 g",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Fruitmix Hot Honeydressing 400 g",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Watermeloen",
       "korting_tekst": "25% korting",
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 20 mei t/m di 4 aug",
-      "categorie": "Groente & Fruit"
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Biologisch Mini Watermeloen 1 Stuk",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 20 mei t/m di 4 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Galia Meloen",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 20 mei t/m di 4 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Mini Watermeloen 1 Stuk",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 20 mei t/m di 4 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Cantaloupe Meloen 1 Stuks",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 20 mei t/m di 4 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Gele Honing Meloen",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 20 mei t/m di 4 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Meloen Piel de Sap",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 20 mei t/m di 4 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Watermeloen Vers 1 Stuk",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 20 mei t/m di 4 aug",
+      "categorie": null
     },
     {
       "productnaam": "Verspakket kapsalon, Griekse gehaktschotel of kip Hawaï",
@@ -146,7 +344,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "Jumbo ovenschotels",
@@ -155,7 +353,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Overig"
+      "categorie": null
     },
     {
       "productnaam": "Jumbo airfryer & oven maaltijden",
@@ -164,7 +362,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Overig"
+      "categorie": null
     },
     {
       "productnaam": "Rundergehakt of rundergehakt bio",
@@ -173,7 +371,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
       "productnaam": "BBQ",
@@ -182,7 +380,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "ma 23 mrt t/m di 4 aug",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Jumbo Zeeuwse bodemmosselen super",
@@ -191,16 +389,169 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
-      "productnaam": "Alle De Vegetarische Slager vleesvervangers of Oma's vleesvervangers",
+      "productnaam": "Oma's Tikka Masala Vega 350gr",
       "korting_tekst": "2+1 gratis",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 6.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
+    },
+    {
+      "productnaam": "Oma's Bolognesaus Vega 350gr",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Lecker Burgerlijk Vegan 160 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.15,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Kipstuckjes Vegan 160 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.39,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Cordon Blij Vegan 180 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Little Willies Vegan 160 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.39,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oma's Gehaktballetjes Tomatensaus Vega 350gr",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Speckjes Vegan 125 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Pluimfeestburger Veganistisch 180 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Griljante Burger 200 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.59,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Rul Gehackt Vegan 200 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Auf Wieder Schnitzel Vegan 180 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.89,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Kip Krockant Vegan 200 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Let it Beef Vegan 160 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Kipleckere Tenders 180 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.19,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Braadwurst Vegan 160 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Vegetarische Slager Kiptevree Filet Vegan 180 g",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oma's Korean Beef Vega 350gr",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Jumbo dorade of zeebaars",
@@ -209,16 +560,25 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Vlees & Vis"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Jumbo lange cakes",
+      "productnaam": "Jumbo Lange Cake Lemoncurd",
       "korting_tekst": "25% korting",
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Lange Appelcake",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Almhof yoghurt",
@@ -227,7 +587,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Optimel drinkyoghurt",
@@ -236,7 +596,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Melkunie Protein",
@@ -245,7 +605,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Diepvries"
+      "categorie": null
     },
     {
       "productnaam": "Danio kwark",
@@ -254,16 +614,61 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Douwe Egberts ijskoffie",
+      "productnaam": "Douwe Egberts Ice Mocha Latte Break 250 ml",
       "korting_tekst": "voor 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": null,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
+    },
+    {
+      "productnaam": "Douwe Egberts Ice Macchiato IJskoffie 230 ml",
+      "korting_tekst": "voor 0,99",
+      "actieprijs": null,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Douwe Egberts Ice Caramel Latte IJskoffie 230 ml",
+      "korting_tekst": "voor 0,99",
+      "actieprijs": null,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Douwe Egberts Ice Cappuccino Ijskoffie 230 ml",
+      "korting_tekst": "voor 0,99",
+      "actieprijs": null,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Douwe Egberts Ijskoffie Ice Cappuccino 250 ml",
+      "korting_tekst": "voor 0,99",
+      "actieprijs": null,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "D.E Ice Decaf Latte 230 ml",
+      "korting_tekst": "voor 0,99",
+      "actieprijs": null,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Croma",
@@ -272,7 +677,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Campina Lang Lekker",
@@ -281,7 +686,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
     },
     {
       "productnaam": "Chocomel, Fristi, Friesche Vlag en Campina Slagroom",
@@ -290,7 +695,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Campina, Optimel en Vifit",
@@ -299,7 +704,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Johma salades",
@@ -308,7 +713,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Milner plakken",
@@ -317,7 +722,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
       "productnaam": "Brood en toast salades",
@@ -326,16 +731,79 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 27 mei t/m di 4 aug",
-      "categorie": "Brood & Bakkerij"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Wapenaer 48+ kaasstukken",
+      "productnaam": "Wapenaer Goudse Kaas Overjarig 48+ Stuk ca. 372 g",
       "korting_tekst": "50% korting",
       "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "inhoud_waarde": 372,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Zuivel & Eieren"
+      "categorie": null
+    },
+    {
+      "productnaam": "Wapenaer Goudse Kaas Oud 48+ Stuk ca. 386 g",
+      "korting_tekst": "50% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 386,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wapenaer Goudse Kaas Belegen 48+ Stuk ca. 402 g",
+      "korting_tekst": "50% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 402,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wapenaer Goudse Kaas met Komijn Belegen 48+ Stuk ca. 325 g",
+      "korting_tekst": "50% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 325,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wapenaer Goudse Kaas Jong Belegen 48+ Stuk ca. 423 g",
+      "korting_tekst": "50% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 423,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wapenaer Goudse Kaas Jong 48+ Stuk ca. 434 g",
+      "korting_tekst": "50% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 434,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wapenaer Goudse Kaas Jong met Komijn 48+ Stuk ca. 366 g",
+      "korting_tekst": "50% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 366,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wapenaer Goudse Kaas 48+ Extra Belegen Stuk ca. 393 g",
+      "korting_tekst": "50% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 393,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Heinz of Wijko sauzen",
@@ -344,25 +812,961 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Jumbo's BBQ sauzen",
+      "productnaam": "Jumbo's BBQ Sauce Alabama White Style 400ML",
       "korting_tekst": "voor 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": null,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
-      "productnaam": "Alle HAK groenteconserven",
-      "korting_tekst": "1+1 gratis",
+      "productnaam": "Jumbo's BBQ Sauce Chipotle Lime 400ML",
+      "korting_tekst": "voor 1,99",
       "actieprijs": null,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's BBQ Sauce Texas Style 400ML",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": null,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's BBQ Sauce Korean Style 400ML",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": null,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Linzen 380 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kapucijners 365 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.09,
+      "inhoud_waarde": 365,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Doperwtjes met Worteltjes 195 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 195,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool 0% met Stukjes Appel 350 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kikkererwten & Lupine Mix 225 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Worteltjes 350 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool met Stukjes Appel 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.35,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Easy Eats! Pasta Con Spinaci",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.79,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Doperwtjes met Worteltjes 350 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Worteltjes 190 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bonenschotel voor Chili sin Carne 360 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Easy Eats! Tex Mex Chili 400g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelcompote 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Linzen 190 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelcompote 0% 350g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kikkererwten 380 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kikkererwten 190 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.09,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Zwarte Bonen 380g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Witte Bonen in Tomatensaus 360 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Hollandse Bruine Bonen 500 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Easy Eats! Pasta Pomodoro 400g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Easy Eats! Fiber Chili Picante",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Witte Bonen in Tomatensaus 185 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 185,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pink Lady Appelmoes 350 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Chili Sin Carne Schotel 550 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.19,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Mais Mix 390gr",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 390,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Sperziebonen Bio 675 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 675,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Shakshuka met Paprika, Tomaat & Witte Bonen 550 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.19,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bonenmix 190 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.09,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes 0% 700 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.39,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Gebroken Sperziebonen Bio 340 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool 700 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Mais 390 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 390,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Wijnzuurkool Bio 340 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Mais 190 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bruine Bonen 720 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.09,
+      "inhoud_waarde": 720,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Easy Eats! Rode Curry 400 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rabarbercompote 360 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.35,
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bonen Bruine 210g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 210,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Witte Bonen 720 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.39,
+      "inhoud_waarde": 720,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool met Stukjes Appel 180 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.09,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Bieten Sticks Bio 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kidneybonen 190 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.09,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Indiaas Gekruid Linzen Curryschotel 550g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.19,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Prinsessenbonen 680 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 680,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Gedroogde Spliterwten 500 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Mexicaans Gekruid Tortilla Schotel 550 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.19,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bonenschotel Mexicaans 700 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.19,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Mexicanez Nacho's 550 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.29,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Easy Eats! Pasta Paprika Mascarpone",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Witte Bonen in Tomatensaus 720 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.29,
+      "inhoud_waarde": 720,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Veldertjes Jonge Kapucijners 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Doperwtjes 680 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 680,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Gesneden Bonen Bio 670 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 670,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes met Kaneel 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.39,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bruine Bonen 370 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 370,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Spinazie met Room Bio 345 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 345,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Easy Eats! Teriyaki Noodles 400g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Witte Bonen 365 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 365,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Mexicanez Wraps 550 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.29,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bruine Bonen 380 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Boerenkool 340 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool met Stukjes Peer 700 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Uit de Oven Gevulde Paprika 550 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.19,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bonen Mix 380 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Boerenkool 680 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.39,
+      "inhoud_waarde": 680,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes Extra Kwaliteit 700 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Linzen 205 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 205,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Edamame Bonen 150 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.39,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Mexicanez Taco's 550 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.29,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Gesneden Bonen met Witte Bonen 685 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.59,
+      "inhoud_waarde": 685,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Mexicaans gekruid kidneybonen chili schotel 550g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.19,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Bieten Schijven Bio 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Spinazie 630 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 630,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool met Stukjes Appel 700 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes 197 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 197,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Worteltjes 680 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 680,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kidney Bonen 380 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.35,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Bieten Schijven Bio 180 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bonenschotel Mexicaans 360 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Veldertjes Jonge Kapucijners 685 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 685,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Canellini Bonen 380g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Tuinboontjes 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Zwarte Bonen 225g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Chilibonen 380g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Spruitjes 680 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.75,
+      "inhoud_waarde": 680,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Prinsessenbonen 340 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.59,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes 0% 350g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kidneybonen 225 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool met Stukjes Peer 355 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kapucijners 715 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.15,
+      "inhoud_waarde": 715,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Doperwtjes met Worteltjes 680 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 680,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Bonenschotel voor Chili sin Carne 700 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.19,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK mild Mexicaans gekruid Burrito schotel met kidneybonen, wortel & doperwten 550g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.19,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Sperziebonen Bio 185 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 185,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Doperwtjes 350 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Spinazie 330 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Doperwtjes 195 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 195,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kikkererwten 225g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Gesneden Bonen Bio 340 g",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.39,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Unox of Conimex soep in zak",
@@ -371,7 +1775,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Jumbo's smaakmayonaise",
@@ -380,7 +1784,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Jumbo's satésaus",
@@ -389,25 +1793,313 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Rummo pasta",
+      "productnaam": "Rummo Lenta Lavorazione Semi di Orzo N° 27 500 g",
       "korting_tekst": "2e halve prijs",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Jumbo's So Simple smaakpakketten",
+      "productnaam": "Rummo Tagliatelle All'Uovo 250g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Penne Rigate 66 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Radiatori 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Maxima 21 Fusilli Nº48 400 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Maxima 21 Spaghetti N⁰3 400 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Fusilli 48 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Potato Gnocchi 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Maxima 21 Penne Rigate №66 400 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Conchiglioni Rigati 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 3.59,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Lenta Lavoragione Lumachine Nº 39 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Mezzi Rigatoni 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Lenta Lavoragione Cannelloni All'uovo N° 176 250 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 3.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Riccioli № 54 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Farfalle 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Penne Rigate Glutenvrij 400 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Lenta Lavorazione Casarecce N° 88 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Fusilli № 48 300 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Pappardelle all'Uovo 250 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 3.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Bio Volkoren Fusilli N° 48 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Volkoren Biologische Penne Rigate N°66 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Orecchiette 87 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Lasagne All'Uovo N° 173 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 3.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Gnocchetti di Patate 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Spaghetti Glutenvrij 400 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Linguine 13 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Spaghetti 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Bio Volkoren Spaghetti ? 3 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Lenta Lavoragione Mafaldotte N° 159 500 g",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's South American Cajun Jambalaya 43 g",
       "korting_tekst": "25% korting",
       "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "inhoud_waarde": 43,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's Indiase Butter Chicken 165 g",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's Jamaican Jerk Chicken 46 g",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 46,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's Thaise Rode Curry 122 g",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 122,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's Japanse Teriyaki Chicken 115 g",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 115,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Kellogg's",
@@ -416,7 +2108,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Chio",
@@ -425,16 +2117,70 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Overig"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Pringles",
+      "productnaam": "Pringles Team Buffalo Chicken Wings Flavour Limited Edition 165 g",
       "korting_tekst": "2 voor 3,50",
-      "actieprijs": 3.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 2.69,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
+    },
+    {
+      "productnaam": "Pringles Original 165 g",
+      "korting_tekst": "2 voor 3,50",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pringles Texas Barbecuesaus 165 g",
+      "korting_tekst": "2 voor 3,50",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pringles Team Cheese Burger Flavour Limited Edition 165 g",
+      "korting_tekst": "2 voor 3,50",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pringles Paprika 165 g",
+      "korting_tekst": "2 voor 3,50",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pringles Zure Room & Uien 165 g",
+      "korting_tekst": "2 voor 3,50",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pringles Pittig Gekruid 165 g",
+      "korting_tekst": "2 voor 3,50",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Look-O-Look",
@@ -443,7 +2189,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
       "productnaam": "Walnoten",
@@ -452,7 +2198,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Diepvries"
+      "categorie": null
     },
     {
       "productnaam": "Jumbo's Dolce Gusto",
@@ -461,16 +2207,70 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
-      "productnaam": "Alle La Place koffiebonen",
+      "productnaam": "La Place Koffiebonen Lungo Dark 1KG",
       "korting_tekst": "2e halve prijs",
-      "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 18.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
+    },
+    {
+      "productnaam": "La Place Koffiebonen Lungo Originale 1KG",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 18.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "La Place Koffiebonen Dolce 1 kg",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 18.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "La Place Koffiebonen Ristretto 1 kg",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 18.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "La Place Koffiebonen Lungo Intenso 1 KG",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 18.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "La Place Koffiebonen Cappuccino 1 kg",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 18.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "La Place Koffiebonen Espresso 1 kg",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": 18.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Karvan Cévitam",
@@ -479,7 +2279,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Powerade Mountain Blast",
@@ -488,7 +2288,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Fuze Tea",
@@ -497,7 +2297,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Appelsientje of Van de Boom",
@@ -506,7 +2306,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Lipton",
@@ -515,7 +2315,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 20 mei t/m di 4 aug",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Spa Intense, Finesse, Fruit en Touch",
@@ -524,7 +2324,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Coca-Cola",
@@ -533,7 +2333,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 7 jan t/m di 29 dec",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Coca-Cola",
@@ -542,7 +2342,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 7 jan t/m di 29 dec",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Montaignan",
@@ -551,7 +2351,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Alpaca",
@@ -560,7 +2360,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Doppio Passo",
@@ -569,7 +2369,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Heineken 0.0",
@@ -578,7 +2378,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 21 jan t/m di 4 aug",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Amstel",
@@ -587,7 +2387,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 21 jan t/m di 4 aug",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Heineken",
@@ -596,7 +2396,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "do 1 jan t/m di 4 aug",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Hertog Jan",
@@ -605,7 +2405,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "do 1 jan t/m di 4 aug",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Tray Grolsch pils blik",
@@ -614,7 +2414,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 10 jun t/m di 4 aug",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Desperados, Amstel Radler, Amstel Rosé of Apple Bandit",
@@ -623,7 +2423,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Leffe of Hoegaarden",
@@ -632,7 +2432,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Corona of Liefmans",
@@ -641,7 +2441,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Heineken",
@@ -650,25 +2450,367 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
-      "productnaam": "Alle biologische wijnen",
+      "productnaam": "Buontalenti - Chianti Riserva - Biologisch - 750ML",
       "korting_tekst": "25% korting",
       "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Aperol of Crodino",
+      "productnaam": "EL BIO - Verdejo - Sauvignon Blanc - Biologisch - 750ML",
       "korting_tekst": "25% korting",
       "actieprijs": null,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
+    },
+    {
+      "productnaam": "Neleman - Tempranillo Especial - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neleman - Chardonnay Especial - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neleman - Tempranillo - Biologisch 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sonrisa - Verdejo - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Terre di Faiano - Primitivo - Biologisch 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Stift Altenburg - Grüner Veltliner - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gustavshof - Spatburgunder - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo - Cabernet Sauvignon - Biologisch - 750 ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vida Barcelona - Cava Brut - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo - Pinot Grigio - Biologisch - 750 ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Buontalenti - Vermentino Ansonica - Biologisch - 750 ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "El Bio - Tempranillo - Cabernet Sauvignon - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bellacini - Prosecco - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bayridge - Chardonnay - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Terre di Faiano - Nero d'Avola - Biologisch 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neleman - Verdejo - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Domaine François Schwach - Gewurztraminer - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neleman - Macabeo - Chardonnay - Biologisch 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sonrisa - Bobal Tempranillo - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Corvezzo - Prosecco - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sonrisa - Bobal Rosado - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neleman - Macabeo - Orange Wine 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo - Pinot Grigio Rosé - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neleman -Tempranillo Rosé - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Terre di Faiano - Rosato Puglia - 750 ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neleman - Cava - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tussock Jumper - Tempranillo - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Neleman - Garnacha - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vida - Biologisch Cava Brut Rosé - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Domaine François Schwach - Pinot Gris – Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Buontalenti - Chianti Superiore - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bayridge - Merlot - Biologisch - 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Belhara Estate Malbec Biologisch 750ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo - Merlot - Biologisch - 750 ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aperol - Aperitief - 700ML",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Crodino Biondo 6 x 175ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aperol Spritz Ready to Drink 3 x 200ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Crodino Rosso 6 x 175ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Hertog Jan Weizener",
@@ -677,7 +2819,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Snacks & Snoep"
+      "categorie": null
     },
     {
       "productnaam": "Feu Rosé",
@@ -686,7 +2828,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Alegrete Vinho Verde",
@@ -695,7 +2837,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Finca las Moras Chardonnay",
@@ -704,52 +2846,1177 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Aviko Supercrunch of Friet van `t huis",
+      "productnaam": "Aviko Vlaamse Friet",
       "korting_tekst": "2 voor 4,00",
-      "actieprijs": 4.0,
+      "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Diepvries"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Ola, Cornetto of Magnum handijs",
+      "productnaam": "Aviko Oma's Smulfriet",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aviko Hollandse Friet Supercrunch Original",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aviko Kreukel Friet Supercrunch Original",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aviko Pommes Frites Supercrunch Airfryer",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aviko Dunne Friet Supercrunch Airfryer",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aviko Franse friet Supercrunch Original",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aviko Oven Friet Pommes Frites Supercrunch",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 2.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum Mini IJs White Chocolate & White Almond 6 stuks 6 x 55ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Cornetto IJs Aardbei 6 x 90 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum IJs Vegan Blueberry Cookie 3 x 90 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum Mini IJs Utopia Double Hazelnut 6 x 55 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Twister Monstaah 4x70 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 70,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum IJs Classic 6 stuks 6 x 100ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum Mini IJs Double Caramel 6 stuks 6 x 55ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola IJsjes Kids Mix 8 stuks 398 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 398,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum Mini IJs Double Caramel & Almond Billionaire 6 stuks 6 x 55ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum IJs Double Gold Caramel Billionaire 4 stuks 4 x 85ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola IJs Festini Peer 12 stuks 12 x 50ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum Mini IJs Almond 6 x 55 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Solero Strawberry Twist 3x90 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Cornetto Ijshoorntje Mini Classico 6 x 60 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola IJs Minecraft 4 x 75 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Solero Bonbon Exotic 12 Stuks",
       "korting_tekst": "25% korting",
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Diepvries"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Gillette",
-      "korting_tekst": "1+1 gratis",
+      "productnaam": "Ola IJs Raket 12 stuks 12 x 55ml",
+      "korting_tekst": "25% korting",
       "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum La Pistache Mini 6x55 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum Signature IJs La Pêche 3 x 90 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola IJs Cornetto Vegan 4 stuks 4 x 90ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum IJs Almond 6 stuks 6 x 100ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum IJs Utopia Double Hazelnut 3 x 85 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Solero IJs Mini Exotic & Berry Bliss 6 x 50 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola IJs Solero Exotic 3 stuks 3 x 90ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Cornetto Ijshoorntje Max Hazelnoot & Chocolade 4 x 90 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum Mini Ijslolly Classic 3 x 55 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola IJs Dracula 6 x 54 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 54,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum Mini IJs Classic 6 Stuks 6 x 55ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum IJs White Chocolate 6 x 100 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Cornetto Max Pistachio 4x90 ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Mach3 Base 5 Navulmesjes Voor Mannen",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 20.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Andrélon",
+      "productnaam": "Gillette Venus Smooth Sensitive Voor Vrouwen, 4 Navulmesjes",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 16.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Parodontax of Aquafresh",
+      "productnaam": "Gillette Venus Smooth Sensitive Voor Vrouwen 1 Handvat + 2 Navulmesjes",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 14.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
+    },
+    {
+      "productnaam": "GilletteLabs Met Exfoliërende Strip Scheermes voor Mannen",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 29.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Fusion Scheergel Sensitive, 200ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.59,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Fusion5 8 Navulmesjes voor Mannen",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 44.95,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Mach3 Base 1 Handvat + 3 Navulmesjes Voor Mannen",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 17.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Mach3 Base 8 Navulmesjes Voor Mannen",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 29.95,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Sensor3 Comfort, Wegwerpscheermes",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Fusion5 4 Navulmesjes voor Mannen",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 24.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Fusion5 Scheermes voor Mannen, 1 Handvat, 2 Navulmesjes",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 18.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Venus Smooth Sensitive Voor Vrouwen, 8 Navulmesjes",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 29.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Classic Sensitive Scheergel, 200ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.55,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Venus Comfort Smooth Scheermessen, Pak Van 6",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Mach3 Scheerapparaat Voor Mannen",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 17.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Series Verzachtende Scheergel, 200ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.29,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Satin Care scheergel voor vrouwen met Aloë Vera, 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.19,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Wegwerpmesjes x12",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Pro Nature Shampoo Bamboo Volume Boost 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 8.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon 1 Minuut WOW Haarmasker Oil & Care 180 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.39,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Conditioner Intense Repair 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.55,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Leave-in Haarcrème Oil & Care 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.19,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Men Shampoo Marine Fresh 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.39,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Pro Nature Shampoo Rosemary Refresh 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 8.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Pro Nature Shampoo Coco Curl Creation 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Droogshampoo Fris & Zuiver 245 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.19,
+      "inhoud_waarde": 245,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Perfecte Krul 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.55,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Intense Repair 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.89,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Pro Nature Haarconditioner Bamboo Volume Boost 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Conditioner Extra Glans 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.65,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Extra Glans 685 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 14.45,
+      "inhoud_waarde": 685,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Pro Nature Haarconditioner Coco Curl Creation 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Styling Mousse Fantastische Fixatie 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.39,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Mousse Verrassend Volume 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.39,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo en Conditioner 2-in-1 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.39,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Perfecte Krul 685 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.69,
+      "inhoud_waarde": 685,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Conditioner Levendig Lang 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Versterkende Leave-in Haarcrème Levendig Lang 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.59,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Oil & Care 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.89,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Levendig Lang 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.89,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Conditioner Levendige Kleur 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Iedere Dag 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.45,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Men Shampoo Anti-Roos 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.39,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Special Droogshampoo Kokos Boost 245 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.69,
+      "inhoud_waarde": 245,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Conditioner Perfecte Krul 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.55,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Levendige Kleur 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.89,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Kokos Volume Boost 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.45,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Anti-Roos 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon 1 Minuut WOW Haarmasker Levendig Lang 180 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.39,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Special Droogshampoo Verrassend Volume 245 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 8.19,
+      "inhoud_waarde": 245,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Stralend Blond 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.89,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Langer Fris 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.39,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Men Shampoo en Showergel Hair & Body 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.45,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Conditioner Zilver Care 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.49,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Conditioner Kokos Volume Boost 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Lichtgewicht Leave-in Haarcrème Perfecte Krul 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.59,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Conditioner Stralend Blond 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Pro Nature Leave-In Crème Coco Curl Creation 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Extra Glans 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.55,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Pro Nature Shea Strong Repair Shampoo 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo & Conditioner 2 in 1 300 ml x 6",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 38.94,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Pro Nature Shea Strong Repair Conditioner 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.89,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Zilver Care 250 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon 1 Minuut WOW Haarmasker Perfecte Krul 180 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Shampoo Oil & Care 685 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.69,
+      "inhoud_waarde": 685,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Conditioner Oil & Care 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Andrélon Pro Nature Leave-In Crème Shea Strong Repair 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh All in One Protection Antibacterial Action Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Clean Control Medium dagelijkse Tandenborstel 1 stuk, in 100% plasticvrije verpakking",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Whitening Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.55,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Tandsteen Control 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh White Renew Long Lasting 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Daily Care Mondwater Extra Fresh voor gezond tandvlees 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Complete Protection Extra Fresh Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.29,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh White Renew Deep Clean Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh White & Shine Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Active Repair Tandvlees Freshmint 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.29,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Original Daily Care Tandpasta Duo Pack 2 x 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.45,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Fresh & Mint / Aquafresh Fresh & Minty Tandpasta 125ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Clean Control Soft dagelijkse Tandenborstel 1 stuk, 100% plasticvrije verpakking",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Fresh & Minty 3-In-1 Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.39,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Clean & Flex Hard dagelijkse Tandenborstel 2+1 gratis, in 100% plasticvrije verpakking",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Clean&Flex Medium dagelijkse Tandenborstel 2+1 gratis, in 100% plasticvrije verpakking",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Fluoridevrij Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Fluoride Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.55,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Active Repair Whitening Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.49,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Complete Care Crystal White 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Whitening Daily Care Tandpasta Duo Pack 2 x 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Ultra Clean Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Coolmint Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Flex Interdental Medium dagelijkse Tandenborstel 2+1 gratis in 100% plasticvrije verpakking",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Complete Protection Whitening Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.29,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Nivea",
@@ -758,61 +4025,1438 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Syoss of Schauma",
+      "productnaam": "Syoss Shampoo Anti-Roos 440 ML",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 7.49,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Max Hold Haarspray 300 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Haarspray Volume 300 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Schauma Shampoo Elke Dag 400 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gliss Conditioner Total Repair 200 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gliss Shampoo Liquid Silk 250 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Deep Conditioner Oleo 250 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Schauma Shampoo Anti Roos 400 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Shampoo Men Power 440 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.49,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Deep Conditioner Repair 250 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gliss Anti-Klitspray Total Repair 200 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Shampoo Volume 440 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.49,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gliss Conditioner Liquid Silk 200 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Shampoo Oleo 440 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.49,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Max Hold Wax 150 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 8.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gliss Shampoo Total Repair 250 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Schauma Shampoo 7 Kruiden 400 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gliss Anti-Klitspray Liquid Silk 200 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Deep Conditioner Keratin 250 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Matt Styling Cream 100 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Shampoo Keratin 440 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.49,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Power Hold Paste150 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 8.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Texture Clay 100 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Power Hold Haargel 250 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 8.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Syoss Shampoo Repair 440 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.49,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Listerine Mondspoeling Advanced White 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Listerine Professional Mondspoeling Frisse Adem+ 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Listerine Mondspoeling Cool Mint 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Listerine Mondspoeling Cool Mint op Basis van Essentiële Oliën 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Listerine Mondspoeling Total Care op Basis van Essentiële Oliën + Fluoride 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Listerine Professional Mondspoeling Tandvleesbescherming+ 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Listerine Total Care Tandbescherming Mondspoeling 6 in 1 Effect 500ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Listerine Mondspoeling Cool Mint 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Listerine Mondspoeling Total Care Extra Mild Mint 500 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Actifit 65+ tabletten, 70 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 27.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Listerine",
+      "productnaam": "Davitamon Vitamine D smelttabletten voor kinderen, 150 stuks",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 19.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Davitamon",
+      "productnaam": "Davitamon Junior 3-12 jaar aardbei (voedingssupplement gummies), 60 stuks",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 23.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Tena, O.B. of Yoni",
+      "productnaam": "Davitamon Voedingssupplement Vitamine D 50+ 250 Tabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 12.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Voedingssupplement Vitamine D Druppels 25ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Magnesium tabletten voor spieren en botten, 42 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 16.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon B-Complex forte dragees, 100 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 13.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Voedingssupplement Compleet Weerstand Forte dragees 150 Tabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 23.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Voedingssupplement Junior Multifruit Kauwtabletten 120 Stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 23.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Voedingssupplement Fit Mama 60 Stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 20.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Magnesium voor de nacht tabletten, 30 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Energie Boost bruistabletten, 20 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 12.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Compleet weerstand kauwvitamines aardbei, 60 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Magnesium Citraat Tabletten 60 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 14.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Magnesium Citraat 60 tabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 14.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Foliumzuur met Vitamine D3 smelttabletten, 84 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 14.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Junior 3-12 kauwvitamines framboos, 60 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 14.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Voedingssupplement Calsium + Vit D Mint 60 Tabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 13.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Energie Boost Forte kauwvitamines, 40 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine D Smelttabletjes 50 Stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine D smelttabletten 50+, 130 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 18.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Multivitamines voor Vrouwen 60 Tabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 20.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Compleet mama plus omega-3 visolie capsules, 60 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 25.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon D Forte 75 Smelttabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 11.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Junior Banaan 120 Kauwtabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 23.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Elke Dag bruistabletten, 15 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Boost Tiener 12+ kauwvitamines aardbei, 60 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine D smelttabletten voor volwassenen, 150 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Junior 3-12 kauwvitamines framboos, 120 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 23.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon D aquosum 25ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Compleet weerstand forte kauwvitamines bosvruchten, 50 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Elke Dag tabletten, 90 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 25.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Compleet weerstand dragees, 100 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 12.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Compleet Omega-3 visolie capsules, 70 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 28.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Compleet mama tabletten, 60 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 20.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon IJzer met Vitamine C en B12 33 Tabletten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 11.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Compleet weerstand kauwvitamines bosvruchten, 60 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine C Forte bruistabletten, 15 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Actifit 65+ Omega-3 visolie capsules, 80 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 34.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Voedingssupplement Nachtrust 3-in-1 20 caps",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 14.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Actifit 50+ Omega-3 visolie capsules, 90 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 34.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Lady Discreet Normal Verbanden Duo Pack 2 x 12 Stuks",
       "korting_tekst": "2+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 8.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Oral-B",
-      "korting_tekst": "2+3 gratis",
-      "actieprijs": null,
+      "productnaam": "O.B. Original Dynamic Fit Ultra Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.09,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Head & Shoulders",
-      "korting_tekst": "2+3 gratis",
-      "actieprijs": null,
+      "productnaam": "o.b. ProComfort 4-in-1 Protection Super Plus Tampons 32 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 6.29,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Verzorging & Drogisterij"
+      "categorie": null
+    },
+    {
+      "productnaam": "O.B. Original 2-in-1 Bescherming Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 2.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Discreet Extra Verbanden+ 10 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "TENA Men Protective Shield 14 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 5.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "O.B. Organic Super Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "TENA Silhouette Noir Inlegkruisjes 26 stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ProComfort 4-in-1 Protection Super Plus Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ExtraProtect 5-in-1 Protection Super Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ExtraProtect 5-in-1 Protection Super Tampons 42 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 9.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Discreet Ultra Mini Inlegkruisjes 28 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "TENA Discreet Extra Plus Verbanden 8 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Discreet Normal Verbanden 12 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "TENA Silhouette Noir Mini Verbanden 18 stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ExtraProtect 5-in-1 Protection Super Plus Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "TENA Discreet Maxi Verbanden 6 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Discreet Normal Night Nachtverbanden 10 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Men Active Fit 12 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 5.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "O.B. Organic Normal Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Discreet Ultra Mini Plus 24 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Yoni Sensitive Bladder Care Normal Verband voor Urineverlies 12 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Yoni Maandverband Night with Wings 7 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ProComfort 4-in-1 Protection Mini Tampons 32 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Lady Ultra Mini Plus Inlegkruisjes 24 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Lights Sensitive Inlegkruisjes Normal 24 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Discreet Ultra Normal Verband 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "TENA Men Active Fit Pants Large 8 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Lights Sensitive Inlegkruisjes Long 20 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Lights Sensitive Ultra Verbanden Normal 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ProComfort 4-in-1 Protection Super Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Yoni Maandverband with Wings Medium 10 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ProComfort 4-in-1 Protection Super Tampons 32 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 6.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "TENA Silhouette Plus Broekje Maat L 8 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Yoni Maandverband Heavy 100% Biologisch Katoen met Vleugels 10 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ExtraProtect 5-in-1 Protection Normal Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Silhouette Hoge Taille Broekje Crème Maat M 36-44 Plus 9 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ProComfort 4-in-1 Protection Mini Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Yoni tampons heavy 100% biologisch katoen 16 stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Discreet Ultra Mini Plus Inlegkruisjes 2 x 24 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ProComfort 4-in-1 Protection Normal Tampons 32 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Lady Maxi Night Nachtverbanden 6 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. Original 2-in-1 Protection Normal Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 2.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Yoni inlegkruisjes regular 100% biologisch katoen 24 stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Yoni tampons medium 100% biologisch katoen 16 stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 4.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "o.b. ProComfort 4-in-1 Protection Normal Tampons 16 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Discreet with InstaDry Zone Extra Duo Pack 2 x 10 Stuks",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Express Whitening Tandpasta 75ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 5.49,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "ORAL-B PRO-3DWHITE handtandenborstel – Medium, 1",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 3.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Perfection Tandpasta 150ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B iO Gentle Care Opzetborstels 2 Stuks",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 24.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Essential Floss - Verwijdert Tandplak - Gewaxte Flosdraad - Muntsmaak 50m",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Pro-Expert Frisse Adem Tandpasta 75ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Glamorous White Tandpasta 150ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "ORAL-B PRO-CLEAN handtandenborstel, 2",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 5.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Pro Vitality Elektrische Tandenborstel",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 39.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Pro Cross Action Opzetborstels 4 Stuks",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 27.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Pro-Expert Professionele Bescherming Reinigingskristallen Tandpasta 75ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Pro Sensitive Clean Opzetborstels, 4 Stuks",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 27.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Arctic Fresh Tandpasta 75 ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 4.69,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Kids Lion King Tandpasta met Fluoride 60 ML",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "ORAL-B PRO-CLEAN PULSAR batterij-aangedreven tandenborstel ,1",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 6.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B iO Gentle Care Zwart, Originele vervangende ronde opzetborstels, 2",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 24.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Pro-Expert Zachte Whitening Tandpasta 75ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Pro Precision Clean Opzetborstels, 4 Stuks",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 23.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "ORAL-B PRO-CLEAN handtandenborstel, 1",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 3.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Pro Kids Elektrische Tandenborstel",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 39.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Junior Stitch Tandpasta 6+ jaar met Tinfluoride 75 ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B 123 Indicator Medium Handtandenborstel",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Perfection Tandpasta 75ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 5.49,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B Pro-Expert Gevoeligheid Calm Sensation Tandpasta 75ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "DermaXPro by Head & Shoulders Kalmeert Anti-roos shampoo 250ml met aloë vera",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Classic 2in1 Shampoo en Conditioner 625ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 15.49,
+      "inhoud_waarde": 625,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Menthol Fresh 2in1 Anti-roos Shampoo Voor Jeukende Hoofdhuid 250ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 7.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Classic Shampoo 625ml. Tegen roos, talg, jeuk",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 14.99,
+      "inhoud_waarde": 625,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Citrus Fresh Shampoo 250ML",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "DermaXPro by Head & Shoulders Verzachtende Hoofdhuidverzorging 145ml Met Aloë vera-extract",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 145,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "DermaXPro by Head & Shoulders Kalmeert Lichte Conditioner 220ml Met Aloë vera-extract",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 220,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Dik & Sterk Shampoo 250ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Intense Hydration Anti-Roos Shampoo 250ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Sensitive Shampoo 250 ml. Met Aloe Vera",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Classic Shampoo 250ml. Tegen roos, talg, jeuk",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Classic 2in1 Shampoo en Conditioner 250ml",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Head & Shoulders Citrus Fresh Shampoo 625ml. Tegen roos, talg, jeuk",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 13.99,
+      "inhoud_waarde": 625,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Zonnebrand",
@@ -821,61 +5465,790 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 18 mrt t/m di 4 aug",
-      "categorie": "Overig"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Mevr. Kitty schoonmaakmiddelen",
+      "productnaam": "Mevr. Kitty Badkamerreiniger Eucalyptus 1 L",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mevr. Kitty Kalkreiniger Flower 1 L",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Aromalux Toiletblok Dahlia Flower & Dragonfruit 1 stuk",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.89,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Glorix toiletblokken",
+      "productnaam": "Glorix Actief Blauw Water Toiletblok Ocean 1 stuk",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 3.65,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Robijn Klein & Krachtig, wasmiddeldoekjes, capsules, Quickwash of Drywash",
+      "productnaam": "Glorix Actief Blauw Water Toiletblok Magnolia 1 stuk",
       "korting_tekst": "1+1 gratis",
-      "actieprijs": null,
+      "actieprijs": 3.65,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Lenor",
+      "productnaam": "Glorix Actief Blauw Water Toiletblok Bleek 1 stuk",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 4.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Power Clean Toiletblok Ocean 2 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 7.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Power Clean Toiletblok Citroen 2 stuks",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Power Clean Toiletblok Lavendel 1 stuk",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Power Clean Toiletblok Citroen 1 stuk",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Aromalux Toiletblok Wild Berries & Hibiscus Oil 1 stuk",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Power Clean Toiletblok Ocean 1 stuk",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Quickwash Puur En Zacht 22 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 18.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Klein & Krachtig Wasmiddel Kleur 1,19L",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 30.49,
+      "inhoud_waarde": 1190,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Klein & Krachtig Wasmiddel Zwart 1,19L",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 30.49,
+      "inhoud_waarde": 1190,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Color Tropical 665ML 22 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Klein & Krachtig Wasmiddel Wit 665ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 17.99,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Collections 3-in-1 Wascapsules Color Tropical 15 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 14.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics 3-in-1 Wascapsules Color 40 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 23.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Klein & Krachtig Classics Vloeibaar Wasmiddel Black Velvet 665 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 17.99,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Klein & Krachtig Classics Vloeibaar Wasmiddel Color Morgenfris 19 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 17.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Klein & Krachtig Classics Vloeibaar Wasmiddel Color Pink Sensation 19 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 17.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics Wasmiddeldoekjes Stralend Wit 16 wasstrips",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Dry Wash Spray Zwitsal 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Advanced Quickwash Vloeibaar Wasmiddel Morning Dew 22 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 18.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Color Kokos 665ML 22 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics 3-in-1 Wascapsules Black Velvet 26 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 21.45,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics 3-in-1 Wascapsules Color 15 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics Wasmiddeldoekjes Black Velvet 16 wasstrips",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Collections 3-in-1 Wascapsules Color Paradise Secret 15 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.25,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Color Paradise Secret 665ML 22 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics 3-in-1 Wascapsules Color 26 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Color Zwitsal 665ML 22 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics 3-in-1 Wascapsules Stralend Wit 40 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 31.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics Wasmiddeldoekjes Color 16 wasstrips",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Advanced Quickwash Vloeibaar Wasmiddel Spring Blossom 22 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 18.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics 3-in-1 Wascapsules Black Velvet 40 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 29.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Dry Wash Spray Pink Sensation 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Color Beautiful Myster 665ML 22 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Dry Wash Spray Original 200 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 10.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Collections 3-in-1 Wascapsules Color Spa Sensation 15 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.25,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Klein & Krachtig Wasmiddel Wit 1,19L",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 30.49,
+      "inhoud_waarde": 1190,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics 3-in-1 Wascapsules Black Velvet 15 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 12.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics 3-in-1 Wascapsules Stralend Wit 15 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Quickwash Optimum White 22 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 18.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Advanced Quickwash Vloeibaar Wasmiddel Sunset Bloom 22 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 18.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Classics 3-in-1 Wascapsules Stralend Wit 26 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 15.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Klein & Krachtig Classics Vloeibaar Wasmiddel Color 22 wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 17.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Spa Sensation 665ML 22 Wasbeurten",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Fresh Air Wasverzachter 50 Wasbeurten",
       "korting_tekst": "2+3 gratis",
-      "actieprijs": null,
+      "actieprijs": 10.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Dreft vaatwastabletten",
+      "productnaam": "Lenor Wasverzachter 55 Wasbeurten",
       "korting_tekst": "2+3 gratis",
-      "actieprijs": null,
+      "actieprijs": 9.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
-      "productnaam": "Alle Ariel vloeiblaar+ of pods+",
+      "productnaam": "Lenor Fresh Air Wasverzachter 50 Wasbeurten",
       "korting_tekst": "2+3 gratis",
-      "actieprijs": null,
+      "actieprijs": 10.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Vloeibaar Wasverzachter Zeebries, 55 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 9.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "LENOR PODS® Was Capsules 15",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 13.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Unstoppables Geurbooster 240g",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 12.29,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "LENOR Wasmiddel Vloeibaar Detergent 20 Wasbeurten, Zeebries",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 13.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "LENOR PODS Wascapsules 15 Wasbeurten, Katoen Fris",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 13.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "LENOR Vloeibaar Wasmiddel 20 Wasbeurten, Amethist",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 13.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "LENOR Wasmiddel 20 Wasbeurten, Katoen",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 13.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "LENOR Wasmiddel Vloeibare Wasmiddel 20 Beurten, Amber & Orchidee",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 13.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Geurbooster 240g",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 12.29,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Geurbooster 240g",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 12.29,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "LENOR PODS® Was Capsules 15",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 13.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Unstoppables Geurbooster 240g",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 12.29,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Fresh Air Wasverzachter 50 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 10.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Vloeibaar Wasverzachter Amber & Orchidee, 55 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 9.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Fresh Air Wasverzachter 36 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 8.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Plus, Citroen, Vaatwascapsules 30 X",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 22.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Plus Citroen Vaatwascapsules 19 Stuks",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 14.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Citroen Vaatwascapsules 39 X",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 20.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Plus Citroen Vaatwascapsules 40 Stuks",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 29.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Miracle All-In-One, 31X",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 29.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Miracle All In One, 20X",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 19.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Plus, Citroen, Vaatwascapsules 59 X",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 40.55,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Citroen Vaatwascapsules 21 X",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 12.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Plus Bries, Vaatwascapsules 25 X",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 18.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel 4in1 PODS Actief, Wasmiddel Capsules 26",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 27.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel 4in1 PODS Ultra, Wasmiddel Capsules 10",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 11.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel Vloeibaar Wasmiddel +Actief, 20 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 15.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel All-in-1 Pods Wasmiddel +Unstoppable Kleur 15 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 16.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel All-in-1 Pods Wasmiddel +Actief 15 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 16.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel Wasmiddel +Ultra Vlekverwijdering, 25 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 20.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel 4in1 PODS Unstoppables Wasmiddel Capsules 26 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 27.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel Wasmiddel +Zwart Bescherming, 25 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 20.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel 4in1 PODS Unstoppables Color, Wasmiddelcapsules 26",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 27.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel 4in1 PODS Ultra Wasmiddel Capsules 26 Wasbeurten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 27.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ariel Wasmiddel +Touch of Lenor Unstoppables, 35 Wassen",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 28.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
     },
     {
       "productnaam": "Ariel vloeibaar wasmiddel",
@@ -884,7 +6257,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Huishouden"
+      "categorie": null
     },
     {
       "productnaam": "Neutral",
@@ -893,7 +6266,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 17 jun t/m di 4 aug",
-      "categorie": "Kruidenierswaren"
+      "categorie": null
     },
     {
       "productnaam": "Zespri kiwi Sungold",
@@ -902,7 +6275,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Groente & Fruit"
+      "categorie": null
     },
     {
       "productnaam": "Licor Beirão, Bobby's Gin, Ouzo 12 of Luxardo Limoncello",
@@ -911,7 +6284,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Baileys, Johnnie Walker Whisky, Captain Morgan Rum, Gordon's Gin of Smirnoff Vodka",
@@ -920,7 +6293,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": "Dranken"
+      "categorie": null
     },
     {
       "productnaam": "Welke biermerken zijn bij jouw Jumbo in de aanbieding?",
@@ -929,7 +6302,7 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 4 feb t/m wo 30 dec",
-      "categorie": "Overig"
+      "categorie": null
     }
   ]
 }
