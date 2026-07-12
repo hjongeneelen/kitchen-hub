@@ -4,6 +4,7 @@ import { getRecipeBySlug, localizeRecipe } from '../lib/recipes'
 import { scaleIngredientText } from '../lib/scaleText'
 import { useTranslation } from '../hooks/useLocale.jsx'
 import { useIngredientMatches } from '../hooks/useIngredientMatches'
+import { estimateRecipeCost } from '../lib/ingredientCost'
 import { formatPrice } from '../lib/dealFormat'
 import PortionScaler from '../components/PortionScaler.jsx'
 import CheckableItem from '../components/CheckableItem.jsx'
@@ -34,6 +35,7 @@ export default function RecipeView() {
   const recipeIngredientMatches = recipe
     ? ingredientMatches?.recipes?.[recipe.slug]?.ingredients
     : null
+  const cost = recipe ? estimateRecipeCost(recipe.slug, ingredientMatches) : null
 
   if (!recipe) return <Navigate to="/" replace />
 
@@ -99,6 +101,7 @@ export default function RecipeView() {
           <ul className="card divide-y divide-cream-200 p-2 dark:divide-charcoal-700">
             {scaledIngredients.map((text, i) => {
               const bestMatch = recipeIngredientMatches?.[i]?.matches?.[0]
+              const isDeal = bestMatch?.bron === 'eigen-data'
               return (
                 <CheckableItem
                   key={i}
@@ -109,11 +112,19 @@ export default function RecipeView() {
                   priceBadge={
                     bestMatch && (
                       <span
-                        title={`${bestMatch.productnaam} — ${bestMatch.winkel}${
-                          bestMatch.bron === 'supermarktscanner.nl' ? ' (supermarktscanner.nl)' : ''
-                        }`}
-                        className="whitespace-nowrap rounded-full bg-olive-100 px-2 py-0.5 text-xs font-medium text-olive-700 dark:bg-olive-700/30 dark:text-olive-200"
+                        title={
+                          isDeal
+                            ? `In de aanbieding: ${bestMatch.productnaam} — ${bestMatch.winkel}`
+                            : `Goedkoopste huidige prijs (geen aanbieding): ${bestMatch.productnaam} — ${bestMatch.winkel}, via supermarktscanner.nl`
+                        }
+                        className={
+                          'whitespace-nowrap rounded-full px-2 py-0.5 text-xs font-medium ' +
+                          (isDeal
+                            ? 'bg-terracotta-100 text-terracotta-700 dark:bg-terracotta-900/30 dark:text-terracotta-200'
+                            : 'bg-cream-200 text-charcoal-600 dark:bg-charcoal-600 dark:text-charcoal-100')
+                        }
                       >
+                        {isDeal && '🏷️ '}
                         {formatPrice(bestMatch.actieprijs) ?? '—'} · {bestMatch.winkel}
                       </span>
                     )
@@ -122,6 +133,16 @@ export default function RecipeView() {
               )
             })}
           </ul>
+          {cost && cost.matchedCount > 0 && (
+            <p className="mt-2 px-2 text-sm text-charcoal-400 dark:text-charcoal-200">
+              Geschatte boodschappenkosten:{' '}
+              <span className="font-semibold text-charcoal-700 dark:text-cream-50">
+                {formatPrice(cost.total)}
+              </span>{' '}
+              (op basis van {cost.matchedCount}/{cost.totalCount} ingrediënten — prijs van hele
+              verpakkingen, niet van de exacte hoeveelheid)
+            </p>
+          )}
         </section>
 
         <section>

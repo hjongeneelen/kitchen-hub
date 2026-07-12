@@ -2,17 +2,35 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { recipes, getAllTags, localizeRecipe } from '../lib/recipes'
 import { useTranslation } from '../hooks/useLocale.jsx'
+import { useIngredientMatches } from '../hooks/useIngredientMatches'
+import { estimateRecipeCost } from '../lib/ingredientCost'
 import RecipeCard from '../components/RecipeCard.jsx'
 import SearchBar from '../components/SearchBar.jsx'
 import TagFilter from '../components/TagFilter.jsx'
 import DarkModeToggle from '../components/DarkModeToggle.jsx'
 import LanguageSwitcher from '../components/LanguageSwitcher.jsx'
 
+const SORT_OPTIONS = [
+  { value: 'name', label: 'Naam (A-Z)' },
+  { value: 'cost-asc', label: 'Geschatte kosten (laag - hoog)' },
+  { value: 'prepTime', label: 'Bereidtijd' },
+]
+
 export default function Home() {
   const { t, locale } = useTranslation()
   const [query, setQuery] = useState('')
   const [activeTags, setActiveTags] = useState([])
+  const [sort, setSort] = useState('name')
   const allTags = useMemo(getAllTags, [])
+  const ingredientMatches = useIngredientMatches()
+
+  const costBySlug = useMemo(() => {
+    const map = {}
+    for (const recipe of recipes) {
+      map[recipe.slug] = estimateRecipeCost(recipe.slug, ingredientMatches)
+    }
+    return map
+  }, [ingredientMatches])
 
   const toggleTag = (tag) => {
     setActiveTags((prev) =>
@@ -42,6 +60,25 @@ export default function Home() {
       return haystack.includes(q)
     })
   }, [query, activeTags, locale])
+
+  const sorted = useMemo(() => {
+    const list = [...filtered]
+    if (sort === 'cost-asc') {
+      list.sort((a, b) => {
+        const costA = costBySlug[a.slug]
+        const costB = costBySlug[b.slug]
+        if (!costA && !costB) return 0
+        if (!costA) return 1
+        if (!costB) return -1
+        return costA.total - costB.total
+      })
+    } else if (sort === 'prepTime') {
+      list.sort((a, b) => (parseInt(a.prepTime) || 9999) - (parseInt(b.prepTime) || 9999))
+    } else {
+      list.sort((a, b) => localizeRecipe(a, locale).title.localeCompare(localizeRecipe(b, locale).title, 'nl'))
+    }
+    return list
+  }, [filtered, sort, costBySlug, locale])
 
   return (
     <div className="mx-auto min-h-screen max-w-2xl px-4 pb-16 pt-6">
@@ -107,16 +144,33 @@ export default function Home() {
         <SearchBar value={query} onChange={setQuery} />
       </div>
 
-      <div className="mb-6">
+      <div className="mb-4">
         <TagFilter tags={allTags} activeTags={activeTags} onToggle={toggleTag} />
       </div>
 
+      <div className="mb-6 flex items-center justify-end">
+        <label className="flex items-center gap-2 text-sm text-charcoal-500 dark:text-charcoal-200">
+          <span>Sorteer:</span>
+          <select
+            value={sort}
+            onChange={(e) => setSort(e.target.value)}
+            className="rounded-lg border border-cream-300 bg-cream-50 px-2.5 py-1.5 text-sm text-charcoal-700 focus:border-terracotta-400 focus:ring-2 focus:ring-terracotta-400/30 focus:outline-none dark:border-charcoal-600 dark:bg-charcoal-700 dark:text-cream-100"
+          >
+            {SORT_OPTIONS.map((opt) => (
+              <option key={opt.value} value={opt.value}>
+                {opt.label}
+              </option>
+            ))}
+          </select>
+        </label>
+      </div>
+
       <div className="flex flex-col gap-3">
-        {filtered.map((recipe) => (
-          <RecipeCard key={recipe.slug} recipe={recipe} />
+        {sorted.map((recipe) => (
+          <RecipeCard key={recipe.slug} recipe={recipe} cost={costBySlug[recipe.slug]} />
         ))}
 
-        {filtered.length === 0 && (
+        {sorted.length === 0 && (
           <p className="mt-10 text-center text-charcoal-300 dark:text-charcoal-400">
             {t('noRecipesMatch')}
           </p>

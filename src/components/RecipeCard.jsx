@@ -1,8 +1,9 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from '../hooks/useLocale.jsx'
 import { localizeRecipe } from '../lib/recipes'
+import { formatPrice } from '../lib/dealFormat'
 
-export default function RecipeCard({ recipe: baseRecipe }) {
+export default function RecipeCard({ recipe: baseRecipe, cost }) {
   const { t, locale } = useTranslation()
   const recipe = localizeRecipe(baseRecipe, locale)
 
@@ -37,6 +38,14 @@ export default function RecipeCard({ recipe: baseRecipe }) {
           </svg>
           {t('portionsCount', { count: recipe.portions })}
         </span>
+        {cost && cost.matchedCount > 0 && (
+          <span
+            title={`Gebaseerd op ${cost.matchedCount}/${cost.totalCount} ingrediënten met een gevonden prijs`}
+            className="inline-flex items-center gap-1 rounded-full bg-olive-100 px-2 py-0.5 text-xs font-medium text-olive-700 dark:bg-olive-700/30 dark:text-olive-200"
+          >
+            ~{formatPrice(cost.total)} · {cost.matchedCount}/{cost.totalCount}
+          </span>
+        )}
       </div>
 
       {recipe.tags.length > 0 && (
