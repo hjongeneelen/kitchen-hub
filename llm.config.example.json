@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:11434/v1",
+  "model": "llama3.1",
+  "apiKey": "ollama",
+  "reasoningEffort": "none",
+  "nativeOllama": false
+}

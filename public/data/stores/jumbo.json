@@ -1,0 +1,935 @@
+{
+  "store": "Jumbo",
+  "slug": "jumbo",
+  "mode": "api",
+  "updated_at": "2026-07-12T11:59:31.153024+00:00",
+  "deals": [
+    {
+      "productnaam": "Alle Jumbo groene salades",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 6.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Alle snackgroente",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 4.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Nederlandse kersen",
+      "korting_tekst": "voor 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Nederlandse aardbeien",
+      "korting_tekst": "voor 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Nectarines of wilde perziken",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Jonagold appels",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Spitskool",
+      "korting_tekst": "voor 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Frambozen",
+      "korting_tekst": "voor 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Avocado",
+      "korting_tekst": "voor 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Rode of blauwe pitloze druiven",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Zoete punt paprika mix",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Bloemkool",
+      "korting_tekst": "voor 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Jumbo verse friet",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Alle Jumbo fruitmixen met dressing",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Alle meloenen",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 20 mei t/m di 4 aug",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Verspakket kapsalon, Griekse gehaktschotel of kip Hawaï",
+      "korting_tekst": "voor 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Jumbo ovenschotels",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Overig"
+    },
+    {
+      "productnaam": "Jumbo airfryer & oven maaltijden",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Overig"
+    },
+    {
+      "productnaam": "Rundergehakt of rundergehakt bio",
+      "korting_tekst": "2 voor 7,00",
+      "actieprijs": 7.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "BBQ",
+      "korting_tekst": "4 voor 10,00",
+      "actieprijs": 10.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "ma 23 mrt t/m di 4 aug",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Jumbo Zeeuwse bodemmosselen super",
+      "korting_tekst": "voor 6,99",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Alle De Vegetarische Slager vleesvervangers of Oma's vleesvervangers",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Jumbo dorade of zeebaars",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Alle Jumbo lange cakes",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Almhof yoghurt",
+      "korting_tekst": "2 voor 3,00",
+      "actieprijs": 3.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Optimel drinkyoghurt",
+      "korting_tekst": "2 voor 3,00",
+      "actieprijs": 3.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Melkunie Protein",
+      "korting_tekst": "2 voor 2,50",
+      "actieprijs": 2.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Danio kwark",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 4.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Alle Douwe Egberts ijskoffie",
+      "korting_tekst": "voor 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Croma",
+      "korting_tekst": "voor 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Campina Lang Lekker",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Chocomel, Fristi, Friesche Vlag en Campina Slagroom",
+      "korting_tekst": "Alleen online\n30% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Campina, Optimel en Vifit",
+      "korting_tekst": "Alleen online\n30% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Johma salades",
+      "korting_tekst": "2 voor 4,50",
+      "actieprijs": 4.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Milner plakken",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 4.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Brood en toast salades",
+      "korting_tekst": "2 voor 4,50",
+      "actieprijs": 4.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 27 mei t/m di 4 aug",
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Alle Wapenaer 48+ kaasstukken",
+      "korting_tekst": "50% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Heinz of Wijko sauzen",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 4.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Alle Jumbo's BBQ sauzen",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Alle HAK groenteconserven",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Unox of Conimex soep in zak",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Jumbo's smaakmayonaise",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Jumbo's satésaus",
+      "korting_tekst": "voor 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Alle Rummo pasta",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Alle Jumbo's So Simple smaakpakketten",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Kellogg's",
+      "korting_tekst": "2 voor 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Chio",
+      "korting_tekst": "2 voor 3,00",
+      "actieprijs": 3.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Overig"
+    },
+    {
+      "productnaam": "Alle Pringles",
+      "korting_tekst": "2 voor 3,50",
+      "actieprijs": 3.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Look-O-Look",
+      "korting_tekst": "2 voor 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Walnoten",
+      "korting_tekst": "voor 5,49",
+      "actieprijs": 5.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Jumbo's Dolce Gusto",
+      "korting_tekst": "2 voor 7,00",
+      "actieprijs": 7.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Alle La Place koffiebonen",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Karvan Cévitam",
+      "korting_tekst": "2 voor 6,00",
+      "actieprijs": 6.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Powerade Mountain Blast",
+      "korting_tekst": "Alleen online\nvoor 12,00",
+      "actieprijs": 12.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Fuze Tea",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Appelsientje of Van de Boom",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Lipton",
+      "korting_tekst": "Alleen online\n15% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 20 mei t/m di 4 aug",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Spa Intense, Finesse, Fruit en Touch",
+      "korting_tekst": "Alleen online\n20% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Coca-Cola",
+      "korting_tekst": "5+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 7 jan t/m di 29 dec",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Coca-Cola",
+      "korting_tekst": "10+2 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 7 jan t/m di 29 dec",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Montaignan",
+      "korting_tekst": "2 voor 8,99",
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Alpaca",
+      "korting_tekst": "voor 3,75",
+      "actieprijs": 3.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Doppio Passo",
+      "korting_tekst": "1 voor 5,99",
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Heineken 0.0",
+      "korting_tekst": "Alleen online\nvoor 18,99",
+      "actieprijs": 18.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 21 jan t/m di 4 aug",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Amstel",
+      "korting_tekst": "Alleen online\nvoor 18,99",
+      "actieprijs": 18.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 21 jan t/m di 4 aug",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Heineken",
+      "korting_tekst": "Alleen online\nvoor 19,99",
+      "actieprijs": 19.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "do 1 jan t/m di 4 aug",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Hertog Jan",
+      "korting_tekst": "Alleen online\nvoor 23,99",
+      "actieprijs": 23.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "do 1 jan t/m di 4 aug",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Tray Grolsch pils blik",
+      "korting_tekst": "Alleen online\nvoor 17,99",
+      "actieprijs": 17.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 10 jun t/m di 4 aug",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Desperados, Amstel Radler, Amstel Rosé of Apple Bandit",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Leffe of Hoegaarden",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Corona of Liefmans",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Heineken",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Alle biologische wijnen",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Alle Aperol of Crodino",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Hertog Jan Weizener",
+      "korting_tekst": "Alleen online\n20% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "Feu Rosé",
+      "korting_tekst": "1,00 korting",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Alegrete Vinho Verde",
+      "korting_tekst": "1,00 korting",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Finca las Moras Chardonnay",
+      "korting_tekst": "1,00 korting",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Alle Aviko Supercrunch of Friet van `t huis",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 4.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Alle Ola, Cornetto of Magnum handijs",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Alle Gillette",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Alle Andrélon",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Alle Parodontax of Aquafresh",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Nivea",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Alle Syoss of Schauma",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Alle Listerine",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Alle Davitamon",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Alle Tena, O.B. of Yoni",
+      "korting_tekst": "2+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Alle Oral-B",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Alle Head & Shoulders",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Verzorging & Drogisterij"
+    },
+    {
+      "productnaam": "Zonnebrand",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 18 mrt t/m di 4 aug",
+      "categorie": "Overig"
+    },
+    {
+      "productnaam": "Alle Mevr. Kitty schoonmaakmiddelen",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Alle Glorix toiletblokken",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Alle Robijn Klein & Krachtig, wasmiddeldoekjes, capsules, Quickwash of Drywash",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Alle Lenor",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Alle Dreft vaatwastabletten",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Alle Ariel vloeiblaar+ of pods+",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Ariel vloeibaar wasmiddel",
+      "korting_tekst": "Alleen online\n2+3 gratis",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "Neutral",
+      "korting_tekst": "Alleen online\n30% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 17 jun t/m di 4 aug",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Zespri kiwi Sungold",
+      "korting_tekst": "Alleen in de winkel\n25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Licor Beirão, Bobby's Gin, Ouzo 12 of Luxardo Limoncello",
+      "korting_tekst": "Alleen in de slijterij\n4,00 korting",
+      "actieprijs": 4.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Baileys, Johnnie Walker Whisky, Captain Morgan Rum, Gordon's Gin of Smirnoff Vodka",
+      "korting_tekst": "Alleen in de slijterij\n5,00 korting",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Welke biermerken zijn bij jouw Jumbo in de aanbieding?",
+      "korting_tekst": "2e halve prijs",
+      "actieprijs": null,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 4 feb t/m wo 30 dec",
+      "categorie": "Overig"
+    }
+  ]
+}

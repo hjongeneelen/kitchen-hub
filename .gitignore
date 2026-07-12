@@ -1,0 +1,18 @@
+node_modules
+dist
+.DS_Store
+*.local
+llm.config.json
+fridge.json
+preferences.json
+
+# Python backend (scraper)
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/.venv/
+backend/venv/
+backend/logs/
+backend/cache/
+backend/.env
+backend/credentials.json

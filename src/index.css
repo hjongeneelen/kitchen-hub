@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-cream-100 text-charcoal-800 dark:bg-charcoal-900 dark:text-cream-100 transition-colors duration-200;
+  }
+}
+
+@layer components {
+  .tag-pill {
+    @apply inline-flex items-center rounded-full border px-3 py-1 text-sm font-medium transition-colors;
+  }
+
+  .card {
+    @apply rounded-2xl border border-cream-300/70 bg-cream-50 shadow-sm dark:border-charcoal-600 dark:bg-charcoal-800;
+  }
+}
+
+/* Strike-through animation for checked ingredients / steps */
+.checked-line {
+  text-decoration: line-through;
+  opacity: 0.5;
+}

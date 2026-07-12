@@ -1,0 +1,332 @@
+{
+  "store": "Plus",
+  "slug": "plus",
+  "mode": "api",
+  "updated_at": "2026-07-12T11:59:45.298638+00:00",
+  "deals": [
+    {
+      "productnaam": "Slimpie Siroop",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Alle Almhof Kwark, hoekje en choco met slagroom",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Alle Segafredo Koffiebonen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 19.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Dranken"
+    },
+    {
+      "productnaam": "Hak Groenteconserven",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Neutraal Kleine zoete appeltjes",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Bananen Fairtrade",
+      "korting_tekst": "0.99 PER KILO",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Druiven wit pitloos",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Nederlandse Kersen",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Galia, Cantaloupe, Piel de sapo en watermeloen",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 2.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Zespri Kiwi gold",
+      "korting_tekst": "500 GRAM 2.99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Frites uit Zuyd Dag verse friet",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 3.65,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Huishouden"
+    },
+    {
+      "productnaam": "PLUS Cocktailtrostomaten en mini pruimtomaatjes",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Neutraal Pijnboompitten",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "PLUS Bloemkool- en broccoliroosjes",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Sperziebonen",
+      "korting_tekst": "500 GRAM 1.49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Biologisch PLUS Rode bieten en PLUS Nederlandse Bospeen",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Roerbak-, wokgroenten en taugé",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Alle PLUS Gesneden verspakketten",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 VOOR 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
+      "korting_tekst": "3 VOOR 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Galia, Cantaloupe, Piel de sapo en watermeloen",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Zespri Kiwi gold",
+      "korting_tekst": "500 GRAM 2.99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "PLUS Nederlandse Kersen",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Alle PLUS Verse pizza's",
+      "korting_tekst": "2 VOOR 6.99",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Alle verse pasta en pastasauzen",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Verse salade",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 5.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Alle PLUS Bapao",
+      "korting_tekst": "3 VOOR 2.49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Verse soep",
+      "korting_tekst": "2 VOOR 5.50",
+      "actieprijs": 5.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
+      "korting_tekst": "2 VOOR 5.50",
+      "actieprijs": 5.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Kruidenierswaren"
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Kies & Mix Combi gerechten",
+      "korting_tekst": "2 VOOR 7.50",
+      "actieprijs": 7.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "PLUS Speklapjes smokey barbecue",
+      "korting_tekst": "3+1 GRATIS",
+      "actieprijs": 4.69,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "PLUS Hamburger varken-rund 4 stuks",
+      "korting_tekst": "3+1 GRATIS",
+      "actieprijs": 4.49,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "PLUS BBQ Zalmspiesen",
+      "korting_tekst": "3+1 GRATIS",
+      "actieprijs": 7.19,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "PLUS Boerentrots BBQ worst Italiaans",
+      "korting_tekst": "3+1 GRATIS",
+      "actieprijs": 4.19,
+      "inhoud_waarde": 325,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
+      "categorie": "Vlees & Vis"
+    }
+  ]
+}
