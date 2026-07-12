@@ -2,7 +2,7 @@
 Dutch Supermarket Deal Scraper
 ──────────────────────────────
 Pulls weekly folder deals from 18 Dutch retailers, extracts structured data,
-and exports it as JSON for the static dashboard site (frontend/public/data/)
+and exports it as JSON for the static dashboard site (public/data/)
 instead of pushing to a Google Sheet.
 
 Two processing modes per store:

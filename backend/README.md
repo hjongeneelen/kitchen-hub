@@ -1,7 +1,7 @@
 # Backend — Dutch Supermarket Deal Scraper
 
 Pulls weekly folder deals from 18 Dutch retailers and exports structured JSON
-into `frontend/public/data/` for the static dashboard site to consume. This is
+into `public/data/` for the static dashboard site to consume. This is
 a fork of an earlier Google Sheets–based scraper, with the Sheets upload step
 replaced by a plain JSON exporter (`modules/exporter.py`).
 
@@ -63,8 +63,8 @@ back to a plain OpenAI-compatible call for non-Ollama backends, without that
 optimization.
 
 Each store's deals are exported immediately after processing to
-`../frontend/public/data/stores/<slug>.json` (e.g. `albert-heijn.json`), and
-`../frontend/public/data/index.json` is updated with a manifest entry for that
+`../public/data/stores/<slug>.json` (e.g. `albert-heijn.json`), and
+`../public/data/index.json` is updated with a manifest entry for that
 store. This means an interrupted run still persists whichever stores finished,
 and other stores' data is never wiped by a partial `--stores` run.
 
@@ -81,7 +81,7 @@ and other stores' data is never wiped by a partial `--stores` run.
   budget for that in any automation you build on top of this.
 - **The other 12 stores** (`pdf` mode) need a local vision LLM via Ollama, so
   they must be run locally (or on a machine with Ollama installed) and their
-  output JSON committed into `frontend/public/data/` for the static site to
+  output JSON committed into `public/data/` for the static site to
   pick up. Auto-discovery of the weekly PDF URL currently fails for all 12 of
   them (see below) — you'll need to paste a URL manually in `.env` for now.
 
