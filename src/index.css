@@ -26,3 +26,12 @@
   text-decoration: line-through;
   opacity: 0.5;
 }
+
+/* Printing a recipe: readable on paper regardless of dark mode.
+   Tailwind's built-in `print:hidden` utility handles hiding nav chrome. */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+}

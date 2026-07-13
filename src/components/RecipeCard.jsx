@@ -46,6 +46,14 @@ export default function RecipeCard({ recipe: baseRecipe, cost }) {
             ~{formatPrice(cost.total)} · {cost.matchedCount}/{cost.totalCount}
           </span>
         )}
+        {cost?.hasDeal && (
+          <span
+            title="Minstens één ingrediënt is deze week echt in de aanbieding"
+            className="inline-flex items-center gap-1 rounded-full bg-terracotta-100 px-2 py-0.5 text-xs font-medium text-terracotta-700 dark:bg-terracotta-900/30 dark:text-terracotta-200"
+          >
+            🏷️ goedkoop deze week
+          </span>
+        )}
       </div>
 
       {recipe.tags.length > 0 && (

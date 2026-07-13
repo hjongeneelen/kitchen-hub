@@ -7,6 +7,7 @@ import { useIngredientMatches } from '../hooks/useIngredientMatches'
 import { estimateRecipeCost } from '../lib/ingredientCost'
 import { usePantryStaples } from '../hooks/usePantryStaples.js'
 import { isStapleIngredient } from '../lib/pantry.js'
+import { loadProgress, saveProgress } from '../lib/recipeProgress.js'
 import { formatPrice } from '../lib/dealFormat'
 import PortionScaler from '../components/PortionScaler.jsx'
 import CheckableItem from '../components/CheckableItem.jsx'
@@ -37,18 +38,33 @@ export default function RecipeView() {
   // ever run, unlike matching against ingredient-matches.json.
   const isStapleAt = (i) => isStapleIngredient(baseRecipe?.ingredients?.[i], staples)
 
-  // Pre-check ingredients the user always has on hand. Runs again whenever
-  // the recipe or the staples list changes, so switching recipes or editing
-  // staples doesn't leave stale checks from a previous recipe.
+  // On first-ever visit to a recipe, pre-check ingredients the user always
+  // has on hand. On every later visit, restore whatever was left checked
+  // last time instead — a manually-unchecked staple (ran out) or manually-
+  // checked non-staple shouldn't be silently overwritten by re-deriving from
+  // the staples list every time.
   useEffect(() => {
     if (!baseRecipe) return
+    const persisted = loadProgress(baseRecipe.slug)
+    if (persisted) {
+      setCheckedIngredients(persisted.ingredients || {})
+      setCheckedSteps(persisted.steps || {})
+      return
+    }
     const initial = {}
     baseRecipe.ingredients.forEach((line, i) => {
       if (isStapleIngredient(line, staples)) initial[i] = true
     })
     setCheckedIngredients(initial)
+    setCheckedSteps({})
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [baseRecipe, staples])
+  }, [baseRecipe])
+
+  // Persist on every change so progress survives a reload/navigating away.
+  useEffect(() => {
+    if (!baseRecipe) return
+    saveProgress(baseRecipe.slug, { ingredients: checkedIngredients, steps: checkedSteps })
+  }, [baseRecipe, checkedIngredients, checkedSteps])
 
   // Matched by index, not by text — ingredient-matches.json is keyed off the
   // base (English) "## Ingredients" section, but `recipe` here may be a
@@ -66,7 +82,7 @@ export default function RecipeView() {
 
   return (
     <div className="mx-auto min-h-screen max-w-4xl px-4 pb-16 pt-6">
-      <header className="mb-4 flex items-center justify-between gap-4">
+      <header className="mb-4 flex items-center justify-between gap-4 print:hidden">
         <Link
           to="/"
           className="inline-flex items-center gap-1 text-sm font-medium text-terracotta-500 hover:text-terracotta-600 dark:text-terracotta-300"
@@ -110,15 +126,40 @@ export default function RecipeView() {
         <p className="mt-3 text-charcoal-500 dark:text-charcoal-200">{recipe.description}</p>
       )}
 
-      <div className="mt-5">
+      <div className="mt-5 flex items-center gap-3">
         <PortionScaler portions={portions} onChange={setPortions} />
+        <button
+          onClick={() => window.print()}
+          title="Recept printen"
+          className="print:hidden inline-flex items-center gap-1.5 rounded-full border border-terracotta-300/50 bg-cream-50 px-3 py-1.5 text-sm font-medium text-terracotta-600 shadow-sm transition hover:bg-cream-200 dark:border-charcoal-500 dark:bg-charcoal-700 dark:text-terracotta-300 dark:hover:bg-charcoal-600"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} className="h-4 w-4">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M6.72 13.829c-.24.03-.48.062-.72.096m.72-.096a42.415 42.415 0 0110.56 0m-10.56 0L6.34 18m10.94-4.171c.24.03.48.062.72.096m-.72-.096L17.66 18m0 0l.229 2.523a1.125 1.125 0 01-1.12 1.227H7.231c-.662 0-1.18-.568-1.12-1.227L6.34 18m11.318 0h1.091A2.25 2.25 0 0021 15.75V9.456c0-1.081-.768-2.015-1.837-2.175a48.055 48.055 0 00-1.913-.247M6.34 18H5.25A2.25 2.25 0 013 15.75V9.456c0-1.081.768-2.015 1.837-2.175a48.041 48.041 0 011.913-.247m10.5 0a48.536 48.536 0 00-10.5 0m10.5 0V3.375c0-.621-.504-1.125-1.125-1.125h-8.25c-.621 0-1.125.504-1.125 1.125v3.659M18 10.5h.008v.008H18V10.5zm-3 0h.008v.008H15V10.5z" />
+          </svg>
+          Printen
+        </button>
       </div>
 
       <div className="mt-6 grid grid-cols-1 gap-8 md:grid-cols-[minmax(0,1fr)_minmax(0,1.4fr)]">
         <section>
-          <h2 className="mb-2 text-lg font-semibold text-terracotta-600 dark:text-terracotta-300">
-            {t('ingredients')}
-          </h2>
+          <div className="mb-2 flex items-center justify-between">
+            <h2 className="text-lg font-semibold text-terracotta-600 dark:text-terracotta-300">
+              {t('ingredients')}
+            </h2>
+            <button
+              onClick={() => {
+                const initial = {}
+                baseRecipe.ingredients.forEach((line, i) => {
+                  if (isStapleIngredient(line, staples)) initial[i] = true
+                })
+                setCheckedIngredients(initial)
+              }}
+              title="Vink alles opnieuw uit, behalve je vaste voorraad"
+              className="print:hidden text-xs font-medium text-charcoal-400 hover:text-terracotta-500 dark:text-charcoal-300 dark:hover:text-terracotta-300"
+            >
+              Lijst resetten
+            </button>
+          </div>
           <ul className="card divide-y divide-cream-200 p-2 dark:divide-charcoal-700">
             {scaledIngredients.map((text, i) => {
               const bestMatch = recipeIngredientMatches?.[i]?.matches?.[0]
