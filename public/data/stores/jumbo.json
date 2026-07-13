@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-12T15:46:14.934816+00:00",
+  "updated_at": "2026-07-13T09:36:37.590832+00:00",
   "deals": [
     {
       "productnaam": "Jumbo Groene Boeren Salade 295 g",
@@ -98,6 +98,15 @@
       "productnaam": "Jumbo Snackgroente Komkommertjes 400 g",
       "korting_tekst": "2 voor 4,00",
       "actieprijs": 3.39,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Biologisch Snoeptomaten 400 g",
+      "korting_tekst": "2 voor 4,00",
+      "actieprijs": 3.49,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo 8 t/m di 14 jul",
@@ -249,15 +258,6 @@
     },
     {
       "productnaam": "Jumbo Fruitmix Frambozendressing 400 g",
-      "korting_tekst": "25% korting",
-      "actieprijs": null,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Fruitmix Hot Honeydressing 400 g",
       "korting_tekst": "25% korting",
       "actieprijs": null,
       "inhoud_waarde": 400,
@@ -2984,19 +2984,19 @@
       "categorie": null
     },
     {
-      "productnaam": "Ola IJsjes Kids Mix 8 stuks 398 ml",
+      "productnaam": "Magnum Mini IJs Double Caramel & Almond Billionaire 6 stuks 6 x 55ml",
       "korting_tekst": "25% korting",
       "actieprijs": null,
-      "inhoud_waarde": 398,
+      "inhoud_waarde": 55,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 8 t/m di 14 jul",
       "categorie": null
     },
     {
-      "productnaam": "Magnum Mini IJs Double Caramel & Almond Billionaire 6 stuks 6 x 55ml",
+      "productnaam": "Ola Guuud IJs Greek Style Yoghurt Raspberry 3 x 70 ml",
       "korting_tekst": "25% korting",
       "actieprijs": null,
-      "inhoud_waarde": 55,
+      "inhoud_waarde": 70,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 8 t/m di 14 jul",
       "categorie": null
@@ -3015,15 +3015,6 @@
       "korting_tekst": "25% korting",
       "actieprijs": null,
       "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Magnum Mini IJs Almond 6 x 55 ml",
-      "korting_tekst": "25% korting",
-      "actieprijs": null,
-      "inhoud_waarde": 55,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 8 t/m di 14 jul",
       "categorie": null
@@ -3061,15 +3052,6 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola IJs Raket 12 stuks 12 x 55ml",
-      "korting_tekst": "25% korting",
-      "actieprijs": null,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "ml",
       "geldig_tekst": "wo 8 t/m di 14 jul",
       "categorie": null
     },
@@ -3867,6 +3849,15 @@
     },
     {
       "productnaam": "Aquafresh White & Shine Tandpasta 75 ML",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 1 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Complete Care Original 75 ML",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 3.99,
       "inhoud_waarde": 75,
@@ -5225,6 +5216,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Oral-B Pro Kids Elektrische Tandenborstel, Lion King voor Kinderen Vanaf 3 Jaar",
+      "korting_tekst": "2+3 gratis",
+      "actieprijs": 39.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
       "productnaam": "Oral-B Pro Sensitive Clean Opzetborstels, 4 Stuks",
       "korting_tekst": "2+3 gratis",
       "actieprijs": 27.99,
@@ -5465,15 +5465,6 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "wo 18 mrt t/m di 4 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mevr. Kitty Badkamerreiniger Eucalyptus 1 L",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 1 t/m di 14 jul",
       "categorie": null
     },
     {

@@ -2,143 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-12T15:38:54.661136+00:00",
+  "updated_at": "2026-07-13T09:29:25.467902+00:00",
   "deals": [
-    {
-      "productnaam": "1 de Beste Geschilde ananas",
-      "korting_tekst": "Van € 2,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Biefstukreepjes",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Firat Turkse pizza",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pastasalade",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vruchtensoezen",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zalmfilet met huid",
-      "korting_tekst": "Van € 8,79 voor € 7,99",
-      "actieprijs": 7.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aperol",
-      "korting_tekst": null,
-      "actieprijs": 15.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Casa Defrà Prosecco",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Buitenlandse kaas",
-      "korting_tekst": "Van € 2,29 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Kaasblokjes",
-      "korting_tekst": "Van € 2,39 voor € 1,59",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 130,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Disaronno Originale",
-      "korting_tekst": null,
-      "actieprijs": 22.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mediterraneo ovenbrood",
-      "korting_tekst": "Van € 1,99 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 215,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Paolo grissini of dips",
-      "korting_tekst": "Van € 1,99 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Geschilde ananas",
-      "korting_tekst": "Van € 2,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Paolo grissini of dips",
-      "korting_tekst": "Van € 1,99 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
     {
       "productnaam": "1 de Beste IJsbergsla",
       "korting_tekst": "Van € 1,19 voor € 0,89",
@@ -239,6 +104,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Hollandse bloemkool",
+      "korting_tekst": "Van € 1,69 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "8 - 14 jul",
+      "categorie": null
+    },
+    {
       "productnaam": "Hollandse spitskool",
       "korting_tekst": "Van € 1,69 voor € 1,49",
       "actieprijs": 1.49,
@@ -311,33 +185,6 @@
       "categorie": null
     },
     {
-      "productnaam": "De Vleeschmeesters Biefstukreepjes",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Firat Turkse pizza",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zalmfilet met huid",
-      "korting_tekst": "Van € 8,79 voor € 7,99",
-      "actieprijs": 7.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "De Vleeschmeesters Gemarineerde lapjes",
       "korting_tekst": "Van € 3,85 voor € 2,99",
       "actieprijs": 2.99,
@@ -375,7 +222,7 @@
     },
     {
       "productnaam": "Valess",
-      "korting_tekst": "Van € 3,55 voor € 2,49",
+      "korting_tekst": "Van € 3,65 voor € 2,49",
       "actieprijs": 2.49,
       "inhoud_waarde": 180,
       "inhoud_unit": "gram",
@@ -407,15 +254,6 @@
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vruchtensoezen",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 12 jul",
       "categorie": null
     },
     {
@@ -497,15 +335,6 @@
       "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Buitenlandse kaas",
-      "korting_tekst": "Van € 2,29 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
       "categorie": null
     },
     {
@@ -596,24 +425,6 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aperol",
-      "korting_tekst": null,
-      "actieprijs": 15.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Casa Defrà Prosecco",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 12 jul",
       "categorie": null
     },
     {
@@ -776,42 +587,6 @@
       "inhoud_waarde": 430,
       "inhoud_unit": "ml",
       "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pastasalade",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bits & Bites Kaasblokjes",
-      "korting_tekst": "Van € 2,39 voor € 1,59",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 130,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mediterraneo ovenbrood",
-      "korting_tekst": "Van € 1,99 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 215,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Paolo grissini of dips",
-      "korting_tekst": "Van € 1,99 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 12 jul",
       "categorie": null
     },
     {
