@@ -19,6 +19,16 @@ where.
   match). This is precomputed locally (`python backend/main.py
   --match-ingredients`, needs Ollama) into a static JSON file — like the
   rest of this app, the deployed site never makes a live LLM/API call.
+- **Pantry staples** (`/#/pantry`): a persistent list of ingredients you
+  always have (onion, garlic, oil, ...) — auto-checked on every recipe page
+  and excluded from cost estimates, since you don't need to buy them. Works
+  fully in production (just localStorage, no LLM) — unlike the Fridge/Editor
+  chat tools below, which need a locally-running dev server.
+- **Shopping list** (`/#/shopping-list`): pick which recipes you're making
+  this week and get one combined list, merged and grouped by store, with a
+  running total.
+- **Installable**: the site is a PWA — "Add to Home Screen" gives it an app
+  icon, and recipes/previously-loaded deal data stay available offline.
 
 ## Adding a recipe
 
