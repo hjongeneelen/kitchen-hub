@@ -6,6 +6,7 @@ import Editor from './pages/Editor.jsx'
 import Fridge from './pages/Fridge.jsx'
 import Deals from './pages/Deals.jsx'
 import Pantry from './pages/Pantry.jsx'
+import ShoppingList from './pages/ShoppingList.jsx'
 import ChatDrawer from './components/ChatDrawer.jsx'
 
 export default function App() {
@@ -17,6 +18,7 @@ export default function App() {
           <Route path="/recipe/:slug" element={<RecipeView />} />
           <Route path="/deals" element={<Deals />} />
           <Route path="/pantry" element={<Pantry />} />
+          <Route path="/shopping-list" element={<ShoppingList />} />
           {import.meta.env.DEV && <Route path="/editor" element={<Editor />} />}
           {import.meta.env.DEV && <Route path="/fridge" element={<Fridge />} />}
         </Routes>
