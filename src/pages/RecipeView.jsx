@@ -1,10 +1,12 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
 import { getRecipeBySlug, localizeRecipe } from '../lib/recipes'
 import { scaleIngredientText } from '../lib/scaleText'
 import { useTranslation } from '../hooks/useLocale.jsx'
 import { useIngredientMatches } from '../hooks/useIngredientMatches'
 import { estimateRecipeCost } from '../lib/ingredientCost'
+import { usePantryStaples } from '../hooks/usePantryStaples.js'
+import { isStapleIngredient } from '../lib/pantry.js'
 import { formatPrice } from '../lib/dealFormat'
 import PortionScaler from '../components/PortionScaler.jsx'
 import CheckableItem from '../components/CheckableItem.jsx'
@@ -21,6 +23,7 @@ export default function RecipeView() {
   const [checkedIngredients, setCheckedIngredients] = useState({})
   const [checkedSteps, setCheckedSteps] = useState({})
   const ingredientMatches = useIngredientMatches()
+  const { staples } = usePantryStaples()
 
   const ratio = recipe ? portions / recipe.portions : 1
 
@@ -29,13 +32,31 @@ export default function RecipeView() {
     [recipe, ratio]
   )
 
+  // Matched against the base (English) ingredient text regardless of display
+  // language — always available even before the price-matching feature has
+  // ever run, unlike matching against ingredient-matches.json.
+  const isStapleAt = (i) => isStapleIngredient(baseRecipe?.ingredients?.[i], staples)
+
+  // Pre-check ingredients the user always has on hand. Runs again whenever
+  // the recipe or the staples list changes, so switching recipes or editing
+  // staples doesn't leave stale checks from a previous recipe.
+  useEffect(() => {
+    if (!baseRecipe) return
+    const initial = {}
+    baseRecipe.ingredients.forEach((line, i) => {
+      if (isStapleIngredient(line, staples)) initial[i] = true
+    })
+    setCheckedIngredients(initial)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [baseRecipe, staples])
+
   // Matched by index, not by text — ingredient-matches.json is keyed off the
   // base (English) "## Ingredients" section, but `recipe` here may be a
   // localized (translated) version with different text in the same order.
   const recipeIngredientMatches = recipe
     ? ingredientMatches?.recipes?.[recipe.slug]?.ingredients
     : null
-  const cost = recipe ? estimateRecipeCost(recipe.slug, ingredientMatches) : null
+  const cost = recipe ? estimateRecipeCost(recipe.slug, ingredientMatches, (line) => isStapleIngredient(line, staples)) : null
 
   if (!recipe) return <Navigate to="/" replace />
 
@@ -102,6 +123,7 @@ export default function RecipeView() {
             {scaledIngredients.map((text, i) => {
               const bestMatch = recipeIngredientMatches?.[i]?.matches?.[0]
               const isDeal = bestMatch?.bron === 'eigen-data'
+              const isStaple = isStapleAt(i)
               return (
                 <CheckableItem
                   key={i}
@@ -110,23 +132,32 @@ export default function RecipeView() {
                   onToggle={() => toggleIngredient(i)}
                   flagged
                   priceBadge={
-                    bestMatch && (
+                    isStaple ? (
                       <span
-                        title={
-                          isDeal
-                            ? `In de aanbieding: ${bestMatch.productnaam} — ${bestMatch.winkel}`
-                            : `Goedkoopste huidige prijs (geen aanbieding): ${bestMatch.productnaam} — ${bestMatch.winkel}, via supermarktscanner.nl`
-                        }
-                        className={
-                          'whitespace-nowrap rounded-full px-2 py-0.5 text-xs font-medium ' +
-                          (isDeal
-                            ? 'bg-terracotta-100 text-terracotta-700 dark:bg-terracotta-900/30 dark:text-terracotta-200'
-                            : 'bg-cream-200 text-charcoal-600 dark:bg-charcoal-600 dark:text-charcoal-100')
-                        }
+                        title="Staat op je vaste-voorraadlijst — telt niet mee in de kostenschatting"
+                        className="whitespace-nowrap rounded-full bg-cream-200 px-2 py-0.5 text-xs font-medium text-charcoal-500 dark:bg-charcoal-600 dark:text-charcoal-200"
                       >
-                        {isDeal && '🏷️ '}
-                        {formatPrice(bestMatch.actieprijs) ?? '—'} · {bestMatch.winkel}
+                        🏠 heb ik
                       </span>
+                    ) : (
+                      bestMatch && (
+                        <span
+                          title={
+                            isDeal
+                              ? `In de aanbieding: ${bestMatch.productnaam} — ${bestMatch.winkel}`
+                              : `Goedkoopste huidige prijs (geen aanbieding): ${bestMatch.productnaam} — ${bestMatch.winkel}, via supermarktscanner.nl`
+                          }
+                          className={
+                            'whitespace-nowrap rounded-full px-2 py-0.5 text-xs font-medium ' +
+                            (isDeal
+                              ? 'bg-terracotta-100 text-terracotta-700 dark:bg-terracotta-900/30 dark:text-terracotta-200'
+                              : 'bg-cream-200 text-charcoal-600 dark:bg-charcoal-600 dark:text-charcoal-100')
+                          }
+                        >
+                          {isDeal && '🏷️ '}
+                          {formatPrice(bestMatch.actieprijs) ?? '—'} · {bestMatch.winkel}
+                        </span>
+                      )
                     )
                   }
                 />

@@ -4,6 +4,8 @@ import { recipes, getAllTags, localizeRecipe } from '../lib/recipes'
 import { useTranslation } from '../hooks/useLocale.jsx'
 import { useIngredientMatches } from '../hooks/useIngredientMatches'
 import { estimateRecipeCost } from '../lib/ingredientCost'
+import { usePantryStaples } from '../hooks/usePantryStaples.js'
+import { isStapleIngredient } from '../lib/pantry.js'
 import RecipeCard from '../components/RecipeCard.jsx'
 import SearchBar from '../components/SearchBar.jsx'
 import TagFilter from '../components/TagFilter.jsx'
@@ -23,14 +25,16 @@ export default function Home() {
   const [sort, setSort] = useState('name')
   const allTags = useMemo(getAllTags, [])
   const ingredientMatches = useIngredientMatches()
+  const { staples } = usePantryStaples()
 
   const costBySlug = useMemo(() => {
+    const isStaple = (line) => isStapleIngredient(line, staples)
     const map = {}
     for (const recipe of recipes) {
-      map[recipe.slug] = estimateRecipeCost(recipe.slug, ingredientMatches)
+      map[recipe.slug] = estimateRecipeCost(recipe.slug, ingredientMatches, isStaple)
     }
     return map
-  }, [ingredientMatches])
+  }, [ingredientMatches, staples])
 
   const toggleTag = (tag) => {
     setActiveTags((prev) =>
@@ -105,6 +109,16 @@ export default function Home() {
           >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} className="h-5 w-5">
               <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 1.87-4.712 2.217-7.213a1.125 1.125 0 00-1.115-1.287H5.25M7.5 14.25L5.106 5.272M6 18.75a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z" />
+            </svg>
+          </Link>
+          <Link
+            to="/pantry"
+            title="Vaste voorraad"
+            aria-label="Vaste voorraad"
+            className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-terracotta-300/50 bg-cream-50 text-terracotta-600 shadow-sm transition hover:bg-cream-200 dark:border-charcoal-500 dark:bg-charcoal-700 dark:text-terracotta-300 dark:hover:bg-charcoal-600"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} className="h-5 w-5">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 9.75h16.5M4.5 9.75v9a1.5 1.5 0 001.5 1.5h12a1.5 1.5 0 001.5-1.5v-9M8.25 9.75V6a3.75 3.75 0 117.5 0v3.75" />
             </svg>
           </Link>
           {import.meta.env.DEV && (
