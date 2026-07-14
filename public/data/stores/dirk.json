@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-13T09:29:25.467902+00:00",
+  "updated_at": "2026-07-14T08:06:57.460682+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste IJsbergsla",
@@ -64,15 +64,6 @@
       "actieprijs": 1.79,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "XL watermeloen",
-      "korting_tekst": "Van € 3,69 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "8 - 14 jul",
       "categorie": null
     },
@@ -807,7 +798,7 @@
     },
     {
       "productnaam": "Robijn wasparfum",
-      "korting_tekst": null,
+      "korting_tekst": "Van € 6,49 voor € 2,99",
       "actieprijs": 2.99,
       "inhoud_waarde": 342,
       "inhoud_unit": "ml",

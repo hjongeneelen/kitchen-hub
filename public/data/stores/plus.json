@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-13T09:36:47.825661+00:00",
+  "updated_at": "2026-07-14T08:14:15.496455+00:00",
   "deals": [
     {
       "productnaam": "Slimpie Siroop",
@@ -44,15 +44,6 @@
       "productnaam": "Neutraal Kleine zoete appeltjes",
       "korting_tekst": null,
       "actieprijs": 1.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Bananen Fairtrade",
-      "korting_tekst": "0.99 PER KILO",
-      "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
@@ -131,25 +122,7 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Galia, Cantaloupe, Piel de sapo en watermeloen",
-      "korting_tekst": "1+1 GRATIS",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Kies & Mix Verse soep",
-      "korting_tekst": "2 VOOR 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
       "korting_tekst": "2 VOOR 5.50",
       "actieprijs": 5.5,
       "inhoud_waarde": null,
@@ -339,15 +312,6 @@
     },
     {
       "productnaam": "PLUS Kies & Mix Verse soep",
-      "korting_tekst": "2 VOOR 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
       "korting_tekst": "2 VOOR 5.50",
       "actieprijs": 5.5,
       "inhoud_waarde": null,

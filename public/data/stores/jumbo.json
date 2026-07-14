@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-13T09:36:37.590832+00:00",
+  "updated_at": "2026-07-14T08:14:05.781176+00:00",
   "deals": [
     {
       "productnaam": "Jumbo Groene Boeren Salade 295 g",
@@ -2138,15 +2138,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Pringles Texas Barbecuesaus 165 g",
-      "korting_tekst": "2 voor 3,50",
-      "actieprijs": 2.69,
-      "inhoud_waarde": 165,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo 8 t/m di 14 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "Pringles Team Cheese Burger Flavour Limited Edition 165 g",
       "korting_tekst": "2 voor 3,50",
       "actieprijs": 2.69,
@@ -2984,6 +2975,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Magnum Mini IJs Mix 6 stuks 6 x 55ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
       "productnaam": "Magnum Mini IJs Double Caramel & Almond Billionaire 6 stuks 6 x 55ml",
       "korting_tekst": "25% korting",
       "actieprijs": null,
@@ -3052,6 +3052,15 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "wo 8 t/m di 14 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola IJs Raket 12 stuks 12 x 55ml",
+      "korting_tekst": "25% korting",
+      "actieprijs": null,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "ml",
       "geldig_tekst": "wo 8 t/m di 14 jul",
       "categorie": null
     },
@@ -3974,15 +3983,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Parodontax Ultra Clean Tandpasta 75 ML",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 5.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "Aquafresh Coolmint Tandpasta 75 ML",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 2.99,
@@ -4244,15 +4244,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Listerine Mondspoeling Advanced White 500 ml",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 7.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "Listerine Professional Mondspoeling Frisse Adem+ 500 ml",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 9.99,
@@ -4292,15 +4283,6 @@
       "productnaam": "Listerine Professional Mondspoeling Tandvleesbescherming+ 500 ml",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 9.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 1 t/m di 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Listerine Total Care Tandbescherming Mondspoeling 6 in 1 Effect 500ML",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 7.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 1 t/m di 14 jul",

@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-13T09:29:24.051188+00:00",
+  "updated_at": "2026-07-14T08:06:55.621061+00:00",
   "deals": [
     {
       "productnaam": "DR. OETKER Big Americans",
@@ -599,6 +599,15 @@
       "categorie": "Snacks & Snoep"
     },
     {
+      "productnaam": "Verpakking met vier verse runderworstjes (saucijzen) van 400g.",
+      "korting_tekst": "Actieprijzen variëren van €2.",
+      "actieprijs": null,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
       "productnaam": "Beter Leven varkensworst in een verpakking.",
       "korting_tekst": "Actieprijzen variëren van €2.",
       "actieprijs": null,
@@ -851,6 +860,42 @@
       "categorie": "Groente & Fruit"
     },
     {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Avocado",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Paprikamix",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Hollandse kersen",
+      "korting_tekst": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
       "productnaam": "Tricolor kluitsla",
       "korting_tekst": null,
       "actieprijs": 0.89,
@@ -959,42 +1004,6 @@
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "HAK Potgroenten",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 370,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Friet",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Chicken Tonight",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 535,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Stuk Goudse 48+ kaas",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
       "productnaam": "Vakantiekaas jong belegen stuk",
       "korting_tekst": null,
       "actieprijs": 5.99,
@@ -1024,7 +1033,7 @@
     {
       "productnaam": "Saskia Bronwater",
       "korting_tekst": null,
-      "actieprijs": 1.75,
+      "actieprijs": 1.39,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,

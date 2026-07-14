@@ -2,6 +2,2176 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-07-13T09:37:05.644419+00:00",
-  "deals": []
+  "updated_at": "2026-07-14T08:14:38.316341+00:00",
+  "deals": [
+    {
+      "productnaam": "Schouderkarbonade",
+      "korting_tekst": "-28%",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Scharrel kippenbouten",
+      "korting_tekst": "-31%",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gemarineerde procureurlapjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.79,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verse worsten of gehaktballen Hongaarse stijl",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gemengd gehakt",
+      "korting_tekst": "-25%",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MY VAY Kaasschnitzels",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "GOLDEN SEAFOOD Gerookte Noorse zalm",
+      "korting_tekst": "-39%",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Nederlandse aardbeien",
+      "korting_tekst": "-20%",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Citroenen",
+      "korting_tekst": "-18%",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Galia- of cantaloupe meloen",
+      "korting_tekst": "-40%",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wilde perziken",
+      "korting_tekst": "-43%",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mandarijnen",
+      "korting_tekst": "-13%",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Watermeloen part",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Trostomaten",
+      "korting_tekst": "-56%",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DAYLICIOUS Snackwortels",
+      "korting_tekst": "-22%",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Witlof",
+      "korting_tekst": "-20%",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Paksoi",
+      "korting_tekst": "-14%",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DAYLICIOUS Saladeschotel",
+      "korting_tekst": "-16%",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 295,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MELKUNIE Houdbare melk",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mini-roomboterrozijnenbollen",
+      "korting_tekst": "-20%",
+      "actieprijs": 1.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "IGLO Proteïne maaltijd",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.39,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "OLA 4-pack Magnum",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "YETI Dynamite of diablo ijs",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MONA Pudding",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DAYLICIOUS Olijven met kruiden of knoflook",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wilde Wietze dip",
+      "korting_tekst": "-21%",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DéLIFIN Gekookte achterham",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MILSANI Goudse kaasplakken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CALVé Pindakaas",
+      "korting_tekst": "-40%",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "BRITISH ISLES Sinaasappeljam",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "GRANDESSA Jam",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "KELLOGS Ontbijtgranen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 620,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "SERVERO 6-pack slurpfruit",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "BOLLETJE Bagelcrackers sesam",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "BLUE BAND Halvarine of goede start",
+      "korting_tekst": "-25%",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "BLUEBAND Vloeibaar of wikkel voor koken, bakken en braden",
+      "korting_tekst": "-28%",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HAK Groente en appelmoes",
+      "korting_tekst": null,
+      "actieprijs": 2.0,
+      "inhoud_waarde": 370,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CALVé Saus",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "PORTLAND Kruidenzout",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "SANTA MARIA Kruidenmix",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.65,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "BISCOTTO Coffee biscuits",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wafelcakes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 195,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Zure matten of stiften",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MEENK Drop",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "TRADER JOE'S Pinda-cashewmix",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "ASIA GREEN GARDEN Pindamix sriracha of wasabi",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CHIO Chips",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 170,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "RIVER 6-pack lemonade",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "RIVER Cassis",
+      "korting_tekst": "-12%",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LIPTON Ice tea",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chocomel of Fristi",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.59,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "RAAK Limonadesiroop zero",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "BARISSIMO Filterkoffie goud",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "BARISSIMO Koffiepads extra dark roast",
+      "korting_tekst": "-40%",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "WESTMINSTER Thee",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HEINEKEN OF AMSTEL 6-pack 0.0 pilsener of radler",
+      "korting_tekst": "-50%",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "6-pack pilsener",
+      "korting_tekst": "-25%",
+      "actieprijs": 4.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Pinot Grigio delle Venezie wit en rosé",
+      "korting_tekst": null,
+      "actieprijs": 6.5,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Pinot Grigio delle Venezie, Primitivo en Negroamaro",
+      "korting_tekst": null,
+      "actieprijs": 6.5,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "PREMIUM DUTCH Mixdrink, cocktail of hard iced tea",
+      "korting_tekst": null,
+      "actieprijs": 2.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LACURA Bodycrème of douchefoam",
+      "korting_tekst": "-23%",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LACURA Handzeep",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MULTINORM Vitaminegummies",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MULTINORM Matcha energy gummy bears",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MULTINORM Collageenshots",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LACURA Collageenpoeder",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "ARIEL 4-in-1 pods color",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "ROBIJN Wasverzachter",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DREFT Vaatwascapsules",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "POWER FORCE 3-pack toiletschuimreiniger",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DUBRO Reinigingsdoekjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UNA Dikbleek eucalyptus",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Zoete hartjes of mini-panzerotti",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Lasagne bolognese",
+      "korting_tekst": "-18%",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Pizzabroodjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 445,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Breekbrood",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Mortadella Bologna",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Prosciutto cotto",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Italiaanse vleeswaren",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Salsiccia",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Ansjovis",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Gran Moravia vlokken of geraspt",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Gran Moravia",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Pizzasaus",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.09,
+      "inhoud_waarde": 290,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Verse olijven",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Mozzarella maxi",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Stracciatella di burrata",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 140,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Profiteroles of tiramisu",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Pistacherepen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Pistachecrème",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Italiaanse zoete spread",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Torta tiramisu",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Cantuccini",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Pizzini crackers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Mini-crackers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Mini-grissini",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Frollini",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Taralli",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Italiaanse salami",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Tiroler spek",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Zuid-Tiroler spek",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.59,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Guanciale",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Prosciutto crudo",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Salsiccia piccante stagionata",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Balsamicocrème",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Italiaanse kruiden",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA OF PRIMOAMORE Olijfolie",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Italiaanse pasta",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Tortelloni",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Ravioli",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Lumaconi of fusilloni",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Cannelloni",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Olijfbladerenpasta",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Farfalle fantasia",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Lasagne",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Mini-pinsa's",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Panini's",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Italiaanse stijl geraspte kaas",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.39,
+      "inhoud_waarde": 170,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Pomodori secchi",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Siciliaanse bruschetta",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Bruschetta-spread",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Olijven",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Tonno per pasta",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Antipasti",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA NOBILE Antipasti di mare",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CUCINA Pizzabloem",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "BARISSIMO Koffiebonen Milano crema of Siciliano espresso",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 12.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "BIRRA MORETTI 6-pack bier",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chiaretto di Bardolino Classico",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Primitivo Rosato Puglia IGT",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Spritz",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Rosati Spritz aperitivo",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Grande Alberone rosé",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "AROMI DEL SUD Zibibbo Terre Siciliane Igt",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lavendel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "6-pack lavendel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Vaste zomerplant",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "6-pack Chrysanten",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Vaste plant",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Kardinaalshoed",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 8.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sempervivum in kruik",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Platycodon",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION Shortama",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION Zomerjurk",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION T-shirt",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LILY & DAN T-shirt",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION Viscose broek",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LILY & DAN Denim short",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION Viscose short",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION 2-pack shorts of fietsshorts",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "PIERRE CARDIN Zwemshort",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 12.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "PIERRE CARDIN 2-pack boxershorts",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 7.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "SLOGGI 3-pack midi- of maxi-slips",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 12.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "PIERRE CARDIN 3-pack sokken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION Instappers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 11.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LILY & DAN Sneakers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION Ultralichte slippers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "4-pack cocktailglazen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CRANE Koelbox 20 l",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 14.99,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "liter",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HOME CREATION Tafellaken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LIVE IN STYLE Picknickkoeltas",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HOME CREATION Kunstplant",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HOME CREATION Keramische vaas",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HOME CREATION Geurkaars in keramiek",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CROFTON 3-pack theedoeken met wafelstructuur",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HOME CREATION Kokosdeurmat",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CROFTON Kom- en vergietset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "JOIE IJsblokjesvorm",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CROFTON Broodtrommel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CROFTON 3-delige kinderserviesset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CROFTON Cafetière of espressomaker",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "JOIE Pizza- of pastakeukenaccessoires",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CROFTON Aardappelschilmes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NOVITESSE Jersey hoeslaken",
+      "korting_tekst": null,
+      "actieprijs": 7.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NOVITESSE Dekbedovertrek seersucker",
+      "korting_tekst": null,
+      "actieprijs": 14.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Pitloze rode druiven",
+      "korting_tekst": "-44%",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Courgettes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Scharrelkipshoarma",
+      "korting_tekst": "-16%",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Black Angus diamantsteak",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ontbijtspek",
+      "korting_tekst": "-23%",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gebraden gehakt",
+      "korting_tekst": "-36%",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "POTATO KING Rösti of aardappelpannenkoekjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "PRéSIDENT Brie",
+      "korting_tekst": "-33%",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Groene pesto of kaas-pestodip",
+      "korting_tekst": "-14%",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "RIO D'ORO Bloedsinaasappelsap",
+      "korting_tekst": "-11%",
+      "actieprijs": 2.39,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "THEUNISSE Kokosbrood met chocolade",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NISSIN Soba protein noodles",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 93,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "PRINCES Sardines in olie",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "KNORR 3-pack Cup-a-Soup",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NATURE VALLEY Proteïnerepen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LIGA Belvita koekjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "5-pack Bounty, Mars, Snickers of Twix",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MILKA Chocolade",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "RED BAND Snoep",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HARLEKIJNTJES Drop",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CROKY Tortillachips",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "OASIS Drink",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "6-pack Spa fruit",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UILTJE OF CORNET Alcoholvrij bier",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LA CHOUFFE OF TRIPEL KARMELIET 4- of 6-pack Belgisch bier",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DUVEL 4-pack 6.66%",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.66,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "SMIRNOFF Ice mixdrink",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "FA Douchegel",
+      "korting_tekst": null,
+      "actieprijs": 3.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HANSAPLAST Pleisters",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "OMO Wasmiddel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "AJAX Allesreiniger",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NOVITESSE Reis-, rug-, knie- of zitkussen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NOVITESSE Stoelverhoger",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 11.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Douchekruk",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 24.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "OVIMAR Douche- en toiletsteunstang rvs",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NOVITESSE Bad- en wc-mat",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Washulpassortiment",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NOVITESSE Waterdicht hoeslaken",
+      "korting_tekst": null,
+      "actieprijs": 9.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NOVITESSE Waterdichte matrasbeschermer",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bewegingshulpmiddel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION 3-pack diabetessokken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "AMBIANO Meetapparatuur",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 12.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "VARTA 8-pack gehoorbatterijen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION Leesbril met koker",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION Nacht-, loepbril of overzetzonnebril",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "UP2FASHION Casual instapmuilen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 14.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CRANE Mini-fietstrainer",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 24.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "JOIE Keukengerei",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LILY & DAN Slippers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LILY & DAN 3-delige pyjamaset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LILY & DAN Zomerset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LILY & DAN 3-pack sokken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "COCONUT GROVE Kinderzwemset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 7.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "TOYLINO Waterspeelgoed",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "TOYLINO 6-pack herbruikbare waterballonnen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "NOVITESSE Microvezelstrandhanddoek XXL",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 8.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CRANE Strandaccessoires",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CRANE Strandsportassortiment",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CRANE Buitenspeelgoed",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CRANE Holografische voet- of volleybal",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 8.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "LILY & DAN Sportset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CRANE Trainingsuitrusting",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MAGINON Quadrocopter drone",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 34.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MAGINON Draadloze koptelefoon",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 19.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "AMBIANO Mini-speaker",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    }
+  ]
 }
