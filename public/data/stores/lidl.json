@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-14T08:06:55.621061+00:00",
+  "updated_at": "2026-07-15T08:12:15.588218+00:00",
   "deals": [
     {
       "productnaam": "DR. OETKER Big Americans",
@@ -140,7 +140,7 @@
       "categorie": "Dranken"
     },
     {
-      "productnaam": "Sets van heldere glazen potten met metalen deksels en groene fermentatieventielen.",
+      "productnaam": "Bissell Oxygen Boost reinigingsmiddel voor het verwijderen van vlekken.",
       "korting_tekst": null,
       "actieprijs": null,
       "inhoud_waarde": null,
@@ -149,7 +149,7 @@
       "categorie": "Dranken"
     },
     {
-      "productnaam": "Twee transparante SodaStream flessen, gevuld met koolzuurhoudend water, met zwarte bases.",
+      "productnaam": "Sets van heldere glazen potten met metalen deksels en groene fermentatieventielen.",
       "korting_tekst": null,
       "actieprijs": null,
       "inhoud_waarde": null,
@@ -860,42 +860,6 @@
       "categorie": "Groente & Fruit"
     },
     {
-      "productnaam": "Blauwe bessen",
-      "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Avocado",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Paprikamix",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Hollandse kersen",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
       "productnaam": "Tricolor kluitsla",
       "korting_tekst": null,
       "actieprijs": 0.89,
@@ -1576,7 +1540,7 @@
       "actieprijs": 5.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1585,7 +1549,7 @@
       "actieprijs": 3.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1594,7 +1558,7 @@
       "actieprijs": 5.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1603,7 +1567,7 @@
       "actieprijs": 2.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1612,8 +1576,80 @@
       "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 15/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
+    },
+    {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Avocado",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Paprikamix",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Hollandse kersen",
+      "korting_tekst": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "HAK Potgroenten",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 370,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Friet",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Chicken Tonight",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 535,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Stuk Goudse 48+ kaas",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
     },
     {
       "productnaam": "Buitenschaal keramiek",
