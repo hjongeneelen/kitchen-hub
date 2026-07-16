@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-15T08:17:29.313029+00:00",
+  "updated_at": "2026-07-16T08:20:05.581938+00:00",
   "deals": [
     {
       "productnaam": "Nederlandse aardbeien",
@@ -990,15 +990,6 @@
       "korting_tekst": "2e halve prijs",
       "actieprijs": 2.49,
       "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo 15 t/m di 21 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo's Labneh met Sinaasappelsmaak en Basilicumolie 125 g",
-      "korting_tekst": "2e halve prijs",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo 15 t/m di 21 jul",
       "categorie": null

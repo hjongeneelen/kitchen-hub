@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-15T08:12:15.588218+00:00",
+  "updated_at": "2026-07-16T08:15:07.549926+00:00",
   "deals": [
     {
       "productnaam": "DR. OETKER Big Americans",
@@ -662,7 +662,7 @@
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Zes stapels schuurpapier met gaten.",
+      "productnaam": "Een groene en grijze borstel met rode stippen voor een stofzuiger.",
       "korting_tekst": "Actieprijzen variëren van €2.",
       "actieprijs": null,
       "inhoud_waarde": null,
@@ -671,7 +671,7 @@
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Witte matrastopper met gewatteerde secties",
+      "productnaam": "Zes stapels schuurpapier met gaten.",
       "korting_tekst": "Actieprijzen variëren van €2.",
       "actieprijs": null,
       "inhoud_waarde": null,
@@ -860,6 +860,42 @@
       "categorie": "Groente & Fruit"
     },
     {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Avocado",
+      "korting_tekst": null,
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Paprikamix",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
+      "productnaam": "Hollandse kersen",
+      "korting_tekst": null,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Groente & Fruit"
+    },
+    {
       "productnaam": "Tricolor kluitsla",
       "korting_tekst": null,
       "actieprijs": 0.89,
@@ -966,42 +1002,6 @@
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Vakantiekaas jong belegen stuk",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Zuivel & Eieren"
-    },
-    {
-      "productnaam": "HEINZ Sandwich Spread",
-      "korting_tekst": null,
-      "actieprijs": 1.79,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Brood & Bakkerij"
-    },
-    {
-      "productnaam": "Fruitdrink",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
-    },
-    {
-      "productnaam": "Saskia Bronwater",
-      "korting_tekst": null,
-      "actieprijs": 1.39,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": "Dranken"
     },
     {
       "productnaam": "COOLBEST FruitDrink",
@@ -1580,73 +1580,109 @@
       "categorie": null
     },
     {
-      "productnaam": "Blauwe bessen",
+      "productnaam": "Speklapjes",
       "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Avocado",
-      "korting_tekst": null,
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Paprikamix",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Hollandse kersen",
-      "korting_tekst": null,
-      "actieprijs": 2.79,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "HAK Potgroenten",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 370,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Groente & Fruit"
-    },
-    {
-      "productnaam": "Friet",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Diepvries"
-    },
-    {
-      "productnaam": "Chicken Tonight",
-      "korting_tekst": null,
-      "actieprijs": 1.29,
-      "inhoud_waarde": 535,
+      "actieprijs": 6.99,
+      "inhoud_waarde": 800,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     },
     {
-      "productnaam": "Stuk Goudse 48+ kaas",
+      "productnaam": "Kipdijfilet",
       "korting_tekst": null,
       "actieprijs": 3.99,
-      "inhoud_waarde": 450,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Braadworsten",
+      "korting_tekst": null,
+      "actieprijs": 4.19,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Spekburger",
+      "korting_tekst": null,
+      "actieprijs": 2.02,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Procureur gekruid",
+      "korting_tekst": null,
+      "actieprijs": 7.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Zigeunergehaktschnitzels",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Diepvries"
+    },
+    {
+      "productnaam": "Knakworsten XXL",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 480,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Zalmspiesen gemarineerd",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "Protein yoghurt",
+      "korting_tekst": null,
+      "actieprijs": 0.69,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "Kipfilet naturel",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Vlees & Vis"
+    },
+    {
+      "productnaam": "OPTIMEL Yoghurt",
+      "korting_tekst": null,
+      "actieprijs": 1.19,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": "Zuivel & Eieren"
+    },
+    {
+      "productnaam": "ALMHOF Fruityoghurt",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"

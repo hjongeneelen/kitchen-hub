@@ -2,7 +2,7 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-07-15T08:18:05.523214+00:00",
+  "updated_at": "2026-07-16T08:20:40.325848+00:00",
   "deals": [
     {
       "productnaam": "Schouderkarbonade",
@@ -1285,7 +1285,7 @@
     {
       "productnaam": "Platycodon",
       "korting_tekst": "OP=OP",
-      "actieprijs": 1.79,
+      "actieprijs": 1.75,
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,

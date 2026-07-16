@@ -2,8 +2,17 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-15T08:12:18.366177+00:00",
+  "updated_at": "2026-07-16T08:15:09.064652+00:00",
   "deals": [
+    {
+      "productnaam": "1 de Beste Watermeloen part",
+      "korting_tekst": "Van € 1,99 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null
+    },
     {
       "productnaam": "Franse frites",
       "korting_tekst": "Van € 1,89 voor € 0,99",
