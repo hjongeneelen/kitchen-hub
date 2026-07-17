@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-16T08:20:05.581938+00:00",
+  "updated_at": "2026-07-17T08:16:49.741358+00:00",
   "deals": [
     {
       "productnaam": "Nederlandse aardbeien",
@@ -1958,15 +1958,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Mora Oven & Airfryer Nacho Cheese bites 12 x 23 g",
-      "korting_tekst": "30% korting",
-      "actieprijs": null,
-      "inhoud_waarde": 23,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo 15 t/m di 21 jul",
-      "categorie": null
-    },
-    {
       "productnaam": "Mora Oven & Airfryer Rendang Bitterbal Mini's 300g",
       "korting_tekst": "30% korting",
       "actieprijs": null,
@@ -2565,6 +2556,15 @@
       "korting_tekst": "1+1 gratis",
       "actieprijs": 4.99,
       "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo 15 t/m di 28 jul",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dove Advanced Care Verzorgende Douchegel Nourishing Care 400 ml",
+      "korting_tekst": "1+1 gratis",
+      "actieprijs": 9.79,
+      "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",
       "categorie": null
@@ -3500,15 +3500,6 @@
       "productnaam": "Sensodyne Complete Protection Whitening 75 ML",
       "korting_tekst": "1+1 gratis",
       "actieprijs": 7.29,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo 15 t/m di 28 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandvlees Bescherming 75 ml Tube",
-      "korting_tekst": "1+1 gratis",
-      "actieprijs": 5.79,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo 15 t/m di 28 jul",

@@ -2,7 +2,7 @@
   "store": "Lidl",
   "slug": "lidl",
   "mode": "api",
-  "updated_at": "2026-07-16T08:15:07.549926+00:00",
+  "updated_at": "2026-07-17T08:11:41.765533+00:00",
   "deals": [
     {
       "productnaam": "DR. OETKER Big Americans",
@@ -25,7 +25,7 @@
     {
       "productnaam": "CAMPINA Langlekker volle of halfvolle melk",
       "korting_tekst": null,
-      "actieprijs": 0.85,
+      "actieprijs": 0.75,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
@@ -961,7 +961,7 @@
     {
       "productnaam": "Appelflap",
       "korting_tekst": null,
-      "actieprijs": 0.59,
+      "actieprijs": 0.44,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
@@ -1580,42 +1580,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Speklapjes",
-      "korting_tekst": null,
-      "actieprijs": 6.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Kipdijfilet",
-      "korting_tekst": null,
-      "actieprijs": 3.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Braadworsten",
-      "korting_tekst": null,
-      "actieprijs": 4.19,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
-      "productnaam": "Spekburger",
-      "korting_tekst": null,
-      "actieprijs": 2.02,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": "Vlees & Vis"
-    },
-    {
       "productnaam": "Procureur gekruid",
       "korting_tekst": null,
       "actieprijs": 7.99,
@@ -1688,12 +1652,48 @@
       "categorie": "Zuivel & Eieren"
     },
     {
+      "productnaam": "DE RUIJTER Kleintjes",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "PENOTTI Speculoos",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Snacks & Snoep"
+    },
+    {
+      "productnaam": "WASA Crackers",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": "Brood & Bakkerij"
+    },
+    {
+      "productnaam": "Nasi, bami, kipsaté of babi pangang",
+      "korting_tekst": null,
+      "actieprijs": 3.39,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Buitenschaal keramiek",
       "korting_tekst": null,
       "actieprijs": 9.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": "Huishouden"
     },
     {
@@ -1702,7 +1702,7 @@
       "actieprijs": 8.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1711,7 +1711,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1720,7 +1720,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": "Zuivel & Eieren"
     },
     {
@@ -1729,7 +1729,7 @@
       "actieprijs": 6.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1738,7 +1738,7 @@
       "actieprijs": 2.79,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": "Dranken"
     },
     {
@@ -1747,7 +1747,7 @@
       "actieprijs": 3.74,
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -1756,7 +1756,7 @@
       "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Alleen in de winkel vanaf 17/07 - 19/07",
+      "geldig_tekst": null,
       "categorie": "Vlees & Vis"
     }
   ]
