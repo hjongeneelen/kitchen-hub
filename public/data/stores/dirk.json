@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-17T08:11:43.418273+00:00",
+  "updated_at": "2026-07-18T07:51:58.401476+00:00",
   "deals": [
     {
       "productnaam": "1 de Beste Gyros rollade",
@@ -303,7 +303,7 @@
     },
     {
       "productnaam": "De Vleeschmeesters Rundergehakt",
-      "korting_tekst": "Van € 3,99 voor € 3,79",
+      "korting_tekst": "Van € 3,89 voor € 3,79",
       "actieprijs": 3.79,
       "inhoud_waarde": null,
       "inhoud_unit": null,

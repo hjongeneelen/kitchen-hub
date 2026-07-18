@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-17T08:16:59.571809+00:00",
+  "updated_at": "2026-07-18T07:57:30.921271+00:00",
   "deals": [
     {
       "productnaam": "PLUS Nectarines, perziken, wilde perziken en abrikozen",
@@ -288,15 +288,6 @@
       "korting_tekst": null,
       "actieprijs": 1.99,
       "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Snoeptomaten",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
       "categorie": null

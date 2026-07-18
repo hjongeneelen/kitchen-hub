@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "api",
-  "updated_at": "2026-07-17T08:16:49.741358+00:00",
+  "updated_at": "2026-07-18T07:57:20.212728+00:00",
   "deals": [
     {
       "productnaam": "Nederlandse aardbeien",
@@ -1666,15 +1666,6 @@
       "actieprijs": null,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo 15 t/m di 21 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Crosta Mollica Flatbread Knoflook & Mozzarella 229g",
-      "korting_tekst": "30% korting",
-      "actieprijs": null,
-      "inhoud_waarde": 229,
-      "inhoud_unit": "gram",
       "geldig_tekst": "wo 15 t/m di 21 jul",
       "categorie": null
     },
