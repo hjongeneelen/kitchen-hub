@@ -1,0 +1,17 @@
+{
+  "store": "Dekamarkt",
+  "slug": "dekamarkt",
+  "mode": "scan",
+  "updated_at": "2026-07-18T14:59:18.522960+00:00",
+  "deals": [
+    {
+      "productnaam": "Flowerfarm Bakken zonder palmolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    }
+  ]
+}

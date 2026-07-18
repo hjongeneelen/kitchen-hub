@@ -173,9 +173,8 @@ def _categorize_batch(client: OpenAI, model: str, names: List[str], _depth: int 
 def categorize_deals(deals: List[DealItem], client: Optional[OpenAI] = None, model: Optional[str] = None) -> int:
     """
     Assign `.categorie` on each DealItem in place, via the local LLM, in
-    batches of _BATCH_SIZE. Deals that already have a categorie (e.g. Lidl,
-    which reads it directly from the store's own category taxonomy — see
-    modules/lidl_connector.py) are left untouched and don't cost an LLM call.
+    batches of _BATCH_SIZE. Deals that already have a categorie left over
+    from a previous run are left untouched and don't cost an LLM call.
     Returns the number of deals newly tagged. Never raises — deals that fail
     to categorize are just left as None.
     """

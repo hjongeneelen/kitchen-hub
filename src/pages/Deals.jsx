@@ -2,6 +2,8 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useDeals } from '../hooks/useDeals.js'
 import { formatDateTime } from '../lib/dealFormat'
+import { useTranslation } from '../hooks/useLocale.jsx'
+import { localeTag } from '../lib/translations'
 import DarkModeToggle from '../components/DarkModeToggle.jsx'
 import StoreFilterBar from '../components/deals/StoreFilterBar.jsx'
 import CategoryFilterBar from '../components/deals/CategoryFilterBar.jsx'
@@ -10,6 +12,7 @@ import DealGrid from '../components/deals/DealGrid.jsx'
 
 export default function Deals() {
   const { loading, error, generatedAt, stores, deals } = useDeals()
+  const { locale, t } = useTranslation()
 
   const [selectedStores, setSelectedStores] = useState(new Set())
   const [selectedCategories, setSelectedCategories] = useState(new Set())
@@ -86,17 +89,18 @@ export default function Deals() {
         }
         case 'store-asc':
           return (
-            a.storeName.localeCompare(b.storeName, 'nl') ||
-            a.productnaam.localeCompare(b.productnaam, 'nl')
+            a.storeName.localeCompare(b.storeName, locale) ||
+            a.productnaam.localeCompare(b.productnaam, locale)
           )
         default:
           return 0
       }
     })
-  }, [deals, selectedStores, selectedCategories, query, sort])
+  }, [deals, selectedStores, selectedCategories, query, sort, locale])
 
   const scrapedStoreCount = stores.filter((s) => s.deal_count > 0 && s.updated_at !== null).length
   const updated = formatDateTime(generatedAt)
+  const updatedSuffix = updated ? t('updatedAt', { time: updated }) : ''
 
   return (
     <div className="mx-auto min-h-screen max-w-5xl px-4 pb-16 pt-6">
@@ -107,20 +111,23 @@ export default function Deals() {
           </span>
           <div>
             <h1 className="text-lg font-bold leading-tight text-terracotta-600 dark:text-terracotta-300">
-              Aanbiedingen
+              {t('dealsTitle')}
             </h1>
             <p className="text-xs text-charcoal-400 dark:text-charcoal-200">
-              {deals.length.toLocaleString('nl-NL')} aanbiedingen &middot; {scrapedStoreCount} van{' '}
-              {stores.length} winkels gescand
-              {updated ? ` · bijgewerkt ${updated}` : ''}
+              {t('dealsSummary', {
+                n: deals.length.toLocaleString(localeTag(locale)),
+                scanned: scrapedStoreCount,
+                total: stores.length,
+                updatedSuffix,
+              })}
             </p>
           </div>
         </div>
         <div className="flex items-center gap-2">
           <Link
             to="/"
-            title="Terug naar recepten"
-            aria-label="Terug naar recepten"
+            title={t('backToRecipes')}
+            aria-label={t('backToRecipes')}
             className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-terracotta-300/50 bg-cream-50 text-terracotta-600 shadow-sm transition hover:bg-cream-200 dark:border-charcoal-500 dark:bg-charcoal-700 dark:text-terracotta-300 dark:hover:bg-charcoal-600"
           >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} className="h-5 w-5">
@@ -133,7 +140,7 @@ export default function Deals() {
 
       {error && (
         <div className="mb-6 rounded-xl border border-terracotta-300/70 bg-terracotta-50 px-4 py-3 text-sm text-terracotta-700 dark:border-terracotta-700/50 dark:bg-terracotta-900/20 dark:text-terracotta-300">
-          Er ging iets mis bij het laden van de data: {error}
+          {t('dealsLoadError', { error })}
         </div>
       )}
 
@@ -150,7 +157,7 @@ export default function Deals() {
         <div className="flex flex-col gap-6">
           <section className="flex flex-col gap-3">
             <h2 className="text-sm font-semibold uppercase tracking-wide text-charcoal-400 dark:text-charcoal-300">
-              Winkels
+              {t('stores')}
             </h2>
             <StoreFilterBar
               stores={stores}
@@ -163,7 +170,7 @@ export default function Deals() {
           {categoryEntries.length > 0 && (
             <section className="flex flex-col gap-3">
               <h2 className="text-sm font-semibold uppercase tracking-wide text-charcoal-400 dark:text-charcoal-300">
-                Categorieën
+                {t('categories')}
               </h2>
               <CategoryFilterBar
                 categories={categoryEntries}
@@ -192,8 +199,7 @@ export default function Deals() {
       )}
 
       <footer className="mt-10 text-center text-xs text-charcoal-300 dark:text-charcoal-500">
-        Gegevens worden periodiek automatisch of handmatig bijgewerkt per winkel. Prijzen kunnen
-        afwijken van de prijs in de winkel zelf.
+        {t('dealsFooterNote')}
       </footer>
     </div>
   )

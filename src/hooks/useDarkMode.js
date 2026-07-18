@@ -5,7 +5,7 @@ const STORAGE_KEY = 'kitchen-notebook-theme'
 function getInitialTheme() {
   const stored = localStorage.getItem(STORAGE_KEY)
   if (stored === 'dark' || stored === 'light') return stored
-  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+  return 'light'
 }
 
 export function useDarkMode() {

@@ -9,16 +9,18 @@ so you can see which of a recipe's ingredients are currently on sale, and
 where.
 
 - **Recipes** work exactly as before — see below.
-- **Deals** (`/#/deals`) is a searchable, filterable grid of current supermarket
-  deals across 6 automatically-scraped Dutch stores (Albert Heijn, Lidl, Dirk,
-  Jumbo, Plus, Aldi), refreshed daily via GitHub Actions. See
-  [`backend/README.md`](backend/README.md) for how that pipeline works.
+- **Deals** (`/#/deals`) is a searchable, filterable grid of current
+  supermarket deals sourced from supermarktscanner.nl's curated best-deals
+  page (spanning many Dutch stores at once), refreshed daily via GitHub
+  Actions. See [`backend/README.md`](backend/README.md) for how that pipeline
+  works.
 - **Ingredient prices**: each recipe page shows, per ingredient, the cheapest
-  current match against that live deals data (and a broader cross-store
-  lookup via supermarktscanner.nl when our own 6 stores don't have a good
-  match). This is precomputed locally (`python backend/main.py
-  --match-ingredients`, needs Ollama) into a static JSON file — like the
-  rest of this app, the deployed site never makes a live LLM/API call.
+  current match against that deals data (and a broader per-product
+  supermarktscanner.nl lookup when the curated deals data doesn't have a good
+  match — see `backend/README.md`). This is precomputed locally (`python
+  backend/main.py --match-ingredients`, needs Ollama) into a static JSON
+  file — like the rest of this app, the deployed site never makes a live
+  LLM/API call.
 - **Pantry staples** (`/#/pantry`): a persistent list of ingredients you
   always have (onion, garlic, oil, ...) — auto-checked on every recipe page
   and excluded from cost estimates, since you don't need to buy them. Works
@@ -138,7 +140,7 @@ cd backend
 pip install -r requirements.txt
 python -m playwright install chromium
 cp .env.template .env   # point LLM_MODEL at whatever you have pulled in Ollama, e.g. qwen3.5:9b
-python main.py --stores albert-heijn lidl dirk jumbo plus aldi   # refresh deals data (no LLM needed)
+python main.py                                                    # refresh deals data (no LLM needed)
 python main.py --categorize                                       # optional: tag deals with a category
 python main.py --match-ingredients                                # match recipe ingredients to current deals + supermarktscanner.nl
 ```
@@ -149,16 +151,12 @@ Full details in [`backend/README.md`](backend/README.md).
 
 ## Deploying to GitHub Pages
 
-1. In [`vite.config.js`](vite.config.js), set `REPO_NAME` to match your repository
-   name, e.g. `'/kitchen-hub/'` (or `'/'` if this is a `<user>.github.io` repo).
-2. Push this project to a GitHub repository on the `main` branch.
-3. In the repo's **Settings → Pages**, set the source to **GitHub Actions**.
-4. Push to `main` — [`.github/workflows/update-and-deploy.yml`](.github/workflows/update-and-deploy.yml)
-   re-scrapes the 6 structured stores, builds the site, and publishes it
-   automatically on a daily cron (or on push). No paid services, no server.
-   The ingredient-matching step is local-only (needs Ollama) and isn't part
-   of this workflow — run it yourself and push the result when you want the
-   live site's ingredient prices refreshed.
+See [`docs/deployment.md`](docs/deployment.md) for the full setup and what the
+daily scrape/build/deploy workflow does.
 
-The app uses a hash-based router (`/#/recipe/...`), so it works correctly on
-GitHub Pages without any extra 404-redirect configuration.
+## More docs
+
+[`docs/`](docs/) has the deeper technical reference:
+- [`docs/architecture.md`](docs/architecture.md) — how the recipe pipeline, LLM editor, fridge, and i18n are built.
+- [`docs/deployment.md`](docs/deployment.md) — GitHub Pages setup.
+- [`backend/README.md`](backend/README.md) — the deal-scraper backend.

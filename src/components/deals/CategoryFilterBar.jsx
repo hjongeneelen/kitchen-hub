@@ -1,3 +1,5 @@
+import { useTranslation } from '../../hooks/useLocale.jsx'
+
 export default function CategoryFilterBar({
   categories,
   selected,
@@ -5,6 +7,7 @@ export default function CategoryFilterBar({
   onSelectAll,
   uncategorizedCount,
 }) {
+  const { t } = useTranslation()
   const allSelected = selected.size === 0
 
   if (categories.length === 0) {
@@ -12,8 +15,8 @@ export default function CategoryFilterBar({
   }
 
   return (
-    <div className="flex flex-wrap items-center gap-2" role="group" aria-label="Filter op categorie">
-      <Chip label="Alle categorieën" count={null} active={allSelected} onClick={onSelectAll} />
+    <div className="flex flex-wrap items-center gap-2" role="group" aria-label={t('filterByCategory')}>
+      <Chip label={t('allCategories')} count={null} active={allSelected} onClick={onSelectAll} />
       {categories.map((cat) => (
         <Chip
           key={cat.name}
@@ -26,9 +29,9 @@ export default function CategoryFilterBar({
       {uncategorizedCount > 0 && (
         <span
           className="tag-pill border-dashed border-cream-300 bg-transparent text-charcoal-300 dark:border-charcoal-600 dark:text-charcoal-400"
-          title="Deze winkels zijn nog niet door de categorie-classifier gehaald"
+          title={t('categoryClassifierNote')}
         >
-          {uncategorizedCount} zonder categorie
+          {t('uncategorizedCount', { count: uncategorizedCount })}
         </span>
       )}
     </div>

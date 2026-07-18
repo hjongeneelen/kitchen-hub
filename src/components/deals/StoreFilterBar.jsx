@@ -1,9 +1,12 @@
+import { useTranslation } from '../../hooks/useLocale.jsx'
+
 export default function StoreFilterBar({ stores, selected, onToggle, onSelectAll }) {
+  const { t } = useTranslation()
   const allSelected = selected.size === 0
 
   return (
-    <div className="flex flex-wrap items-center gap-2" role="group" aria-label="Filter op winkel">
-      <Chip label="Alle winkels" count={null} active={allSelected} onClick={onSelectAll} />
+    <div className="flex flex-wrap items-center gap-2" role="group" aria-label={t('filterByStore')}>
+      <Chip label={t('allStores')} count={null} active={allSelected} onClick={onSelectAll} />
       {stores.map((store) => {
         const hasData = store.deal_count > 0 && store.updated_at !== null
         const active = !allSelected && selected.has(store.slug)
@@ -14,7 +17,7 @@ export default function StoreFilterBar({ stores, selected, onToggle, onSelectAll
             count={store.deal_count}
             active={active}
             muted={!hasData}
-            title={hasData ? undefined : 'Nog niet gescand'}
+            title={hasData ? undefined : t('notScannedYet')}
             onClick={() => onToggle(store.slug)}
           />
         )

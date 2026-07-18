@@ -26,7 +26,7 @@ concurrency:
 
 jobs:
   scrape:
-    name: Refresh structured-store data
+    name: Refresh deals data
     runs-on: ubuntu-latest
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     steps:
@@ -42,13 +42,13 @@ jobs:
         working-directory: backend
         run: pip install -r requirements.txt
 
-      - name: Install Playwright's Chromium (Jumbo/Plus/Aldi/Lidl DOM reads)
+      - name: Install Playwright's Chromium (supermarktscanner.nl DOM read)
         working-directory: backend
         run: python -m playwright install --with-deps chromium
 
-      - name: Run structured scrapers (no vision LLM needed)
+      - name: Scrape supermarktscanner.nl (no LLM needed)
         working-directory: backend
-        run: python main.py --stores albert-heijn lidl dirk jumbo plus aldi
+        run: python main.py
 
       - name: Commit updated data
         run: |

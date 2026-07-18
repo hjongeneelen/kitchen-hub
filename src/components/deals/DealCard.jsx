@@ -1,6 +1,8 @@
 import { formatPrice, formatQuantity } from '../../lib/dealFormat'
+import { useTranslation } from '../../hooks/useLocale.jsx'
 
 export default function DealCard({ deal }) {
+  const { t } = useTranslation()
   const price = formatPrice(deal.actieprijs)
   const quantity = formatQuantity(deal.inhoud_waarde, deal.inhoud_unit)
 
@@ -42,7 +44,7 @@ export default function DealCard({ deal }) {
             {price}
           </span>
         ) : (
-          <span className="text-sm italic text-charcoal-300 dark:text-charcoal-400">Prijs onbekend</span>
+          <span className="text-sm italic text-charcoal-300 dark:text-charcoal-400">{t('priceUnknown')}</span>
         )}
         {deal.geldig_tekst && (
           <span className="shrink-0 text-right text-xs text-charcoal-300 dark:text-charcoal-400">

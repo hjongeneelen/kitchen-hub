@@ -4,27 +4,17 @@ python-dotenv==1.0.1
 pydantic==2.7.4
 pydantic-settings==2.3.4
 
-# PDF processing
-# !! pdf2image requires Poppler to be installed separately on Windows !!
-# Download from: https://github.com/oschwartz10612/poppler-windows/releases
-# Extract the zip and add the 'Library/bin' folder to your system PATH.
-pdf2image==1.17.0
-Pillow==10.4.0
-
-# Local LLM connector (OpenAI-compatible API)
+# Local LLM connector (OpenAI-compatible API) — used for --categorize and
+# --match-ingredients only, no vision model needed anymore.
 # httpx is pinned explicitly: 0.28+ dropped the `proxies` kwarg openai's client
 # still passes internally, which breaks client construction entirely.
 openai==1.54.4
 httpx==0.27.2
-tenacity==8.4.1
 
 # Robust JSON repair for LLM output quirks (markdown fences, trailing commas, etc.)
 json-repair==0.28.4
 
-# HTML scraping for auto PDF URL discovery
-beautifulsoup4==4.12.3
-lxml==5.2.2
-
-# Headless-browser DOM reads for stores whose API is bot-protected but whose
-# own website renders fine (Jumbo, Plus, Aldi) — run `playwright install chromium` once after installing.
+# Headless-browser DOM reads of supermarktscanner.nl (server-rendered, but
+# still needs a real browser context to fetch reliably) — run
+# `playwright install chromium` once after installing.
 playwright==1.61.0

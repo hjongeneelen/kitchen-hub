@@ -1,0 +1,98 @@
+{
+  "store": "Hoogvliet",
+  "slug": "hoogvliet",
+  "mode": "scan",
+  "updated_at": "2026-07-18T14:59:18.475355+00:00",
+  "deals": [
+    {
+      "productnaam": "Bar le Duc Mineraalwater kzh 4pk",
+      "korting_tekst": "-75% KORTING",
+      "actieprijs": 0.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bar le Duc Mineraalwater kzv 4pk",
+      "korting_tekst": "-75% KORTING",
+      "actieprijs": 0.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Calve Pindakaas creamy",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Big Americans BBQ Chicken",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Big americans shoarma",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 415,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Big americans texas",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 435,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marne Honing mosterdsaus",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Calve Pindakaas light",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Air Wick Le refill magnolia & cherry blossom",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.18,
+      "inhoud_waarde": 19,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Air Wick Geurstokjes vanille en meloen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.5,
+      "inhoud_waarde": 32,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    }
+  ]
+}
