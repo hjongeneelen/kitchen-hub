@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-07-19T08:20:04.199787+00:00",
+  "updated_at": "2026-07-20T08:59:11.719434+00:00",
   "deals": [
     {
       "productnaam": "Remia Tomatenketchup",
@@ -50,46 +50,10 @@
       "categorie": null
     },
     {
-      "productnaam": "HiPRO Protein Drink Framboos Aardbei",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "HiPRO Proteine drink banaan",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "HiPRO Protein Drink Mango",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "HiPRO Protein Mousse Dark Chocolade",
       "korting_tekst": "-57% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "HiPRO Drink Perzik Passievrucht",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 21-07-2026",
       "categorie": null
@@ -140,6 +104,15 @@
       "categorie": null
     },
     {
+      "productnaam": "De Cecco Pappardelle matassine all uovo",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 21-07-2026",
+      "categorie": null
+    },
+    {
       "productnaam": "Remia Mayonaise extra romig",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 0.99,
@@ -167,15 +140,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Snelle Jelle Ontbijtkoek Proteine naturel 4 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Silvo Gerookte paprikapoeder",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
@@ -189,15 +153,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
       "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Ras el hanout",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 38,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 21-07-2026",
       "categorie": null

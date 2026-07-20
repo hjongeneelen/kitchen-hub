@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-07-19T08:20:04.187329+00:00",
+  "updated_at": "2026-07-20T08:59:11.718347+00:00",
   "deals": [
     {
       "productnaam": "Bullit Energy drink",
@@ -59,15 +59,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Remia Friteslijn Knoflook",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.12,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Remia Friteslijn Sriracha",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.12,
@@ -104,37 +95,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Fernandes Super Pineapple",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Almhof Choco met slagroom karamel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.8,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Starbucks Caffe Latte no added sugar ijskoffie",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 220,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fernandes Cherry bouquet",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
@@ -158,24 +122,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Bonduelle Haricots verts extra",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.53,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Sinaasappelsap met vruchtvlees",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "The Flower Farm Bakken zonder palmolie",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.0,
@@ -185,19 +131,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Appelsientje Sinaasappelsap zonder vruchtvlees",
+      "productnaam": "Wella Haarspray Hold Ultra Strong",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Starbucks Chilled ijskoffie Caramel Macchiato",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 220,
+      "actieprijs": 2.65,
+      "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
@@ -212,63 +149,9 @@
       "categorie": null
     },
     {
-      "productnaam": "The Flower Farm Pindakaas zonder palmolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.8,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Groentemix broccoli wortel bloemkool",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.35,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Pindakaas met stukjes zonder palmolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.85,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Smeren zonder palm light",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Smeren zonder palm",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Aviko Zoete Aardappel Blokjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Tuinerwtjes extra fijn",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
@@ -311,28 +194,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Bonduelle Jonge velderwtjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Slimpie Limonadesiroop sinaasappel framboos",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.75,
       "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dettol Navulverpakking handzeep aloe vera",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.6,
-      "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
@@ -347,11 +212,65 @@
       "categorie": null
     },
     {
-      "productnaam": "Rosewood Steak strips duck & pollock",
+      "productnaam": "Selezione Ristorante Gevulde pasta paddenstoelen mozzarella",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.3,
-      "inhoud_waarde": 100,
+      "actieprijs": 1.5,
+      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Selezione Ristorante Gevulde pasta met tomaat en burrata",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Cocktailtrostomaten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Broccoliroosjes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.18,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fanta Exotic zero sugar",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.43,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "The Flower Farm Duopasta zonder palmolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.1,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fuze Tea Mango chamomile",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
