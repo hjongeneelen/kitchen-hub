@@ -2,13 +2,31 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-07-20T08:59:11.720738+00:00",
+  "updated_at": "2026-07-21T08:29:48.565088+00:00",
   "deals": [
     {
-      "productnaam": "Flowerfarm Bakken zonder palmolie",
+      "productnaam": "Sun Vaatwastabletten all in one regular",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 450,
+      "actieprijs": 5.15,
+      "inhoud_waarde": 19,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Rio Mare Tonijn in olijfolie pole & line",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.23,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fuze tea Green",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.33,
+      "inhoud_waarde": 1250,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
@@ -19,132 +37,6 @@
       "actieprijs": 1.43,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup prei creme 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup franse ui 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 39,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Almhof Volle kwark citroen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Fruitdrink multifruit",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.98,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Grolsch Premium pilsener 0.0 %",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.23,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup tomaat creme 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 54,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup kip 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.98,
-      "inhoud_waarde": 36,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup groente 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup indiase kerrie 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 51,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup asperge 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup rundvlees 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup mosterd 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup pittige tomaat 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup chinese tomaat 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.98,
-      "inhoud_waarde": 51,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

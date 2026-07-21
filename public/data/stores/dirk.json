@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-07-20T08:59:11.719434+00:00",
+  "updated_at": "2026-07-21T08:29:48.563533+00:00",
   "deals": [
     {
       "productnaam": "Remia Tomatenketchup",
@@ -136,6 +136,15 @@
       "actieprijs": 1.29,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 21-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Watermeloen part",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": "t/m di 21-07-2026",
       "categorie": null
     },

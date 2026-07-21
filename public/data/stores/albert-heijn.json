@@ -2,24 +2,141 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-07-19T08:20:04.208728+00:00",
+  "updated_at": "2026-07-21T08:29:48.564124+00:00",
   "deals": [
+    {
+      "productnaam": "Red Band Snoepringen zoet & zuur",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 102,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "AH Pizzadeeg",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
     {
       "productnaam": "Summit Cola zero sugar",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 19-07-2026",
+      "geldig_tekst": "t/m zo. 26-07-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smuldier Rundvlees compleet",
+      "productnaam": "Lee Kum Kee Knife-cut noodles",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
+      "actieprijs": 1.14,
+      "inhoud_waarde": 180,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 19-07-2026",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lavazza Tales of Roma",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lavazza Tales of Napoli",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "AH Terra Tofu burger spinazie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Naturals olijf handzeep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Cecco Spaghetti Nr. 12",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bibigo Gyoza tofu & vegetable",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "De Cecco Spaghettini nr11",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "La Molisana Spaghetti",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Moroccan rose & peony handzeep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Lavender & bergamot handzeep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Two Chefs Brewing Bon chef 0.5%",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 26-07-2026",
       "categorie": null
     }
   ]

@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-07-20T08:59:11.718347+00:00",
+  "updated_at": "2026-07-21T08:29:48.562566+00:00",
   "deals": [
     {
       "productnaam": "Bullit Energy drink",
@@ -208,69 +208,6 @@
       "actieprijs": 1.6,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Selezione Ristorante Gevulde pasta paddenstoelen mozzarella",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Selezione Ristorante Gevulde pasta met tomaat en burrata",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Cocktailtrostomaten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Broccoliroosjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.18,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fanta Exotic zero sugar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.43,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Duopasta zonder palmolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fuze Tea Mango chamomile",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.38,
-      "inhoud_waarde": 1250,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

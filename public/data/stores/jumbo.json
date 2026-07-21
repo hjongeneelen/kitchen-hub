@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-07-20T08:59:11.720181+00:00",
+  "updated_at": "2026-07-21T08:29:48.564690+00:00",
   "deals": [
     {
       "productnaam": "Knorr Risotto Asperge 175 g",
@@ -26,24 +26,6 @@
       "productnaam": "Bonduelle Lunch Bowl Oriental Style - Couscous en zwarte kikkererwten met gekruide groenten 250g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Kleenex Allergy Comfort Tissues 3-Laags 56 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Repair & Protect Whitening Tandpasta 75 ML",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,

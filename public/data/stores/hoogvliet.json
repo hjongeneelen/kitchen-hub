@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-07-20T08:59:11.717576+00:00",
+  "updated_at": "2026-07-21T08:29:48.561773+00:00",
   "deals": [
     {
       "productnaam": "Bar le Duc Mineraalwater kzh 4pk",
@@ -73,33 +73,6 @@
       "actieprijs": 3.5,
       "inhoud_waarde": 32,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ehrmann Grand dessert double chocolade",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.67,
-      "inhoud_waarde": 190,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen kant & klare satesaus origineel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Air Wick Home spray eucalyptus",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 237,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
