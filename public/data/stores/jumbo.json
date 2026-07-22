@@ -2,32 +2,14 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-07-21T08:29:48.564690+00:00",
+  "updated_at": "2026-07-22T08:30:11.729422+00:00",
   "deals": [
     {
-      "productnaam": "Knorr Risotto Asperge 175 g",
+      "productnaam": "Johma Komkommer Rauwkostsalade 350g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 175,
+      "actieprijs": 1.5,
+      "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Lunch Bowl Mexican Style - Basmati rijst en rode kidneybonen met gekruide groenten 250g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Lunch Bowl Oriental Style - Couscous en zwarte kikkererwten met gekruide groenten 250g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     }
