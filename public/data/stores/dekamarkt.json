@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-07-22T08:30:11.729985+00:00",
+  "updated_at": "2026-07-23T08:31:04.211464+00:00",
   "deals": [
     {
       "productnaam": "Sun Vaatwastabletten all in one regular",
@@ -28,42 +28,6 @@
       "actieprijs": 1.33,
       "inhoud_waarde": 1250,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Appelsap Goudappeltje",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.43,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup prei creme 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup franse ui 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 39,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Almhof Volle kwark citroen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -95,101 +59,20 @@
       "categorie": null
     },
     {
-      "productnaam": "Appelsientje Fruitdrink multifruit",
+      "productnaam": "Dreft Afwasmiddel quickwash lemon",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.98,
-      "inhoud_waarde": 1000,
+      "actieprijs": 2.18,
+      "inhoud_waarde": 520,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Knorr Cup-a-soup tomaat creme 3 st.",
+      "productnaam": "Rio Mare Insalatissime tonijn messicana",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 54,
+      "actieprijs": 2.05,
+      "inhoud_waarde": 160,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup kip 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.98,
-      "inhoud_waarde": 36,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup groente 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup indiase kerrie 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 51,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup asperge 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup rundvlees 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup mosterd 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup pittige tomaat 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup chinese tomaat 3 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.98,
-      "inhoud_waarde": 51,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Zontomaatje",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -199,15 +82,6 @@
       "actieprijs": 2.1,
       "inhoud_waarde": 10,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Iams Kattenvoer vitality adult met zalm",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.7,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

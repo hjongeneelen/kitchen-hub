@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-07-22T08:30:11.728511+00:00",
+  "updated_at": "2026-07-23T08:31:04.210707+00:00",
   "deals": [
     {
       "productnaam": "Red Band Snoepringen zoet & zuur",
@@ -206,6 +206,24 @@
       "productnaam": "Palmolive Naturals melk & amandel",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.33,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Hygiene-plus sensitive handzeep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 26-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Keuken anti geur handzeep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
       "inhoud_waarde": 300,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m zo. 26-07-2026",

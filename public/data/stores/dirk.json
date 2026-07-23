@@ -2,186 +2,204 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-07-22T08:30:11.727091+00:00",
+  "updated_at": "2026-07-23T08:31:04.154221+00:00",
   "deals": [
     {
-      "productnaam": "Remia Tomatenketchup",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Remia Mayolijn 100% plantaardig",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Green tea strawberry",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea green zero",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "HiPRO Proteine drink stracciatella",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "HiPRO Protein Mousse Dark Chocolade",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 200,
+      "productnaam": "Bonduelle Edamame bonen",
+      "korting_tekst": "-66% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 155,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 21-07-2026",
+      "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
     },
     {
-      "productnaam": "Lipton Ice tea zero sparkling",
-      "korting_tekst": "-56% KORTING",
+      "productnaam": "Odorex Deospray sensitive care",
+      "korting_tekst": "-64% KORTING",
       "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
+      "inhoud_waarde": 150,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Crispy mais",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht indiase kip tandoorii XL",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 493,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok rose & lily",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 45,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok water flowers",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 45,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok wild hibiscus",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 45,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok citrus & jasmin",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 45,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok blue blossom",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 45,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Kids yoghurtvariatie strawberry 4 st.",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Wc active gel white flowers",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht lasagne bolognese XL",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 351,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht mexicaanse burritos xl",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 351,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Cirio Tomatenpuree",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 140,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
     },
     {
       "productnaam": "Lipton Ice tea peach",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Arla Biologisch kefir naturel",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Arla Biologisch halfvolle yoghurt vanille",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Remia Curry saus pittig gekruid",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.89,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
+      "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
     },
     {
-      "productnaam": "De Cecco Pappardelle matassine all uovo",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Remia Mayonaise extra romig",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Cecco Spaghettini",
+      "productnaam": "Bonduelle Mexico melange",
       "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 500,
+      "actieprijs": 0.79,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 21-07-2026",
+      "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
     },
     {
-      "productnaam": "De Cecco Spaghetti",
+      "productnaam": "Lipton Ice tea sparkling",
       "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.29,
+      "actieprijs": 0.89,
       "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Bonenmix mais/kidneybonen/limabonen",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 160,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 21-07-2026",
+      "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
     },
     {
-      "productnaam": "1 de Beste Watermeloen part",
+      "productnaam": "Bonduelle Crispy mais chili",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m di 21-07-2026",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 165,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
     },
     {
-      "productnaam": "Silvo Gerookte paprikapoeder",
+      "productnaam": "Ambi Pur Wc gel mint & jasmin",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 21-07-2026",
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
     },
     {
-      "productnaam": "Silvo Paprikapoeder mild",
+      "productnaam": "Ambi Pur Wc gel pink hibiscus",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
-      "inhoud_waarde": 40,
+      "inhoud_waarde": 758,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Leffe Blond",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Amstel Radler alcoholvrij citroen 6x33 cl",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 1980,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 21-07-2026",
+      "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
     }
   ]
