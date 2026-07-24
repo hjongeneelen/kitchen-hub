@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-07-23T08:31:04.210003+00:00",
+  "updated_at": "2026-07-24T08:28:19.355958+00:00",
   "deals": [
     {
       "productnaam": "Unox Soep in Blik Goulashsoep",
@@ -23,84 +23,12 @@
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep in Blik Tomatencreme Soep",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Stevige soep tomaten groenten",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in Blik uiensoep",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Komkommer",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Stevige soep Chinese tomaat",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in Blik Kippensoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in Blik Groentesoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in Blik Champignonsoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
       "productnaam": "Grand'Italia Pastasaus Bolognese",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.49,
       "inhoud_waarde": 600,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
+      "geldig_tekst": null,
       "categorie": null
     }
   ]
