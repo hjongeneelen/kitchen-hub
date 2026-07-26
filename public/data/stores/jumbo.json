@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-07-25T08:07:28.577398+00:00",
+  "updated_at": "2026-07-26T08:27:03.810791+00:00",
   "deals": [
     {
       "productnaam": "Page Vochtig Toiletpapier Shea Butter 38 Stuks",
@@ -127,15 +127,6 @@
       "actieprijs": 10.0,
       "inhoud_waarde": 300,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heineken 0% 12x330ML",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 6.65,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     }

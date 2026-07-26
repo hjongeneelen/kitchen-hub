@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-07-25T08:07:28.578813+00:00",
+  "updated_at": "2026-07-26T08:27:03.811911+00:00",
   "deals": [
     {
       "productnaam": "Red Band Snoepringen zoet & zuur",
@@ -37,7 +37,7 @@
       "actieprijs": 1.14,
       "inhoud_waarde": 180,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 26-07-2026",
+      "geldig_tekst": "vandaag",
       "categorie": null
     },
     {
@@ -109,7 +109,7 @@
       "actieprijs": 1.2,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 26-07-2026",
+      "geldig_tekst": "vandaag",
       "categorie": null
     },
     {
@@ -136,7 +136,7 @@
       "actieprijs": 1.2,
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 26-07-2026",
+      "geldig_tekst": "vandaag",
       "categorie": null
     },
     {
@@ -190,15 +190,6 @@
       "actieprijs": 2.2,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 26-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Liguori Spaghetti no3",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 26-07-2026",
       "categorie": null
     }

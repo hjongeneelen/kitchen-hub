@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-07-25T08:07:28.579694+00:00",
+  "updated_at": "2026-07-26T08:27:03.812583+00:00",
   "deals": [
     {
       "productnaam": "Sun Vaatwastabletten all in one regular",
@@ -55,33 +55,6 @@
       "actieprijs": 1.33,
       "inhoud_waarde": 1250,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dreft Afwasmiddel quickwash lemon",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.18,
-      "inhoud_waarde": 520,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Rio Mare Insalatissime tonijn messicana",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.05,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lavazza Koffiecups alu maestro classico espresso",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     }

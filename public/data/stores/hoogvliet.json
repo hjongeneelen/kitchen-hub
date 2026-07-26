@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-07-25T08:07:28.576635+00:00",
+  "updated_at": "2026-07-26T08:27:03.809931+00:00",
   "deals": [
     {
       "productnaam": "Odorex Deospray natural fresh",
@@ -10,7 +10,7 @@
       "actieprijs": 1.77,
       "inhoud_waarde": 150,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 22 juli t/m 28 juli",
       "categorie": null
     },
     {
@@ -46,7 +46,7 @@
       "actieprijs": 1.28,
       "inhoud_waarde": 145,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 22 juli t/m 28 juli",
       "categorie": null
     },
     {
@@ -55,7 +55,7 @@
       "actieprijs": 1.25,
       "inhoud_waarde": 145,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 22 juli t/m 28 juli",
       "categorie": null
     },
     {
@@ -82,7 +82,7 @@
       "actieprijs": 5.43,
       "inhoud_waarde": 1200,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 22 juli t/m 28 juli",
       "categorie": null
     },
     {
@@ -100,16 +100,7 @@
       "actieprijs": 5.07,
       "inhoud_waarde": 24,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Princes Tonijnstukken met groenten pikant",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.37,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 22 juli t/m 28 juli",
       "categorie": null
     }
   ]
