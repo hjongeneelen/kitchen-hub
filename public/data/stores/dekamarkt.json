@@ -2,32 +2,14 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-07-26T08:27:03.812583+00:00",
+  "updated_at": "2026-07-27T09:52:58.365451+00:00",
   "deals": [
-    {
-      "productnaam": "Sun Vaatwastabletten all in one regular",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.15,
-      "inhoud_waarde": 19,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
     {
       "productnaam": "Rio Mare Tonijn in olijfolie pole & line",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.23,
       "inhoud_waarde": 160,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fuze tea Green",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.33,
-      "inhoud_waarde": 1250,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -50,11 +32,137 @@
       "categorie": null
     },
     {
-      "productnaam": "Fuze tea Ice tea peach hibiscus",
+      "productnaam": "Rio Mare Insalatissime tonijn messicana",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.33,
-      "inhoud_waarde": 1250,
-      "inhoud_unit": "ml",
+      "actieprijs": 2.05,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lavazza Koffiecups alu maestro classico espresso",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.1,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Vaatwastabletten expert lemon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.85,
+      "inhoud_waarde": 16,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Vaatwastabletten brilliant shine",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.95,
+      "inhoud_waarde": 16,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Vaatwasmachine reiniger",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.48,
+      "inhoud_waarde": 3,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lavazza Koffiecups alu maestro lungo sterkte 5",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.1,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Italiaanse kruiden",
+      "korting_tekst": "-46% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 11,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Oregano",
+      "korting_tekst": "-46% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Peterselie",
+      "korting_tekst": "-46% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 5,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Knoflookpoeder",
+      "korting_tekst": "-46% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Knoflook met rooksmaak",
+      "korting_tekst": "-46% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 48,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Italiaanse kruiden natriumarm",
+      "korting_tekst": "-46% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Johma Zalm salade",
+      "korting_tekst": "-45% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Snack a Jacks Rijstwafels caramel",
+      "korting_tekst": "-42% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 141,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Cocktail trostomaten",
+      "korting_tekst": "-42% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

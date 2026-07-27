@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-07-26T08:27:03.809032+00:00",
+  "updated_at": "2026-07-27T09:52:58.361939+00:00",
   "deals": [
     {
       "productnaam": "Bonduelle Edamame bonen",
@@ -10,15 +10,6 @@
       "actieprijs": 0.79,
       "inhoud_waarde": 155,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 28-07-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Odorex Deospray sensitive care",
-      "korting_tekst": "-64% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
     },
@@ -198,6 +189,87 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
       "inhoud_waarde": 758,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Go-Tan Mayonaise sriracha",
+      "korting_tekst": "-48% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 215,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Cirio Pizzasaus",
+      "korting_tekst": "-48% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oreo Cheesecake 2 stuks",
+      "korting_tekst": "-47% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Go-Tan Chilisaus",
+      "korting_tekst": "-47% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Coca-Cola Zero 4 x 50cl",
+      "korting_tekst": "-40% KORTING",
+      "actieprijs": 3.56,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Courgette",
+      "korting_tekst": "-40% KORTING",
+      "actieprijs": 0.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Boboli Duo focaccia paprika & olijf",
+      "korting_tekst": "-40% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Grand'Italia Pastasaus sugocasa traditional",
+      "korting_tekst": "-39% KORTING",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 690,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 28-07-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Grand'Italia Sugocasa erbe tomaat met kruiden",
+      "korting_tekst": "-39% KORTING",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 690,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 28-07-2026",
       "categorie": null
