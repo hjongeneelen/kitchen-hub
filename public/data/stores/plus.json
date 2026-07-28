@@ -2,11 +2,20 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-07-27T09:52:58.363954+00:00",
+  "updated_at": "2026-07-28T08:35:17.259683+00:00",
   "deals": [
     {
       "productnaam": "Unox Soep in Blik Goulashsoep",
       "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in blik bruine bonensoep",
+      "korting_tekst": "-54% KORTING",
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
@@ -20,78 +29,6 @@
       "inhoud_waarde": 600,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Grand'Italia Pastasaus Carbonara",
-      "korting_tekst": "-43% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Pink grapefruit",
-      "korting_tekst": "-43% KORTING",
-      "actieprijs": 1.98,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Tonic 0% suiker",
-      "korting_tekst": "-43% KORTING",
-      "actieprijs": 1.98,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Douwe Egberts Excellent gold capsules",
-      "korting_tekst": "-40% KORTING",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Douwe Egberts Excellent mocca capsules",
-      "korting_tekst": "-40% KORTING",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pepsi Cola zero",
-      "korting_tekst": "-40% KORTING",
-      "actieprijs": 1.98,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pepsi Cola",
-      "korting_tekst": "-40% KORTING",
-      "actieprijs": 1.98,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in Blik Erwtensoep",
-      "korting_tekst": "-40% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
       "categorie": null
     }
   ]
