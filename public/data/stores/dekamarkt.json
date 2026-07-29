@@ -2,59 +2,212 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-07-28T08:35:17.261360+00:00",
+  "updated_at": "2026-07-29T08:41:35.012862+00:00",
   "deals": [
     {
-      "productnaam": "Rio Mare Tonijn in olijfolie pole & line",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.23,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
+      "productnaam": "Robijn Vloeibaar wasmiddel quickwash sunset bloom 22 wasb.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 7.52,
+      "inhoud_waarde": 837,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Lavazza Koffiecups alu qualita oro",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.35,
-      "inhoud_waarde": 10,
+      "productnaam": "Robijn Vloeibaar wasmiddel quickwash spring blossom 22 wasb.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 7.52,
+      "inhoud_waarde": 837,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Vloeibaar wasmiddel k&k zwart 22 wasbeurten",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 7.12,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Vloeibaar wasmiddel k&k wit 22 wasbeurten",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 7.12,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Vloeibaar wasmiddel 3 in 1 caps paradise secrets",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 6.0,
+      "inhoud_waarde": 15,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Lavazza Koffiecups alu qualita rossa",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.35,
-      "inhoud_waarde": 10,
+      "productnaam": "Robijn Vloeibaar wasmiddel 3 in 1 caps spa sensation",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 6.0,
+      "inhoud_waarde": 15,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Rio Mare Insalatissime tonijn messicana",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.05,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
+      "productnaam": "Robijn Vloeibaar wasmiddel k & k color morgenfris 19 wasbeurten",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 6.94,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Lavazza Koffiecups alu maestro classico espresso",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
+      "productnaam": "Robijn Vloeibaar wasmiddel k & k color pink sens. 19 wasbeurten",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 6.94,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Sun Vaatwastabletten expert lemon",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.85,
+      "productnaam": "Robijn Vloeibaar wasmiddel k&k color 22 wasbeurten",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 6.4,
+      "inhoud_waarde": 665,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Dry wash spray original",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 4.32,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Wasparfum passiebloem&bergamot",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.78,
+      "inhoud_waarde": 342,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Wasparfum paradise secret",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.8,
+      "inhoud_waarde": 342,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Wasparfum tropical",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.76,
+      "inhoud_waarde": 342,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Wasmiddeldoekjes color 16 wasb.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 4.26,
       "inhoud_waarde": 16,
       "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Nescafe Oploskoffie cappuccino 10 koppen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.83,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Edet Vochtig toiletpapier amandel 42 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Edet Vochtig toiletpapier aloe vera",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.48,
+      "inhoud_waarde": 42,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Heiploeg Garnalen met aioli dip",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Heiploeg Garnalen in knoflook olie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dove Deospray adv. care dragon fruit",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.3,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dove Douchegel adv.care dragon fruit",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.95,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Nescafe Gold oploskoffie sticks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.83,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dove Deospray advanced care acai berry and waterlily",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.3,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

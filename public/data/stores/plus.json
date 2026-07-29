@@ -2,33 +2,33 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-07-28T08:35:17.259683+00:00",
+  "updated_at": "2026-07-29T08:41:34.978459+00:00",
   "deals": [
     {
-      "productnaam": "Unox Soep in Blik Goulashsoep",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in blik bruine bonensoep",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 22 juli t/m di. 28 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Grand'Italia Pastasaus Bolognese",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 600,
+      "productnaam": "PLUS Luxe sla Romaine",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 29 juli t/m di. 4 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Trostomaten",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 29 juli t/m di. 4 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nectarines los",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 29 juli t/m di. 4 aug",
       "categorie": null
     }
   ]

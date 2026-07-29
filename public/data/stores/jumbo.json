@@ -2,66 +2,66 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-07-28T08:35:17.258997+00:00",
+  "updated_at": "2026-07-29T08:41:35.016159+00:00",
   "deals": [
     {
-      "productnaam": "Page Vochtig Toiletpapier Shea Butter 38 Stuks",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Puur Vochtig Toiletpapier 38 Stuks",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Vochtig Toiletpapier Sensitive",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Vochtig Toiletpapier Aloe Vera",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Johma Komkommer Rauwkostsalade 350g",
+      "productnaam": "Optimel Proteine Extra Drinkyoghurt Framboos Aardbei 0% Vet 330ML",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heineken Premium Pilsener 0.0 Bier Fles Krat 24 x 300ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 10.0,
-      "inhoud_waarde": 300,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 330,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Heineken 0% 12x330ML",
+      "productnaam": "Unicura Balance Antibacteriele Handzeep Navul 250 ml",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 6.65,
+      "actieprijs": 1.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Unicura Ultra Antibacteriele Handzeep 250 ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.55,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Unicura Mild Antibacteriele Handzeep 250 ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Hygiene Plus Sensitive Antibacteriele Vloeibare Handzeep 300ML",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Omo Waspoeder Color 14 Wasbeurten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.83,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Omo Waspoeder Wit 14 Wasbeurten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
