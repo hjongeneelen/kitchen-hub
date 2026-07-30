@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-07-29T08:41:35.016159+00:00",
+  "updated_at": "2026-07-30T08:27:46.474196+00:00",
   "deals": [
     {
       "productnaam": "Optimel Proteine Extra Drinkyoghurt Framboos Aardbei 0% Vet 330ML",
@@ -44,6 +44,15 @@
       "productnaam": "Palmolive Hygiene Plus Sensitive Antibacteriele Vloeibare Handzeep 300ML",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Clean Control Soft dagelijkse Tandenborstel 1 stuk, 100% plasticvrije verpakking",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
