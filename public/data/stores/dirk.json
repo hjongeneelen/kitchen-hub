@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-07-30T08:27:46.470101+00:00",
+  "updated_at": "2026-07-31T08:50:20.597165+00:00",
   "deals": [
     {
       "productnaam": "Aquafresh Tandpasta coolmint",
@@ -131,6 +131,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Appel kruimelvlaai",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di 04-08-2026",
+      "categorie": null
+    },
+    {
       "productnaam": "Heineken Pilsener alcoholvrij 6x33cl",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 2.49,
@@ -176,6 +185,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Hak Spinazie met room",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 345,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 04-08-2026",
+      "categorie": null
+    },
+    {
       "productnaam": "Alpro Yoghurtvariatie aardbei",
       "korting_tekst": "-53% KORTING",
       "actieprijs": 0.99,
@@ -194,10 +212,19 @@
       "categorie": null
     },
     {
-      "productnaam": "Milka Chocoladereep salted almond caramel",
+      "productnaam": "Crystal Clear Lemon-passie koolzuurvrij",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 04-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kalkoen chorizo",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 190,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 80,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 04-08-2026",
       "categorie": null
@@ -208,6 +235,15 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 380,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 04-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Grolsch Radler alcoholvrij citroen 6x33 cl",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1980,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di 04-08-2026",
       "categorie": null
     }

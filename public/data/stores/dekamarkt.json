@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-07-30T08:27:46.472811+00:00",
+  "updated_at": "2026-07-31T08:50:20.599738+00:00",
   "deals": [
     {
       "productnaam": "Robijn Vloeibaar wasmiddel quickwash sunset bloom 22 wasb.",
@@ -153,51 +153,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.48,
       "inhoud_waarde": 42,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heiploeg Garnalen met aioli dip",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heiploeg Garnalen in knoflook olie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dove Deospray adv. care dragon fruit",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.3,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dove Douchegel adv.care dragon fruit",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.95,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Nescafe Gold oploskoffie sticks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.83,
-      "inhoud_waarde": 25,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null

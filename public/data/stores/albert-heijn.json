@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-07-30T08:27:46.473607+00:00",
+  "updated_at": "2026-07-31T08:50:20.600467+00:00",
   "deals": [
     {
       "productnaam": "Dr. Oetker Ristorante pizza mozzarella glutenvrij",
@@ -90,33 +90,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 4.7,
       "inhoud_waarde": 220,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 02-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Air Wick Geurstokjes zachte lavendeldagen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.5,
-      "inhoud_waarde": 25,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 02-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Air Wick Geurstokjes fris linnen en lila",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.5,
-      "inhoud_waarde": 25,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 02-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Air Wick Geurstokjes fresia en jasmijn",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.5,
-      "inhoud_waarde": 25,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m zo. 02-08-2026",
       "categorie": null

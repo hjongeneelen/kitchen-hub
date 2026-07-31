@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-07-30T08:27:46.474196+00:00",
+  "updated_at": "2026-07-31T08:50:20.601188+00:00",
   "deals": [
     {
       "productnaam": "Optimel Proteine Extra Drinkyoghurt Framboos Aardbei 0% Vet 330ML",
@@ -53,24 +53,6 @@
       "productnaam": "Aquafresh Clean Control Soft dagelijkse Tandenborstel 1 stuk, 100% plasticvrije verpakking",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.35,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Omo Waspoeder Color 14 Wasbeurten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.83,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Omo Waspoeder Wit 14 Wasbeurten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,

@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-07-30T08:27:46.471241+00:00",
+  "updated_at": "2026-07-31T08:50:20.598260+00:00",
   "deals": [
     {
       "productnaam": "Sensodyne Repair & protect deep repair tandpasta voor gevoelige tanden",
@@ -136,15 +136,6 @@
       "actieprijs": 2.98,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocomel 0% 6-pak",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 1200,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
