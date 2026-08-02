@@ -125,6 +125,13 @@ def _parse_offer(offer: dict) -> Optional[DealItem]:
 
         volume, unit = _parse_volume(str(offer.get("packaging") or ""))
 
+        # The offer's own "image" field points at a path that 404s under the
+        # obvious CDN base — the linked product's productInformation.image is
+        # what Dirk's own page actually resolves (confirmed live).
+        first_product = (offer.get("products") or [None])[0] or {}
+        product_image = (first_product.get("productInformation") or {}).get("image")
+        image_url = f"https://web-fileserver.dirk.nl/{product_image}" if product_image else None
+
         return DealItem(
             winkel="Dirk",
             productnaam=str(title).strip(),
@@ -133,6 +140,7 @@ def _parse_offer(offer: dict) -> Optional[DealItem]:
             inhoud_waarde=volume,
             inhoud_unit=unit,
             geldig_tekst=format_period(offer.get("startDate"), offer.get("endDate")),
+            afbeelding_url=image_url,
         )
     except Exception as e:
         logger.debug(f"[Dirk] Item parse error: {e} — raw: {str(offer)[:120]}")

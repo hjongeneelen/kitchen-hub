@@ -4,11 +4,13 @@ import { getRecipeBySlug, localizeRecipe } from '../lib/recipes'
 import { scaleIngredientText } from '../lib/scaleText'
 import { useTranslation } from '../hooks/useLocale.jsx'
 import { useIngredientMatches } from '../hooks/useIngredientMatches'
-import { estimateRecipeCost } from '../lib/ingredientCost'
+import { estimateRecipeCost, pickBestMatch } from '../lib/ingredientCost'
 import { usePantryStaples } from '../hooks/usePantryStaples.js'
+import { usePreferredStores } from '../hooks/usePreferredStores.js'
 import { isStapleIngredient } from '../lib/pantry.js'
 import { loadProgress, saveProgress } from '../lib/recipeProgress.js'
 import { formatPrice } from '../lib/dealFormat'
+import { translateTag } from '../lib/translations'
 import PortionScaler from '../components/PortionScaler.jsx'
 import CheckableItem from '../components/CheckableItem.jsx'
 import DarkModeToggle from '../components/DarkModeToggle.jsx'
@@ -25,6 +27,7 @@ export default function RecipeView() {
   const [checkedSteps, setCheckedSteps] = useState({})
   const ingredientMatches = useIngredientMatches()
   const { staples } = usePantryStaples()
+  const { storeScope } = usePreferredStores()
 
   const ratio = recipe ? portions / recipe.portions : 1
 
@@ -72,7 +75,9 @@ export default function RecipeView() {
   const recipeIngredientMatches = recipe
     ? ingredientMatches?.recipes?.[recipe.slug]?.ingredients
     : null
-  const cost = recipe ? estimateRecipeCost(recipe.slug, ingredientMatches, (line) => isStapleIngredient(line, staples)) : null
+  const cost = recipe
+    ? estimateRecipeCost(recipe.slug, ingredientMatches, (line) => isStapleIngredient(line, staples), storeScope)
+    : null
 
   if (!recipe) return <Navigate to="/" replace />
 
@@ -117,7 +122,7 @@ export default function RecipeView() {
             key={tag}
             className="rounded-full bg-olive-100 px-2 py-0.5 text-xs font-medium text-olive-700 dark:bg-olive-700/30 dark:text-olive-200"
           >
-            #{tag}
+            #{translateTag(tag, locale)}
           </span>
         ))}
       </div>
@@ -160,11 +165,43 @@ export default function RecipeView() {
               Lijst resetten
             </button>
           </div>
+          {storeScope.size > 0 && (
+            <p className="print:hidden mb-2 text-xs text-charcoal-400 dark:text-charcoal-300">
+              Prijzen voor jouw winkels ({[...storeScope].join(', ')}) —{' '}
+              <Link to="/shopping-list" className="underline hover:text-terracotta-500">
+                wijzigen
+              </Link>
+            </p>
+          )}
           <ul className="card divide-y divide-cream-200 p-2 dark:divide-charcoal-700">
             {scaledIngredients.map((text, i) => {
-              const bestMatch = recipeIngredientMatches?.[i]?.matches?.[0]
+              const matches = recipeIngredientMatches?.[i]?.matches
+              const picked = pickBestMatch(matches, storeScope)
+              const bestMatch = picked?.match
               const isDeal = bestMatch?.bron === 'eigen-data'
               const isStaple = isStapleAt(i)
+              const alternatives = (matches ?? []).filter((m) => m !== bestMatch).slice(0, 2)
+
+              const badgeTitle = !bestMatch
+                ? undefined
+                : !picked.inScope
+                  ? `Niet gevonden bij je gekozen winkels — goedkoopste alternatief: ${bestMatch.productnaam} — ${bestMatch.winkel}`
+                  : isDeal
+                    ? `In de aanbieding: ${bestMatch.productnaam} — ${bestMatch.winkel}`
+                    : `Goedkoopste huidige prijs (geen aanbieding): ${bestMatch.productnaam} — ${bestMatch.winkel}, via supermarktscanner.nl`
+              const badgeClass =
+                'whitespace-nowrap rounded-full px-2 py-0.5 text-xs font-medium ' +
+                (isDeal
+                  ? 'bg-terracotta-100 text-terracotta-700 dark:bg-terracotta-900/30 dark:text-terracotta-200'
+                  : 'bg-cream-200 text-charcoal-600 dark:bg-charcoal-600 dark:text-charcoal-100')
+              const badgeContent = (
+                <>
+                  {isDeal && '🏷️ '}
+                  {formatPrice(bestMatch?.actieprijs) ?? '—'} · {bestMatch?.winkel}
+                  {picked && !picked.inScope && ' ⚠'}
+                </>
+              )
+
               return (
                 <CheckableItem
                   key={i}
@@ -181,24 +218,29 @@ export default function RecipeView() {
                         🏠 heb ik
                       </span>
                     ) : (
-                      bestMatch && (
-                        <span
-                          title={
-                            isDeal
-                              ? `In de aanbieding: ${bestMatch.productnaam} — ${bestMatch.winkel}`
-                              : `Goedkoopste huidige prijs (geen aanbieding): ${bestMatch.productnaam} — ${bestMatch.winkel}, via supermarktscanner.nl`
-                          }
-                          className={
-                            'whitespace-nowrap rounded-full px-2 py-0.5 text-xs font-medium ' +
-                            (isDeal
-                              ? 'bg-terracotta-100 text-terracotta-700 dark:bg-terracotta-900/30 dark:text-terracotta-200'
-                              : 'bg-cream-200 text-charcoal-600 dark:bg-charcoal-600 dark:text-charcoal-100')
-                          }
-                        >
-                          {isDeal && '🏷️ '}
-                          {formatPrice(bestMatch.actieprijs) ?? '—'} · {bestMatch.winkel}
+                      bestMatch &&
+                      (alternatives.length > 0 ? (
+                        <details className="group relative">
+                          <summary
+                            title={badgeTitle}
+                            className={'list-none cursor-pointer [&::-webkit-details-marker]:hidden ' + badgeClass}
+                          >
+                            {badgeContent}
+                            <span className="ml-1 text-charcoal-400 group-open:hidden">▾</span>
+                          </summary>
+                          <div className="absolute right-0 z-10 mt-1 flex flex-col gap-1 whitespace-nowrap rounded-lg border border-cream-300 bg-cream-50 p-2 text-xs shadow-md dark:border-charcoal-600 dark:bg-charcoal-800">
+                            {alternatives.map((m, j) => (
+                              <span key={j} className="text-charcoal-600 dark:text-cream-100">
+                                {formatPrice(m.actieprijs) ?? '—'} · {m.winkel}
+                              </span>
+                            ))}
+                          </div>
+                        </details>
+                      ) : (
+                        <span title={badgeTitle} className={badgeClass}>
+                          {badgeContent}
                         </span>
-                      )
+                      ))
                     )
                   }
                 />
@@ -213,6 +255,13 @@ export default function RecipeView() {
               </span>{' '}
               (op basis van {cost.matchedCount}/{cost.totalCount} ingrediënten — prijs van hele
               verpakkingen, niet van de exacte hoeveelheid)
+              {storeScope.size > 0 && cost.outOfScopeCount > 0 && (
+                <>
+                  {' '}
+                  — {cost.outOfScopeCount} niet gevonden bij je gekozen winkels, daarvoor toont dit
+                  de goedkoopste prijs elders
+                </>
+              )}
             </p>
           )}
         </section>

@@ -12,6 +12,7 @@ class DealItem(BaseModel):
     inhoud_unit: Optional[str] = None
     geldig_tekst: Optional[str] = None  # human-readable validity period, e.g. "8 - 14 jul" — free text since every store formats this differently
     categorie: Optional[str] = None  # assigned by modules/categorizer.py, e.g. "Groente & Fruit" — not set by the fetchers themselves
+    afbeelding_url: Optional[str] = None  # product photo URL, when the source connector can provide one (most can't — this is optional everywhere it's consumed)
 
     @field_validator("winkel", "productnaam", mode="before")
     @classmethod

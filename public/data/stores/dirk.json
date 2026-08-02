@@ -2,88 +2,17 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "api",
-  "updated_at": "2026-07-13T09:29:25.467902+00:00",
+  "updated_at": "2026-07-19T14:58:21.108941+00:00",
   "deals": [
     {
-      "productnaam": "1 de Beste IJsbergsla",
-      "korting_tekst": "Van € 1,19 voor € 0,89",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "BIO+ Hollandse suikermaïs",
-      "korting_tekst": "Van € 2,49 voor € 1,99",
+      "productnaam": "1 de Beste Gyros rollade",
+      "korting_tekst": null,
       "actieprijs": 1.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blauwe bessen, frambozen of Hollandse aardbeien",
-      "korting_tekst": "Van € 3,59 voor € 2,79",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 400,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse aubergine",
-      "korting_tekst": "Van € 0,92 voor € 0,49",
-      "actieprijs": 0.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Rauwkostsalade",
-      "korting_tekst": "Van € 1,69 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nectarines",
-      "korting_tekst": "Van € 2,49 voor € 1,79",
-      "actieprijs": 1.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pitloze witte druiven",
-      "korting_tekst": "Van € 2,39 voor € 1,79",
-      "actieprijs": 1.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "XL watermeloen",
-      "korting_tekst": "Van € 3,69 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak groente of appelmoes",
-      "korting_tekst": "Van € 3,59 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 720,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/250430_1_480442_639089196258935331.png"
     },
     {
       "productnaam": "1 de Beste Watermeloen part",
@@ -91,809 +20,1169 @@
       "actieprijs": 1.69,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/117171_1_398523_638304364879975988.png"
     },
     {
-      "productnaam": "Galia meloen",
-      "korting_tekst": "Van € 1,99 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse bloemkool",
-      "korting_tekst": "Van € 1,69 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse spitskool",
-      "korting_tekst": "Van € 1,69 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kersen",
+      "productnaam": "De Vleeschmeesters Culinaire beenham",
       "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mini romaine sla",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Radijs",
-      "korting_tekst": "Van € 0,89 voor € 0,79",
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Gala appels",
-      "korting_tekst": "Van € 3,69 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verspakket van de maand - WK Nacho's",
-      "korting_tekst": "Van € 4,99 voor € 4,49",
-      "actieprijs": 4.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Grote knoflook",
-      "korting_tekst": "Van € 1,69 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse waspeen",
-      "korting_tekst": "Van € 0,99 voor € 0,89",
-      "actieprijs": 0.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Gemarineerde lapjes",
-      "korting_tekst": "Van € 3,85 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Runder- of kipchipolata's",
-      "korting_tekst": "Van € 3,99 voor € 3,49",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 5,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hollandse nieuwe haring",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Vleeschmeesters Varkensoesters",
-      "korting_tekst": null,
-      "actieprijs": 5.99,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Valess",
-      "korting_tekst": "Van € 3,65 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Grillworst",
-      "korting_tekst": "Van € 1,99 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Achterham flinterdun",
-      "korting_tekst": "Van € 1,75 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Wahid kipfilet",
-      "korting_tekst": "Van € 2,59 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Crumbel mini koek",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Danerolles croissants",
-      "korting_tekst": "Van € 3,19 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kadir's halal frikandelbroodje",
-      "korting_tekst": "Van € 1,49 voor € 0,69",
-      "actieprijs": 0.69,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Italiaanse bol",
-      "korting_tekst": "Van € 0,59 voor € 0,29",
-      "actieprijs": 0.29,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vloerbrood volkoren",
-      "korting_tekst": "Van € 1,89 voor € 1,59",
-      "actieprijs": 1.59,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Wasa crunchy cheddar bites",
-      "korting_tekst": "Van € 2,29 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Calvé pindakaas",
-      "korting_tekst": "Van € 4,35 voor € 3,29",
-      "actieprijs": 3.29,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "LU Prince",
-      "korting_tekst": "Van € 3,25 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sultana",
-      "korting_tekst": "Van € 2,69 voor € 1,89",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Heks’nkaas origineel",
-      "korting_tekst": "Van € 2,99 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uniekaas kaasplakken 48+",
-      "korting_tekst": "Van € 2,49 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Becel",
-      "korting_tekst": "Van € 4,29 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 550,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Danio kwark",
-      "korting_tekst": "Van € 2,79 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parrano rasp, snippers of mozzarella",
-      "korting_tekst": "Van € 2,85 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 135,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina kwark Griekse stijl",
-      "korting_tekst": "Van € 3,35 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Danone Danette",
-      "korting_tekst": "Van € 2,29 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Beemster Signature kaastapenade",
-      "korting_tekst": "Van € 3,65 voor € 1,59",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 140,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocomel of Optimel protein",
-      "korting_tekst": "Van € 1,85 voor € 0,89",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro houdbaar",
-      "korting_tekst": "Van € 2,99 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Healthy People",
-      "korting_tekst": "Van € 2,99 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Douwe Egberts espresso concentrate",
-      "korting_tekst": "Van € 5,49 voor € 2,69",
-      "actieprijs": 2.69,
-      "inhoud_waarde": 485,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "L'OR of Douwe Egberts Excellent koffiebonen",
-      "korting_tekst": "Van € 13,35 voor € 8,99",
-      "actieprijs": 8.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nescafé koffiespecialiteiten",
-      "korting_tekst": "Van € 4,29 voor € 2,29",
-      "actieprijs": 2.29,
-      "inhoud_waarde": 25,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Coca-Cola, Fanta, Sprite of Fernandes",
-      "korting_tekst": "Van € 0,99 voor € 0,59",
-      "actieprijs": 0.59,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Crystal Clear",
-      "korting_tekst": "Van € 2,45 voor € 1,29",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbeldrank",
-      "korting_tekst": "Van € 2,39 voor € 1,19",
-      "actieprijs": 1.19,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sourcy Vitaminwater",
-      "korting_tekst": "Van € 1,75 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hoegaarden",
-      "korting_tekst": "Van € 9,32 voor € 5,47",
-      "actieprijs": 5.47,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Grolsch beugel",
-      "korting_tekst": "Van € 18,95 voor € 13,99",
-      "actieprijs": 13.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hertog Jan 0.0",
-      "korting_tekst": "Van € 6,65 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pauwel Tripel Karmeliet 0.0",
-      "korting_tekst": "Van € 8,85 voor € 4,99",
       "actieprijs": 4.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/214115_1_457636_638984490738523101.png"
     },
     {
-      "productnaam": "Chilano",
-      "korting_tekst": "Van € 3,99 voor € 2,99",
-      "actieprijs": 2.99,
+      "productnaam": "Franse frites",
+      "korting_tekst": "Van € 1,89 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/255064_1_489787_639116694266956435.png"
+    },
+    {
+      "productnaam": "Roomboter appeltaart",
+      "korting_tekst": "Van € 3,99 voor € 2,49",
+      "actieprijs": 2.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/165986_1_455144_638318377975809248.png"
     },
     {
-      "productnaam": "Diamond Allure",
+      "productnaam": "Château David Bordeaux Superieur",
       "korting_tekst": "Van € 4,99 voor € 3,99",
       "actieprijs": 3.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/243282_1_252585_638960268425852011.png"
     },
     {
-      "productnaam": "Zaanse mayonaise saté",
-      "korting_tekst": "Van € 2,49 voor € 0,99",
-      "actieprijs": 0.99,
+      "productnaam": "Port Salut of Mascarpone Gorgonzola",
+      "korting_tekst": "Van € 3,99 voor € 2,59",
+      "actieprijs": 2.59,
       "inhoud_waarde": 190,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Quaker Cruesli",
-      "korting_tekst": "Van € 3,89 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 450,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/188359_1_126108_638489406494354991.png"
     },
     {
-      "productnaam": "Bravo Tosya risotto rijst",
-      "korting_tekst": "Van € 4,79 voor € 3,49",
+      "productnaam": "Premier Zeeuwse mosselen",
+      "korting_tekst": "Van € 8,99 voor € 5,99",
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/214412_1_454972_638868957612053987.png"
+    },
+    {
+      "productnaam": "Remia ravigottesaus",
+      "korting_tekst": null,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": null
+    },
+    {
+      "productnaam": "Verse mini kaasbroodjes of saucijzenstaaf",
+      "korting_tekst": "Van € 2,99 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 9,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/243690_1_470310_639020937348471480.png"
+    },
+    {
+      "productnaam": "1 de Beste Watermeloen part",
+      "korting_tekst": "Van € 1,99 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/117171_1_398523_638304364879975988.png"
+    },
+    {
+      "productnaam": "Franse frites",
+      "korting_tekst": "Van € 1,89 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/255064_1_489787_639116694266956435.png"
+    },
+    {
+      "productnaam": "1 de Beste Aardappelen",
+      "korting_tekst": "Van € 1,09 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/246748_1_416168_639166734568919996.png"
+    },
+    {
+      "productnaam": "1 de Beste Luxe sla",
+      "korting_tekst": "Van € 1,49 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/70624_1_247429_638301242702536107.png"
+    },
+    {
+      "productnaam": "1 de Beste Zoete puntpaprika's",
+      "korting_tekst": "Van € 2,89 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/227352_1_479347_638836014578667522.png"
+    },
+    {
+      "productnaam": "Biologische citroenen",
+      "korting_tekst": "Van € 1,29 voor € 1,19",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/493267_2026-07-14_10-08-24-410_9e35f1c5-bd68-4b71-9f73-ba383e696c2c.png"
+    },
+    {
+      "productnaam": "1 de Beste Roerbakgroenten",
+      "korting_tekst": "Van € 1,99 voor € 1,59",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/247486_2026-07-19_04-05-45-437_7e735e4b-a091-4636-816d-28d5464a7b45.png"
+    },
+    {
+      "productnaam": "Galia meloen",
+      "korting_tekst": "Van € 1,99 voor € 1,29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/268844_2026-07-19_04-04-20-594_68b6b642-2d19-4c86-9f11-087ce78fa0c1.png"
+    },
+    {
+      "productnaam": "Wilde perziken",
+      "korting_tekst": "Van € 2,49 voor € 1,89",
+      "actieprijs": 1.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/454504_2026-07-14_04-03-36-821_1534a88c-f6b3-4284-9344-c74933a0b32a.png"
+    },
+    {
+      "productnaam": "Bonduelle mais of doperwten",
+      "korting_tekst": null,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 545,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/486728_2026-07-19_04-07-00-002_c80de5e8-8f4a-4781-a56a-cbf18df260ff.png"
+    },
+    {
+      "productnaam": "Frambozen, blauwe bessen of kersen",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/268881_2026-07-08_04-02-27-588_198d548f-9ca1-453e-ad44-bcb1d6191647.png"
+    },
+    {
+      "productnaam": "Mango",
+      "korting_tekst": "Van € 1,79 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/178547_1_247745_638744376827272462.png"
+    },
+    {
+      "productnaam": "Pitloze rode druiven",
+      "korting_tekst": "Van € 2,39 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/412118_2026-07-19_04-07-03-797_e6021e84-96bc-4f4a-8188-a18ba063503d.png"
+    },
+    {
+      "productnaam": "XL watermeloen",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/369008_2026-07-19_04-06-44-514_cfcaef7b-0bef-4af6-9db1-25cb710fdcc6.png"
+    },
+    {
+      "productnaam": "Passiefruit",
+      "korting_tekst": "Van € 2,49 voor € 2,39",
+      "actieprijs": 2.39,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/177369_1_410978_638576040227175565.png"
+    },
+    {
+      "productnaam": "Pink Lady appels",
+      "korting_tekst": "Van € 2,99 voor € 2,79",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/478163_2026-07-19_04-03-43-280_77d6b301-3ed9-47c8-9240-ac38f73b7499.png"
+    },
+    {
+      "productnaam": "1 de Beste Gyros rollade",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/250430_1_480442_639089196258935331.png"
+    },
+    {
+      "productnaam": "De Vleeschmeesters Culinaire beenham",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/214115_1_457636_638984490738523101.png"
+    },
+    {
+      "productnaam": "Premier Zeeuwse mosselen",
+      "korting_tekst": "Van € 8,99 voor € 5,99",
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/214412_1_454972_638868957612053987.png"
+    },
+    {
+      "productnaam": "De Vegetarische Slager",
+      "korting_tekst": "Van € 4,49 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/226822_1_468245_638830077262110519.png"
+    },
+    {
+      "productnaam": "De Vleeschmeesters BBQ worsten",
+      "korting_tekst": "Van € 3,99 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 5,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/256724_1_487709_639144384536917952.png"
+    },
+    {
+      "productnaam": "De Vleeschmeesters Quarter pounders of kipburgers met spek",
+      "korting_tekst": "Van € 3,99 voor € 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/489968_2026-06-08_16-31-53-737_a0c7d227-5aae-4d92-9dc5-81bbd453236d.png"
+    },
+    {
+      "productnaam": "De Vleeschmeesters Kippenboutfilet",
+      "korting_tekst": "Van € 8,52 voor € 7,99",
+      "actieprijs": 7.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/246570_1_472494_639029448641540180.png"
+    },
+    {
+      "productnaam": "De Vleeschmeesters Rundergehakt",
+      "korting_tekst": "Van € 3,89 voor € 3,79",
+      "actieprijs": 3.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/228604_1_463330_638853162728328200.png"
+    },
+    {
+      "productnaam": "Kabeljauw krokant schnitzels",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/488169_2026-07-10_09-41-53-130_6e71152e-b3fd-4c4a-9214-36fb98f31b2d.png"
+    },
+    {
+      "productnaam": "1 de Beste Elzasser cervelaat",
+      "korting_tekst": "Van € 2,19 voor € 1,79",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/119542_1_423107_638040204588141852.png"
+    },
+    {
+      "productnaam": "1 de Beste Kipfilet naturel",
+      "korting_tekst": "Van € 2,95 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/488257_2026-07-14_10-09-42-923_e3228cd8-8e23-47d8-b94d-7962e46d075d.png"
+    },
+    {
+      "productnaam": "1 de Beste Meesterlijke ham",
+      "korting_tekst": "Van € 3,29 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/205832_1_471128_638676051895195580.png"
+    },
+    {
+      "productnaam": "Kips snacks",
+      "korting_tekst": "Van € 3,89 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/71663_1_423801_638058448144983017.png"
+    },
+    {
+      "productnaam": "Noorse gerookte zalm",
+      "korting_tekst": "Van € 3,99 voor € 3,49",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/250146_1_486383_639058854741613229.png"
+    },
+    {
+      "productnaam": "Roomboter appeltaart",
+      "korting_tekst": "Van € 3,99 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/165986_1_455144_638318377975809248.png"
+    },
+    {
+      "productnaam": "Bakker van der Akker Roomboter- of citroencake",
+      "korting_tekst": "Van € 2,99 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/489234_2026-07-13_15-51-40-036_9db45061-3fdc-4725-80bc-99a9f7709e51.png"
+    },
+    {
+      "productnaam": "Frikandelbroodje",
+      "korting_tekst": "Van € 0,98 voor € 0,59",
+      "actieprijs": 0.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/256676_1_488001_639124473180296245.png"
+    },
+    {
+      "productnaam": "Kaas-ui bollen",
+      "korting_tekst": "Van € 2,29 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/179651_1_454338_638406513457507660.png"
+    },
+    {
+      "productnaam": "Mini kaneelbuns of muffins",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/172109_1_454612_638586504348792891.png"
+    },
+    {
+      "productnaam": "Multikorn volkoren of boeren extra vezels volkoren",
+      "korting_tekst": "Van € 1,99 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/175599_1_447422_638354892328613283.png"
+    },
+    {
+      "productnaam": "Peijnenburg ontbijtkoek",
+      "korting_tekst": "Van € 2,99 voor € 1,79",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/172298_1_456897_638314993956696218.png"
+    },
+    {
+      "productnaam": "Liga Evergreen of Milkbreak",
+      "korting_tekst": "Van € 2,99 voor € 1,89",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/125424_1_366629_638294391854655853.png"
+    },
+    {
+      "productnaam": "Milka koek",
+      "korting_tekst": "Van € 3,35 voor € 2,29",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 208,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/118190_1_336607_638305525729296414.png"
+    },
+    {
+      "productnaam": "Port Salut of Mascarpone Gorgonzola",
+      "korting_tekst": "Van € 3,99 voor € 2,59",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/188359_1_126108_638489406494354991.png"
+    },
+    {
+      "productnaam": "Philadelphia zuivelspread",
+      "korting_tekst": "Van € 2,99 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/208700_1_373152_638695920452954846.png"
+    },
+    {
+      "productnaam": "Uniekaas voordeelstuk",
+      "korting_tekst": null,
+      "actieprijs": 6.99,
+      "inhoud_waarde": 900,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": null
+    },
+    {
+      "productnaam": "Arla biologische zuivel",
+      "korting_tekst": "Van € 2,19 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/257429_1_377542_639134886200057038.png"
+    },
+    {
+      "productnaam": "Goudse geraspte kaas",
+      "korting_tekst": "Van € 3,99 voor € 3,49",
       "actieprijs": 3.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/242669_1_477208_638986209962303166.png"
     },
     {
-      "productnaam": "Hellmann's of Calvé mayonaise",
-      "korting_tekst": "Van € 4,19 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 430,
+      "productnaam": "HiPRO",
+      "korting_tekst": "Van € 2,35 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/252464_1_447260_639081342379771705.png"
     },
     {
-      "productnaam": "Danerolles croissants",
-      "korting_tekst": "Van € 3,19 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Maza",
-      "korting_tekst": "Van € 2,79 voor € 1,69",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 200,
+      "productnaam": "Almhof Hoekje",
+      "korting_tekst": "Van € 1,45 voor € 0,89",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/165861_1_375307_638362470884666364.png"
     },
     {
-      "productnaam": "Magioni bloemkool pizzabodem",
-      "korting_tekst": "Van € 3,89 voor € 1,99",
+      "productnaam": "Alpro mild & creamy of drink",
+      "korting_tekst": "Van € 2,89 voor € 1,99",
       "actieprijs": 1.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/238724_1_328289_638899203214742697.png"
+    },
+    {
+      "productnaam": "La Vache qui rit naturel of Cheez dippers",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 24,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/235974_1_447577_638955939222077900.png"
+    },
+    {
+      "productnaam": "Lurpak smeerbaar",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/227381_1_478463_638847141675631369.png"
+    },
+    {
+      "productnaam": "Chocomel, Fristi of Optimel",
+      "korting_tekst": "Van € 3,85 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/8993_1_108600_637983405664494576.png"
+    },
+    {
+      "productnaam": "Oatly haverdrink",
+      "korting_tekst": "Van € 3,65 voor € 1,79",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/59133_1_408980_637856410935928876.png"
+    },
+    {
+      "productnaam": "Château David Bordeaux Superieur",
+      "korting_tekst": "Van € 4,99 voor € 3,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/243282_1_252585_638960268425852011.png"
+    },
+    {
+      "productnaam": "Innocent sap, swirl of kokoswater",
+      "korting_tekst": "Van € 2,79 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/216574_1_412105_638748868405039656.png"
+    },
+    {
+      "productnaam": "Starbucks frappuccino",
+      "korting_tekst": "Van € 2,25 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/199538_1_434067_638611266446537786.png"
+    },
+    {
+      "productnaam": "Leffe",
+      "korting_tekst": "Van € 9,99 voor € 7,49",
+      "actieprijs": 7.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/194392_1_566440_638557086629039836.png"
+    },
+    {
+      "productnaam": "Zomerse cocktail",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/248904_1_487696_639101229338432500.png"
+    },
+    {
+      "productnaam": "Slush Puppie ijslollies",
+      "korting_tekst": "Van € 1,49 voor € 0,89",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/466495_2026-07-13_08-34-56-345_946bef8d-e76f-40f9-8fbc-9cd4c9efbdf4.png"
+    },
+    {
+      "productnaam": "Chocomel, Fristi of Optimel",
+      "korting_tekst": "Van € 3,85 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/8993_1_108600_637983405664494576.png"
+    },
+    {
+      "productnaam": "Oatly haverdrink",
+      "korting_tekst": "Van € 3,65 voor € 1,79",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/59133_1_408980_637856410935928876.png"
+    },
+    {
+      "productnaam": "1 de Beste Koffiepads",
+      "korting_tekst": "Van € 3,99 voor € 2,89",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 36,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/210345_1_470380_638706513380980663.png"
+    },
+    {
+      "productnaam": "L'OR koffiecups",
+      "korting_tekst": "Van € 8,19 voor € 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/111387_1_385606_638245800272051333.png"
+    },
+    {
+      "productnaam": "Evian of Volvic",
+      "korting_tekst": "Van € 1,35 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/72742_1_424107_637753565186866414.png"
+    },
+    {
+      "productnaam": "Lipton ice tea",
+      "korting_tekst": "Van € 3,55 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/73621_1_422540_638221635858902255.png"
+    },
+    {
+      "productnaam": "Maaza",
+      "korting_tekst": "Van € 2,09 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/195075_1_384861_638563723025037914.png"
+    },
+    {
+      "productnaam": "Royal Club of Rivella",
+      "korting_tekst": "Van € 2,39 voor € 1,29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/70761_1_422169_638186221152045851.png"
+    },
+    {
+      "productnaam": "Capri-Sun",
+      "korting_tekst": "Van € 4,79 voor € 3,79",
+      "actieprijs": 3.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/216553_1_399660_638748868147022463.png"
+    },
+    {
+      "productnaam": "Amstel of Grolsch pils",
+      "korting_tekst": "Van € 5,63 voor € 3,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/172502_1_447100_638320307071259231.png"
+    },
+    {
+      "productnaam": "Amstel Radler",
+      "korting_tekst": "Van € 5,49 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/244292_1_344168_638977710537414502.png"
+    },
+    {
+      "productnaam": "Dr. Pepper of Oasis",
+      "korting_tekst": "Van € 1,27 voor € 0,69",
+      "actieprijs": 0.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/126942_1_412080_638247808970648591.png"
+    },
+    {
+      "productnaam": "Hertog Jan of Jupiler pils",
+      "korting_tekst": "Van € 19,88 voor € 14,91",
+      "actieprijs": 14.91,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/126742_1_737610_637970158078692395.png"
+    },
+    {
+      "productnaam": "Doornbosch",
+      "korting_tekst": "Van € 3,99 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/170073_1_429485_638294411063711312.png"
+    },
+    {
+      "productnaam": "Remia saus",
+      "korting_tekst": "Van € 2,39 voor € 0,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/422638_2026-07-19_04-06-48-106_8f4408db-92db-46b4-ac93-19fcc4798475.png"
+    },
+    {
+      "productnaam": "Holie's granola, crunchy muesli of crunchy loops",
+      "korting_tekst": "Van € 4,09 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/229917_1_479633_638865259145002439.png"
+    },
+    {
+      "productnaam": "De Cecco pasta",
+      "korting_tekst": "Van € 2,89 voor € 1,29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/237571_1_412403_638889600678467813.png"
+    },
+    {
+      "productnaam": "Dr. Oetker koude taartmix",
+      "korting_tekst": "Van € 3,79 voor € 2,89",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/222083_1_426696_638786811209334136.png"
+    },
+    {
+      "productnaam": "Grand Italia Sugocasa",
+      "korting_tekst": "Van € 3,45 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 690,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/242999_1_225864_638955309284575951.png"
+    },
+    {
+      "productnaam": "Silvo kruiden",
+      "korting_tekst": "Van € 4,49 voor € 1,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 46,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/98706_1_148501_638016184229623722.png"
+    },
+    {
+      "productnaam": "Verse mini kaasbroodjes of saucijzenstaaf",
+      "korting_tekst": "Van € 2,99 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 9,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 19 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/243690_1_470310_639020937348471480.png"
+    },
+    {
+      "productnaam": "Maaltijd verspakket",
+      "korting_tekst": "Van € 4,99 voor € 3,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/224568_1_460757_638810232800895195.png"
+    },
+    {
+      "productnaam": "Daily Chef verse kiploempia's",
+      "korting_tekst": null,
+      "actieprijs": 3.49,
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/229688_1_480346_638889432591901236.png"
     },
     {
-      "productnaam": "Mealmasters verse maaltijd",
-      "korting_tekst": "Van € 5,89 voor € 3,99",
+      "productnaam": "Padifood kip sweet chili, bami of nasi speciaal",
+      "korting_tekst": null,
       "actieprijs": 3.99,
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/214414_1_471139_638738253472862098.png"
     },
     {
-      "productnaam": "Jan volkoren poffertjes",
-      "korting_tekst": "Van € 2,79 voor € 1,39",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Chicken Tonight",
-      "korting_tekst": "Van € 3,85 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 535,
+      "productnaam": "Bits & Bites Tapas",
+      "korting_tekst": "Van € 2,29 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/246441_1_476203_639009813133211527.png"
     },
     {
-      "productnaam": "Bertolli pesto",
-      "korting_tekst": "Van € 3,17 voor € 1,59",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 185,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verspakket van de maand - WK Nacho's",
-      "korting_tekst": "Van € 4,99 voor € 4,49",
-      "actieprijs": 4.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's pints of Magnum",
-      "korting_tekst": "Van € 8,55 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 465,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Iglo Ping & Klaar bami babi pangang",
-      "korting_tekst": "Van € 5,99 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 380,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kwekkeboom oven & airfryer bitterballen",
-      "korting_tekst": "Van € 4,95 voor € 2,69",
-      "actieprijs": 2.69,
+      "productnaam": "Luxe tapasschotel",
+      "korting_tekst": "Van € 8,39 voor € 6,49",
+      "actieprijs": 6.49,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/221175_1_460581_638780592541904393.png"
     },
     {
-      "productnaam": "Queens visfilets",
-      "korting_tekst": "Van € 3,89 voor € 2,49",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Always discreet",
-      "korting_tekst": "Van € 4,45 voor € 1,99",
+      "productnaam": "Johma brood- en toastsalade",
+      "korting_tekst": "Van € 3,75 voor € 1,99",
       "actieprijs": 1.99,
-      "inhoud_waarde": 28,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/266651_2026-07-19_04-02-34-458_558d2bd8-7b51-4337-b118-5527875223d6.png"
     },
     {
-      "productnaam": "Nivea crème",
-      "korting_tekst": "Van € 3,99 voor € 2,49",
+      "productnaam": "Santa Maria tortilla's",
+      "korting_tekst": "Van € 2,69 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/242256_1_483996_638962161501481549.png"
+    },
+    {
+      "productnaam": "Daim, Oreo, Toblerone of Biscoff ijs",
+      "korting_tekst": "Van € 4,49 voor € 2,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/189211_1_446984_638500905684333411.png"
+    },
+    {
+      "productnaam": "Iglo vissticks of visfriet",
+      "korting_tekst": "Van € 3,35 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 8,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/251287_1_442889_639070026692123164.png"
+    },
+    {
+      "productnaam": "Mora Oven & Airfryer",
+      "korting_tekst": "Van € 4,75 voor € 2,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/230297_1_381750_638870601524918268.png"
+    },
+    {
+      "productnaam": "Axe deodorant",
+      "korting_tekst": "Van € 2,99 voor € 2,49",
       "actieprijs": 2.49,
       "inhoud_waarde": 150,
       "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/244104_1_481298_638972634239106648.png"
     },
     {
-      "productnaam": "Sanex douchegel",
+      "productnaam": "Axe douchegel",
       "korting_tekst": null,
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Andrélon shampoo of conditioner",
-      "korting_tekst": "Van € 6,55 voor € 2,49",
-      "actieprijs": 2.49,
+      "actieprijs": 2.99,
       "inhoud_waarde": 400,
       "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/492069_2026-05-29_16-33-08-920_62d9e9c7-6ba5-4098-a554-138cac21084e.png"
     },
     {
-      "productnaam": "Prodent tandpasta",
-      "korting_tekst": "Van € 2,59 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 75,
+      "productnaam": "Elvive shampoo of conditioner",
+      "korting_tekst": "Van € 4,99 voor € 3,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 400,
       "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/238982_1_482567_638907594890637593.png"
     },
     {
-      "productnaam": "Dove deodorant",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smuldier vers vlees maaltijd",
-      "korting_tekst": "Van € 2,49 voor € 1,19",
-      "actieprijs": 1.19,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tempo tissues of zakdoekjes",
-      "korting_tekst": "Van € 1,79 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Airwick Pure & Freshmatic",
-      "korting_tekst": "Van € 5,79 voor € 2,99",
-      "actieprijs": 2.99,
+      "productnaam": "Unicura handzeep",
+      "korting_tekst": "Van € 2,79 voor € 1,49",
+      "actieprijs": 1.49,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/86653_1_336224_637717248824247822.png"
     },
     {
-      "productnaam": "Dettol reiniger",
-      "korting_tekst": "Van € 4,29 voor € 1,99",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
+      "productnaam": "Paradontax of Sensodyne tandpasta",
+      "korting_tekst": "Van € 6,99 voor € 2,69",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/253089_1_464323_639089187368839818.png"
     },
     {
-      "productnaam": "Dreft Max Power handafwas",
+      "productnaam": "Dreft professioneel wasmiddel",
       "korting_tekst": null,
-      "actieprijs": 2.39,
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/177308_1_459045_638519109805956845.png"
+    },
+    {
+      "productnaam": "Lenor geurparels",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/492709_2026-07-19_04-07-43-280_29bef673-c3e5-4f2d-ba56-38c97d16fff2.png"
+    },
+    {
+      "productnaam": "Vanish Oxi Action",
+      "korting_tekst": null,
+      "actieprijs": 5.99,
+      "inhoud_waarde": 900,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/192934_1_467534_638549907798055947.png"
+    },
+    {
+      "productnaam": "Dreft Platinum vaatwastabletten",
+      "korting_tekst": "Van € 12,35 voor € 4,99",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 21,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/257271_1_487877_639132258327735460.png"
+    },
+    {
+      "productnaam": "Fairy afwasmiddel",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
       "inhoud_waarde": 450,
       "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/256730_1_490150_639125562136041011.png"
     },
     {
-      "productnaam": "Felix kattenvoer",
-      "korting_tekst": "Van € 6,89 voor € 3,49",
-      "actieprijs": 3.49,
+      "productnaam": "Glorix toiletblok",
+      "korting_tekst": "Van € 3,49 voor € 0,99",
+      "actieprijs": 0.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/200035_1_466332_638616675107264325.png"
     },
     {
-      "productnaam": "Robijn wasparfum",
-      "korting_tekst": null,
+      "productnaam": "IAMS kattenbrokjes",
+      "korting_tekst": "Van € 5,29 voor € 2,69",
+      "actieprijs": 2.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/182214_1_428013_638436070554930060.png"
+    },
+    {
+      "productnaam": "Good Boy hondensnacks",
+      "korting_tekst": "Van € 2,39 voor € 1,69",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/168170_1_454955_638266679468524406.png"
+    },
+    {
+      "productnaam": "Lenor wasverzachter",
+      "korting_tekst": "Van € 7,65 voor € 2,99",
       "actieprijs": 2.99,
-      "inhoud_waarde": 342,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/487874_2026-07-19_04-04-12-674_26056b0a-c5e9-48ee-bde5-6244a40bdf7a.png"
     },
     {
-      "productnaam": "Robijn wasverzachter",
-      "korting_tekst": "Van € 7,55 voor € 1,99",
+      "productnaam": "Pringles",
+      "korting_tekst": "Van € 0,98 voor € 0,59",
+      "actieprijs": 0.59,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/113622_1_350629_638306011655739078.png"
+    },
+    {
+      "productnaam": "Bolletje Pepsels",
+      "korting_tekst": "Van € 1,25 voor € 0,69",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/180050_1_398900_638415156405924884.png"
+    },
+    {
+      "productnaam": "Chio Pom-bär uitdeelzak",
+      "korting_tekst": "Van € 2,89 voor € 1,99",
       "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sun vaatwas",
-      "korting_tekst": "Van € 9,49 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 16,
+      "inhoud_waarde": 8,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/237206_1_453837_638888595652030987.png"
     },
     {
-      "productnaam": "Robijn wasmiddel",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Citronella kaars in glas",
-      "korting_tekst": null,
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "12 - 18 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Better Pete biologische chips",
-      "korting_tekst": "Van € 2,45 voor € 0,99",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 75,
+      "productnaam": "Mannekes",
+      "korting_tekst": "Van € 1,92 voor € 1,29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 225,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/251172_1_462988_639070026681077311.png"
     },
     {
-      "productnaam": "Wilhelmina suikervrije pepermunt",
-      "korting_tekst": "Van € 1,89 voor € 0,89",
-      "actieprijs": 0.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Haribo of Maoam uitdeelzak",
-      "korting_tekst": "Van € 4,09 voor € 2,99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 375,
+      "productnaam": "Ritter Sport",
+      "korting_tekst": "Van € 2,59 voor € 1,29",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/373795_2026-07-19_04-04-44-722_5447d99a-4188-42b9-a89f-af1912664bba.png"
     },
     {
-      "productnaam": "Mentos",
-      "korting_tekst": null,
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
-    },
-    {
-      "productnaam": "Cheetos, Hamka's, Pomtips of Mama Mia's",
-      "korting_tekst": "Van € 2,35 voor € 1,49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 130,
+      "productnaam": "Doritos of Lays MAX partypack",
+      "korting_tekst": "Van € 2,49 voor € 1,99",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 275,
       "inhoud_unit": "gram",
-      "geldig_tekst": "8 - 14 jul",
-      "categorie": null
+      "geldig_tekst": "15 - 21 jul",
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dirk.nl/artikelen/257240_1_392426_639132258290291780.png"
     }
   ]
 }

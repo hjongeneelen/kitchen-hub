@@ -1,0 +1,67 @@
+# Everyday grocery staples to price-check on every run via
+# modules/supermarktscanner_connector.py's fetch_ingredient_prices(), even
+# when nothing about them is currently on sale anywhere. One Dutch keyword
+# per line (Dutch searches this Dutch site far more reliably than English —
+# "noten" finds far more than "nuts"); blank lines and lines starting with #
+# are ignored. Add whatever you actually buy — there's no length limit,
+# each line just costs a few seconds of scrape time.
+
+# Zuivel & eieren
+melk
+kaas
+boter
+yoghurt
+eieren
+slagroom
+roomboter
+
+# Vlees & vis
+kip
+gehakt
+worst
+varkensvlees
+rundvlees
+spek
+zalm
+kibbeling
+
+# Basis / voorraadkast
+rijst
+pasta
+bloem
+suiker
+zout
+peper
+olijfolie
+zonnebloemolie
+tomatensaus
+ketchup
+mayonaise
+mosterd
+sojasaus
+honing
+pindakaas
+noten
+
+# Groente & fruit
+uien
+knoflook
+aardappelen
+wortel
+komkommer
+tomaten
+paprika
+appels
+bananen
+citroen
+
+# Brood & ontbijt
+brood
+beschuit
+muesli
+cornflakes
+
+# Dranken
+koffie
+thee
+sinaasappelsap

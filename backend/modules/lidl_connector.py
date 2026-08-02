@@ -117,6 +117,7 @@ def _expand_group(page, href: str, category: Optional[str], price_range_text: Op
                 inhoud_unit=unit,
                 geldig_tekst=geldig_tekst,
                 categorie=category,
+                afbeelding_url=img.get_attribute("src"),
             ))
     except Exception as e:
         logger.debug(f"[Lidl] Failed to expand group at {href}: {e}")
@@ -188,13 +189,16 @@ def fetch_lidl_deals() -> List[DealItem]:
 
                             category = _map_category(info.get("wonCategoryPrimary") or "")
 
-                            tile_infos.append((product_id, name, info.get("price"), href, text, geldig_tekst, category))
+                            img_loc = tile.locator(".odsc-image-gallery img")
+                            image_url = img_loc.first.get_attribute("src") if img_loc.count() else None
+
+                            tile_infos.append((product_id, name, info.get("price"), href, text, geldig_tekst, category, image_url))
                             if product_id:
                                 seen_ids.add(product_id)
                         except Exception as e:
                             logger.debug(f"[Lidl] Tile parse error: {e}")
 
-                    for product_id, name, price, href, text, geldig_tekst, category in tile_infos:
+                    for product_id, name, price, href, text, geldig_tekst, category, image_url in tile_infos:
                         if name.startswith("Alle ") and href:
                             price_range_match = re.search(r"Actieprijzen vari\S+ren van[^.\n]*\.?", text)
                             price_range_text = price_range_match.group(0) if price_range_match else None
@@ -221,6 +225,7 @@ def fetch_lidl_deals() -> List[DealItem]:
                             inhoud_unit=unit,
                             geldig_tekst=geldig_tekst,
                             categorie=category,
+                            afbeelding_url=image_url,
                         ))
             finally:
                 browser.close()

@@ -1,0 +1,548 @@
+{
+  "store": "Hoogvliet",
+  "slug": "hoogvliet",
+  "mode": "api",
+  "updated_at": "2026-07-19T14:58:44.574224+00:00",
+  "deals": [
+    {
+      "productnaam": "Bar le Duc Mineraalwater kzh 4pk",
+      "korting_tekst": "was €1,99",
+      "actieprijs": 0.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/730400000.jpg"
+    },
+    {
+      "productnaam": "Bar le Duc Mineraalwater kzv 4pk",
+      "korting_tekst": "was €1,95",
+      "actieprijs": 0.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/730402000.jpg"
+    },
+    {
+      "productnaam": "Edet Vochtig toiletpapier amandel",
+      "korting_tekst": "was €2,99",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 42,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/689125000.jpg"
+    },
+    {
+      "productnaam": "Glorix Wc blok actief blauw water",
+      "korting_tekst": "was €4,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/699598000.jpg"
+    },
+    {
+      "productnaam": "Magnum Mini IJs Classic + Almond + White",
+      "korting_tekst": "was €8,81",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/684682000.jpg"
+    },
+    {
+      "productnaam": "Edet Vochtig toiletpapier aloe vera",
+      "korting_tekst": "was €2,79",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 42,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/689126000.jpg"
+    },
+    {
+      "productnaam": "Edet Vochtig toiletpapier limited edition",
+      "korting_tekst": "was €2,79",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 42,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/727395000.jpg"
+    },
+    {
+      "productnaam": "Glorix Wc blok wild berries",
+      "korting_tekst": "was €3,99",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/726525000.jpg"
+    },
+    {
+      "productnaam": "Dreft Wasmiddel white",
+      "korting_tekst": "was €10,39",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 945,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/727630000.jpg"
+    },
+    {
+      "productnaam": "Appelsientje Fruitdrink sinaasappel.",
+      "korting_tekst": "was €2,26",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/724486000.jpg"
+    },
+    {
+      "productnaam": "Kleenex zakdoekjes - Ultrasoft mini",
+      "korting_tekst": "was €2,49",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/678480000.jpg"
+    },
+    {
+      "productnaam": "Dreft Wasmiddel dark",
+      "korting_tekst": "was €9,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 945,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/727631000.jpg"
+    },
+    {
+      "productnaam": "Calve Pindakaas creamy",
+      "korting_tekst": "was €6,19",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/690869000.jpg"
+    },
+    {
+      "productnaam": "Kleenex tissues - Allergy Comfort - box",
+      "korting_tekst": "was €2,46",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 56,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/708154000.jpg"
+    },
+    {
+      "productnaam": "Dr. Oetker Big Americans BBQ Chicken",
+      "korting_tekst": "was €4,89",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/710582000.jpg"
+    },
+    {
+      "productnaam": "Glorix White Roses & Tea Tree Wc Blok",
+      "korting_tekst": "was €3,59",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/709984000.jpg"
+    },
+    {
+      "productnaam": "Glorix Dahlia & Dragonfruit Wc Blok",
+      "korting_tekst": "was €3,59",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/709983000.jpg"
+    },
+    {
+      "productnaam": "Glorix Power 5+ Magnolia Wc Blok",
+      "korting_tekst": "was €3,58",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/694855000.jpg"
+    },
+    {
+      "productnaam": "Melkan Panna cotta caramel",
+      "korting_tekst": "was €1,49",
+      "actieprijs": 0.63,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/727654000.jpg"
+    },
+    {
+      "productnaam": "Melkan Lemoncello toetje",
+      "korting_tekst": "was €1,49",
+      "actieprijs": 0.63,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/717205000.jpg"
+    },
+    {
+      "productnaam": "Dr. Oetker Big americans shoarma",
+      "korting_tekst": "was €4,69",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 415,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/722648000.jpg"
+    },
+    {
+      "productnaam": "Glorix Power fresh wc gel lime",
+      "korting_tekst": "was €3,49",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/730110000.jpg"
+    },
+    {
+      "productnaam": "Magnum Utopia double hazelnut pistache mini",
+      "korting_tekst": "was €6,99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/728662000.jpg"
+    },
+    {
+      "productnaam": "Dr. Oetker Big americans texas",
+      "korting_tekst": "was €4,65",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 435,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/678268000.jpg"
+    },
+    {
+      "productnaam": "Kleenex Zakdoekjes balsem",
+      "korting_tekst": "was €2,29",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 8,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/324302000.jpg"
+    },
+    {
+      "productnaam": "Marne Honing mosterdsaus",
+      "korting_tekst": "was €2,24",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/076322000.jpg"
+    },
+    {
+      "productnaam": "Glorix Power 5+ Ocean Wc Blok",
+      "korting_tekst": "was €3,35",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/694856000.jpg"
+    },
+    {
+      "productnaam": "Kleenex tissues - Balsam box",
+      "korting_tekst": "was €2,21",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 64,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/712537000.jpg"
+    },
+    {
+      "productnaam": "Taksi Drakenfruit gst",
+      "korting_tekst": "was €1,98",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/728557000.jpg"
+    },
+    {
+      "productnaam": "Appelsientje Fruitdrink appel",
+      "korting_tekst": "was €1,98",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/724487000.jpg"
+    },
+    {
+      "productnaam": "Magnum White chocolate",
+      "korting_tekst": "was €6,65",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/724221000.jpg"
+    },
+    {
+      "productnaam": "Kleenex tissues - The Original - box",
+      "korting_tekst": "was €2,19",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/712538000.jpg"
+    },
+    {
+      "productnaam": "Glorix Power 5 Ocean Wc Blok",
+      "korting_tekst": "was €3,29",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/679180000.jpg"
+    },
+    {
+      "productnaam": "Glorix Power 5 Lavendel Wc Blok",
+      "korting_tekst": "was €3,29",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/684486000.jpg"
+    },
+    {
+      "productnaam": "Calve Pindakaas light",
+      "korting_tekst": "was €5,49",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/690868000.jpg"
+    },
+    {
+      "productnaam": "Taksi Junglefruit",
+      "korting_tekst": "was €1,95",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/723413000.jpg"
+    },
+    {
+      "productnaam": "Taksi Exotisch fruit",
+      "korting_tekst": "was €1,95",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/685069000.jpg"
+    },
+    {
+      "productnaam": "Magnum Almond",
+      "korting_tekst": "was €6,49",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/724223000.jpg"
+    },
+    {
+      "productnaam": "Taksi Sinaasappel",
+      "korting_tekst": "was €1,91",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/038415000.jpg"
+    },
+    {
+      "productnaam": "Magnum Classic",
+      "korting_tekst": "was €6,29",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/724222000.jpg"
+    },
+    {
+      "productnaam": "Dreft Handafwas quickwash",
+      "korting_tekst": "was €7,99",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1050,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/728946000.jpg"
+    },
+    {
+      "productnaam": "Hoogvliet Spareribs piri piri",
+      "korting_tekst": "was €9,02",
+      "actieprijs": 4.51,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/731855000.jpg"
+    },
+    {
+      "productnaam": "Lenor Geurparels orchidee",
+      "korting_tekst": "was €7,30",
+      "actieprijs": 3.65,
+      "inhoud_waarde": 155,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/728818000.jpg"
+    },
+    {
+      "productnaam": "Axe Showergel ice chill",
+      "korting_tekst": "was €5,82",
+      "actieprijs": 2.91,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/693759000.jpg"
+    },
+    {
+      "productnaam": "Dove Deoroller extra fresh",
+      "korting_tekst": "was €5,67",
+      "actieprijs": 2.84,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/721528000.jpg"
+    },
+    {
+      "productnaam": "Dove Douche deeply nourishing",
+      "korting_tekst": "was €6,29",
+      "actieprijs": 3.15,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/725965000.jpg"
+    },
+    {
+      "productnaam": "Air Wick Le refill magnolia & cherry blossom",
+      "korting_tekst": "was €6,36",
+      "actieprijs": 3.18,
+      "inhoud_waarde": 19,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/714916000.jpg"
+    },
+    {
+      "productnaam": "Dove Deoroller original",
+      "korting_tekst": "was €5,67",
+      "actieprijs": 2.84,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/721530000.jpg"
+    },
+    {
+      "productnaam": "Bavaria 0.0 bier",
+      "korting_tekst": "was €5,79",
+      "actieprijs": 2.9,
+      "inhoud_waarde": 1980,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/722513000.jpg"
+    },
+    {
+      "productnaam": "Lenor Wasverzachter jasmijn",
+      "korting_tekst": "was €6,95",
+      "actieprijs": 3.48,
+      "inhoud_waarde": 882,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/728816000.jpg"
+    },
+    {
+      "productnaam": "Air Wick Geurstokjes vanille en meloen",
+      "korting_tekst": "was €6,99",
+      "actieprijs": 3.5,
+      "inhoud_waarde": 32,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/719162000.jpg"
+    },
+    {
+      "productnaam": "Axe Apollo deodorant bodyspray",
+      "korting_tekst": "was €7,34",
+      "actieprijs": 3.67,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/718432000.jpg"
+    },
+    {
+      "productnaam": "Rexona Deodorant spray aloe vera scent",
+      "korting_tekst": "was €5,99",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/718938000.jpg"
+    },
+    {
+      "productnaam": "Affligem Blond 0.0 Bier Fles 6-pack",
+      "korting_tekst": "was €7,49",
+      "actieprijs": 3.75,
+      "inhoud_waarde": 1800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "aanbieding is 15 juli t/m 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://cdn.hoogvliet.com/Images/Product/L/704970000.jpg"
+    }
+  ]
+}

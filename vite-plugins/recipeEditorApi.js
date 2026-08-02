@@ -7,6 +7,7 @@ const ROOT = path.resolve(__dirname, '..')
 const RECIPES_DIR = path.join(ROOT, '_recipes')
 const FRIDGE_PATH = path.join(ROOT, 'fridge.json')
 const PREFERENCES_PATH = path.join(ROOT, 'preferences.json')
+const FRIDGE_INBOX_PATH = path.join(ROOT, '_fridge', 'inbox.md')
 
 // Seed used the first time preferences.json doesn't exist yet — kept in sync
 // with src/lib/recipePreferences.js's default (that file is the client's
@@ -67,6 +68,53 @@ function loadFridge() {
 
 function saveFridge(items) {
   fs.writeFileSync(FRIDGE_PATH, JSON.stringify({ items }, null, 2), 'utf-8')
+}
+
+// _fridge/inbox.md is a *tracked* file (unlike fridge.json/preferences.json,
+// gitignored local machine state) specifically so a note jotted through
+// github.com's web editor while away reaches whichever machine later runs
+// `npm run dev` and processes it. Splits on the "## Nieuw" / "## Verwerkt"
+// headings — "before" keeps the title/instructions above "## Nieuw" intact.
+function splitFridgeInboxSections(raw) {
+  const nieuwMatch = raw.match(/^##\s+Nieuw\s*\r?\n/im)
+  if (!nieuwMatch) return { before: raw, nieuw: '', verwerkt: '' }
+  const nieuwStart = nieuwMatch.index + nieuwMatch[0].length
+  const before = raw.slice(0, nieuwMatch.index)
+
+  const verwerktMatch = raw.slice(nieuwStart).match(/^##\s+Verwerkt\s*\r?\n/im)
+  if (!verwerktMatch) return { before, nieuw: raw.slice(nieuwStart), verwerkt: '' }
+  const verwerktStart = nieuwStart + verwerktMatch.index + verwerktMatch[0].length
+  return {
+    before,
+    nieuw: raw.slice(nieuwStart, nieuwStart + verwerktMatch.index),
+    verwerkt: raw.slice(verwerktStart),
+  }
+}
+
+function readFridgeInboxNew() {
+  if (!fs.existsSync(FRIDGE_INBOX_PATH)) return ''
+  return splitFridgeInboxSections(fs.readFileSync(FRIDGE_INBOX_PATH, 'utf-8')).nieuw.trim()
+}
+
+// Moves the current "## Nieuw" content into a dated entry at the top of
+// "## Verwerkt" and clears "## Nieuw" — called after a successful
+// update_fridge_items tool call so a note is never silently dropped even if
+// the LLM only partially acted on it (it stays visible in the archive).
+function archiveFridgeInbox() {
+  if (!fs.existsSync(FRIDGE_INBOX_PATH)) return false
+  const raw = fs.readFileSync(FRIDGE_INBOX_PATH, 'utf-8')
+  const { before, nieuw, verwerkt } = splitFridgeInboxSections(raw)
+  const trimmedNieuw = nieuw.trim()
+  if (!trimmedNieuw) return false
+
+  const dateStamp = new Date().toISOString().slice(0, 10)
+  const archivedEntry = `### ${dateStamp}\n${trimmedNieuw}\n`
+  const restOfVerwerkt = verwerkt.trim()
+  const newVerwerkt = restOfVerwerkt ? `${archivedEntry}\n${restOfVerwerkt}\n` : archivedEntry
+
+  const newContent = `${before.trimEnd()}\n\n## Nieuw\n\n## Verwerkt\n\n${newVerwerkt}`
+  fs.writeFileSync(FRIDGE_INBOX_PATH, newContent, 'utf-8')
+  return true
 }
 
 function loadPreferences() {
@@ -408,6 +456,27 @@ export function recipeEditorApi() {
             const target = path.join(RECIPES_DIR, filename)
             if (fs.existsSync(target)) fs.unlinkSync(target)
             return sendJson(res, 200, { ok: true })
+          }
+
+          next()
+        } catch (err) {
+          sendJson(res, 500, { error: err.message })
+        }
+      })
+
+      // Registered before '/api/fridge' below — connect matches middleware by
+      // path prefix, so a request to '/api/fridge/inbox' would otherwise also
+      // match the shorter '/api/fridge' mount point; registering the more
+      // specific path first means it wins.
+      server.middlewares.use('/api/fridge/inbox', async (req, res, next) => {
+        try {
+          if (req.method === 'GET') {
+            return sendJson(res, 200, { text: readFridgeInboxNew() })
+          }
+
+          if (req.method === 'POST') {
+            const archived = archiveFridgeInbox()
+            return sendJson(res, 200, { ok: true, archived })
           }
 
           next()

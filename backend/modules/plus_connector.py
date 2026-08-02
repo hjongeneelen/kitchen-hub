@@ -99,6 +99,11 @@ def _scrape_current_tab(page, seen_ids: set) -> List[DealItem]:
             desc = desc_loc.first.inner_text().strip() if desc_loc.count() else ""
             volume, unit = _parse_volume(desc)
 
+            img_loc = card.locator(".plp-item-image-container img")
+            image_url = img_loc.first.get_attribute("src") if img_loc.count() else None
+            if image_url and image_url.startswith("//"):
+                image_url = f"https:{image_url}"  # Plus's CDN emits protocol-relative URLs
+
             deals.append(DealItem(
                 winkel="Plus",
                 productnaam=title,
@@ -107,6 +112,7 @@ def _scrape_current_tab(page, seen_ids: set) -> List[DealItem]:
                 inhoud_waarde=volume,
                 inhoud_unit=unit,
                 geldig_tekst=period_text,
+                afbeelding_url=image_url,
             ))
             if item_id:
                 seen_ids.add(item_id)

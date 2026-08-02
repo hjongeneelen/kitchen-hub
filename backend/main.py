@@ -50,9 +50,8 @@ from modules.llm_connector import extract_deals_from_image, get_llm_client
 from modules.models import DealItem
 from modules.parser import parse_llm_response
 from modules.plus_connector import fetch_plus_deals
-from modules.supermarktscanner_connector import fetch_ingredient_prices
+from modules.supermarktscanner_connector import fetch_ingredient_prices, fetch_store_deals
 from scrapers.base import BaseScraper
-from scrapers.hoogvliet import HoogvlietScraper
 from scrapers.kruidvat import KruidvatScraper
 from scrapers.publitas import PublitasScraper
 
@@ -89,25 +88,11 @@ class StoreConfig:
 STORES: List[StoreConfig] = [
     # ── Tier A: Fully automatable ─────────────────────────────────────────────
     StoreConfig(
-        name="Hoogvliet",
-        mode="pdf",
-        env_url=settings.hoogvliet_pdf_url,
-        scraper=HoogvlietScraper(),
-        note="Week-number URL (folder_YYYY_WW) — fully auto",
-    ),
-    StoreConfig(
         name="Boni",
         mode="pdf",
         env_url=settings.boni_pdf_url,
         scraper=PublitasScraper("Boni", "boni-supermarkt"),
         note="Publitas redirect — fully auto",
-    ),
-    StoreConfig(
-        name="Poiesz",
-        mode="pdf",
-        env_url=settings.poiesz_pdf_url,
-        scraper=PublitasScraper("Poiesz", "okkinga-communicatie"),
-        note="Publitas redirect — fully auto (Friesland/Groningen)",
     ),
     StoreConfig(
         name="DA Drogist",
@@ -146,13 +131,6 @@ STORES: List[StoreConfig] = [
         env_url=settings.nettorama_pdf_url,
         scraper=PublitasScraper("Nettorama", "91409"),
         note="Publitas group ID 91409",
-    ),
-    StoreConfig(
-        name="Dekamarkt",
-        mode="pdf",
-        env_url=settings.dekamarkt_pdf_url,
-        scraper=PublitasScraper("Dekamarkt", "dekamarkt", base_url="https://folder.dekamarkt.nl"),
-        note="Publitas custom domain — Noord-Holland regional",
     ),
     StoreConfig(
         name="Blokker",
@@ -211,6 +189,34 @@ STORES: List[StoreConfig] = [
         mode="api",
         api_fn=fetch_aldi_deals,
         note="Headless-browser DOM read of aldi.nl/aanbiedingen.html — legacy API is dead, page renders fine",
+    ),
+    StoreConfig(
+        name="Hoogvliet",
+        mode="api",
+        api_fn=lambda: fetch_store_deals("hoogvliet", "Hoogvliet"),
+        note="Headless-browser DOM read of supermarktscanner.nl/hoogvliet-aanbiedingen — no vision LLM needed, "
+             "confirmed a fuller/fresher source than the old week-number PDF folder guess",
+    ),
+    StoreConfig(
+        name="Poiesz",
+        mode="api",
+        api_fn=lambda: fetch_store_deals("poiesz", "Poiesz"),
+        note="Headless-browser DOM read of supermarktscanner.nl/poiesz-aanbiedingen — no vision LLM needed",
+    ),
+    StoreConfig(
+        name="Dekamarkt",
+        mode="api",
+        api_fn=lambda: fetch_store_deals("dekamarkt", "Dekamarkt"),
+        note="Headless-browser DOM read of supermarktscanner.nl/dekamarkt-aanbiedingen — no vision LLM needed, "
+             "replaces the old Publitas PDF folder",
+    ),
+    StoreConfig(
+        name="Vomar",
+        mode="api",
+        api_fn=lambda: fetch_store_deals("vomar", "Vomar"),
+        note="Headless-browser DOM read of supermarktscanner.nl/vomar-aanbiedingen — no vision LLM needed. "
+             "Not one of the original 18 stores; added because supermarktscanner.nl tracks it. May return 0 "
+             "deals some weeks (site requires 6 weeks of price history before listing a store's offers).",
     ),
 ]
 
@@ -393,6 +399,56 @@ def _run_match_ingredients(client: Optional[OpenAI]) -> None:
                 f"{total_ingredients} ingredients, {total_matched} with >=1 match (own data or fallback)")
 
 
+# ── Everyday essentials (--essentials) ────────────────────────────────────────
+# Live per-keyword price lookups via supermarktscanner.nl, refreshed on every
+# run regardless of whether anything is currently on sale — answers "what
+# does tomato sauce cost right now" even when no store's flyer covers it.
+# Playwright-only, same as --match-ingredients' fallback path, so this is
+# safe to run in CI without a local LLM.
+
+_ESSENTIALS_PATH = Path("essentials.txt")
+
+
+def _load_essentials_keywords(path: Path) -> List[str]:
+    if not path.exists():
+        logger.warning(f"[essentials] {path} not found — nothing to look up.")
+        return []
+    keywords = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#"):
+            keywords.append(line)
+    return keywords
+
+
+def _run_essentials() -> None:
+    logger.info("\n── Everyday essentials " + "─" * 41)
+
+    keywords = _load_essentials_keywords(_ESSENTIALS_PATH)
+    if not keywords:
+        return
+
+    items: Dict[str, List[dict]] = {}
+    for kw in keywords:
+        results = fetch_ingredient_prices(kw)
+        results.sort(key=lambda m: (m.get("actieprijs") is None, m.get("actieprijs")))
+        items[kw] = results
+        logger.info(f"[essentials] '{kw}': {len(results)} price(s) found")
+
+    output = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "items": items,
+    }
+
+    settings.data_dir.mkdir(parents=True, exist_ok=True)
+    out_path = settings.data_dir / "essentials.json"
+    with out_path.open("w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
+
+    total_found = sum(1 for v in items.values() if v)
+    logger.info(f"[essentials] Wrote {out_path} — {total_found}/{len(keywords)} keyword(s) with >=1 price found")
+
+
 # ── Entry point ───────────────────────────────────────────────────────────────
 
 def main() -> None:
@@ -440,6 +496,16 @@ def main() -> None:
             "standalone unless combined with --stores."
         ),
     )
+    parser.add_argument(
+        "--essentials",
+        action="store_true",
+        help=(
+            "Look up current prices for every keyword in essentials.txt via a live supermarktscanner.nl "
+            "search (see modules/supermarktscanner_connector.py's fetch_ingredient_prices), regardless of "
+            "whether anything is on sale, and write ../public/data/essentials.json. Playwright-only, no LLM "
+            "needed — runs standalone unless combined with --stores."
+        ),
+    )
     args = parser.parse_args()
 
     if args.list_stores:
@@ -465,12 +531,12 @@ def main() -> None:
             else:
                 logger.warning(f"Unknown store '{arg}' — ignoring. Run --list-stores to see options.")
         active_stores = [s for s in STORES if s.name in selected_names]
-    elif args.match_ingredients:
+    elif args.match_ingredients or args.essentials:
         # --match-ingredients reads store data straight from disk (see
-        # _load_all_deals) rather than needing a fresh scrape in the same
-        # run, so on its own it shouldn't implicitly trigger a full scrape
-        # of all 18 stores. Pass --stores explicitly to also scrape before
-        # matching.
+        # _load_all_deals), and --essentials does its own independent live
+        # lookups — neither needs a fresh scrape in the same run, so on
+        # their own they shouldn't implicitly trigger a full scrape of all
+        # 18 stores. Pass --stores explicitly to also scrape first.
         active_stores = []
     else:
         active_stores = STORES
@@ -526,6 +592,9 @@ def main() -> None:
 
     if args.match_ingredients:
         _run_match_ingredients(client)
+
+    if args.essentials:
+        _run_essentials()
 
 
 if __name__ == "__main__":

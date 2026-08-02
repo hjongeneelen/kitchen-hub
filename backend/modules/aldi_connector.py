@@ -93,6 +93,9 @@ def fetch_aldi_deals() -> List[DealItem]:
                         if m:
                             promo = m.group(1)
 
+                        img_loc = card.locator(".product-tile__image-section img")
+                        image_url = img_loc.first.get_attribute("src") if img_loc.count() else None
+
                         deals.append(DealItem(
                             winkel="Aldi",
                             productnaam=full_title,
@@ -100,6 +103,7 @@ def fetch_aldi_deals() -> List[DealItem]:
                             actieprijs=price,
                             inhoud_waarde=volume,
                             inhoud_unit=unit,
+                            afbeelding_url=image_url,
                         ))
                     except Exception as e:
                         logger.debug(f"[Aldi] Card parse error: {e}")

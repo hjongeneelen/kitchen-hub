@@ -100,6 +100,9 @@ def _parse_item(product: dict) -> Optional[DealItem]:
         unit_size = product.get("salesUnitSize") or ""
         volume, unit = _parse_volume(str(unit_size))
 
+        images = sorted(product.get("images") or [], key=lambda i: i.get("width", 0), reverse=True)
+        image_url = images[0].get("url") if images else None
+
         return DealItem(
             winkel="Albert Heijn",
             productnaam=str(title).strip(),
@@ -108,6 +111,7 @@ def _parse_item(product: dict) -> Optional[DealItem]:
             inhoud_waarde=volume,
             inhoud_unit=unit,
             geldig_tekst=format_period(product.get("bonusStartDate"), product.get("bonusEndDate")),
+            afbeelding_url=image_url,
         )
     except Exception as e:
         logger.debug(f"[AH] Item parse error: {e} — raw: {str(product)[:120]}")

@@ -7,8 +7,10 @@ const CODES = SUPPORTED_LOCALES.map((l) => l.code)
 function getInitialLocale() {
   const stored = localStorage.getItem(STORAGE_KEY)
   if (CODES.includes(stored)) return stored
-  const browserLang = navigator.language?.slice(0, 2)
-  return CODES.includes(browserLang) ? browserLang : 'en'
+  // Dutch is the default for first-time visitors — this is a Dutch grocery
+  // app first and foremost. The LanguageSwitcher can still override/persist
+  // any other supported locale.
+  return 'nl'
 }
 
 const LocaleContext = createContext(null)

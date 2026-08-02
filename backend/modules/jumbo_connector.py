@@ -87,6 +87,8 @@ def _expand_group(page, href: str, korting_tekst: Optional[str], geldig_tekst: O
                 price_match = re.search(r"Prijs:.*?(\d+,\d{2})", card.inner_text())
                 price = float(price_match.group(1).replace(",", ".")) if price_match else None
                 volume, unit = _parse_volume_from_title(title)
+                img_loc = card.locator('[data-testid="jum-product-image"]')
+                image_url = img_loc.first.get_attribute("src") if img_loc.count() else None
                 deals.append(DealItem(
                     winkel="Jumbo",
                     productnaam=title,
@@ -95,6 +97,7 @@ def _expand_group(page, href: str, korting_tekst: Optional[str], geldig_tekst: O
                     inhoud_waarde=volume,
                     inhoud_unit=unit,
                     geldig_tekst=geldig_tekst,
+                    afbeelding_url=image_url,
                 ))
             except Exception as e:
                 logger.debug(f"[Jumbo] Group variant parse error: {e}")
@@ -161,13 +164,15 @@ def fetch_jumbo_deals() -> List[DealItem]:
                         link_loc = card.locator("a")
                         if link_loc.count():
                             href = link_loc.first.get_attribute("href")
-                        card_infos.append((title, tag_text, subtitle, href))
+                        img_loc = card.locator('[data-testid="jum-card-image"] img')
+                        image_url = img_loc.first.get_attribute("src") if img_loc.count() else None
+                        card_infos.append((title, tag_text, subtitle, href, image_url))
                         if card_id:
                             seen_ids.add(card_id)
                     except Exception as e:
                         logger.debug(f"[Jumbo] Card parse error: {e}")
 
-                for title, tag_text, subtitle, href in card_infos:
+                for title, tag_text, subtitle, href, image_url in card_infos:
                     if title.startswith("Alle ") and href:
                         expanded = _expand_group(page, href, tag_text or None, subtitle or None)
                         if expanded:
@@ -183,6 +188,7 @@ def fetch_jumbo_deals() -> List[DealItem]:
                         inhoud_waarde=None,
                         inhoud_unit=None,
                         geldig_tekst=subtitle or None,
+                        afbeelding_url=image_url,
                     ))
             finally:
                 browser.close()

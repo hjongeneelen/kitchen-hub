@@ -1,15 +1,18 @@
 # Backend — Dutch Supermarket Deal Scraper
 
-Pulls weekly folder deals from 18 Dutch retailers and exports structured JSON
+Pulls weekly folder deals from 19 Dutch retailers and exports structured JSON
 into `public/data/` for the static dashboard site to consume. This is
 a fork of an earlier Google Sheets–based scraper, with the Sheets upload step
 replaced by a plain JSON exporter (`modules/exporter.py`).
 
 Two processing modes per store:
 - `api` — structured JSON API, or a headless-browser (Playwright) DOM read of
-  the store's own deals page — no vision LLM needed either way (Albert Heijn,
-  Lidl, Dirk, Jumbo, Plus, Aldi)
-- `pdf` — download PDF → pdf2image → vision LLM → parse (12 stores)
+  the store's own deals page (or, for Hoogvliet/Poiesz/Dekamarkt/Vomar, of
+  supermarktscanner.nl's mirror of that store's page) — no vision LLM needed
+  either way (Albert Heijn, Lidl, Dirk, Jumbo, Plus, Aldi, Hoogvliet, Poiesz,
+  Dekamarkt, Vomar). All of these also carry a product photo URL now (see
+  "Product images" below).
+- `pdf` — download PDF → pdf2image → vision LLM → parse (9 stores)
 
 ## Install
 
@@ -47,6 +50,7 @@ python main.py --categorize                          # also tag each deal with a
 python main.py --no-export                           # extract only, skip JSON export
 python main.py --clear-cache                          # force re-download PDFs
 python main.py --list-stores                          # show all configured stores
+python main.py --essentials                          # live current prices for essentials.txt's keywords -> public/data/essentials.json
 ```
 
 `--categorize` runs `modules/categorizer.py`: batches of 20 product names are
@@ -70,20 +74,45 @@ and other stores' data is never wiped by a partial `--stores` run.
 
 ## Automation notes
 
-- **Albert Heijn, Lidl, Dirk, Jumbo, Plus, and Aldi** (`api` mode) need no
-  local vision LLM — fully automatable in CI/a scheduled job (see
-  `.github/workflows/update-and-deploy.yml` at the repo root, which runs this
-  on a daily cron). Jumbo/Plus/Aldi/Lidl specifically need Playwright's
-  Chromium (`python -m playwright install chromium`) since they work by
-  rendering the store's own page with a real headless browser rather than
-  calling an API. Jumbo's group-deal expansion in particular makes it the
-  slowest connector by far (~7 minutes, dozens of extra page visits) —
-  budget for that in any automation you build on top of this.
-- **The other 12 stores** (`pdf` mode) need a local vision LLM via Ollama, so
+- **Albert Heijn, Lidl, Dirk, Jumbo, Plus, Aldi, Hoogvliet, Poiesz, Dekamarkt,
+  and Vomar** (`api` mode) need no local vision LLM — fully automatable in
+  CI/a scheduled job (see `.github/workflows/update-and-deploy.yml` at the
+  repo root, which runs this on a daily cron). Jumbo/Plus/Aldi/Lidl/Hoogvliet/
+  Poiesz/Dekamarkt/Vomar specifically need Playwright's Chromium
+  (`python -m playwright install chromium`) since they work by rendering a
+  page with a real headless browser rather than calling an API. Jumbo's
+  group-deal expansion in particular makes it the slowest connector by far
+  (~7 minutes, dozens of extra page visits) — budget for that in any
+  automation you build on top of this.
+- **The other 9 stores** (`pdf` mode) need a local vision LLM via Ollama, so
   they must be run locally (or on a machine with Ollama installed) and their
   output JSON committed into `public/data/` for the static site to
-  pick up. Auto-discovery of the weekly PDF URL currently fails for all 12 of
+  pick up. Auto-discovery of the weekly PDF URL currently fails for all of
   them (see below) — you'll need to paste a URL manually in `.env` for now.
+- **`--essentials`** is a separate, independent pass (like `--match-ingredients`)
+  that looks up current prices for a curated list of everyday staples
+  (`essentials.txt`, one Dutch keyword per line, hand-editable — add anything
+  you actually buy) via a live supermarktscanner.nl search per keyword —
+  regardless of whether anything is actually on sale. Playwright-only, no LLM,
+  safe to run in CI daily alongside the structured-store scrape. Answers
+  "what does tomato sauce cost right now" even on weeks nobody's flyer covers it.
+
+## Product images
+
+`DealItem.afbeelding_url` (optional) is populated for every `api`-mode
+connector: Albert Heijn and Dirk pull it straight out of their own JSON/embedded
+payload (a CDN URL already present, just not previously extracted — AH:
+`product["images"]`, largest width; Dirk: the linked product's
+`productInformation.image`, prefixed with `https://web-fileserver.dirk.nl/`);
+Jumbo/Plus/Aldi/Lidl read an `<img src>` already present in each deal card's
+DOM (`[data-testid="jum-card-image"] img` / `.plp-item-image-container img` /
+`.product-tile__image-section img` / `.odsc-image-gallery img` respectively —
+Plus's CDN emits protocol-relative `//...` URLs, normalized to `https://`);
+Hoogvliet/Poiesz/Dekamarkt/Vomar and `--essentials` get theirs from
+supermarktscanner.nl's `.cbp-pgitem-flip img` (excluding the `.copyright-img`
+watermark). `pdf`/vision-LLM stores don't have one — the frontend (`DealCard.jsx`)
+shows a muted placeholder icon instead when `afbeelding_url` is absent or fails
+to load, so the grid stays visually consistent either way.
 
 ## Connector status
 
@@ -150,6 +179,22 @@ and other stores' data is never wiped by a partial `--stores` run.
     runder hamburgers in een voordeelverpakking.") — good enough for
     distinct name + size, but no exact per-variant price (left null, with
     the group's price-range text kept as `korting_tekst`).
+- **Hoogvliet, Poiesz, Dekamarkt, Vomar**: work, via a third technique —
+  instead of these stores' own sites (Hoogvliet's and Dekamarkt's are Publitas
+  PDF folders we'd otherwise need the vision-LLM path for; Poiesz and Vomar
+  aren't even in the original 18-store list), `modules/supermarktscanner_connector.py`'s
+  `fetch_store_deals(slug, store_name)` renders supermarktscanner.nl's own
+  `/{slug}-aanbiedingen` page (confirmed to exist for all four, plus
+  AH/Jumbo/Dirk/Plus which we already get more directly) and reads the same
+  `li.product-entry` DOM the ingredient-price fallback already parses — no
+  vision LLM, no OCR. Also captures a product photo (`.cbp-pgitem-flip img`,
+  excluding the `.copyright-img` watermark — real URL in `data-lazy` on
+  lazy-loaded rows) and the discount's "was" price (`.pgpricediscount`) and
+  validity window (`.pgdiscountdate`). Poiesz and Vomar can legitimately
+  return 0 deals some weeks — supermarktscanner.nl itself requires 6 weeks of
+  price history before it'll list a store's offers, and says so on the page
+  when that's not met yet; this isn't a scraper bug, just an empty week
+  (confirmed: Dekamarkt returned 8 real deals, Vomar 0, on the same day).
 - **Coop, Kruidvat, Etos investigated, no automated path found**: Coop NL's
   own site has been decommissioned (redirects to plus.nl — Coop NL was
   acquired by Plus Retail), so there's no page left to render. Kruidvat and

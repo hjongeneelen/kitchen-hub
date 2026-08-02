@@ -1,0 +1,88 @@
+{
+  "store": "Dekamarkt",
+  "slug": "dekamarkt",
+  "mode": "api",
+  "updated_at": "2026-07-19T14:58:47.542801+00:00",
+  "deals": [
+    {
+      "productnaam": "Fleuril Vloeibaar wasmiddel gel black 29 wb",
+      "korting_tekst": "was €14,99",
+      "actieprijs": 6.0,
+      "inhoud_waarde": 1305,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dekamarkt.nl/artikelen%2F246935_1_486505_639029436605636968.png?width=190"
+    },
+    {
+      "productnaam": "Fleuril Vloeibaar wasmiddel gel color 29 wasbeurten",
+      "korting_tekst": "was €14,99",
+      "actieprijs": 6.0,
+      "inhoud_waarde": 1305,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dekamarkt.nl/artikelen%2F246934_1_486504_639029436600756949.png?width=190"
+    },
+    {
+      "productnaam": "Fleuril Vloeibaar wasmiddel gel color blossom 29 wb",
+      "korting_tekst": "was €14,99",
+      "actieprijs": 6.0,
+      "inhoud_waarde": 1305,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dekamarkt.nl/artikelen%2F246937_1_486507_639035454345787843.png?width=190"
+    },
+    {
+      "productnaam": "Fleuril Vloeibaar wasmiddel gel white&light 29 wasbeurten",
+      "korting_tekst": "was €14,99",
+      "actieprijs": 6.0,
+      "inhoud_waarde": 1305,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dekamarkt.nl/artikelen%2F246936_1_486506_639029436620457511.png?width=190"
+    },
+    {
+      "productnaam": "Color Reus Wasmiddel poeder 23 wasbeurten",
+      "korting_tekst": "was €11,79",
+      "actieprijs": 4.72,
+      "inhoud_waarde": 1150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dekamarkt.nl/artikelen%2F251187_1_488914_639071178564414848.png?width=190"
+    },
+    {
+      "productnaam": "Flowerfarm Bakken zonder palmolie",
+      "korting_tekst": "was €2,99",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dekamarkt.nl/artikelen%2F228864_1_408787_638851626881248215.png?width=190"
+    },
+    {
+      "productnaam": "Page Vochtig toiletpapier aloe vera",
+      "korting_tekst": "was €2,15",
+      "actieprijs": 1.08,
+      "inhoud_waarde": 38,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dekamarkt.nl/artikelen%2F244511_1_428110_638979312453604871.png?width=190"
+    },
+    {
+      "productnaam": "Andrelon Cremespoeling intense repair",
+      "korting_tekst": "was €5,49",
+      "actieprijs": 2.75,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://web-fileserver.dekamarkt.nl/artikelen%2F238611_1_478439_638896413256835594.png?width=190"
+    }
+  ]
+}

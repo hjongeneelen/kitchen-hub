@@ -2,205 +2,47 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "api",
-  "updated_at": "2026-07-13T09:36:47.825661+00:00",
+  "updated_at": "2026-07-19T15:05:14.457140+00:00",
   "deals": [
     {
-      "productnaam": "Slimpie Siroop",
+      "productnaam": "PLUS Nectarines, perziken, wilde perziken en abrikozen",
       "korting_tekst": "1+1 GRATIS",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle Almhof Kwark, hoekje en choco met slagroom",
-      "korting_tekst": "1+1 GRATIS",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alle Segafredo Koffiebonen",
-      "korting_tekst": "OP=OP",
-      "actieprijs": 19.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Groenteconserven",
-      "korting_tekst": "1+1 GRATIS",
-      "actieprijs": 2.19,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Neutraal Kleine zoete appeltjes",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
+      "actieprijs": 3.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
+      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_139_M/e0c7936b74019449fa1d0149b10d0f80/4438_139.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
-      "productnaam": "PLUS Bananen Fairtrade",
-      "korting_tekst": "0.99 PER KILO",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Druiven wit pitloos",
-      "korting_tekst": null,
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Nederlandse Kersen",
-      "korting_tekst": null,
-      "actieprijs": 3.49,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Blauwe bessen",
-      "korting_tekst": null,
-      "actieprijs": 2.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zespri Kiwi gold",
-      "korting_tekst": "500 GRAM 2.99",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Frites uit Zuyd Dag verse friet",
-      "korting_tekst": "1+1 GRATIS",
-      "actieprijs": 3.65,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Neutraal Pijnboompitten",
-      "korting_tekst": "1+1 GRATIS",
+      "productnaam": "PLUS Spareribs",
+      "korting_tekst": "500 GRAM 4.99",
       "actieprijs": 4.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Sperziebonen",
-      "korting_tekst": "500 GRAM 1.49",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
-      "korting_tekst": "3 VOOR 5.00",
-      "actieprijs": 5.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
+      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_107_M/279838675292b16835c4d8f462e8569b/4438_107.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
-      "productnaam": "PLUS Galia, Cantaloupe, Piel de sapo en watermeloen",
+      "productnaam": "Fanta, Sprite en Fernandes",
       "korting_tekst": "1+1 GRATIS",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 2,
+      "actieprijs": 2.75,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_57_M/e51ee4a541296b0ea228ee424fa7166e/4438_57.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "Alle PLUS Waterijs, ice macs en cornets",
+      "korting_tekst": "2+1 GRATIS",
+      "actieprijs": 5.98,
+      "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Verse soep",
-      "korting_tekst": "2 VOOR 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
-      "korting_tekst": "2 VOOR 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "Uit de keuken van PLUS Kies & Mix Combi gerechten",
-      "korting_tekst": "2 VOOR 7.50",
-      "actieprijs": 7.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Speklapjes smokey barbecue",
-      "korting_tekst": "3+1 GRATIS",
-      "actieprijs": 4.69,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Hamburger varken-rund 4 stuks",
-      "korting_tekst": "3+1 GRATIS",
-      "actieprijs": 4.49,
-      "inhoud_waarde": 320,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS BBQ Zalmspiesen",
-      "korting_tekst": "3+1 GRATIS",
-      "actieprijs": 7.19,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Boerentrots BBQ worst Italiaans",
-      "korting_tekst": "3+1 GRATIS",
-      "actieprijs": 4.19,
-      "inhoud_waarde": 325,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "Woensdag 8 juli t/m dinsdag 14 juli",
-      "categorie": null
+      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/5kPIHVS56XiLdI99yhEzPt/cb109b60d0c80b619cf18dcdfa66224b/PLUS_Mepal-2026_APP_1-Zegel_Retina.png?h=50"
     },
     {
       "productnaam": "PLUS Handappels Jonagold",
@@ -209,7 +51,8 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/113840_M/9a48ad3483014ca249bac914ef94a22a/113840.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "PLUS Mandarijnen",
@@ -218,7 +61,8 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/643874_M/cf1773b2a6d2281955f557eb703ee142/643874.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "PLUS Druiven rood pitloos",
@@ -227,7 +71,8 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/974201_M/4b512650c686c1b5d5cd1a61d1972b56/974201.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "PLUS Nectarines, perziken, wilde perziken en abrikozen",
@@ -236,7 +81,8 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_139_M/e0c7936b74019449fa1d0149b10d0f80/4438_139.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "PLUS Watermeloen eetrijp",
@@ -245,7 +91,8 @@
       "inhoud_waarde": 1,
       "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/828703_M/82fcae0450476adfe0ad9fc396bfc312/828703.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "PLUS Nederlandse Frambozen, Nederlandse Aardbeien en rode bessen",
@@ -254,7 +101,8 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_143_M/dfded87422145d1c3f25fc19c00fcde7/4438_143.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "Biologisch PLUS Blauwe bessen biologisch",
@@ -263,7 +111,8 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/561109_M/512db49df99e1664b81d4500815fcd41/561109.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "Eat Me Avocado",
@@ -272,7 +121,8 @@
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/561137_M/2cb54743c0abedab1a8d6dec7218069f/561137.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "Plu Nederlandse Vastkokende en kruimige aardappelen",
@@ -281,7 +131,8 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_146_M/4ab481fe5f20c6c35dc8818e47f8659d/4438_146.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "PLUS Zoete juweeltjes cherry-trostomaat",
@@ -290,7 +141,8 @@
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/324643_M/953b8c6f5d94fd784df45c5e8b8258f6/324643.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "PLUS Salade",
@@ -299,7 +151,8 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_140_M/ed7f82851e29dd87cb5b6616914f6242/4438_140.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
@@ -308,7 +161,8 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4433_30_M/cfce2e2b1d0fd863c46f43682aa0d9d0/4433_30.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
@@ -317,7 +171,38 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4433_14_M/051ed59eecf60d362299a7d3dc3d85ee/4433_14.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Nectarines, perziken, wilde perziken en abrikozen",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_139_M/e0c7936b74019449fa1d0149b10d0f80/4438_139.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Nederlandse Frambozen, Nederlandse Aardbeien en rode bessen",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_143_M/dfded87422145d1c3f25fc19c00fcde7/4438_143.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Prei, spitskool en spinazie",
+      "korting_tekst": null,
+      "actieprijs": 1.69,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_149_M/de1e34aa5201daef4e1bb5505cb627ab/4438_149.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "Jan Pizzadeeg",
@@ -326,7 +211,8 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4438_72_M/7660e65282178bc6b964895bf6490a80/4438_72.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "No Fairytales Zoete Aardappel tortilla",
@@ -335,7 +221,8 @@
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/366158_M/08b19ea853183292fd18d0cc4df42f96/366158.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "PLUS Kies & Mix Verse soep",
@@ -344,16 +231,8 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Kies & Mix Oosterse maaltijd",
-      "korting_tekst": "2 VOOR 5.50",
-      "actieprijs": 5.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4433_34_M/3e0b97d8bee8c44aa42ef542e3df8790/4433_34.png?w=120&h=120&fit=pad&fm=webp&q=85"
     },
     {
       "productnaam": "Uit de keuken van PLUS Kies & Mix Combi gerechten",
@@ -362,7 +241,148 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "Woensdag 15 juli t/m dinsdag 21 juli",
-      "categorie": null
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4433_37_M/25abd9c91b4a4a9f2a1efabafa76ea0c/4433_37.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Handappels Pink Lady",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/655890_M/33ffe35da9ea3b3e81a727530b9da0fd/655890.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Handsinaasappelen",
+      "korting_tekst": null,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/466166_M/f45d5cd7630e3d30718f902dc8d82129/466166.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Witte en sweet red druiven",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4439_133_M/8e35e2879b3f309dbf423993cc2ecb0e/4439_133.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Nederlandse Kersen",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/625155_M/486d992426f16ed43d914bb8fea78665/625155.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "Alle PLUS Meloenen",
+      "korting_tekst": "1+1 GRATIS",
+      "actieprijs": 2.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4439_120_M/bf0dc517457b847e8f62a8f0524bb041/4439_120.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "Zespri Kiwi gold",
+      "korting_tekst": "500 GRAM 2.99",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/166366_M/b175288a8f9ebfd58d579260ffc4cee6/166366.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Mango",
+      "korting_tekst": null,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/852877_M/5c65c551147985664e686f2d84f84a2b/852877.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Puntpaprika rood",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/455440_M/7c30daf0096b07697331841ff3b2d8e6/455440.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "Biologisch PLUS en PLUS Kies & Mix Snoepgroente",
+      "korting_tekst": "3 VOOR 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4433_30_M/cfce2e2b1d0fd863c46f43682aa0d9d0/4433_30.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Vers gesneden fruit",
+      "korting_tekst": "3 VOOR 5.00",
+      "actieprijs": 5.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4433_14_M/051ed59eecf60d362299a7d3dc3d85ee/4433_14.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "PLUS Oosterse maaltijd",
+      "korting_tekst": null,
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4439_48_M/fab38667cbad9c46a1d45398326b6983/4439_48.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "Alle Grand'Italia Pastasaus en pesto",
+      "korting_tekst": null,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/5kPIHVS56XiLdI99yhEzPt/cb109b60d0c80b619cf18dcdfa66224b/PLUS_Mepal-2026_APP_1-Zegel_Retina.png?h=50"
+    },
+    {
+      "productnaam": "PLUS Kies & Mix Verse soep",
+      "korting_tekst": "2 VOOR 5.50",
+      "actieprijs": 5.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4433_34_M/3e0b97d8bee8c44aa42ef542e3df8790/4433_34.png?w=120&h=120&fit=pad&fm=webp&q=85"
+    },
+    {
+      "productnaam": "Uit de keuken van PLUS Kies & Mix Combi gerechten",
+      "korting_tekst": "2 VOOR 7.50",
+      "actieprijs": 7.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "Woensdag 22 juli t/m dinsdag 28 juli",
+      "categorie": null,
+      "afbeelding_url": "https://images.ctfassets.net/s0lodsnpsezb/4433_37_M/25abd9c91b4a4a9f2a1efabafa76ea0c/4433_37.png?w=120&h=120&fit=pad&fm=webp&q=85"
     }
   ]
 }

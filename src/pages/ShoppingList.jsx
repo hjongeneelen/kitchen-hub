@@ -4,9 +4,65 @@ import { recipes, localizeRecipe } from '../lib/recipes'
 import { useTranslation } from '../hooks/useLocale.jsx'
 import { useIngredientMatches } from '../hooks/useIngredientMatches'
 import { usePantryStaples } from '../hooks/usePantryStaples.js'
+import { usePreferredStores } from '../hooks/usePreferredStores.js'
 import { isStapleIngredient } from '../lib/pantry.js'
+import { listAvailableStores } from '../lib/preferredStores.js'
+import { pickBestMatch } from '../lib/ingredientCost.js'
 import { formatPrice } from '../lib/dealFormat'
 import DarkModeToggle from '../components/DarkModeToggle.jsx'
+
+/**
+ * Builds the merged (store, product) shopping list + grand total for one
+ * store-scope choice — called twice (scoped and unscoped) when a scope is
+ * active, so the UI can show "cheapest at your shops" next to "cheapest
+ * anywhere" for comparison. Pure function, no hooks, so it's cheap to call twice.
+ */
+function buildShoppingList(selected, ingredientMatches, staples, locale, storeScope) {
+  const productMap = new Map()
+  const unmatchedLines = []
+
+  for (const slug of selected) {
+    const entries = ingredientMatches?.recipes?.[slug]?.ingredients
+    if (!entries) continue
+    const baseRecipe = recipes.find((r) => r.slug === slug)
+    const recipeTitle = baseRecipe ? localizeRecipe(baseRecipe, locale).title : slug
+
+    entries.forEach((ing) => {
+      if (isStapleIngredient(ing.raw, staples)) return
+      const picked = pickBestMatch(ing.matches, storeScope)
+      if (!picked) {
+        unmatchedLines.push({ raw: ing.raw, recipeTitle })
+        return
+      }
+      const { match: best, inScope } = picked
+      const key = `${best.winkel}|${best.productnaam}`
+      if (productMap.has(key)) {
+        productMap.get(key).recipeTitles.add(recipeTitle)
+      } else {
+        productMap.set(key, { ...best, outOfScope: !inScope, recipeTitles: new Set([recipeTitle]) })
+      }
+    })
+  }
+
+  const byStore = new Map()
+  for (const item of productMap.values()) {
+    const store = item.winkel || 'Onbekende winkel'
+    if (!byStore.has(store)) byStore.set(store, [])
+    byStore.get(store).push(item)
+  }
+
+  const groupsArr = [...byStore.entries()]
+    .map(([store, items]) => ({
+      store,
+      items: items.sort((a, b) => (a.actieprijs ?? 0) - (b.actieprijs ?? 0)),
+      subtotal: items.reduce((sum, i) => sum + (i.actieprijs ?? 0), 0),
+    }))
+    .sort((a, b) => b.subtotal - a.subtotal)
+
+  const grandTotal = groupsArr.reduce((sum, g) => sum + g.subtotal, 0)
+
+  return { groups: groupsArr, unmatched: unmatchedLines, total: grandTotal }
+}
 
 const SELECTION_KEY = 'kitchen-hub:shopping-list-recipes'
 
@@ -32,6 +88,7 @@ export default function ShoppingList() {
   const { locale } = useTranslation()
   const ingredientMatches = useIngredientMatches()
   const { staples } = usePantryStaples()
+  const { stores: preferredStores, storeScope, toggleStore } = usePreferredStores()
   const [selected, setSelected] = useState(loadSelection)
   const [bought, setBought] = useState({})
 
@@ -45,54 +102,24 @@ export default function ShoppingList() {
     })
   }
 
-  const { groups, unmatched, total } = useMemo(() => {
-    // Merge by (store, product) across all selected recipes — if two recipes
-    // both need garlic and both matched the same product, that's one thing
-    // to buy, not two, so we don't inflate the total or the list.
-    const productMap = new Map()
-    const unmatchedLines = []
+  const availableStores = useMemo(() => listAvailableStores(ingredientMatches), [ingredientMatches])
 
-    for (const slug of selected) {
-      const entries = ingredientMatches?.recipes?.[slug]?.ingredients
-      if (!entries) continue
-      const baseRecipe = recipes.find((r) => r.slug === slug)
-      const recipeTitle = baseRecipe ? localizeRecipe(baseRecipe, locale).title : slug
-
-      entries.forEach((ing) => {
-        if (isStapleIngredient(ing.raw, staples)) return
-        const best = ing.matches?.[0]
-        if (!best) {
-          unmatchedLines.push({ raw: ing.raw, recipeTitle })
-          return
-        }
-        const key = `${best.winkel}|${best.productnaam}`
-        if (productMap.has(key)) {
-          productMap.get(key).recipeTitles.add(recipeTitle)
-        } else {
-          productMap.set(key, { ...best, recipeTitles: new Set([recipeTitle]) })
-        }
-      })
-    }
-
-    const byStore = new Map()
-    for (const item of productMap.values()) {
-      const store = item.winkel || 'Onbekende winkel'
-      if (!byStore.has(store)) byStore.set(store, [])
-      byStore.get(store).push(item)
-    }
-
-    const groupsArr = [...byStore.entries()]
-      .map(([store, items]) => ({
-        store,
-        items: items.sort((a, b) => (a.actieprijs ?? 0) - (b.actieprijs ?? 0)),
-        subtotal: items.reduce((sum, i) => sum + (i.actieprijs ?? 0), 0),
-      }))
-      .sort((a, b) => b.subtotal - a.subtotal)
-
-    const grandTotal = groupsArr.reduce((sum, g) => sum + g.subtotal, 0)
-
-    return { groups: groupsArr, unmatched: unmatchedLines, total: grandTotal }
-  }, [selected, ingredientMatches, staples, locale])
+  // Merge by (store, product) across all selected recipes — if two recipes
+  // both need garlic and both matched the same product, that's one thing to
+  // buy, not two, so we don't inflate the total or the list. When a store
+  // scope is active, also build the unscoped ("cheapest anywhere") totals
+  // for comparison — cheap to do twice, it's plain array work, no fetching.
+  const { groups, unmatched, total } = useMemo(
+    () => buildShoppingList(selected, ingredientMatches, staples, locale, storeScope),
+    [selected, ingredientMatches, staples, locale, storeScope]
+  )
+  const unscopedTotal = useMemo(
+    () =>
+      storeScope.size > 0
+        ? buildShoppingList(selected, ingredientMatches, staples, locale, null).total
+        : null,
+    [selected, ingredientMatches, staples, locale, storeScope]
+  )
 
   const toggleBought = (key) => setBought((prev) => ({ ...prev, [key]: !prev[key] }))
 
@@ -138,6 +165,36 @@ export default function ShoppingList() {
         })}
       </div>
 
+      {availableStores.length > 0 && (
+        <div className="mt-5">
+          <h2 className="mb-2 text-sm font-semibold uppercase tracking-wide text-charcoal-400 dark:text-charcoal-300">
+            Winkels waar je heen gaat
+          </h2>
+          <p className="mb-2 text-xs text-charcoal-400 dark:text-charcoal-300">
+            Niets gekozen = overal de goedkoopste prijs. Kies 1 of meer winkels om te zien wat het
+            kost als je alleen daar koopt.
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {availableStores.map((name) => {
+              const active = preferredStores.includes(name)
+              return (
+                <button
+                  key={name}
+                  onClick={() => toggleStore(name)}
+                  className={
+                    active
+                      ? 'tag-pill border-olive-500 bg-olive-500 text-cream-50'
+                      : 'tag-pill border-cream-300 bg-cream-50 text-charcoal-500 hover:border-olive-300 hover:text-olive-600 dark:border-charcoal-600 dark:bg-charcoal-800 dark:text-cream-200 dark:hover:border-olive-400'
+                  }
+                >
+                  {name}
+                </button>
+              )
+            })}
+          </div>
+        </div>
+      )}
+
       {selected.size === 0 ? (
         <p className="mt-10 text-center text-charcoal-300 dark:text-charcoal-400">
           Kies hierboven een of meer recepten.
@@ -166,6 +223,14 @@ export default function ShoppingList() {
                         <span className="ml-2 text-xs text-charcoal-400 dark:text-charcoal-300">
                           ({[...item.recipeTitles].join(', ')})
                         </span>
+                        {item.outOfScope && (
+                          <span
+                            title="Niet gevonden bij je gekozen winkels — dit is de goedkoopste optie elders"
+                            className="ml-2 whitespace-nowrap rounded-full bg-terracotta-100 px-1.5 py-0.5 text-xs font-medium text-terracotta-700 dark:bg-terracotta-900/30 dark:text-terracotta-300"
+                          >
+                            ⚠ niet bij je winkels
+                          </span>
+                        )}
                       </span>
                       <span className="shrink-0 text-sm font-medium text-charcoal-600 dark:text-cream-50">
                         {formatPrice(item.actieprijs) ?? '—'}
@@ -193,9 +258,18 @@ export default function ShoppingList() {
           )}
 
           <div className="card flex items-center justify-between p-4">
-            <span className="font-semibold text-charcoal-700 dark:text-cream-50">Geschat totaal</span>
-            <span className="text-lg font-bold text-terracotta-600 dark:text-terracotta-300">
-              {formatPrice(total)}
+            <span className="font-semibold text-charcoal-700 dark:text-cream-50">
+              {unscopedTotal !== null ? 'Geschat totaal bij je winkels' : 'Geschat totaal'}
+            </span>
+            <span className="text-right">
+              <span className="text-lg font-bold text-terracotta-600 dark:text-terracotta-300">
+                {formatPrice(total)}
+              </span>
+              {unscopedTotal !== null && (
+                <span className="block text-xs text-charcoal-400 dark:text-charcoal-300">
+                  goedkoopste overal: {formatPrice(unscopedTotal)}
+                </span>
+              )}
             </span>
           </div>
         </div>

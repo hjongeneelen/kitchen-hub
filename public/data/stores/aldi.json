@@ -2,6 +2,2417 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "api",
-  "updated_at": "2026-07-13T09:37:05.644419+00:00",
-  "deals": []
+  "updated_at": "2026-07-19T14:58:40.563791+00:00",
+  "deals": [
+    {
+      "productnaam": "Schouderkarbonade",
+      "korting_tekst": "-28%",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1224120_main_cms_6_nl_nl_schouderkarbonade_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Scharrel kippenbouten",
+      "korting_tekst": "-31%",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1240418_main_cms_3_nl_nl_scharrel_kippenbouten_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Gemarineerde procureurlapjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.79,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233399_main_cms_13_nl_nl_gemarineerde_procureurlapjes_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Verse worsten of gehaktballen Hongaarse stijl",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91241042_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Gemengd gehakt",
+      "korting_tekst": "-25%",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1232117_main_cms_4_nl_nl_gemengd_gehakt_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MY VAY Kaasschnitzels",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1231733_main_cms_10_nl_nl_kaasschnitzels_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "GOLDEN SEAFOOD Gerookte Noorse zalm",
+      "korting_tekst": "-39%",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1208216_main_cms_8_nl_nl_gerookte_noorse_zalm_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Nederlandse aardbeien",
+      "korting_tekst": "-20%",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1219201_main_cms_12_nl_nl_nederlandse_aardbeien_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Citroenen",
+      "korting_tekst": "-18%",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1219783_main_cms_19_nl_nl_citroenen_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Galia- of cantaloupe meloen",
+      "korting_tekst": "-40%",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91219136_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Wilde perziken",
+      "korting_tekst": "-43%",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1220021_main_cms_10_nl_nl_wilde_perziken_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Blauwe bessen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1210650_main_cms_10_nl_nl_blauwe_bessen_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Mandarijnen",
+      "korting_tekst": "-13%",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1219324_main_cms_9_nl_nl_mandarijnen_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Watermeloen part",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243918_main_cms_1_nl_nl_watermeloen_part_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Trostomaten",
+      "korting_tekst": "-56%",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1219442_main_cms_5_nl_nl_trostomaten_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "DAYLICIOUS Snackwortels",
+      "korting_tekst": "-22%",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1230303_main_cms_3_nl_nl_snackwortels_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Witlof",
+      "korting_tekst": "-20%",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1219323_main_cms_16_nl_nl_witlof_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Paksoi",
+      "korting_tekst": "-14%",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1220176_main_cms_6_nl_nl_paksoi_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "DAYLICIOUS Saladeschotel",
+      "korting_tekst": "-16%",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 295,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91219752_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MELKUNIE Houdbare melk",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91241463_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Mini-roomboterrozijnenbollen",
+      "korting_tekst": "-20%",
+      "actieprijs": 1.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1225216_main_cms_5_nl_nl_mini_roomboterrozijnenbollen_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "IGLO Proteïne maaltijd",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.39,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91238541_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "OLA 4-pack Magnum",
+      "korting_tekst": null,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91227006_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "YETI Dynamite of diablo ijs",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91238079_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MONA Pudding",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91216556_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "DAYLICIOUS Olijven met kruiden of knoflook",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233849_main_cms_5_nl_nl_olijven_met_kruiden_of_knoflook_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Wilde Wietze dip",
+      "korting_tekst": "-21%",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1238014_main_cms_2_nl_nl_wilde_wietze_dip_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "DéLIFIN Gekookte achterham",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1229904_main_cms_5_nl_nl_gekookte_achterham_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MILSANI Goudse kaasplakken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233570_main_cms_3_nl_nl_goudse_kaasplakken_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CALVé Pindakaas",
+      "korting_tekst": "-40%",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91225251_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "BRITISH ISLES Sinaasappeljam",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234256_main_cms_4_nl_nl_sinaasappeljam_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "GRANDESSA Jam",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234246_main_cms_9_nl_nl_jam_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "KELLOGS Ontbijtgranen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 620,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91233506_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "SERVERO 6-pack slurpfruit",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91237227_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "BOLLETJE Bagelcrackers sesam",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243108_main_cms_1_nl_nl_bagel_crackers_sesam_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "BLUE BAND Halvarine of goede start",
+      "korting_tekst": "-25%",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91225913_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "BLUEBAND Vloeibaar of wikkel voor koken, bakken en braden",
+      "korting_tekst": "-28%",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91208243_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "HAK Groente en appelmoes",
+      "korting_tekst": null,
+      "actieprijs": 2.0,
+      "inhoud_waarde": 370,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91231910_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CALVé Saus",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91231895_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "PORTLAND Kruidenzout",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1231628_main_cms_8_nl_nl_kruidenzout_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "SANTA MARIA Kruidenmix",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.65,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91242751_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "BISCOTTO Coffee biscuits",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1237390_main_cms_3_nl_nl_coffee_biscuits_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Wafelcakes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 195,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91242717_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Zure matten of stiften",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1220104_main_cms_24_nl_nl_zure_matten_of_stiften_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MEENK Drop",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91240318_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "TRADER JOE'S Pinda-cashewmix",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91223777_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "ASIA GREEN GARDEN Pindamix sriracha of wasabi",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1239638_main_cms_3_nl_nl_pindamix_sriracha_of_wasabi_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CHIO Chips",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 170,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91227167_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "RIVER 6-pack lemonade",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.59,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91228872_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "RIVER Cassis",
+      "korting_tekst": "-12%",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91224138_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LIPTON Ice tea",
+      "korting_tekst": null,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91216190_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Chocomel of Fristi",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.59,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91228170_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "RAAK Limonadesiroop zero",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91200539_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "BARISSIMO Filterkoffie goud",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1224477_main_cms_6_nl_nl_filterkoffie_goud_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "BARISSIMO Koffiepads extra dark roast",
+      "korting_tekst": "-40%",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1223689_main_cms_2_nl_nl_koffiepads_extra_dark_roast_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "WESTMINSTER Thee",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1230402_main_cms_10_nl_nl_thee_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "HEINEKEN OF AMSTEL 6-pack 0.0 pilsener of radler",
+      "korting_tekst": "-50%",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91216331_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "6-pack pilsener",
+      "korting_tekst": "-25%",
+      "actieprijs": 4.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1216347_main_cms_2_nl_nl_6_pack_pilsener_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Pinot Grigio delle Venezie wit en rosé",
+      "korting_tekst": null,
+      "actieprijs": 6.5,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91203192_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Pinot Grigio delle Venezie, Primitivo en Negroamaro",
+      "korting_tekst": null,
+      "actieprijs": 6.5,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91209666_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "PREMIUM DUTCH Mixdrink, cocktail of hard iced tea",
+      "korting_tekst": null,
+      "actieprijs": 2.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91239665_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LACURA Bodycrème of douchefoam",
+      "korting_tekst": "-23%",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91223300_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LACURA Handzeep",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1231854_main_cms_5_nl_nl_handzeep_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MULTINORM Vitaminegummies",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233689_main_cms_3_nl_nl_vitaminegummies_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MULTINORM Matcha energy gummy bears",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233836_main_cms_1_nl_nl_matcha_energy_gummy_bears_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MULTINORM Collageenshots",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233890_main_cms_1_nl_nl_collageenshots_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LACURA Collageenpoeder",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233948_main_cms_5_nl_nl_collageenpoeder_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "ARIEL 4-in-1 pods color",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242164_main_cms_1_nl_nl_4_in_1_pods_color_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "ROBIJN Wasverzachter",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91235868_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "DREFT Vaatwascapsules",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1240803_main_cms_1_nl_nl_vaatwascapsules_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "POWER FORCE 3-pack toiletschuimreiniger",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1236574_main_cms_1_nl_nl_3_pack_toiletschuimreiniger_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "DUBRO Reinigingsdoekjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91210879_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UNA Dikbleek eucalyptus",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1207152_main_cms_1_nl_nl_dikbleek_eucalyptus_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Zoete hartjes of mini-panzerotti",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1236677_main_cms_3_nl_nl_zoete_hartjes_of_mini_panzerotti_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Lasagne bolognese",
+      "korting_tekst": "-18%",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91200144_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Pizzabroodjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 445,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1206651_main_cms_14_nl_nl_pizzabroodjes_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Breekbrood",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1223835_main_cms_4_nl_nl_breekbrood_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Mortadella Bologna",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1229833_main_cms_1_nl_nl_mortadella_bologna_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Prosciutto cotto",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1229902_main_cms_2_nl_nl_prosciutto_cotto_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Italiaanse vleeswaren",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1239178_main_cms_8_nl_nl_italiaanse_vleeswaren_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Salsiccia",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1229961_main_cms_7_nl_nl_salsiccia_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Ansjovis",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234876_main_cms_5_nl_nl_anchovis_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Gran Moravia vlokken of geraspt",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233632_main_cms_3_nl_nl_gran_moravia_vlokken_of_geraspt_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Gran Moravia",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1217327_main_cms_1_nl_nl_gran_moravia_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Pizzasaus",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.09,
+      "inhoud_waarde": 290,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234141_main_cms_1_nl_nl_pizzasaus_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Verse olijven",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233841_main_cms_4_nl_nl_verse_olijven_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Mozzarella maxi",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1225540_main_cms_1_nl_nl_mozzarella_maxi_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Stracciatella di burrata",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 140,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243341_main_cms_1_nl_nl_stracciatella_di_burrata_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Profiteroles of tiramisu",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1216769_main_cms_3_nl_nl_profiteroles_of_tiramisu_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Pistacherepen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234267_main_cms_3_nl_nl_pistacherepen_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Pistachecrème",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234282_main_cms_3_nl_nl_pistachecreme_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Italiaanse zoete spread",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1232268_main_cms_7_nl_nl_italiaanse_zoete_spread_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Torta tiramisu",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1239769_main_cms_3_nl_nl_torta_tiramisu_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Cantuccini",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1226950_main_cms_5_nl_nl_cantuccini_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Pizzini crackers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1203623_main_cms_9_nl_nl_pizzini_crackers_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Mini-crackers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1229805_main_cms_4_nl_nl_mini_crackers_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Mini-grissini",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1240043_main_cms_16_nl_nl_mini_grissini_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Frollini",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234535_main_cms_3_nl_nl_frollini_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Taralli",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234421_main_cms_9_nl_nl_taralli_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Italiaanse salami",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1218850_main_cms_10_nl_nl_italiaanse_salami_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Tiroler spek",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233742_main_cms_6_nl_nl_tiroler_spek_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Zuid-Tiroler spek",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.59,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1225724_main_cms_2_nl_nl_zuid_tiroler_spek_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Guanciale",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233739_main_cms_1_nl_nl_guanciale_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Prosciutto crudo",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234041_main_cms_1_nl_nl_prosciutto_crudo_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Salsiccia piccante stagionata",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233901_main_cms_1_nl_nl_salsiccia_piccante_stagionata_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Balsamicocrème",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1211048_main_cms_5_nl_nl_balsamicocreme_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Italiaanse kruiden",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1227171_main_cms_11_nl_nl_italiaanse_kruiden_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA OF PRIMOAMORE Olijfolie",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91236879_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Italiaanse pasta",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1227170_main_cms_17_nl_nl_italiaanse_pasta_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Tortelloni",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1241068_main_cms_4_nl_nl_tortelloni_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Ravioli",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1229074_main_cms_8_nl_nl_ravioli_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Lumaconi of fusilloni",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233737_main_cms_5_nl_nl_lumaconi_of_fusilloni_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Cannelloni",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233950_main_cms_2_nl_nl_cannelloni_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Olijfbladerenpasta",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234127_main_cms_3_nl_nl_olijfbladerenpasta_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Farfalle fantasia",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233741_main_cms_14_nl_nl_farfalle_fantasia_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Lasagne",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234151_main_cms_2_nl_nl_lasagne_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Mini-pinsa's",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234885_main_cms_1_nl_nl_mini_pinsa_s_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Panini's",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1200814_main_cms_1_nl_nl_panini_s_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Italiaanse stijl geraspte kaas",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.39,
+      "inhoud_waarde": 170,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242741_main_cms_1_nl_nl_italiaanse_stijl_geraspte_kaas_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Pomodori secchi",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233743_main_cms_1_nl_nl_pomodori_secchi_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Siciliaanse bruschetta",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1230250_main_cms_4_nl_nl_siciliaanse_bruschetta_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Bruschetta-spread",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1228563_main_cms_20_nl_nl_bruschetta_spread_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Olijven",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233747_main_cms_7_nl_nl_olijven_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Tonno per pasta",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1233910_main_cms_8_nl_nl_tonno_per_pasta_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Antipasti",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1218399_main_cms_15_nl_nl_antipasti_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA NOBILE Antipasti di mare",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1240072_main_cms_5_nl_nl_antipasti_di_mare_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CUCINA Pizzabloem",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1229636_main_cms_1_nl_nl_pizzabloem_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "BARISSIMO Koffiebonen Milano crema of Siciliano espresso",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 12.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91226631_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "BIRRA MORETTI 6-pack bier",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1231781_main_cms_1_nl_nl_6_pack_bier_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Chiaretto di Bardolino Classico",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1218182_main_cms_2_nl_nl_chiaretto_di_bardolino_classico_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Primitivo Rosato Puglia IGT",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234464_main_cms_1_nl_nl_primitivo_rosato_puglia_igt_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Spritz",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91212387_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Rosati Spritz aperitivo",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234504_main_cms_1_nl_nl_rosati_spritz_aperitivo_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Grande Alberone rosé",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234460_main_cms_1_nl_nl_grande_alberone_rose_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "AROMI DEL SUD Zibibbo Terre Siciliane Igt",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1234512_main_cms_1_nl_nl_zibibbo_terre_siciliane_igt_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Lavendel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1232957_main_cms_3_nl_nl_lavendel_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "6-pack lavendel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1215616_main_cms_1_nl_nl_6_pack_lavendel_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Vaste zomerplant",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1224671_main_cms_9_nl_nl_vaste_zomerplant_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "6-pack Chrysanten",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1232980_main_cms_11_nl_nl_6_pack_chrysanten_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Vaste plant",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1212103_main_cms_9_nl_nl_vaste_plant_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Kardinaalshoed",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 8.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1240857_main_cms_1_nl_nl_kardinaalshoed_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Sempervivum in kruik",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1201368_main_cms_7_nl_nl_sempervivum_in_kruik_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Platycodon",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1201194_main_cms_4_nl_nl_platycodon_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION Shortama",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1227732_main_cms_5_nl_nl_shortama_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION Zomerjurk",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1235362_main_cms_12_nl_nl_zomerjurk_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION T-shirt",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242898_main_cms_6_nl_nl_t_shirt_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LILY & DAN T-shirt",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242954_main_cms_5_nl_nl_t_shirt_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION Viscose broek",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242899_main_cms_8_nl_nl_viscose_broek_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LILY & DAN Denim short",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242956_main_cms_6_nl_nl_denim_short_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION Viscose short",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242964_main_cms_7_nl_nl_viscose_short_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION 2-pack shorts of fietsshorts",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1235414_main_cms_30_nl_nl_2_pack_shorts_of_fietsshorts_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "PIERRE CARDIN Zwemshort",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 12.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242900_main_cms_5_nl_nl_zwemshort_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "PIERRE CARDIN 2-pack boxershorts",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 7.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242901_main_cms_5_nl_nl_2_pack_boxershorts_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "SLOGGI 3-pack midi- of maxi-slips",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 12.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91237433_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "PIERRE CARDIN 3-pack sokken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242896_main_cms_4_nl_nl_3_pack_sokken_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION Instappers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 11.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1229946_main_cms_2_nl_nl_instappers_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LILY & DAN Sneakers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242955_main_cms_1_nl_nl_sneakers_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION Ultralichte slippers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1227765_main_cms_7_nl_nl_ultralichte_slippers_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "4-pack cocktailglazen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242968_main_cms_4_nl_nl_4_pack_cocktailglazen_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CRANE Koelbox 20 l",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 14.99,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "liter",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1241612_main_cms_7_nl_nl_koelbox_20_l_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "HOME CREATION Tafellaken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242895_main_cms_5_nl_nl_tafellaken_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LIVE IN STYLE Picknickkoeltas",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242882_main_cms_10_nl_nl_picknickkoeltas_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "HOME CREATION Kunstplant",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1235303_main_cms_30_nl_nl_kunstplant_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "HOME CREATION Keramische vaas",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242970_main_cms_6_nl_nl_keramische_vaas_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "HOME CREATION Geurkaars in keramiek",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242965_main_cms_5_nl_nl_geurkaars_in_keramiek_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CROFTON 3-pack theedoeken met wafelstructuur",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1235109_main_cms_48_nl_nl_3_pack_theedoeken_wavelstructuur_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "HOME CREATION Kokosdeurmat",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242897_main_cms_20_nl_nl_kokosdeurmat_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CROFTON Kom- en vergietset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242951_main_cms_13_nl_nl_kom_en_vergietset_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "JOIE IJsblokjesvorm",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242890_main_cms_46_nl_nl_ijsblokjesvorm_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CROFTON Broodtrommel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242952_main_cms_23_nl_nl_broodtrommel_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CROFTON 3-delige kinderserviesset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242885_main_cms_6_nl_nl_3_delige_kinderserviesset_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CROFTON Cafetière of espressomaker",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243011_main_cms_6_nl_nl_cafetiere_of_espressomaker_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "JOIE Pizza- of pastakeukenaccessoires",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243012_main_cms_11_nl_nl_pizza_of_pastakeukenaccessoires_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CROFTON Aardappelschilmes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1239856_main_cms_9_nl_nl_aardappelschilmes_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NOVITESSE Jersey hoeslaken",
+      "korting_tekst": null,
+      "actieprijs": 7.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91231810_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NOVITESSE Dekbedovertrek seersucker",
+      "korting_tekst": null,
+      "actieprijs": 14.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91229818_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Pitloze rode druiven",
+      "korting_tekst": "-44%",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1219224_main_cms_28_nl_nl_pitloze_rode_druiven_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Courgettes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243515_main_cms_6_nl_nl_courgettes_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Scharrelkipshoarma",
+      "korting_tekst": "-16%",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1211138_main_cms_4_nl_nl_scharrelkipshoarma_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Black Angus diamantsteak",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1240950_main_cms_2_nl_nl_black_angus_diamantsteak_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Ontbijtspek",
+      "korting_tekst": "-23%",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1205837_main_cms_4_nl_nl_ontbijtspek_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Gebraden gehakt",
+      "korting_tekst": "-36%",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1220454_main_cms_3_nl_nl_gebraden_gehakt_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "POTATO KING Rösti of aardappelpannenkoekjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1200134_main_cms_3_nl_nl_rosti_of_aardappelpannenkoekjes_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "PRéSIDENT Brie",
+      "korting_tekst": "-33%",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1205722_main_cms_1_nl_nl_brie_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Groene pesto of kaas-pestodip",
+      "korting_tekst": "-14%",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91200141_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "RIO D'ORO Bloedsinaasappelsap",
+      "korting_tekst": "-11%",
+      "actieprijs": 2.39,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1202113_main_cms_5_nl_nl_bloedsinaasappelsap_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "THEUNISSE Kokosbrood met chocolade",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243213_main_cms_2_nl_nl_kokosbrood_met_chocolade_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NISSIN Soba protein noodles",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 93,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91242484_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "PRINCES Sardines in olie",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91242754_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "KNORR 3-pack Cup-a-Soup",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 0.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91202448_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NATURE VALLEY Proteïnerepen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91234399_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LIGA Belvita koekjes",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91240483_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "5-pack Bounty, Mars, Snickers of Twix",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91210449_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MILKA Chocolade",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.59,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91242937_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "RED BAND Snoep",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91215234_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "HARLEKIJNTJES Drop",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "kg",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91213742_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CROKY Tortillachips",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91216184_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "OASIS Drink",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91238304_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "6-pack Spa fruit",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91240170_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UILTJE OF CORNET Alcoholvrij bier",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91243092_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LA CHOUFFE OF TRIPEL KARMELIET 4- of 6-pack Belgisch bier",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91206010_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "DUVEL 4-pack 6.66%",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.66,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1241405_main_cms_2_nl_nl_4_pack_666_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "SMIRNOFF Ice mixdrink",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91226712_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "FA Douchegel",
+      "korting_tekst": null,
+      "actieprijs": 3.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91235268_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "HANSAPLAST Pleisters",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91208408_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "OMO Wasmiddel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91217035_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "AJAX Allesreiniger",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91235895_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NOVITESSE Reis-, rug-, knie- of zitkussen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242972_main_cms_17_nl_nl_reis_rug_knie_of_zitkussen_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NOVITESSE Stoelverhoger",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 11.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1239576_main_cms_6_nl_nl_stoelverhoger_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Douchekruk",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 24.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243353_main_cms_12_nl_nl_douchekruk_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "OVIMAR Douche- en toiletsteunstang rvs",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243374_main_cms_3_nl_nl_douche_en_toiletsteunstang_rvs_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NOVITESSE Bad- en wc-mat",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 9.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243085_main_cms_21_nl_nl_bad_en_wc_mat_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Washulpassortiment",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1235575_main_cms_48_nl_nl_washulpassortiment_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NOVITESSE Waterdicht hoeslaken",
+      "korting_tekst": null,
+      "actieprijs": 9.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91237514_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NOVITESSE Waterdichte matrasbeschermer",
+      "korting_tekst": null,
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91239577_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "Bewegingshulpmiddel",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1235571_main_cms_37_nl_nl_bewegingshulpmiddel_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION 3-pack diabetessokken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242983_main_cms_18_nl_nl_3_pack_diabetessokken_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "AMBIANO Meetapparatuur",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 12.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1235033_main_cms_9_nl_nl_meetapparatuur_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "VARTA 8-pack gehoorbatterijen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/91237560_week29?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION Leesbril met koker",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242974_main_cms_24_nl_nl_leesbril_met_koker_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION Nacht-, loepbril of overzetzonnebril",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242980_main_cms_8_nl_nl_nacht_loepbril_of_overzetzonnebril_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "UP2FASHION Casual instapmuilen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 14.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1229949_main_cms_13_nl_nl_casual_instapmuilen_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CRANE Mini-fietstrainer",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 24.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1200856_main_cms_8_nl_nl_mini_fietstrainer_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "JOIE Keukengerei",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243073_main_cms_13_nl_nl_keukengerei_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LILY & DAN Slippers",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243077_main_cms_1_nl_nl_slippers_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LILY & DAN 3-delige pyjamaset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243000_main_cms_11_nl_nl_3_delige_pyjamaset_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LILY & DAN Zomerset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243001_main_cms_6_nl_nl_zomerset_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LILY & DAN 3-pack sokken",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243083_main_cms_17_nl_nl_3_pack_sokken_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "COCONUT GROVE Kinderzwemset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 7.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1241546_main_cms_22_nl_nl_kinderzwemset_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "TOYLINO Waterspeelgoed",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 7.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243075_main_cms_6_nl_nl_waterspeelgoed_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "TOYLINO 6-pack herbruikbare waterballonnen",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1241515_main_cms_38_nl_nl_6_pack_herbruikbare_waterballonnen_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "NOVITESSE Microvezelstrandhanddoek XXL",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 8.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1241797_main_cms_23_nl_nl_microvezelstrandhanddoek_xxl_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CRANE Strandaccessoires",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1235296_main_cms_61_nl_nl_strandaccessoires_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CRANE Strandsportassortiment",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1235177_main_cms_25_nl_nl_strandsportassortiment_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CRANE Buitenspeelgoed",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243376_main_cms_5_nl_nl_buitenspeelgoed_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CRANE Holografische voet- of volleybal",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 8.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243385_main_cms_5_nl_nl_holografische_voet_of_volleybal_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "LILY & DAN Sportset",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 4.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243018_main_cms_7_nl_nl_sportset_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "CRANE Trainingsuitrusting",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 5.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243076_main_cms_5_nl_nl_trainingsuitrusting_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MAGINON Quadrocopter drone",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 34.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242881_main_cms_5_nl_nl_quadrocopter_drone_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "MAGINON Draadloze koptelefoon",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 19.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1243081_main_cms_25_nl_nl_draadloze_koptelefoon_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    },
+    {
+      "productnaam": "AMBIANO Mini-speaker",
+      "korting_tekst": "OP=OP",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 1,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null,
+      "afbeelding_url": "https://s7g10.scene7.com/is/image/aldinord/product_1242962_main_cms_13_nl_nl_mini_speaker_cw01_2024?bfc=on&wid=1440&fmt=webp-alpha"
+    }
+  ]
 }

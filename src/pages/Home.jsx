@@ -147,8 +147,8 @@ export default function Home() {
           {import.meta.env.DEV && (
             <Link
               to="/fridge"
-              title="Fridge"
-              aria-label="Fridge"
+              title={t('fridgeTitle')}
+              aria-label={t('fridgeTitle')}
               className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-terracotta-300/50 bg-cream-50 text-terracotta-600 shadow-sm transition hover:bg-cream-200 dark:border-charcoal-500 dark:bg-charcoal-700 dark:text-terracotta-300 dark:hover:bg-charcoal-600"
             >
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} className="h-5 w-5">

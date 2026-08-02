@@ -25,6 +25,27 @@ const dictionaries = {
     increasePortions: 'Increase portions',
     toggleDarkMode: 'Toggle dark mode',
     contains: 'Contains: {flags}',
+    devOnly: '(dev only)',
+    fridgeTitle: 'Fridge',
+    fridgeApiError: 'Could not reach the dev API. Are you running `npm run dev`?',
+    fridgeUpdateFailed: 'Update failed',
+    fridgeLlmRequestFailed: 'LLM request failed',
+    fridgeWhatsInside: "What's in the fridge",
+    fridgeEmpty: 'Nothing yet — tell the assistant below what you have.',
+    fridgeRemoveItem: 'Remove {item}',
+    fridgeTalkToLlm: 'Talk to your local LLM',
+    fridgeThinking: 'Thinking…',
+    fridgePlaceholder: "Say what you have or used up, in any language — e.g. 'I bought chicken, rice and soy sauce'…",
+    send: 'Send',
+    fridgeAskWhatToCook: 'What can I cook? →',
+    fridgeInboxFound: 'New inbox notes found ({file})',
+    fridgeProcess: 'Process',
+    fridgeProcessing: 'Processing…',
+    fridgeProcessedNotice: 'Processed — don\'t forget to commit and push {file}, or your phone will show this as "new" again next time.',
+    fridgeProcessFailedNotice: 'Could not process the inbox — try again, or update the fridge above manually via chat.',
+    fridgeInboxProcessMessage: 'Inbox notes to process:\n{notes}\n\nUpdate the fridge accordingly.',
+    fridgeAskWhatToCookMessage:
+      "Available recipes:\n{recipes}\n\nBased on what's currently in my fridge, which of these can I make, or come closest to making? Rank them and mention what's missing for each.",
   },
   nl: {
     recipesReady_one: '{count} recept klaar om te koken',
@@ -43,6 +64,27 @@ const dictionaries = {
     increasePortions: 'Meer porties',
     toggleDarkMode: 'Donkere modus wisselen',
     contains: 'Bevat: {flags}',
+    devOnly: '(alleen dev)',
+    fridgeTitle: 'Koelkast',
+    fridgeApiError: 'Kan de dev-API niet bereiken. Draait `npm run dev`?',
+    fridgeUpdateFailed: 'Bijwerken mislukt',
+    fridgeLlmRequestFailed: 'LLM-verzoek mislukt',
+    fridgeWhatsInside: 'Wat zit er in de koelkast',
+    fridgeEmpty: 'Nog niets — vertel de assistent hieronder wat je hebt.',
+    fridgeRemoveItem: '{item} verwijderen',
+    fridgeTalkToLlm: 'Praat met je lokale LLM',
+    fridgeThinking: 'Aan het denken…',
+    fridgePlaceholder: "Zeg wat je hebt of op is, in elke taal — bv. 'ik heb kip, rijst en sojasaus gekocht'…",
+    send: 'Versturen',
+    fridgeAskWhatToCook: 'Wat kan ik koken? →',
+    fridgeInboxFound: 'Nieuwe inbox-notities gevonden ({file})',
+    fridgeProcess: 'Verwerken',
+    fridgeProcessing: 'Verwerken…',
+    fridgeProcessedNotice: 'Verwerkt — vergeet niet {file} te committen en pushen, anders zie je dit op je telefoon straks weer als "nieuw".',
+    fridgeProcessFailedNotice: 'Kon de inbox niet verwerken — probeer het opnieuw, of werk de voorraad hierboven handmatig bij via de chat.',
+    fridgeInboxProcessMessage: 'Inbox-notities om te verwerken:\n{notes}\n\nWerk de voorraad hiermee bij.',
+    fridgeAskWhatToCookMessage:
+      'Beschikbare recepten:\n{recipes}\n\nWelke hiervan kan ik maken, of het dichtst bij maken, op basis van wat er nu in mijn koelkast zit? Rangschik ze en vermeld wat er per recept nog ontbreekt.',
   },
   fr: {
     recipesReady_one: '{count} recette prête à cuisiner',
@@ -61,6 +103,27 @@ const dictionaries = {
     increasePortions: 'Plus de portions',
     toggleDarkMode: 'Basculer le mode sombre',
     contains: 'Contient : {flags}',
+    devOnly: '(dev uniquement)',
+    fridgeTitle: 'Frigo',
+    fridgeApiError: "Impossible de joindre l'API de dev. `npm run dev` est-il lancé ?",
+    fridgeUpdateFailed: 'Échec de la mise à jour',
+    fridgeLlmRequestFailed: 'Échec de la requête LLM',
+    fridgeWhatsInside: 'Ce qu\'il y a dans le frigo',
+    fridgeEmpty: "Rien pour l'instant — dites à l'assistant ci-dessous ce que vous avez.",
+    fridgeRemoveItem: 'Retirer {item}',
+    fridgeTalkToLlm: 'Parlez à votre LLM local',
+    fridgeThinking: 'Réflexion…',
+    fridgePlaceholder: "Dites ce que vous avez ou avez utilisé, dans n'importe quelle langue — ex. 'j'ai acheté du poulet, du riz et de la sauce soja'…",
+    send: 'Envoyer',
+    fridgeAskWhatToCook: 'Que puis-je cuisiner ? →',
+    fridgeInboxFound: 'Nouvelles notes trouvées ({file})',
+    fridgeProcess: 'Traiter',
+    fridgeProcessing: 'Traitement…',
+    fridgeProcessedNotice: "Traité — n'oubliez pas de committer et pousser {file}, sinon votre téléphone montrera à nouveau ceci comme \"nouveau\".",
+    fridgeProcessFailedNotice: "Impossible de traiter la boîte de réception — réessayez, ou mettez à jour le stock ci-dessus manuellement via le chat.",
+    fridgeInboxProcessMessage: 'Notes à traiter :\n{notes}\n\nMettez le frigo à jour en conséquence.',
+    fridgeAskWhatToCookMessage:
+      "Recettes disponibles :\n{recipes}\n\nSelon ce qu'il y a actuellement dans mon frigo, lesquelles puis-je préparer, ou m'en approcher le plus ? Classez-les et indiquez ce qui manque pour chacune.",
   },
   de: {
     recipesReady_one: '{count} Rezept fertig zum Kochen',
@@ -79,6 +142,27 @@ const dictionaries = {
     increasePortions: 'Mehr Portionen',
     toggleDarkMode: 'Dunkelmodus umschalten',
     contains: 'Enthält: {flags}',
+    devOnly: '(nur Dev)',
+    fridgeTitle: 'Kühlschrank',
+    fridgeApiError: 'Dev-API nicht erreichbar. Läuft `npm run dev`?',
+    fridgeUpdateFailed: 'Aktualisierung fehlgeschlagen',
+    fridgeLlmRequestFailed: 'LLM-Anfrage fehlgeschlagen',
+    fridgeWhatsInside: 'Was im Kühlschrank ist',
+    fridgeEmpty: 'Noch nichts — sag dem Assistenten unten, was du hast.',
+    fridgeRemoveItem: '{item} entfernen',
+    fridgeTalkToLlm: 'Sprich mit deinem lokalen LLM',
+    fridgeThinking: 'Denkt nach…',
+    fridgePlaceholder: "Sag, was du hast oder aufgebraucht hast, in beliebiger Sprache — z. B. 'ich habe Hähnchen, Reis und Sojasauce gekauft'…",
+    send: 'Senden',
+    fridgeAskWhatToCook: 'Was kann ich kochen? →',
+    fridgeInboxFound: 'Neue Eingangsnotizen gefunden ({file})',
+    fridgeProcess: 'Verarbeiten',
+    fridgeProcessing: 'Verarbeitet…',
+    fridgeProcessedNotice: 'Verarbeitet — vergiss nicht, {file} zu committen und zu pushen, sonst siehst du das auf deinem Handy gleich wieder als "neu".',
+    fridgeProcessFailedNotice: 'Eingang konnte nicht verarbeitet werden — versuch es erneut oder aktualisiere den Vorrat oben manuell per Chat.',
+    fridgeInboxProcessMessage: 'Zu verarbeitende Eingangsnotizen:\n{notes}\n\nAktualisiere den Kühlschrank entsprechend.',
+    fridgeAskWhatToCookMessage:
+      'Verfügbare Rezepte:\n{recipes}\n\nWas kann ich basierend auf dem aktuellen Kühlschrankinhalt davon kochen, oder am ehesten kochen? Ordne sie und nenne, was jeweils fehlt.',
   },
 }
 
@@ -88,4 +172,30 @@ export function translate(locale, key, params = {}) {
   const template = dict[lookupKey] ?? dictionaries.en[lookupKey] ?? key
 
   return template.replace(/\{(\w+)\}/g, (match, name) => (params[name] !== undefined ? params[name] : match))
+}
+
+// Recipe tags are a single shared list of English kebab-case identifiers
+// used for matching/filtering/URLs in every language (see lib/recipes.js) —
+// that part never changes. This only maps each one to a display label per
+// locale; unlisted tags (e.g. a newly added recipe's tag) just fall back to
+// showing the raw English slug until a translation is added here.
+const TAG_LABELS = {
+  indian: { en: 'indian', nl: 'indiaas', fr: 'indien', de: 'indisch' },
+  chicken: { en: 'chicken', nl: 'kip', fr: 'poulet', de: 'huhn' },
+  weeknight: { en: 'weeknight', nl: 'doordeweeks', fr: 'semaine', de: 'wochentags' },
+  lemon: { en: 'lemon', nl: 'citroen', fr: 'citron', de: 'zitrone' },
+  pasta: { en: 'pasta', nl: 'pasta', fr: 'pâtes', de: 'pasta' },
+  nuts: { en: 'nuts', nl: 'noten', fr: 'noix', de: 'nüsse' },
+  lime: { en: 'lime', nl: 'limoen', fr: 'citron vert', de: 'limette' },
+  quick: { en: 'quick', nl: 'snel', fr: 'rapide', de: 'schnell' },
+  chinese: { en: 'chinese', nl: 'chinees', fr: 'chinois', de: 'chinesisch' },
+  ricegrain: { en: 'rice', nl: 'rijst', fr: 'riz', de: 'reis' },
+  italian: { en: 'italian', nl: 'italiaans', fr: 'italien', de: 'italienisch' },
+  sausage: { en: 'sausage', nl: 'worst', fr: 'saucisse', de: 'wurst' },
+  'comfort-food': { en: 'comfort food', nl: 'comfortfood', fr: 'plat réconfortant', de: 'komfortessen' },
+  pork: { en: 'pork', nl: 'varkensvlees', fr: 'porc', de: 'schweinefleisch' },
+}
+
+export function translateTag(tag, locale) {
+  return TAG_LABELS[tag]?.[locale] ?? tag
 }

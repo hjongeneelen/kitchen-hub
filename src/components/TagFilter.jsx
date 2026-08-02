@@ -1,4 +1,8 @@
+import { useTranslation } from '../hooks/useLocale.jsx'
+import { translateTag } from '../lib/translations'
+
 export default function TagFilter({ tags, activeTags, onToggle }) {
+  const { locale } = useTranslation()
   if (!tags.length) return null
 
   return (
@@ -15,7 +19,7 @@ export default function TagFilter({ tags, activeTags, onToggle }) {
                 : 'tag-pill border-cream-300 bg-cream-50 text-charcoal-500 hover:border-terracotta-300 hover:text-terracotta-500 dark:border-charcoal-600 dark:bg-charcoal-800 dark:text-cream-200 dark:hover:border-terracotta-400'
             }
           >
-            #{tag}
+            #{translateTag(tag, locale)}
           </button>
         )
       })}

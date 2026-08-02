@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 import { useTranslation } from '../hooks/useLocale.jsx'
 import { localizeRecipe } from '../lib/recipes'
 import { formatPrice } from '../lib/dealFormat'
+import { translateTag } from '../lib/translations'
 
 export default function RecipeCard({ recipe: baseRecipe, cost }) {
   const { t, locale } = useTranslation()
@@ -63,7 +64,7 @@ export default function RecipeCard({ recipe: baseRecipe, cost }) {
               key={tag}
               className="rounded-full bg-olive-100 px-2 py-0.5 text-xs font-medium text-olive-700 dark:bg-olive-700/30 dark:text-olive-200"
             >
-              #{tag}
+              #{translateTag(tag, locale)}
             </span>
           ))}
         </div>
