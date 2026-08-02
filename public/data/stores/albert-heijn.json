@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-07-31T08:50:20.600467+00:00",
+  "updated_at": "2026-08-02T08:24:52.178924+00:00",
   "deals": [
     {
       "productnaam": "Dr. Oetker Ristorante pizza mozzarella glutenvrij",
@@ -91,6 +91,15 @@
       "actieprijs": 4.7,
       "inhoud_waarde": 220,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 02-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nalys Excellence 5-laags maxi-vel toiletpapier",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.95,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
       "geldig_tekst": "t/m zo. 02-08-2026",
       "categorie": null
     }
