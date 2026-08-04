@@ -2,95 +2,14 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-02T08:24:52.176257+00:00",
+  "updated_at": "2026-08-04T08:37:18.041308+00:00",
   "deals": [
-    {
-      "productnaam": "Sensodyne Repair & protect deep repair tandpasta voor gevoelige tanden",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta repair & protect",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Haricots verts extra fijn",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 340,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta rapid relief",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta complete protection",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta gevoeligheid tandvlees",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
     {
       "productnaam": "Page Compleet schoon toiletpapier",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 1.99,
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta pro glasur multi action daily",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Santa Maria Tortilla wraps corn&wheat medium 8 stuks 336g",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 8,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Santa Maria Oat wraps",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -109,24 +28,6 @@
       "actieprijs": 2.75,
       "inhoud_waarde": 225,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocomel Vol 6-pak",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.88,
-      "inhoud_waarde": 1200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocomel Halfvol 6-pak",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 1200,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },

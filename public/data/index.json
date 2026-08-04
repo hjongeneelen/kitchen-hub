@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-08-02T08:24:52.179831+00:00",
+  "generated_at": "2026-08-04T08:37:18.042563+00:00",
   "stores": [
     {
       "slug": "dirk",
       "name": "Dirk",
       "mode": "scan",
-      "deal_count": 27,
-      "updated_at": "2026-08-02T08:24:52.175110+00:00"
-    },
-    {
-      "slug": "hoogvliet",
-      "name": "Hoogvliet",
-      "mode": "scan",
-      "deal_count": 15,
-      "updated_at": "2026-08-02T08:24:52.176257+00:00"
+      "deal_count": 22,
+      "updated_at": "2026-08-04T08:37:18.038981+00:00"
     },
     {
       "slug": "plus",
       "name": "Plus",
       "mode": "scan",
-      "deal_count": 21,
-      "updated_at": "2026-08-02T08:24:52.177208+00:00"
+      "deal_count": 13,
+      "updated_at": "2026-08-04T08:37:18.039979+00:00"
     },
     {
       "slug": "dekamarkt",
       "name": "Dekamarkt",
       "mode": "scan",
-      "deal_count": 17,
-      "updated_at": "2026-08-02T08:24:52.178097+00:00"
+      "deal_count": 15,
+      "updated_at": "2026-08-04T08:37:18.040657+00:00"
+    },
+    {
+      "slug": "hoogvliet",
+      "name": "Hoogvliet",
+      "mode": "scan",
+      "deal_count": 4,
+      "updated_at": "2026-08-04T08:37:18.041308+00:00"
     },
     {
       "slug": "albert-heijn",
       "name": "Albert Heijn",
       "mode": "scan",
-      "deal_count": 11,
-      "updated_at": "2026-08-02T08:24:52.178924+00:00"
+      "deal_count": 4,
+      "updated_at": "2026-08-04T08:37:18.041874+00:00"
     },
     {
       "slug": "jumbo",
       "name": "Jumbo",
       "mode": "scan",
-      "deal_count": 3,
-      "updated_at": "2026-08-02T08:24:52.179530+00:00"
+      "deal_count": 2,
+      "updated_at": "2026-08-04T08:37:18.042356+00:00"
     }
   ]
 }

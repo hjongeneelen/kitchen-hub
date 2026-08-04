@@ -2,17 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-02T08:24:52.175110+00:00",
+  "updated_at": "2026-08-04T08:37:18.038981+00:00",
   "deals": [
-    {
-      "productnaam": "Aquafresh Tandpasta coolmint",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
     {
       "productnaam": "Alpro Variatie op kwark mango",
       "korting_tekst": "-65% KORTING",
@@ -32,15 +23,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Campina Volle melk proteine",
-      "korting_tekst": "-64% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Alpro Yoghurtvariatie blueberry muffin",
       "korting_tekst": "-63% KORTING",
       "actieprijs": 0.99,
@@ -55,24 +37,6 @@
       "actieprijs": 0.79,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup asperge 3 st.",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup mosterd 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 04-08-2026",
       "categorie": null
     },
@@ -140,15 +104,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Heineken Pilsener alcoholvrij 6x33cl",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 1980,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Alpro Yoghurtvariatie naturel",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 0.99,
@@ -162,15 +117,6 @@
       "korting_tekst": "-56% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup champignon creme 3 st.",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 51,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 04-08-2026",
       "categorie": null
@@ -225,6 +171,15 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 04-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep salted almond caramel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 190,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 04-08-2026",
       "categorie": null
