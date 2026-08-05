@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-08-04T08:37:18.040657+00:00",
+  "updated_at": "2026-08-05T08:36:19.767963+00:00",
   "deals": [
     {
       "productnaam": "Robijn Vloeibaar wasmiddel quickwash sunset bloom 22 wasb.",
@@ -136,6 +136,15 @@
       "actieprijs": 1.83,
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Nescafe Gold oploskoffie sticks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.2,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     }

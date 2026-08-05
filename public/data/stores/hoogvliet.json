@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-04T08:37:18.041308+00:00",
+  "updated_at": "2026-08-05T08:36:19.768644+00:00",
   "deals": [
     {
       "productnaam": "Page Compleet schoon toiletpapier",
@@ -32,11 +32,38 @@
       "categorie": null
     },
     {
+      "productnaam": "Chocomel Vol 6-pak",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.88,
+      "inhoud_waarde": 1200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chocomel Halfvol 6-pak",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 1200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Verstegen kruidenmix voor mosselen",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.98,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chocomel 0% 6-pak",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 1200,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

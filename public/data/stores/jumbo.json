@@ -2,23 +2,14 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-08-04T08:37:18.042356+00:00",
+  "updated_at": "2026-08-05T08:36:19.769763+00:00",
   "deals": [
     {
-      "productnaam": "Unicura Ultra Antibacteriele Handzeep 250 ml",
+      "productnaam": "Innocent immunity shot ginger 80ml",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.55,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Unicura Mild Antibacteriele Handzeep 250 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 1.0,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

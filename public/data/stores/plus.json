@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-04T08:37:18.039979+00:00",
+  "updated_at": "2026-08-05T08:36:19.767281+00:00",
   "deals": [
     {
       "productnaam": "PLUS Luxe sla Romaine",
@@ -118,6 +118,15 @@
       "actieprijs": 1.9,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 04-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Taksi Drakenfruit geen suiker toegevoegd",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m 04-08-2026",
       "categorie": null
     }
