@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-08-05T08:36:19.769188+00:00",
+  "updated_at": "2026-08-06T08:36:36.213300+00:00",
   "deals": [
     {
       "productnaam": "Bonduelle Bonenmix met crispy mais",
@@ -37,6 +37,15 @@
       "actieprijs": 2.5,
       "inhoud_waarde": 160,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 09-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Peaces cookie dough",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.65,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 09-08-2026",
       "categorie": null
     }

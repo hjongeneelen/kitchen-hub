@@ -2,204 +2,195 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-05T08:36:19.766330+00:00",
+  "updated_at": "2026-08-06T08:36:36.211874+00:00",
   "deals": [
     {
-      "productnaam": "Alpro Variatie op kwark mango",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Variatie op kwark vanille",
-      "korting_tekst": "-64% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Yoghurtvariatie blueberry muffin",
+      "productnaam": "Calve Whisky cocktailsaus",
       "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Halfvolle melk proteine",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
+      "actieprijs": 0.89,
+      "inhoud_waarde": 320,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 04-08-2026",
+      "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Campina Houdbare volle melk langlekker",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Yoghurtvariatie perzik",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
+      "productnaam": "Silvo Peterselie",
+      "korting_tekst": "-63% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 5,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
+      "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Yoghurtvariatie blauwe bes",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Plantaardige variatie yoghurt Grieks stijl 3.4% vet",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Plantaardige variatie op kwark ongezoet",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Yoghurtvariatie naturel ongezoet",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appel kruimelvlaai",
+      "productnaam": "Ola Magnum pint double caramel billionaire",
       "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m di 04-08-2026",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Yoghurtvariatie naturel",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
+      "productnaam": "Douwe Egberts IJskoffie mocha latte",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 0.59,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Kwark naturel plantaardige variatie",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
+      "productnaam": "Fernandes Cream ginger",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.45,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Campina Houdbare halfvolle melk langlekker",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m di 04-08-2026",
+      "productnaam": "Fernandes Red grape",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.45,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Hak Spinazie met room",
+      "productnaam": "Danio Kwark mango passievrucht",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 1.29,
-      "inhoud_waarde": 345,
+      "inhoud_waarde": 450,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
+      "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Yoghurtvariatie aardbei",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bolletje Knackebrod proteine",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 255,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Crystal Clear Lemon-passie koolzuurvrij",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.19,
-      "inhoud_waarde": 1500,
+      "productnaam": "Calve Knoflooksaus",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 320,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 04-08-2026",
+      "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Kalkoen chorizo",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 80,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Chocoladereep salted almond caramel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 190,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Iglo Fish cuisine florentine spinazie en kaas",
-      "korting_tekst": "-50% KORTING",
+      "productnaam": "Ola Magnum mini double gold caramel billionair 6 st.",
+      "korting_tekst": "-55% KORTING",
       "actieprijs": 2.99,
-      "inhoud_waarde": 380,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 04-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Grolsch Radler alcoholvrij citroen 6x33 cl",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 1980,
+      "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 04-08-2026",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum white",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Fernandes Green punch 4x25cl",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Danio Romige kwark kers",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Knoflookpoeder",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Douwe Egberts Ijskoffie cappuccino",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.59,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum almond",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Danio Romige kwark mango kiwi banaan",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Texels Skuumkoppe 0.0% 6x300ml",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 1800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gouda's Glorie red hot samurai saus",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum classic",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Fernandes Cherry bouquet 4x25cl",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Edamamebonen",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     }
   ]

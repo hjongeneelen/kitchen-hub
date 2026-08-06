@@ -2,68 +2,140 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-05T08:36:19.768644+00:00",
+  "updated_at": "2026-08-06T08:36:36.211268+00:00",
   "deals": [
     {
-      "productnaam": "Page Compleet schoon toiletpapier",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 6,
+      "productnaam": "Ben & Jerry's Caramel chew chew",
+      "korting_tekst": "-63% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Brookies",
+      "korting_tekst": "-63% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Mini cup IJs Chocolate Fudge Brownie",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Mini cup IJs Cookie Dough",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Beckmann Active white doekjes",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.48,
+      "inhoud_waarde": 15,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Nakd Proteinbar cocoa hazelnoot",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 135,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Kruidenmix Italiaans",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.75,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocomel Vol 6-pak",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.88,
-      "inhoud_waarde": 1200,
+      "productnaam": "Heineken Premium Pilsener 0.0 Bier Draaidop Fles 6-pack",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Chocomel Halfvol 6-pak",
+      "productnaam": "Old Amsterdam Original Geraspt Kaas",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 1200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen kruidenmix voor mosselen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.98,
+      "actieprijs": 1.99,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Chocomel 0% 6-pak",
+      "productnaam": "Dubbelfrisss Sinaasappel mandarijn",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 1200,
+      "actieprijs": 1.42,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "La espanola Olijfolie extra vierge",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "La espanola Olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "La espanola Olijfolie spray",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "La espanola Olijfolie extra vierge",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.25,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Old Amsterdam Original Plakken Kaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.47,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubbelfrisss 1 Kcal druiven citroen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Old Amsterdam Original 35+ Kaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

@@ -2,149 +2,86 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-08-05T08:36:19.767963+00:00",
+  "updated_at": "2026-08-06T08:36:36.210678+00:00",
   "deals": [
     {
-      "productnaam": "Robijn Vloeibaar wasmiddel quickwash sunset bloom 22 wasb.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 7.52,
-      "inhoud_waarde": 837,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Vloeibaar wasmiddel quickwash spring blossom 22 wasb.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 7.52,
-      "inhoud_waarde": 837,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Vloeibaar wasmiddel k&k zwart 22 wasbeurten",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 7.12,
-      "inhoud_waarde": 665,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Vloeibaar wasmiddel k&k wit 22 wasbeurten",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 7.12,
-      "inhoud_waarde": 665,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Vloeibaar wasmiddel 3 in 1 caps paradise secrets",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 6.0,
-      "inhoud_waarde": 15,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Vloeibaar wasmiddel 3 in 1 caps spa sensation",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 6.0,
-      "inhoud_waarde": 15,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Vloeibaar wasmiddel k & k color morgenfris 19 wasbeurten",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 6.94,
-      "inhoud_waarde": 665,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Vloeibaar wasmiddel k & k color pink sens. 19 wasbeurten",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 6.94,
-      "inhoud_waarde": 665,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Vloeibaar wasmiddel k&k color 22 wasbeurten",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 6.4,
-      "inhoud_waarde": 665,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Dry wash spray original",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 4.32,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Wasparfum passiebloem&bergamot",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.78,
-      "inhoud_waarde": 342,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Wasparfum paradise secret",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.8,
-      "inhoud_waarde": 342,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Wasparfum tropical",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.76,
-      "inhoud_waarde": 342,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Wasmiddeldoekjes color 16 wasb.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 4.26,
-      "inhoud_waarde": 16,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Nescafe Oploskoffie cappuccino 10 koppen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.83,
-      "inhoud_waarde": 125,
+      "productnaam": "Glorix Toiletblok blauw water turquoise",
+      "korting_tekst": "-68% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 48,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Nescafe Gold oploskoffie sticks",
+      "productnaam": "Glorix Toiletblok aroma white roses&tea tree oil",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Toiletblok aroma lux dahlia flow&dragonfr",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Toiletblok blauw water pink",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 48,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Toiletblok ocean",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Toiletblok citrus",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Glorix Toiletblok blauw water",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 48,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mullermilk aardbei",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.2,
-      "inhoud_waarde": 25,
-      "inhoud_unit": "stuks",
+      "actieprijs": 0.93,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Happysoaps Body bar kokos limoen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.9,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     }
