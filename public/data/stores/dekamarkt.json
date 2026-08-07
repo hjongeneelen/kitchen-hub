@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-08-06T08:36:36.210678+00:00",
+  "updated_at": "2026-08-07T07:16:03.548014+00:00",
   "deals": [
     {
       "productnaam": "Glorix Toiletblok blauw water turquoise",
@@ -73,15 +73,6 @@
       "actieprijs": 0.93,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Happysoaps Body bar kokos limoen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.9,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     }

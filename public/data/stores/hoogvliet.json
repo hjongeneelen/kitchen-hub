@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-06T08:36:36.211268+00:00",
+  "updated_at": "2026-08-07T07:16:03.548843+00:00",
   "deals": [
     {
       "productnaam": "Ben & Jerry's Caramel chew chew",
@@ -122,11 +122,65 @@
       "categorie": null
     },
     {
+      "productnaam": "Ambi Pur Toiletblok citrus & jasmijn 0% plastic",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok roos en lelie 0% plastic",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.01,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok water & bloemen 0% plastic",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.01,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok wild hibiscus 0% plastic",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok blauwe bloesem 0% plastic",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Dubbelfrisss 1 Kcal druiven citroen",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.38,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Tena Discreet extra plus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.4,
+      "inhoud_waarde": 8,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
