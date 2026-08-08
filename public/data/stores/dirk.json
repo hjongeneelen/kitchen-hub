@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-07T07:16:03.549607+00:00",
+  "updated_at": "2026-08-08T06:53:32.835758+00:00",
   "deals": [
     {
       "productnaam": "Calve Whisky cocktailsaus",
@@ -10,15 +10,6 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 320,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Peterselie",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 5,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     },
@@ -190,6 +181,15 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Crystal Clear Lemon-passie koolzuurvrij",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di 11-08-2026",
       "categorie": null
     }

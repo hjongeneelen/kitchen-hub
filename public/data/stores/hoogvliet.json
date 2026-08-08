@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-07T07:16:03.548843+00:00",
+  "updated_at": "2026-08-08T06:53:32.834762+00:00",
   "deals": [
     {
       "productnaam": "Ben & Jerry's Caramel chew chew",
@@ -172,24 +172,6 @@
       "actieprijs": 1.38,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Tena Discreet extra plus",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 8,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Old Amsterdam Original 35+ Kaas",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }
