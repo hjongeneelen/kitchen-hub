@@ -2,15 +2,69 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-08T06:53:32.837147+00:00",
+  "updated_at": "2026-08-10T07:41:48.270623+00:00",
   "deals": [
     {
-      "productnaam": "PLUS Mango",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.89,
+      "productnaam": "Dr. Oetker Ristorante pizza Mozzarella glutenvrij",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 370,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza Salami glutenvrij",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 315,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Always Inlegkruisjes protect extra long odour",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.33,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo. 5 aug. t/m di. 11 aug",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Tabletzeep sensitive",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.66,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Red Bull Energydrink 8-pack",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.37,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza al salami vegan",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 295,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Good Pasta Mac & Cheese",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 62,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
       "categorie": null
     },
     {
@@ -19,25 +73,7 @@
       "actieprijs": 0.39,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo. 5 aug. t/m di. 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Mix mosselen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 5 aug. t/m di. 11 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Peterselie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 5,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 5 aug. t/m di. 11 aug",
+      "geldig_tekst": "alleen maandag 10-08-2026",
       "categorie": null
     },
     {
@@ -46,43 +82,178 @@
       "actieprijs": 1.54,
       "inhoud_waarde": 35,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 5 aug. t/m di. 11 aug",
+      "geldig_tekst": "t/m 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Silvo Knoflookpoeder",
+      "productnaam": "Pepsi Cola zero lime",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 5 aug. t/m di. 11 aug",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Silvo Peterselie",
+      "productnaam": "Rivella Cranberry",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 17,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 5 aug. t/m di. 11 aug",
+      "actieprijs": 0.93,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Silvo Italiaanse kruiden",
+      "productnaam": "Rivella Original gekoeld",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 32,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 5 aug. t/m di. 11 aug",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 11-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Silvo Shoarmakruiden",
+      "productnaam": "Chicken Tonight Hawai",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 106,
+      "actieprijs": 1.65,
+      "inhoud_waarde": 515,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 5 aug. t/m di. 11 aug",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Tandoori",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 520,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Sate",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 525,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Ajam Pangang",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 535,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Romige Tomaat",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 495,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "La Morena Mayo met jalape�o",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Hawaii",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.13,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Zoetzuur",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.13,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Danio Romige Kwark Perzik",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Danio Romige Kwark Mango Kiwi Banaan",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Danio Romige Kwark Bosbes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pepsi Zero gekoeld",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Maza Hoemoes minder zout",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Maza Hoemoes gegrilde paprika & oregano",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pepsi Cola",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.43,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 11-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Rivella Original",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.93,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 11-08-2026",
       "categorie": null
     }
   ]

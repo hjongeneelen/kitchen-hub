@@ -2,22 +2,13 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-08-08T06:53:32.834054+00:00",
+  "updated_at": "2026-08-10T07:41:48.267736+00:00",
   "deals": [
     {
       "productnaam": "Glorix Toiletblok blauw water turquoise",
       "korting_tekst": "-68% KORTING",
       "actieprijs": 1.25,
       "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Glorix Toiletblok aroma white roses&tea tree oil",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 50,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -68,11 +59,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Mullermilk aardbei",
+      "productnaam": "Calve Knoflooksaus",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.93,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.08,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
