@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-10T07:41:48.268481+00:00",
+  "updated_at": "2026-08-11T07:08:10.748974+00:00",
   "deals": [
     {
       "productnaam": "Ben & Jerry's Caramel chew chew",
@@ -62,96 +62,6 @@
       "productnaam": "Old Amsterdam Original Geraspt Kaas",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "La espanola Olijfolie extra vierge",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.15,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "La espanola Olijfolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "La espanola Olijfolie spray",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "La espanola Olijfolie extra vierge",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.25,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Old Amsterdam Original Plakken Kaas",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.47,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Old Amsterdam Original 35+ Kaas",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletreiniger active gel mint & jasmijn",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Lang lekker magere melk houdbaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Langlekker volle melk houdbaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Maaslander 50+ jong plakken",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.35,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": null,

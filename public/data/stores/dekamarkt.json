@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-08-10T07:41:48.267736+00:00",
+  "updated_at": "2026-08-11T07:08:10.748227+00:00",
   "deals": [
     {
       "productnaam": "Glorix Toiletblok blauw water turquoise",
@@ -55,15 +55,6 @@
       "actieprijs": 1.25,
       "inhoud_waarde": 48,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Calve Knoflooksaus",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.08,
-      "inhoud_waarde": 320,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
