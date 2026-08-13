@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-08-12T07:24:54.952840+00:00",
+  "updated_at": "2026-08-13T07:27:27.532121+00:00",
   "deals": [
     {
       "productnaam": "Segafredo Selezione crema bonen",
@@ -297,6 +297,69 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.73,
       "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Paprika gerookt",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 35,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Zeezout grof",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Kaneel gemalen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 37,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tuc Original",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.53,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hertog Oranje vanille ijs",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 830,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Uienpoeder",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Majoraan",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": 8,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 16-08-2026",
       "categorie": null

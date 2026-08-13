@@ -2,123 +2,51 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-12T07:24:54.952166+00:00",
+  "updated_at": "2026-08-13T07:27:27.529134+00:00",
   "deals": [
     {
-      "productnaam": "Dr. Oetker Ristorante pizza Mozzarella glutenvrij",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 370,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante pizza Salami glutenvrij",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 315,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Always Inlegkruisjes protect extra long odour",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.33,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Tabletzeep sensitive",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Red Bull Energydrink 8-pack",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 1.37,
-      "inhoud_waarde": 2000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante pizza al salami vegan",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 295,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Good Pasta Mac & Cheese",
-      "korting_tekst": "-55% KORTING",
+      "productnaam": "Odorex Natural fresh deoroller",
+      "korting_tekst": "-70% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 62,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Courgette groen",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.39,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "alleen maandag 10-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Peper zwart molen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.54,
-      "inhoud_waarde": 35,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pepsi Cola zero lime",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 1000,
+      "inhoud_waarde": 50,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 11-08-2026",
+      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
       "categorie": null
     },
     {
-      "productnaam": "Rivella Cranberry",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.93,
+      "productnaam": "PLUS Nectarines los",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.29,
       "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Rivella Original gekoeld",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 11-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Chicken Tonight Hawai",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 515,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 11-08-2026",
+      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Maiskolven",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Karvan Cevitam Original Citroen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.14,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kellogg's Tresor Speculoos",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.44,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
       "categorie": null
     }
   ]

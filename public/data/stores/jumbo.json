@@ -2,86 +2,149 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-08-12T07:24:54.951518+00:00",
+  "updated_at": "2026-08-13T07:27:27.530791+00:00",
   "deals": [
     {
-      "productnaam": "Always Daily Protect Long Met Een Frisse Geur Inlegkruisjes",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 2.33,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "productnaam": "Ben & Jerry's Peanut Butter Cup 100ML",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Always Daily Protect Extra Long Odour Block technologie Inlegkruisjes x42",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.33,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Always Daily Fresh Normal Met Een Frisse Geur",
+      "productnaam": "Ben & Jerry's IJs Chocolate Fudge Brownie 100ml",
       "korting_tekst": "-58% KORTING",
-      "actieprijs": 2.33,
+      "actieprijs": 1.0,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's IJs Caramel Chew Chew 100ml",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's IJs Brookies 100 ml",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 78,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Dulce De-Lish 100ML",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's IJs Cookie Dough 100 ml",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's IJs Strawberry Cheesecake 100 ml",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bifi Kip 3 Stuks",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Febreze Badkamer Luchtverfrisser 2 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.5,
-      "inhoud_waarde": 15,
-      "inhoud_unit": "ml",
+      "productnaam": "HEKS'NKAAS(r) Smeerdip Origineel 275 gram",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Bavaria 0.0% Alc. Vol. Lemon Lime Flavour Bier Blikken 6 x 330 ml",
+      "productnaam": "Parodontax Original Daily Care Tandpasta Duo Pack 2 x 75 ML",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.13,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bavaria 0.0% Alc. Vol. Bier Blikken 6 x 330 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bavaria 0.0% Alc. Vol. Witbier Blikken 6 x 330 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bavaria Grapefruit 0,0% 6x330ML",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.25,
+      "actieprijs": 5.23,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Unicura Ultra Antibacteriele Handzeep 250 ml",
+      "productnaam": "Parodontax Whitening Daily Care Tandpasta Duo Pack 2 x 75 ML",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.55,
+      "actieprijs": 5.5,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Kaas Belegen 30+ Plakken 190 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "HGX Fruitvliegjesval Navulling 40ML",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.8,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ajax Allesreiniger Fete des Fleurs Lentebloem 1L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.48,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ajax Allesreiniger Fete des Fleurs Jasmijn 1L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dreft Platinum Quickwash Original Vloeibaar Afwasmiddel 350ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

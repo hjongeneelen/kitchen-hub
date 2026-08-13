@@ -2,67 +2,121 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-12T07:24:54.950099+00:00",
+  "updated_at": "2026-08-13T07:27:27.531433+00:00",
   "deals": [
     {
-      "productnaam": "Ben & Jerry's Caramel chew chew",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
+      "productnaam": "Bonduelle Haricots verts",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's Brookies",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's Mini cup IJs Chocolate Fudge Brownie",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's Mini cup IJs Cookie Dough",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Beckmann Active white doekjes",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 15,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heineken Premium Pilsener 0.0 Bier Draaidop Fles 6-pack",
+      "productnaam": "Unox Party knaks mager",
       "korting_tekst": "-55% KORTING",
-      "actieprijs": 2.99,
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Vegetarische party knaks",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Gegrilde groenten mix",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Party knaks kip",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Edamame boontjes",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Crystal Clear Sparkling Lemon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.08,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Old Amsterdam Original Geraspt Kaas",
+      "productnaam": "Verstegen kruidenmix voor gehakt lekkerste balletje",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 150,
+      "actieprijs": 0.78,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen kruidenmix voor gehakt slagersrecept",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.78,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lamb Weston Grill fries",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea lemon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.85,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea peach",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.63,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen kruidenmix voor gehakt uitjes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.78,
+      "inhoud_waarde": 40,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
