@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-14T07:24:42.690364+00:00",
+  "updated_at": "2026-08-16T06:39:59.752795+00:00",
   "deals": [
     {
       "productnaam": "Bonduelle Haricots verts",
@@ -10,7 +10,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 12 aug. t/m 18 aug",
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 12 aug. t/m 18 aug",
       "categorie": null
     },
     {
@@ -28,7 +28,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 12 aug. t/m 18 aug",
       "categorie": null
     },
     {
@@ -46,7 +46,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 12 aug. t/m 18 aug",
       "categorie": null
     },
     {
@@ -64,7 +64,7 @@
       "actieprijs": 1.08,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 12 aug. t/m 18 aug",
       "categorie": null
     },
     {
@@ -82,7 +82,7 @@
       "actieprijs": 0.78,
       "inhoud_waarde": 40,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 12 aug. t/m 18 aug",
       "categorie": null
     },
     {
@@ -91,7 +91,7 @@
       "actieprijs": 1.5,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 12 aug. t/m 18 aug",
       "categorie": null
     },
     {
@@ -100,7 +100,7 @@
       "actieprijs": 1.85,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "aanbieding is 12 aug. t/m 18 aug",
       "categorie": null
     },
     {
