@@ -2,364 +2,130 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-08-17T06:55:50.234349+00:00",
+  "updated_at": "2026-08-18T06:42:45.941595+00:00",
   "deals": [
     {
-      "productnaam": "Lipton Thee yellow tea kop 50zk.",
+      "productnaam": "Venz Hagelslag puur vanille",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.83,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Venz Hagelslag puur",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.98,
-      "inhoud_waarde": 75,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Smint XL blackmint",
+      "productnaam": "Coca-Cola Zero cherry 4x25 cl",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.28,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dodoni Feta twinpack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Karvan Cevitam Limonadesiroop aardbei",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Smint XL peppermint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.15,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Karvan Cevitam Limonadesiroop aardbei 0%",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Zwarte thee rich earl grey kop 50 zk.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.5,
-      "inhoud_waarde": 80,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Karvan Cevitam Limonadesiroop sinaasappel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Karvan Cevitam Limonadesiroop bosvruchten 0%",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Kauwgom mighty mint XL 100 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Kauwgom breezemint XL 100 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dodoni Halloumi",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Olijfolie extra vergine classico",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.13,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Gum pure fresh cherry 50 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Spa Touch kzh passion fizz",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.9,
+      "actieprijs": 0.5,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Smint Strawberry xl",
+      "productnaam": "Oatly Haverdrink vol",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.38,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Spa Touch koolzuurhoudend cherry",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.88,
+      "actieprijs": 1.32,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "DODONI Feta",
+      "productnaam": "Venz Hagelslag beer melk/vanille",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.38,
-      "inhoud_waarde": 150,
+      "actieprijs": 1.65,
+      "inhoud_waarde": 380,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Mentos Kauwgom fresh mint 50 stuks",
+      "productnaam": "Fanta Orange regular 8x25cl",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Spa Touch kzh strawberry daiquiri",
+      "productnaam": "Coca-Cola Regular cherry 4x25 cl",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.9,
+      "actieprijs": 0.5,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Mentos Wintergreen kauwgom",
+      "productnaam": "Oatly Haverdrank bio plantaardig",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Spa Touch koolzuurhoudend lemon",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.88,
+      "actieprijs": 1.43,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Mogu Mogu Lychee",
+      "productnaam": "Oatly Haverdrank barista edition plantaardig",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.9,
-      "inhoud_waarde": 320,
+      "actieprijs": 1.33,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Sanicur Handzeep orginal",
+      "productnaam": "Appelsientje Appelsap Goudappeltje",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 300,
+      "actieprijs": 1.43,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Karvan Cevitam Limonadesiroop framboos",
+      "productnaam": "Fanta Exotic zero sugar 4x25cl",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 600,
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Sanicur Handzeep dermo oil",
+      "productnaam": "Sprite Refresh zero sugar 4x25cl",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 300,
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Mentos Gum pure fresh strawberry 50 stuks",
+      "productnaam": "Fuze tea Ice tea perzik hibiscus 4x25 cl",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Kauwgom pure frost strong mint 50 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mogu Mogu Aardbei",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.9,
-      "inhoud_waarde": 320,
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Mogu Mogu Mango",
+      "productnaam": "Venz Chocolade krokovlokken",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.9,
-      "inhoud_waarde": 320,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Smint Duo pack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.23,
-      "inhoud_waarde": 16,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Smint Clean breath peppermint duopack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.18,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Olijfolie classico",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.6,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Smint Clean breath intensemint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.18,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Gum bubble fresh",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Gum white sweetmint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.3,
-      "inhoud_waarde": 112,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Gum white greenmint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 112,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Gum white cool mint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Karvan Cevitam Limonadesiroop cassis",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Smint Fresh effect strong menthol",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 70,
+      "actieprijs": 1.98,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null

@@ -2,96 +2,267 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-17T06:55:50.233691+00:00",
+  "updated_at": "2026-08-18T06:42:45.940963+00:00",
   "deals": [
     {
+      "productnaam": "Unox Soep in Blik Goulashsoep",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "alleen zondag 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in blik bruine bonensoep",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "alleen zondag 16-08-2026",
+      "categorie": null
+    },
+    {
       "productnaam": "PLUS Maiskolven",
-      "korting_tekst": "-52% KORTING",
+      "korting_tekst": "-54% KORTING",
       "actieprijs": 1.39,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "alleen dinsdag 18-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Karvan Cevitam Original Citroen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.14,
-      "inhoud_waarde": 600,
+      "productnaam": "Unox Soep in Blik Tomatencr�me Soep",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "geldig_tekst": "alleen zondag 16-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Karvan Cevitam Zero Pink Grapefruit",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.14,
-      "inhoud_waarde": 600,
+      "productnaam": "Unox Stevige soep tomaten groenten",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "geldig_tekst": "alleen zondag 16-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Kellogg's Tresor Speculoos",
+      "productnaam": "Unox Soep in Blik uiensoep",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "alleen zondag 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Stevige soep Chinese tomaat",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.44,
-      "inhoud_waarde": 375,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "alleen zondag 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in Blik Kippensoep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "alleen zondag 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in Blik Groentesoep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "alleen zondag 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in Blik Champignonsoep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "alleen zondag 16-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "NALYS Soft hybrid toiletpapier",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 14.97,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Tandenborstel flex interdental medium",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Tandenborstel clean en flex medium",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Zomerfruit (DV)",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.1,
+      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "geldig_tekst": "t/m 18-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "NALYS Toiletpapier Soft 30+10 gratis",
+      "productnaam": "Lu Tuc salt & pepper",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 14.98,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "NALYS Keukenpapier Limited",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.5,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Extra Spearmint kauwgom suikervrij",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 84,
+      "actieprijs": 0.7,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "geldig_tekst": "t/m 18-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Extra Peppermint kauwgom suikervrij pot",
+      "productnaam": "Listerine Mondwater Totalcare",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 84,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 18-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Extra Watermelon kauwgom suikervrij pot",
+      "productnaam": "Listerine Mondwater Coolmint",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 84,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "actieprijs": 3.5,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 18-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Cote d'Or Bloc Melk rozijn hazelnoot",
-      "korting_tekst": "-49% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 180,
+      "productnaam": "Fast Fruit Mix Mango, Papaya, Pitaya",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 12 aug. t/m di. 18 aug",
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lu Mini Zoutjes Kaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.95,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bieze Rauwkost farmer",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bieze Rauwkost komkommer",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Zoete kersen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.3,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Fresh & Minty tandpasta",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Tandpasta anti caries",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.3,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Tandenborstel clean control soft",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Tandenborstel clean control medium",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Ananas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bieze Rauwkost coleslaw",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 18-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Clean&flex tandenborstel hard",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 18-08-2026",
       "categorie": null
     }
   ]

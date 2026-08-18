@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-17T06:55:50.230505+00:00",
+  "updated_at": "2026-08-18T06:42:45.939088+00:00",
   "deals": [
     {
       "productnaam": "Fuze tea Sparkling black tea",
@@ -253,24 +253,6 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 192,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hertog Softijs vanille met aardbeiensaus",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hertog Ijs pistache",
-      "korting_tekst": "-49% KORTING",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 825,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di 18-08-2026",
       "categorie": null
     }
