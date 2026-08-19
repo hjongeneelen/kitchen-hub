@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-18T06:42:45.940963+00:00",
+  "updated_at": "2026-08-19T06:44:06.278088+00:00",
   "deals": [
     {
       "productnaam": "Unox Soep in Blik Goulashsoep",
@@ -244,24 +244,6 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bieze Rauwkost coleslaw",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aquafresh Clean&flex tandenborstel hard",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "t/m 18-08-2026",
       "categorie": null
     }

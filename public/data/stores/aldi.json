@@ -1,0 +1,17 @@
+{
+  "store": "Aldi",
+  "slug": "aldi",
+  "mode": "scan",
+  "updated_at": "2026-08-19T06:44:06.279085+00:00",
+  "deals": [
+    {
+      "productnaam": "Pitloze rode druiven",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "klik voor datum",
+      "categorie": null
+    }
+  ]
+}
