@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-08-19T06:44:06.274852+00:00",
+  "updated_at": "2026-08-20T06:45:32.132969+00:00",
   "deals": [
     {
       "productnaam": "Robijn Vloeibaar wasmiddel quickwash sunset bloom 22 wasb.",
@@ -235,51 +235,6 @@
       "actieprijs": 1.43,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fanta Exotic zero sugar 4x25cl",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "De Cecco Gnocchi di patate",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.33,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sprite Refresh zero sugar 4x25cl",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fuze tea Ice tea perzik hibiscus 4x25 cl",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Venz Chocolade krokovlokken",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.98,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

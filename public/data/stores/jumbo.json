@@ -2,83 +2,11 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-08-19T06:44:06.276918+00:00",
+  "updated_at": "2026-08-20T06:45:32.135207+00:00",
   "deals": [
     {
-      "productnaam": "Ben & Jerry's Peanut Butter Cup 100ML",
+      "productnaam": "Hak Witte Bonen in Tomatensaus 360 g",
       "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's IJs Chocolate Fudge Brownie 100ml",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's IJs Caramel Chew Chew 100ml",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's IJs Brookies 100 ml",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 78,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's Dulce De-Lish 100ML",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's IJs Cookie Dough 100 ml",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's IJs Strawberry Cheesecake 100 ml",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "BiFi The Original Turkey 3 x 20 g",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bifi Kip 3 Stuks",
-      "korting_tekst": "-56% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": null,
       "inhoud_unit": null,
@@ -86,11 +14,209 @@
       "categorie": null
     },
     {
-      "productnaam": "HEKS'NKAAS(r) Smeerdip Origineel 275 gram",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 275,
+      "productnaam": "HAK Boerenkool 340 g",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 340,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool 0% met Stukjes Appel 350 g",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Fresh & Mint / Aquafresh Fresh & Minty Tandpasta 125ML",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Spa FRUIT Bruisende Fruitige Frisdrank Cassis Blackberry 1,25 l",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Spa FRUIT Bruisende Fruitige Frisdrank Mango Grapefruit 1,25L",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes met Kaneel 355 g",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool met Stukjes Appel 355 g",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rabarbercompote 360 g",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool met Stukjes Peer 355 g",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes 355 g",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode Kool 355 g",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Doperwtjes met Worteltjes 350 g",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Vivera Zachte Tofu 550 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Vivera Stevige Tofu 280 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.09,
+      "inhoud_waarde": 280,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Vivera Gerookte Tofu 280 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.34,
+      "inhoud_waarde": 280,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Vivera Plantaardige Shoarma 175 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Classico olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.05,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Originale extra vierge olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.9,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Carapelli Oro verde extra vierge olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.87,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Classico olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.63,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wasa Sesam 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.83,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Pepsi Zero Sugar 1 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wasa Volkoren 260 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.88,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
@@ -106,27 +232,36 @@
     {
       "productnaam": "Parodontax Whitening Daily Care Tandpasta Duo Pack 2 x 75 ML",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.5,
+      "actieprijs": 5.24,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Ajax Allesreiniger Fete des Fleurs Lentebloem 1L",
+      "productnaam": "Illy Intenso Bold Roast Coffee Beans 250 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
+      "actieprijs": 4.25,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Ajax Allesreiniger Fete des Fleurs Jasmijn 1L",
+      "productnaam": "Bertolli Originale extra vierge olijfolie spray",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
+      "actieprijs": 2.45,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Illy Espresso Classico Koffiecups 10 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.75,
+      "inhoud_waarde": 57,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

@@ -2,258 +2,438 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-19T06:44:06.276074+00:00",
+  "updated_at": "2026-08-20T06:45:32.130703+00:00",
   "deals": [
     {
-      "productnaam": "Fuze tea Sparkling black tea",
+      "productnaam": "Unox Curry soep extra rijkgevuld",
+      "korting_tekst": "-71% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Goulash soep extra rijkgevuld",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Smaakfavoriet pittige zoete aardappel",
+      "korting_tekst": "-69% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in zak klassieke tomatensoep",
+      "korting_tekst": "-68% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Wasverzachter morgenfris 39 wasbeurten",
+      "korting_tekst": "-66% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 780,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Spinazie met room",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 345,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in zak tomaat groentesoep",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in zak romige mosterdsoep",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in zak romige champignonsoep",
       "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1250,
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "3G Professioneel Schimmel- & aanslagreiniger",
+      "productnaam": "XXL NUTRITION Njoy protein bar cookie dough",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in zak Franse uiensoep",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in zak heldere kippensoep",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition High protein bar 2.0 cookies-cream",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "3G Professioneel Vlekverwijderaar",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Pink grapefruit",
-      "korting_tekst": "-59% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Ginger beer 0%",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Ginger ale",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Bitter lemon",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Tonic 0%",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Tonic",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht zuid-afrikaanse bobotie",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 309,
+      "inhoud_waarde": 50,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Knorr Wereldgerecht griekse kofta",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 303,
+      "productnaam": "XXL Nutrition Njoy bar peanut butter-caramel",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 55,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Knorr Wereldgerecht surinaamse roti",
+      "productnaam": "Unox Soep in zak Chinese tomatensoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Daily Chef Tagliatelle naturel",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Daily Chef Spaghetti",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Spinazie",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode bieten sticks zoetzuur",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Witte bonen in tomatensaus",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Wc active gel white flowers",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode kool met stukjes peer en kaneel",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Gesneden bonen",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode kool met stukjes appel",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oreo Ice cream stick 3 stuks",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 1.99,
-      "inhoud_waarde": 230,
+      "inhoud_waarde": 270,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rabarbercompote",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 360,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Grolsch Pilsener alcoholvrij 6x33 cl",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 1980,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Bitter lemon 0%",
+      "productnaam": "Hak Appelmoes met een vleugje kaneel",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Royal Club Ginger ale 0%",
+      "productnaam": "Page Vochtig toiletpapier puur",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "inhoud_waarde": 38,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Chocomel Chocolademelk 0% 6 pack",
+      "productnaam": "Flowerfarm Smeren zonder palmolie",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in zak romige tomatensoep",
       "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.79,
-      "inhoud_waarde": 1200,
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Knorr Wereldgerecht mexiaanse tacos",
+      "productnaam": "Protein water cherry lemon",
       "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 136,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Oasis Tropical",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 3.54,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocomel Chocolademelk vol",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "De Cecco Spaghettini",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.29,
+      "actieprijs": 0.79,
       "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "De Cecco Spaghetti",
+      "productnaam": "Page Vochtig toiletpapier aloe vera",
       "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 500,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 38,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig toiletpapier sensitive",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 38,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in zak erwten extra rijkgevuld",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode bieten schijven",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Fristi Drinkyoghurt rood fruit",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "productnaam": "1 de Beste Watermeloen part",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Hertog Ijs cookie crumble",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 825,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "productnaam": "Hak Appelmoes extra kwaliteit",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Palmolive Vloeibare zeep hygiene plus family",
+      "productnaam": "Aldelis Kipfilet in water",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 155,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode kool",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Princes Ansjovisfilet met kappertjes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Wc gel mint & jasmin",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
-      "inhoud_waarde": 300,
+      "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Palmolive Vloeibare zeeppomp keuken",
+      "productnaam": "Santa Maria Tortilla whole wheat large 6 stuks",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "inhoud_waarde": 371,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Knorr Wereldgerecht Indiase kip madras",
+      "productnaam": "Huls Droge worst met parmezaan",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 326,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Knorr Wereldgerecht thaise kip siam",
+      "productnaam": "Ambi Pur Wc gel pink hibiscus",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 300,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 758,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
     {
-      "productnaam": "Knorr Wereldgerecht lasagne bolognese",
+      "productnaam": "Milka Chocoladereep salted almond caramel",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 192,
+      "actieprijs": 1.89,
+      "inhoud_waarde": 190,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 18-08-2026",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "John West Protein bowl tonijn bonen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.92,
+      "inhoud_waarde": 220,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "John West Protein bowl tonijn quinoa",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.92,
+      "inhoud_waarde": 220,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lenor Geurparels robijn jasmijn",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 155,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     }
   ]
