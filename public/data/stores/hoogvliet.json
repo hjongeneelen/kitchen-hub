@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-20T06:45:32.132212+00:00",
+  "updated_at": "2026-08-21T06:46:47.909306+00:00",
   "deals": [
     {
       "productnaam": "Dreft Handafwas granaatappel",
@@ -122,29 +122,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Jordan Tandenstokers",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.71,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "aanbieding is 19 aug. t/m 25 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "Jordan Dental stick extra thin",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.71,
       "inhoud_waarde": 105,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "aanbieding is 19 aug. t/m 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan Everyday floss",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "aanbieding is 19 aug. t/m 25 aug",
       "categorie": null
     },
@@ -155,15 +137,6 @@
       "inhoud_waarde": 32,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan Tandenborstel step 3 6-9 jaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.45,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "aanbieding is 19 aug. t/m 25 aug",
       "categorie": null
     }
   ]

@@ -2,8 +2,26 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-20T06:45:32.130703+00:00",
+  "updated_at": "2026-08-21T06:46:47.908060+00:00",
   "deals": [
+    {
+      "productnaam": "Robijn Wasverzachter tropical 38 wasbeurten",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 765,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Wasverzachter paradise secret 38 wasbeurten",
+      "korting_tekst": "-73% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 765,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
     {
       "productnaam": "Unox Curry soep extra rijkgevuld",
       "korting_tekst": "-71% KORTING",
@@ -36,6 +54,15 @@
       "korting_tekst": "-68% KORTING",
       "actieprijs": 1.39,
       "inhoud_waarde": 570,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Wasverzachter passiebl. & bergamot 39 wb",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 780,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
@@ -316,15 +343,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 355,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "1 de Beste Watermeloen part",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },

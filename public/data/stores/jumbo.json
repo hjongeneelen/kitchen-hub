@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-08-20T06:45:32.135207+00:00",
+  "updated_at": "2026-08-21T06:46:47.912523+00:00",
   "deals": [
     {
       "productnaam": "Hak Witte Bonen in Tomatensaus 360 g",
@@ -113,15 +113,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Hak Doperwtjes met Worteltjes 350 g",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Vivera Zachte Tofu 550 g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
@@ -194,15 +185,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Wasa Sesam 250 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.83,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Pepsi Zero Sugar 1 L",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.15,
@@ -230,15 +212,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Parodontax Whitening Daily Care Tandpasta Duo Pack 2 x 75 ML",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.24,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Illy Intenso Bold Roast Coffee Beans 250 g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 4.25,
@@ -253,15 +226,6 @@
       "actieprijs": 2.45,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Illy Espresso Classico Koffiecups 10 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.75,
-      "inhoud_waarde": 57,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

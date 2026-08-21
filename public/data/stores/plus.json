@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-20T06:45:32.133787+00:00",
+  "updated_at": "2026-08-21T06:46:47.911280+00:00",
   "deals": [
     {
       "productnaam": "PLUS 100% pindakaas met stukjes pinda",
@@ -108,15 +108,6 @@
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Poke bowl rijst",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 375,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
@@ -261,15 +252,6 @@
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Friese nagelkaas 40+ plakken",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 175,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
@@ -446,6 +428,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Pickwick Pure groene thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "categorie": null
+    },
+    {
       "productnaam": "Dr. Oetker Bistro Baguette pizzabroodje salami",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
@@ -455,11 +446,29 @@
       "categorie": null
     },
     {
+      "productnaam": "Pickwick Lemon groene thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "categorie": null
+    },
+    {
       "productnaam": "Milka Chocoladereep LU",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 87,
       "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Orange mandarin groene thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
     },
@@ -500,6 +509,33 @@
       "categorie": null
     },
     {
+      "productnaam": "Pickwick Cranberry groene thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Herbal kamille kruidenthee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Ginger & lemongrass groene thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "categorie": null
+    },
+    {
       "productnaam": "Kips Magere smeerpate creme",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
@@ -509,11 +545,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Beemster Extra belegen 48+ stuk",
+      "productnaam": "Pickwick Spices winterglow zwarte thee",
       "korting_tekst": "-54% KORTING",
-      "actieprijs": 4.5,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
     },

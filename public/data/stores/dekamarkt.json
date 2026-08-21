@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-08-20T06:45:32.132969+00:00",
+  "updated_at": "2026-08-21T06:46:47.910257+00:00",
   "deals": [
     {
       "productnaam": "Robijn Vloeibaar wasmiddel quickwash sunset bloom 22 wasb.",
@@ -37,6 +37,15 @@
       "actieprijs": 5.32,
       "inhoud_waarde": 665,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Vaatwastabletten all in one regular",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.43,
+      "inhoud_waarde": 19,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -126,6 +135,15 @@
       "korting_tekst": "-67% KORTING",
       "actieprijs": 5.06,
       "inhoud_waarde": 15,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Vaatwastabletten all in one lemon",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.38,
+      "inhoud_waarde": 19,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
