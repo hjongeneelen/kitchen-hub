@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-08-21T06:46:47.913912+00:00",
+  "updated_at": "2026-08-22T06:40:22.334424+00:00",
   "deals": [
     {
       "productnaam": "1Fruit Sinaasappel drink",
@@ -10,7 +10,7 @@
       "actieprijs": 0.5,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 23-08-2026",
+      "geldig_tekst": "t/m zo. 23 aug",
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 2.0,
       "inhoud_waarde": 175,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 23-08-2026",
+      "geldig_tekst": "t/m zo. 23 aug",
       "categorie": null
     },
     {
@@ -27,78 +27,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.25,
       "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 23-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kwekkeboom Borrelmix hapjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.75,
-      "inhoud_waarde": 260,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 23-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fixodent Ultimate kleefpasta",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.65,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 23-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Liga Cracotte vezelrijk",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 23-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Felix Party mix original kattensnack maxi",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 23-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Liga Cracotte naturel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 23-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Felix Party mix seaside maxi",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 23-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Langlekker karnemelk",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 23-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Felix Dubbel zo lekker zalm,zeevis & rode biet",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 800,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 23-08-2026",
       "categorie": null

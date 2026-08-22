@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-21T06:46:47.908060+00:00",
+  "updated_at": "2026-08-22T06:40:22.329352+00:00",
   "deals": [
     {
       "productnaam": "Robijn Wasverzachter tropical 38 wasbeurten",
@@ -180,6 +180,15 @@
       "korting_tekst": "-60% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di 25-08-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Doperwten extra fijn",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 350,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null

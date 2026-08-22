@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-21T06:46:47.911280+00:00",
+  "updated_at": "2026-08-22T06:40:22.332068+00:00",
   "deals": [
     {
       "productnaam": "PLUS 100% pindakaas met stukjes pinda",
@@ -311,6 +311,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Pickwick Fusion fruit thee variatiebox",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "categorie": null
+    },
+    {
       "productnaam": "Kleenex Tissues balsam",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.0,
@@ -509,6 +518,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Pickwick Herbal sterrenmunt kruidenthee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "categorie": null
+    },
+    {
       "productnaam": "Pickwick Cranberry groene thee",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
@@ -591,15 +609,6 @@
     },
     {
       "productnaam": "Peijnenburg Naturel 4-pack",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 112,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Naturel zonder toegev. suiker 4-pack",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 112,

@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-21T06:46:47.909306+00:00",
+  "updated_at": "2026-08-22T06:40:22.330620+00:00",
   "deals": [
     {
       "productnaam": "Dreft Handafwas granaatappel",
@@ -109,33 +109,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 56,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Air Wick Le refill magnolia & cherry blossom",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.18,
-      "inhoud_waarde": 19,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "aanbieding is 19 aug. t/m 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan Dental stick extra thin",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.71,
-      "inhoud_waarde": 105,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "aanbieding is 19 aug. t/m 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Air Wick Geurstokjes vanille en meloen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.5,
-      "inhoud_waarde": 32,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }
