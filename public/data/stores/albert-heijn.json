@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-08-22T06:40:22.334424+00:00",
+  "updated_at": "2026-08-23T06:40:45.736068+00:00",
   "deals": [
     {
       "productnaam": "1Fruit Sinaasappel drink",
@@ -20,15 +20,6 @@
       "inhoud_waarde": 175,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 23 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bolletje Ontbijtcrackers spelt volkoren",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 23-08-2026",
       "categorie": null
     }
   ]
