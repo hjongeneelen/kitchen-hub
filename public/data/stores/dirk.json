@@ -2,71 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-23T06:40:45.732752+00:00",
+  "updated_at": "2026-08-24T06:58:34.864622+00:00",
   "deals": [
-    {
-      "productnaam": "Robijn Wasverzachter tropical 38 wasbeurten",
-      "korting_tekst": "-74% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 765,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Wasverzachter paradise secret 38 wasbeurten",
-      "korting_tekst": "-73% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 765,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Curry soep extra rijkgevuld",
-      "korting_tekst": "-71% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Goulash soep extra rijkgevuld",
-      "korting_tekst": "-70% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Smaakfavoriet pittige zoete aardappel",
-      "korting_tekst": "-69% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in zak klassieke tomatensoep",
-      "korting_tekst": "-68% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Wasverzachter passiebl. & bergamot 39 wb",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 780,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
     {
       "productnaam": "Robijn Wasverzachter morgenfris 39 wasbeurten",
       "korting_tekst": "-66% KORTING",
@@ -86,25 +23,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep in zak tomaat groentesoep",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in zak romige mosterdsoep",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in zak romige champignonsoep",
+      "productnaam": "Conimex Pindasoep",
       "korting_tekst": "-63% KORTING",
       "actieprijs": 1.39,
       "inhoud_waarde": 570,
@@ -118,24 +37,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 55,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in zak Franse uiensoep",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in zak heldere kippensoep",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
@@ -158,37 +59,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep in zak Chinese tomatensoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Daily Chef Tagliatelle naturel",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Daily Chef Spaghetti",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Doperwten extra fijn",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 350,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
@@ -302,15 +176,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep in zak romige tomatensoep",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Protein water cherry lemon",
       "korting_tekst": "-53% KORTING",
       "actieprijs": 0.79,
@@ -334,15 +199,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 38,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in zak erwten extra rijkgevuld",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null
     },
@@ -423,15 +279,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
       "inhoud_waarde": 758,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di 25-08-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Chocoladereep salted almond caramel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 190,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di 25-08-2026",
       "categorie": null

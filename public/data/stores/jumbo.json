@@ -2,44 +2,8 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-08-23T06:40:45.735361+00:00",
+  "updated_at": "2026-08-24T06:58:34.866837+00:00",
   "deals": [
-    {
-      "productnaam": "Hak Witte Bonen in Tomatensaus 360 g",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "HAK Boerenkool 340 g",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 340,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Rode Kool 0% met Stukjes Appel 350 g",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Aquafresh Fresh & Mint / Aquafresh Fresh & Minty Tandpasta 125ML",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
     {
       "productnaam": "Spa FRUIT Bruisende Fruitige Frisdrank Cassis Blackberry 1,25 l",
       "korting_tekst": "-60% KORTING",
@@ -55,60 +19,6 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 1250,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes met Kaneel 355 g",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Rode Kool met Stukjes Appel 355 g",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Rabarbercompote 360 g",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 360,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Rode Kool met Stukjes Peer 355 g",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes 355 g",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Rode Kool 355 g",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -135,15 +45,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.34,
       "inhoud_waarde": 280,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Vivera Plantaardige Shoarma 175 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 175,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -181,6 +82,141 @@
       "actieprijs": 3.63,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wasa Sesam 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.83,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Wasa Volkoren 260 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.88,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Illy Intenso Bold Roast Coffee Beans 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.25,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Originale extra vierge olijfolie spray",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.45,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Illy Espresso Classico Koffiecups 10 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.75,
+      "inhoud_waarde": 57,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Meloenmix 225 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Originale extra vierge olijfolie knijpfles",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.83,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Kipschnitzel XXL 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's Beste Koffie Snelfiltermaling Aroma 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's IJs Chocolate Fudge Brownie 465ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.75,
+      "inhoud_waarde": 408,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Carbonell Zon & Olijf",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.6,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's IJs Caramel Chew Chew 465ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 424,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's Beste Koffie Grove Filtermaling Aroma 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Bakolijfolie mild",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.65,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Raak Vruchtensiroop Perzik Zero Fles 750ML",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     }

@@ -2,31 +2,13 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-23T06:40:45.734537+00:00",
+  "updated_at": "2026-08-24T06:58:34.865587+00:00",
   "deals": [
     {
       "productnaam": "PLUS 100% pindakaas met stukjes pinda",
       "korting_tekst": "-64% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition High Protein Bar 2.0 Vanilla Chocolate",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar peanutbutter & caram",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
@@ -45,15 +27,6 @@
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition High protein bar 2.0 cookies & cream",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 50,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
@@ -113,11 +86,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Zaanse Mayonaise natriumarm",
+      "productnaam": "Lassie Poke bowl rijst",
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 170,
-      "inhoud_unit": "ml",
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
     },
@@ -186,15 +159,6 @@
     },
     {
       "productnaam": "Sanicur Handzeep sensitive",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sanicur Handzeep original",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 300,
@@ -275,24 +239,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Pickwick Fruit fusion variation box",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kleenex Tissues Ultra Soft",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 64,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "Peijnenburg Parelkandij 4-pack",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.0,
@@ -307,24 +253,6 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 100,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Fusion fruit thee variatiebox",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kleenex Tissues balsam",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 64,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
     },
@@ -347,7 +275,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Bistro baguette bolognaise",
+      "productnaam": "Dr. Oetker Bistro Baguette champignon",
       "korting_tekst": "-57% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 250,
@@ -437,15 +365,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Pickwick Pure groene thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "Dr. Oetker Bistro Baguette pizzabroodje salami",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
@@ -455,29 +374,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Pickwick Lemon groene thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
       "productnaam": "Milka Chocoladereep LU",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 87,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Orange mandarin groene thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
     },
@@ -500,82 +401,19 @@
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Bistro Baguette tomaat en kaas",
+      "productnaam": "Beemster Extra Belegen stuk",
       "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 250,
+      "actieprijs": 4.5,
+      "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
     },
     {
-      "productnaam": "Mullermilk Protein banaan",
+      "productnaam": "Beemster Extra belegen 48+ stuk",
       "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Herbal sterrenmunt kruidenthee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Cranberry groene thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Herbal kamille kruidenthee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Ginger & lemongrass groene thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kips Magere smeerpate creme",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Spices winterglow zwarte thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Brandnetelkaas 50+ plakken",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.8,
-      "inhoud_waarde": 180,
+      "actieprijs": 4.5,
+      "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
@@ -609,6 +447,15 @@
     },
     {
       "productnaam": "Peijnenburg Naturel 4-pack",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 112,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Peijnenburg Naturel zonder toegev. suiker 4-pack",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 112,

@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-23T06:40:45.736194+00:00",
+  "generated_at": "2026-08-24T06:58:34.867782+00:00",
   "stores": [
-    {
-      "slug": "dirk",
-      "name": "Dirk",
-      "mode": "scan",
-      "deal_count": 51,
-      "updated_at": "2026-08-23T06:40:45.732752+00:00"
-    },
-    {
-      "slug": "hoogvliet",
-      "name": "Hoogvliet",
-      "mode": "scan",
-      "deal_count": 12,
-      "updated_at": "2026-08-23T06:40:45.733616+00:00"
-    },
-    {
-      "slug": "dekamarkt",
-      "name": "Dekamarkt",
-      "mode": "scan",
-      "deal_count": 19,
-      "updated_at": "2026-08-23T06:40:45.734068+00:00"
-    },
-    {
-      "slug": "plus",
-      "name": "Plus",
-      "mode": "scan",
-      "deal_count": 70,
-      "updated_at": "2026-08-23T06:40:45.734537+00:00"
-    },
-    {
-      "slug": "jumbo",
-      "name": "Jumbo",
-      "mode": "scan",
-      "deal_count": 20,
-      "updated_at": "2026-08-23T06:40:45.735361+00:00"
-    },
-    {
-      "slug": "aldi",
-      "name": "Aldi",
-      "mode": "scan",
-      "deal_count": 1,
-      "updated_at": "2026-08-23T06:40:45.735796+00:00"
-    },
     {
       "slug": "albert-heijn",
       "name": "Albert Heijn",
       "mode": "scan",
       "deal_count": 2,
       "updated_at": "2026-08-23T06:40:45.736068+00:00"
+    },
+    {
+      "slug": "hoogvliet",
+      "name": "Hoogvliet",
+      "mode": "scan",
+      "deal_count": 15,
+      "updated_at": "2026-08-24T06:58:34.862961+00:00"
+    },
+    {
+      "slug": "dekamarkt",
+      "name": "Dekamarkt",
+      "mode": "scan",
+      "deal_count": 23,
+      "updated_at": "2026-08-24T06:58:34.863839+00:00"
+    },
+    {
+      "slug": "dirk",
+      "name": "Dirk",
+      "mode": "scan",
+      "deal_count": 34,
+      "updated_at": "2026-08-24T06:58:34.864622+00:00"
+    },
+    {
+      "slug": "plus",
+      "name": "Plus",
+      "mode": "scan",
+      "deal_count": 53,
+      "updated_at": "2026-08-24T06:58:34.865587+00:00"
+    },
+    {
+      "slug": "jumbo",
+      "name": "Jumbo",
+      "mode": "scan",
+      "deal_count": 24,
+      "updated_at": "2026-08-24T06:58:34.866837+00:00"
+    },
+    {
+      "slug": "aldi",
+      "name": "Aldi",
+      "mode": "scan",
+      "deal_count": 1,
+      "updated_at": "2026-08-24T06:58:34.867575+00:00"
     }
   ]
 }
