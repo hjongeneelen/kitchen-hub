@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-24T06:58:34.865587+00:00",
+  "updated_at": "2026-08-25T06:47:32.191536+00:00",
   "deals": [
     {
       "productnaam": "PLUS 100% pindakaas met stukjes pinda",
@@ -469,15 +469,6 @@
       "actieprijs": 2.0,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal sensitive billendoekjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 57,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
       "categorie": null
     }
