@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-08-25T06:47:32.192567+00:00",
+  "updated_at": "2026-08-27T17:23:27.282292+00:00",
   "deals": [
     {
       "productnaam": "AH Terra Kleintje soja dessert perzik passie",
@@ -37,6 +37,69 @@
       "actieprijs": 2.36,
       "inhoud_waarde": 272,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lurpak Smeerbaar ongezouten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.47,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Heks'nkaas Origineel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lurpak Roomboter gezouten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lurpak Smeerbaar gezouten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Heks'nkaas Origineel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.64,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Heks'nkaas Origineel voordeelpak",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 30 aug",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lurpak Smeerbaar ongezouten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.89,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 30 aug",
       "categorie": null
     }

@@ -2,13 +2,13 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "scan",
-  "updated_at": "2026-08-25T06:47:32.231012+00:00",
+  "updated_at": "2026-08-27T17:23:27.283389+00:00",
   "deals": [
     {
-      "productnaam": "Pitloze rode druiven",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 500,
+      "productnaam": "Mini-pruim-trostomaatjes",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": "klik voor datum",
       "categorie": null

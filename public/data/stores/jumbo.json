@@ -2,23 +2,95 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-08-25T06:47:32.230659+00:00",
+  "updated_at": "2026-08-27T17:23:27.281850+00:00",
   "deals": [
     {
-      "productnaam": "Spa FRUIT Bruisende Fruitige Frisdrank Cassis Blackberry 1,25 l",
+      "productnaam": "Ariel Wasmiddel +Touch of Lenor Unstoppables Color 25 Wasbeurten",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1250,
+      "actieprijs": 7.92,
+      "inhoud_waarde": 1125,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Spa FRUIT Bruisende Fruitige Frisdrank Mango Grapefruit 1,25L",
-      "korting_tekst": "-60% KORTING",
+      "productnaam": "Coca-Cola Zero Sugar Zero Cafeine 1 L",
+      "korting_tekst": "-58% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 1250,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig Toiletpapier Shea Butter 38 Stuks",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Puur Vochtig Toiletpapier 38 Stuks",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig Toiletpapier Sensitive",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig Toiletpapier Aloe Vera",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Coca-Cola Original Taste 1 L",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Coca-Cola Zero Sugar 1 L",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fanta Orange 1 L",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Johma Komkommer Rauwkostsalade 350g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

@@ -2,474 +2,240 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-25T06:47:32.191536+00:00",
+  "updated_at": "2026-08-27T17:23:27.281129+00:00",
   "deals": [
     {
-      "productnaam": "PLUS 100% pindakaas met stukjes pinda",
-      "korting_tekst": "-64% KORTING",
+      "productnaam": "Ajax Allesreiniger rode bloemen",
+      "korting_tekst": "-70% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar white chocolate blue",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar cookie dough",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar chocolate & caramel",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Peanut Butter",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Salted Caramel",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Cookies & Cream",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Celebration Cake",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Stracciatella",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Poke bowl rijst",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Coconut",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar cookies & cream",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Pindakaas American style",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie SRP basmati builtjes",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kips Vega Pate",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kips Vega Pate Mediteraans",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Heinz Sandwich spread komkommer",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sanicur Handzeep sensitive",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 300,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Peijnenburg Dubbel lekker naturel 4-pack",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 196,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Chocoladereep Hele Noot",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 95,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS 100% pindakaas",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tromp & Rueb Appelazijn uit 100% appel",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tromp & Rueb Appelazijn natuurtroebel",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Rauwkost Komkommer",
-      "korting_tekst": "-60% KORTING",
+      "productnaam": "Slagers kwaliteit Kipreepjes",
+      "korting_tekst": "-67% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Ben&Jerry's Chocolate fudge brownie",
-      "korting_tekst": "-58% KORTING",
+      "productnaam": "Wasa Crunchy Twist Poppy Seeds & Sea Salt",
+      "korting_tekst": "-63% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben&Jerry's Non-dairy cookies on cookie dough",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Parelkandij 4-pack",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 144,
+      "inhoud_waarde": 245,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Ben&Jerry's Cookie dough",
-      "korting_tekst": "-58% KORTING",
+      "productnaam": "Zonnatura Oplosthee 20-kruiden bio",
+      "korting_tekst": "-63% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Risotto rijst",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 400,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Bistro Baguette pizzabroodje Hawaii",
+      "productnaam": "Pepsi Cola zero",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pepsi Cola 4-pack",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 6000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pepsi Cola zero 4-pack",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 6000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Slagers kwaliteit Hamreepjes",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Zonnatura Thee Sinaasappel & Munt Fris & Fruitig",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Zonnatura Thee Kamille & Lavendel Droom Zacht",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Zonnatura Thee Citrus & Mate Fris & Fruitig",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marne Franse mosterdsaus",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pedigree Dentastix mini",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 7,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Slagers kwaliteit Hamblokjes",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Crispy mais 2 mini's",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ajax Allesreiniger limoen",
       "korting_tekst": "-57% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Bistro Baguette champignon",
+      "productnaam": "Ajax Allesreiniger eucalyptus",
       "korting_tekst": "-57% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Vochtig toiletpapier Shea butter",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben&Jerry's Ijs Strawberry Cheesecake Fairtrade",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Vochtig Toiletpapier Care",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Becel Romig",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Basmati Rijst duurzaam (SRP)",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Vochtig toiletpapier puur 38 st",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Zilvervliesrijst bio",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Aloe vera vochtig toiletpapier",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Sensitive vochtig toiletpapier",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Bistro Baguette pizzabroodje salami",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Chocoladereep LU",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 87,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Chocoladereep Oreo Brownie",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Chocoladereep Oreo Sandwich",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 92,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Beemster Extra Belegen stuk",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 4.5,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Beemster Extra belegen 48+ stuk",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 4.5,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fernandes Green punch",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 2.0,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Milka Chocoladereep Cookies",
-      "korting_tekst": "-52% KORTING",
+      "productnaam": "Marne Honing mosterdsaus",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "BiFi Chicken High Protein 3PK",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Coca-Cola Zero sugar gekoeld",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Good Pasta Mac & Cheese",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 62,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Biologische aardappelen",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Crispy mais biologisch",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Vastkokende aardappelen biologisch",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Eru Prestige",
+      "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Becel Light",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Naturel 4-pack",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 112,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Naturel zonder toegev. suiker 4-pack",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 112,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fernandes Cherry bouquet",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 19 aug. t/m di. 25 aug",
+      "productnaam": "PLUS Courgette groen",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.39,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     }
   ]
