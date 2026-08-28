@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-27T17:23:27.282974+00:00",
+  "updated_at": "2026-08-28T18:16:42.751807+00:00",
   "deals": [
     {
       "productnaam": "La Vache qui rit Naturel",
@@ -10,7 +10,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 120,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
     {
@@ -28,34 +28,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Oreo Tiramisu",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 157,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Ontbijtkoek zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Santa Maria Ras el hanout",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 35,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     }
   ]

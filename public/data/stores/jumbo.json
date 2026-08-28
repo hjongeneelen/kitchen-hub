@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-08-27T17:23:27.281850+00:00",
+  "updated_at": "2026-08-28T18:16:42.750613+00:00",
   "deals": [
     {
       "productnaam": "Ariel Wasmiddel +Touch of Lenor Unstoppables Color 25 Wasbeurten",
@@ -82,15 +82,6 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Johma Komkommer Rauwkostsalade 350g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

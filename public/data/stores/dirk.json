@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-27T17:23:27.280345+00:00",
+  "updated_at": "2026-08-28T18:16:42.749020+00:00",
   "deals": [
     {
       "productnaam": "Bonduelle Edamame bonen",
@@ -36,6 +36,15 @@
       "korting_tekst": "-63% KORTING",
       "actieprijs": 1.49,
       "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Heineken Pilsener alcoholvrij 6x33cl",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 1980,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 1 sep",
       "categorie": null

@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-08-27T17:23:27.281129+00:00",
+  "updated_at": "2026-08-28T18:16:42.749924+00:00",
   "deals": [
     {
       "productnaam": "Ajax Allesreiniger rode bloemen",
@@ -37,15 +37,6 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pepsi Cola zero",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
       "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
     },
@@ -162,6 +153,15 @@
       "korting_tekst": "-56% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Coolbest Fruitdrink mango",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
