@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-08-30T11:23:49.285742+00:00",
+  "updated_at": "2026-08-31T12:53:18.583655+00:00",
   "deals": [
     {
       "productnaam": "Bonduelle Edamame bonen",
@@ -41,37 +41,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Heineken Pilsener alcoholvrij 6x33cl",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 1980,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 1 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Bonduelle Mexico melange",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 0.69,
       "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Bonenmix mais/kidneybonen/limabonen",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Crispy mais chili",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 165,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 1 sep",
       "categorie": null
@@ -91,15 +64,6 @@
       "actieprijs": 1.69,
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nescafe Gold oploskoffie sticks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 25,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "t/m di. 1 sep",
       "categorie": null
     },
@@ -140,16 +104,25 @@
       "categorie": null
     },
     {
-      "productnaam": "Nestle Hot chocolate mix",
+      "productnaam": "Whiskas Kattenvoer junior kip",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.99,
-      "inhoud_waarde": 160,
+      "inhoud_waarde": 800,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 1 sep",
       "categorie": null
     },
     {
-      "productnaam": "Whiskas Kattenvoer junior kip",
+      "productnaam": "Whiskas Kattenvoer adult kip",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Whiskas Kattenvoer tonijn",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.99,
       "inhoud_waarde": 800,

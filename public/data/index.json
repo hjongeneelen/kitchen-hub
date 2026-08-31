@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-30T11:23:49.289482+00:00",
+  "generated_at": "2026-08-31T12:53:18.588041+00:00",
   "stores": [
-    {
-      "slug": "dekamarkt",
-      "name": "Dekamarkt",
-      "mode": "scan",
-      "deal_count": 5,
-      "updated_at": "2026-08-25T06:47:32.134117+00:00"
-    },
     {
       "slug": "dirk",
       "name": "Dirk",
       "mode": "scan",
-      "deal_count": 17,
-      "updated_at": "2026-08-30T11:23:49.285742+00:00"
+      "deal_count": 14,
+      "updated_at": "2026-08-31T12:53:18.583655+00:00"
     },
     {
       "slug": "plus",
       "name": "Plus",
       "mode": "scan",
-      "deal_count": 26,
-      "updated_at": "2026-08-30T11:23:49.286773+00:00"
+      "deal_count": 21,
+      "updated_at": "2026-08-31T12:53:18.584496+00:00"
     },
     {
       "slug": "jumbo",
       "name": "Jumbo",
       "mode": "scan",
-      "deal_count": 9,
-      "updated_at": "2026-08-30T11:23:49.287585+00:00"
-    },
-    {
-      "slug": "albert-heijn",
-      "name": "Albert Heijn",
-      "mode": "scan",
-      "deal_count": 11,
-      "updated_at": "2026-08-30T11:23:49.288135+00:00"
+      "deal_count": 16,
+      "updated_at": "2026-08-31T12:53:18.585534+00:00"
     },
     {
       "slug": "hoogvliet",
       "name": "Hoogvliet",
       "mode": "scan",
-      "deal_count": 3,
-      "updated_at": "2026-08-30T11:23:49.288744+00:00"
+      "deal_count": 15,
+      "updated_at": "2026-08-31T12:53:18.586172+00:00"
     },
     {
       "slug": "aldi",
       "name": "Aldi",
       "mode": "scan",
       "deal_count": 1,
-      "updated_at": "2026-08-30T11:23:49.289249+00:00"
+      "updated_at": "2026-08-31T12:53:18.586803+00:00"
+    },
+    {
+      "slug": "dekamarkt",
+      "name": "Dekamarkt",
+      "mode": "scan",
+      "deal_count": 4,
+      "updated_at": "2026-08-31T12:53:18.587277+00:00"
+    },
+    {
+      "slug": "albert-heijn",
+      "name": "Albert Heijn",
+      "mode": "scan",
+      "deal_count": 2,
+      "updated_at": "2026-08-31T12:53:18.587795+00:00"
     }
   ]
 }

@@ -2,105 +2,24 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-08-30T11:23:49.288135+00:00",
+  "updated_at": "2026-08-31T12:53:18.587795+00:00",
   "deals": [
     {
-      "productnaam": "AH Terra Kleintje soja dessert perzik passie",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.4,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Kleintje yoghurt perzik",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.4,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Kleintje soja desert aardbei",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.4,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's Cookie dough sandwich",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.36,
-      "inhoud_waarde": 272,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 30 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lurpak Smeerbaar ongezouten",
+      "productnaam": "Flower Farm Granenbiscuit naturel zonder palmolie",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.47,
-      "inhoud_waarde": 250,
+      "actieprijs": 1.4,
+      "inhoud_waarde": 256,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
+      "geldig_tekst": "t/m zo. 6 sep",
       "categorie": null
     },
     {
-      "productnaam": "Heks'nkaas Origineel",
+      "productnaam": "Dr. Oetker Casa di mama pizza salame extra piccante",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 150,
+      "actieprijs": 2.15,
+      "inhoud_waarde": 415,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lurpak Roomboter gezouten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lurpak Smeerbaar gezouten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Heks'nkaas Origineel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Heks'nkaas Origineel voordeelpak",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.19,
-      "inhoud_waarde": 275,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lurpak Smeerbaar ongezouten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.89,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 30 aug",
+      "geldig_tekst": "t/m zo. 6 sep",
       "categorie": null
     }
   ]

@@ -2,8 +2,26 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-08-30T11:23:49.288744+00:00",
+  "updated_at": "2026-08-31T12:53:18.586172+00:00",
   "deals": [
+    {
+      "productnaam": "Boursin Kruiden",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Whole Earth Pindakaas 100% drizzler",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
     {
       "productnaam": "La Vache qui rit Naturel",
       "korting_tekst": "-54% KORTING",
@@ -27,6 +45,96 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Whole Earth Pindakaas crunchy",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Peijnenburg Ontbijtkoek zero",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.05,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Santa Maria Ras el hanout",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 35,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Santa Maria Five spices",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": 37,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Peijnenburg Volkoren geen suiker gesneden",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.28,
+      "inhoud_waarde": 345,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Santa Maria Korean bbq style",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 46,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Peijnenburg Naturel geen suiker gesneden",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.08,
+      "inhoud_waarde": 265,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wicky Sinaasappel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.91,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Kikkererwten in pak",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.75,
+      "inhoud_waarde": 380,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 26 aug. t/m di. 1 sep",
       "categorie": null
