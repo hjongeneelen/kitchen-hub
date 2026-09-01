@@ -1,34 +1,6 @@
 {
-  "generated_at": "2026-08-31T12:53:18.588041+00:00",
+  "generated_at": "2026-09-01T11:13:03.295602+00:00",
   "stores": [
-    {
-      "slug": "dirk",
-      "name": "Dirk",
-      "mode": "scan",
-      "deal_count": 14,
-      "updated_at": "2026-08-31T12:53:18.583655+00:00"
-    },
-    {
-      "slug": "plus",
-      "name": "Plus",
-      "mode": "scan",
-      "deal_count": 21,
-      "updated_at": "2026-08-31T12:53:18.584496+00:00"
-    },
-    {
-      "slug": "jumbo",
-      "name": "Jumbo",
-      "mode": "scan",
-      "deal_count": 16,
-      "updated_at": "2026-08-31T12:53:18.585534+00:00"
-    },
-    {
-      "slug": "hoogvliet",
-      "name": "Hoogvliet",
-      "mode": "scan",
-      "deal_count": 15,
-      "updated_at": "2026-08-31T12:53:18.586172+00:00"
-    },
     {
       "slug": "aldi",
       "name": "Aldi",
@@ -37,18 +9,46 @@
       "updated_at": "2026-08-31T12:53:18.586803+00:00"
     },
     {
+      "slug": "dirk",
+      "name": "Dirk",
+      "mode": "scan",
+      "deal_count": 14,
+      "updated_at": "2026-09-01T11:13:03.291270+00:00"
+    },
+    {
+      "slug": "plus",
+      "name": "Plus",
+      "mode": "scan",
+      "deal_count": 21,
+      "updated_at": "2026-09-01T11:13:03.292192+00:00"
+    },
+    {
+      "slug": "jumbo",
+      "name": "Jumbo",
+      "mode": "scan",
+      "deal_count": 21,
+      "updated_at": "2026-09-01T11:13:03.293193+00:00"
+    },
+    {
+      "slug": "hoogvliet",
+      "name": "Hoogvliet",
+      "mode": "scan",
+      "deal_count": 15,
+      "updated_at": "2026-09-01T11:13:03.294070+00:00"
+    },
+    {
       "slug": "dekamarkt",
       "name": "Dekamarkt",
       "mode": "scan",
       "deal_count": 4,
-      "updated_at": "2026-08-31T12:53:18.587277+00:00"
+      "updated_at": "2026-09-01T11:13:03.294787+00:00"
     },
     {
       "slug": "albert-heijn",
       "name": "Albert Heijn",
       "mode": "scan",
       "deal_count": 2,
-      "updated_at": "2026-08-31T12:53:18.587795+00:00"
+      "updated_at": "2026-09-01T11:13:03.295352+00:00"
     }
   ]
 }
