@@ -2,132 +2,393 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-01T11:13:03.291270+00:00",
+  "updated_at": "2026-09-02T10:46:30.791965+00:00",
   "deals": [
     {
-      "productnaam": "Bonduelle Edamame bonen",
-      "korting_tekst": "-71% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 155,
+      "productnaam": "Ambi Pur Toiletblok wild hibiscus",
+      "korting_tekst": "-75% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 45,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Bonduelle Crispy mais",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 150,
+      "productnaam": "Ambi Pur Toiletblok citrus & jasmin",
+      "korting_tekst": "-75% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 45,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Texels Skuumkoppe 0.0% 6x300ml",
+      "productnaam": "Ambi Pur Toiletblok rose & lily",
+      "korting_tekst": "-75% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 45,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok water flowers",
+      "korting_tekst": "-75% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 45,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok blue blossom",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 45,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "AXE Douchegel ice chill mint-lemon",
       "korting_tekst": "-65% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 1800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 1 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Aroma essences ultimate relax",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.49,
+      "actieprijs": 1.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Bonduelle Mexico melange",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 200,
+      "productnaam": "Silvo Kaneel gemalen",
+      "korting_tekst": "-63% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 40,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Appelsientje Fruitdrink sinaasappel",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
+      "productnaam": "Alpro Amandeldrink No Sugars",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.29,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Beemster Kaas extra oud 48+ plakken",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 125,
+      "productnaam": "Ben & Jerry's Chocolate fudge brownie",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Non dairy cookie dough",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Strawberry cheesecake",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Cookie dough",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Grolsch Pilsener alcoholvrij 6x33 cl",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 1980,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Mild & Creamy kokosnoot",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Beemster Oude kaas 48+ plakken",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.69,
+      "productnaam": "Alpro Kids yoghurtvariatie strawberry 4 st.",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Sojadrink rode vruchten",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Variatie op kwark mango",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Mild & Creamy vanille",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Mild & creamy no sugars",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 755,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jimmy's Original popcorn zout",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jimmy's Original popcorn zoet & zout",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Sojadrink vanille",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Variatie op kwark vanille",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Basmatirijst",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Almhof Hoekje choco wafels",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 0.69,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Ristorante pizza quattro formaggi",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 340,
+      "productnaam": "Almhof Hoekje choco cookie",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Unox Knaks party",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
+      "productnaam": "Alpro Sojadrink choco",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Barista kokos",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Yoghurtvariatie blueberry muffin",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Unox Knaks mager",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "productnaam": "Alpro Barista haver",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Whiskas Kattenvoer junior kip",
+      "productnaam": "Bakker van der Akker Boeren volkoren heel",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Whiskas Kattenvoer adult kip",
+      "productnaam": "1 de Beste groentespread pompoen tandoori",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 175,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
     {
-      "productnaam": "Whiskas Kattenvoer tonijn",
+      "productnaam": "ERU Prestige",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "ERU Cheddar 45+ Sambal",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Sojadrink banaan",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Sojadrink choco",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Sojadrink banaan",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Conimex Woksaus yakitori",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Gerookte paprikapoeder",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Paprikapoeder mild",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Axe Douchegel excite",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.99,
-      "inhoud_waarde": 800,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Almhof Hoekje choco balls",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 sep",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Almhof Hoekje Venetie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     }
   ]

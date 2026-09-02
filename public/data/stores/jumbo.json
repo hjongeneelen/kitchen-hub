@@ -2,122 +2,95 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-01T11:13:03.293193+00:00",
+  "updated_at": "2026-09-02T10:46:30.794716+00:00",
   "deals": [
     {
-      "productnaam": "Ariel Wasmiddel +Touch of Lenor Unstoppables Color 25 Wasbeurten",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 7.92,
-      "inhoud_waarde": 1125,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Coca-Cola Zero Sugar Zero Cafeine 1 L",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Coca-Cola Original Taste 1 L",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Coca-Cola Zero Sugar 1 L",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fanta Orange zero sugar 1 L",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fanta Orange 1 L",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Johma Komkommer Rauwkostsalade 350g",
+      "productnaam": "Look-O-Look Dynamietstaafjes Watermeloen 16 stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 350,
+      "actieprijs": 1.1,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Spaghetti Glutenvrij 400 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Milner Jong Belegen 35+ Kaas Stuk 450g",
+      "productnaam": "L'OR Espresso Lungo Elegante Aluminium Capsules 10 Stuks 52 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.93,
+      "actieprijs": 2.15,
+      "inhoud_waarde": 52,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "TUC Crackers Zout & Peper 100g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.7,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Mini Babybel Jonge 45+ kaas tussendoortje 5 x 20 g Mini Original Net",
+      "productnaam": "Iglo Viskraam Garnalen Krokant Gepaneerd 200g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.33,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "1FRUIT Appel 200ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.5,
+      "actieprijs": 3.5,
       "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "CoolBest FruitDrink Mango 1 L",
+      "productnaam": "L'OR Espresso Forza Aluminium Capsules 20 Stuks 104 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 4.1,
+      "inhoud_waarde": 104,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "CoolBest FruitDrink Pineapple 1 L",
+      "productnaam": "Look-O-Look Gevulde Kersen Sticks 12 stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 1.1,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "CoolBest FruitDrink Passionfruit 1 L",
+      "productnaam": "Lavazza Espresso Decafe koffiecups 10 stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 2.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Japanse Wokmix met Oesterzwam en Knoflook 400 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Kant & Klaar Satesaus Origineel 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -131,37 +104,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Oatly! The Original \"No\" Sugars Haver 1 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.45,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Oatly! The Original Halfvol Haver 1 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.3,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Dubro Multi Ontvetter 650 ml",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.0,
       "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Oatly! The Original Vol Haver 1 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.35,
-      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
@@ -185,11 +131,209 @@
       "categorie": null
     },
     {
+      "productnaam": "TUC Paprika ovengebakken crackers 100 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.68,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Dubro Multi Ontvetter doekjes 80 Stuks",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.3,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "TUC Crackers Kaas Smaak 100g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.63,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "TUC Original ovengebakken crackers 100 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.53,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Doperwtjes met Worteltjes 195 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 195,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mexicano Vleessnack Mini's Oven&Airfryer 10 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Metodo Lenta Lavorazione Farfalle No. 85 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Illy Espresso Classico Koffiecups 10 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.75,
+      "inhoud_waarde": 57,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen 4 Seizoenenpeper 150 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.8,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Seepje Afwasmiddel Limoen Geur 500ML",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Mix voor Gehakt Traditioneel 225 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.5,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Rummo Linguine No. 13 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Look-O-Look Dynamietstaafjes Regenboog Bessen 110g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Mix voor Gehakt Italiaans 40 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Taksi Tropisch Fruit GST 10-pack 0,2 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.55,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Taksi Tropisch Fruit 10-pack 0,2 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.55,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Taksi Sinaasappel 10-pack 0,2 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "La Place Colombia Nespresso Koffiecups 10 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 52,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Peterselie 8 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 8,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Look-O-Look Foammmies Appel-Kers 180g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 180,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Look-O-Look Lange Fruitslangen 140g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "L'OR Espresso Onyx Ground Coffee 20 Capsules 104 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.9,
+      "inhoud_waarde": 104,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Paprikapoeder Gerookt 35 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 35,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }
