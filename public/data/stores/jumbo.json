@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-02T10:46:30.794716+00:00",
+  "updated_at": "2026-09-03T10:47:05.121159+00:00",
   "deals": [
     {
       "productnaam": "Look-O-Look Dynamietstaafjes Watermeloen 16 stuks",
@@ -271,69 +271,6 @@
       "actieprijs": 1.55,
       "inhoud_waarde": 2000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Taksi Sinaasappel 10-pack 0,2 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "La Place Colombia Nespresso Koffiecups 10 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 52,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Peterselie 8 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 8,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Look-O-Look Foammmies Appel-Kers 180g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Look-O-Look Lange Fruitslangen 140g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "L'OR Espresso Onyx Ground Coffee 20 Capsules 104 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.9,
-      "inhoud_waarde": 104,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Paprikapoeder Gerookt 35 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 35,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

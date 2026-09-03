@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-02T10:46:30.793182+00:00",
+  "updated_at": "2026-09-03T10:47:05.120301+00:00",
   "deals": [
     {
       "productnaam": "Glorix Toiletblok blauw water turquoise",
@@ -136,51 +136,6 @@
       "actieprijs": 1.48,
       "inhoud_waarde": 32,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Edet Vochtig toiletpapier amandel 42 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.45,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Groene thee raspberry & pomegr 20 zk.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 28,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Rooibosthee 20 zk.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 59,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Reuzenbonen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.07,
-      "inhoud_waarde": 255,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Edet Vochtig toiletpapier aloe vera",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 42,
-      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     }
