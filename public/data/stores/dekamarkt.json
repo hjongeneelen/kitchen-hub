@@ -2,62 +2,8 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-03T10:47:05.120301+00:00",
+  "updated_at": "2026-09-04T10:45:00.587685+00:00",
   "deals": [
-    {
-      "productnaam": "Glorix Toiletblok blauw water turquoise",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Glorix Toiletblok aroma lux dahlia flow&dragonfr",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Glorix Toiletblok blauw water pink",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Glorix Toiletblok ocean",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Glorix Toiletblok citrus",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Glorix Toiletblok blauw water",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
     {
       "productnaam": "Stegeman Vegetarische curry",
       "korting_tekst": "-50% KORTING",

@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-03T10:47:05.119016+00:00",
+  "updated_at": "2026-09-04T10:45:00.583302+00:00",
   "deals": [
     {
       "productnaam": "Ambi Pur Toiletblok wild hibiscus",
@@ -55,15 +55,6 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Kaneel gemalen",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
