@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-09-04T10:45:00.586887+00:00",
+  "updated_at": "2026-09-05T10:03:16.447551+00:00",
   "deals": [
     {
       "productnaam": "Flower Farm Granenbiscuit naturel zonder palmolie",
@@ -37,15 +37,6 @@
       "actieprijs": 2.2,
       "inhoud_waarde": 375,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 6 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Afwasmiddel limoen fris",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 550,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m zo. 6 sep",
       "categorie": null
     }
