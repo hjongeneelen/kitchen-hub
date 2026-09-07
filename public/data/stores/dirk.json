@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-06T10:23:46.152801+00:00",
+  "updated_at": "2026-09-07T11:44:46.937844+00:00",
   "deals": [
     {
       "productnaam": "Ambi Pur Toiletblok wild hibiscus",
@@ -55,6 +55,15 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Kaneel gemalen",
+      "korting_tekst": "-63% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     },
@@ -185,24 +194,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Almhof Hoekje choco wafels",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Almhof Hoekje choco cookie",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 8 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Alpro Sojadrink choco",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 1.29,
@@ -261,15 +252,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "ERU Cheddar 45+ Sambal",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
@@ -334,24 +316,6 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Almhof Hoekje choco balls",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Almhof Hoekje Venetie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 8 sep",
       "categorie": null
     }

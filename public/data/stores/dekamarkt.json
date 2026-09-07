@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-06T10:23:46.155779+00:00",
+  "updated_at": "2026-09-07T11:44:46.941695+00:00",
   "deals": [
     {
       "productnaam": "Stegeman Vegetarische curry",
@@ -18,15 +18,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.33,
       "inhoud_waarde": 145,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Kruidenthee morrocco mint 20 zk.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 40,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -63,15 +54,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.08,
       "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Groene thee mandarin orange 20 zk.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 36,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null

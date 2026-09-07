@@ -2,42 +2,258 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-09-06T10:23:46.155389+00:00",
+  "updated_at": "2026-09-07T11:44:46.940266+00:00",
   "deals": [
     {
-      "productnaam": "Flower Farm Granenbiscuit naturel zonder palmolie",
+      "productnaam": "Bolsius True scents geurtheelichten granaatappel",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.4,
-      "inhoud_waarde": 256,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 6 sep",
+      "actieprijs": 1.64,
+      "inhoud_waarde": 18,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 13 sep",
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Casa di mama pizza salame extra piccante",
+      "productnaam": "Bolsius Maxi geurtheelichten granaatappel",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.15,
-      "inhoud_waarde": 415,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 6 sep",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 8,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 13 sep",
       "categorie": null
     },
     {
-      "productnaam": "Kleenex Ultra clean maxi keukenpapier",
+      "productnaam": "Bolsius Navulling clean light cedarwood",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.95,
+      "actieprijs": 3.29,
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 6 sep",
+      "geldig_tekst": "t/m zo. 13 sep",
       "categorie": null
     },
     {
-      "productnaam": "Flower Farm Hazelnootpasta zonder palmolie",
+      "productnaam": "Bolsius Geurverspreider true scents anti tabak",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.2,
-      "inhoud_waarde": 375,
+      "actieprijs": 3.79,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bolsius Geurverspreider true scents vanilla",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bolsius Geurverspreider true scents fresh cotton",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bolsius Geurverspreider true scents lavender",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bolsius True joy geurstokjes floral blessings",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bolsius True joy geurstokjes oriental softness",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bolsius Geurverspreider true joy woody wellness",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bolsius True joy geurstokjes botanic freshness",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bolsius True joy geurstokjes vanilla delight",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.89,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Originale extra vierge olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.28,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Intense mint green tea",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Schweppes Pink grapefruit",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Crunchy muesli protein apple crumble",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 6 sep",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Granola protein crunch",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Yummygums Kids",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 10.0,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Proactiv original cholesterolverlagend",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.25,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Yummygums Hair",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 12.5,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Classico olijfolie spray",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Light voordeelpak",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.88,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Granola protein amandel speculaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Met roomboter smeerbaar",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.5,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Original voordeelpak",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Crunchy muesli protein chocolate",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Crunchy muesli protein speculaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Crunchy muesli protein peanut butter",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
       "categorie": null
     }
   ]

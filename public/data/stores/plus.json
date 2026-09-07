@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-09-06T10:23:46.154189+00:00",
+  "updated_at": "2026-09-07T11:44:46.939736+00:00",
   "deals": [
     {
       "productnaam": "Campina Langlekker Volle melk Extra Protein",
@@ -14,35 +14,8 @@
       "categorie": null
     },
     {
-      "productnaam": "Campina Halfvolle melk Extra Protein",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Unox Soep in Blik Goulashsoep",
       "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Remia Truffel mayonaise",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in blik bruine bonensoep",
-      "korting_tekst": "-54% KORTING",
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
@@ -104,24 +77,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Lipton Ice tea green strawberry",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea peach zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Lipton Ice tea lemon",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
@@ -132,15 +87,6 @@
     },
     {
       "productnaam": "Lipton Ice tea sparkling",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea sparkling green citrus zero",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 500,
@@ -203,6 +149,24 @@
       "categorie": null
     },
     {
+      "productnaam": "Extra Refreshers Strawberry Lemon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.74,
+      "inhoud_waarde": 67,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Extra Refreshers Tropical",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.74,
+      "inhoud_waarde": 67,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
+      "categorie": null
+    },
+    {
       "productnaam": "Unox Stevige soep Chinese tomaat",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.99,
@@ -234,24 +198,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Seepje Wasverzachter Knisperfris",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.74,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Seepje Wasverzachter Bloesemzacht",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.74,
-      "inhoud_waarde": 750,
       "inhoud_unit": "ml",
       "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
       "categorie": null

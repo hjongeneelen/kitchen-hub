@@ -2,31 +2,13 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-06T10:23:46.154818+00:00",
+  "updated_at": "2026-09-07T11:44:46.941044+00:00",
   "deals": [
-    {
-      "productnaam": "Look-O-Look Dynamietstaafjes Watermeloen 16 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
     {
       "productnaam": "Rummo Spaghetti Glutenvrij 400 g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.9,
       "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "L'OR Espresso Lungo Elegante Aluminium Capsules 10 Stuks 52 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.15,
-      "inhoud_waarde": 52,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -55,24 +37,6 @@
       "actieprijs": 4.1,
       "inhoud_waarde": 104,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Look-O-Look Gevulde Kersen Sticks 12 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lavazza Espresso Decafe koffiecups 10 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
@@ -167,15 +131,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Hak Doperwtjes met Worteltjes 195 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 195,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Mexicano Vleessnack Mini's Oven&Airfryer 10 Stuks",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.9,
@@ -221,6 +176,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Rummo Metodo Lenta Lavorazione Mezzi Rigatoni No. 51 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Verstegen Mix voor Gehakt Traditioneel 225 g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.5,
@@ -235,15 +199,6 @@
       "actieprijs": 1.25,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Look-O-Look Dynamietstaafjes Regenboog Bessen 110g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
