@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-07T11:44:46.939236+00:00",
+  "updated_at": "2026-09-08T10:43:34.294649+00:00",
   "deals": [
     {
       "productnaam": "Calve Pindakaas creamy",
@@ -82,15 +82,6 @@
       "actieprijs": 0.95,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Go-Tan Woksaus sweet & sour",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.35,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "ml",
       "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
       "categorie": null
     }

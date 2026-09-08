@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-09-07T11:44:46.940266+00:00",
+  "updated_at": "2026-09-08T10:43:34.296014+00:00",
   "deals": [
     {
       "productnaam": "Bolsius True scents geurtheelichten granaatappel",
@@ -135,6 +135,15 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.2,
       "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "DubbelFrisss Witte druiven & citroen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m zo. 13 sep",
       "categorie": null
