@@ -2,166 +2,121 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-09T10:51:53.443510+00:00",
+  "updated_at": "2026-09-11T10:43:47.462784+00:00",
   "deals": [
     {
-      "productnaam": "Rummo Spaghetti Glutenvrij 400 g",
+      "productnaam": "Oddlygood Barista Oat Drink 1 L",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "TUC Crackers Zout & Peper 100g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.7,
+      "actieprijs": 1.24,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Iglo Viskraam Garnalen Krokant Gepaneerd 200g",
+      "productnaam": "Rude Health Haver Barista 1L",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.5,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "L'OR Espresso Forza Aluminium Capsules 20 Stuks 104 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.1,
-      "inhoud_waarde": 104,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Japanse Wokmix met Oesterzwam en Knoflook 400 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Kant & Klaar Satesaus Origineel 500 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Snel Ontkalker 500ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Multi Ontvetter 650 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Geconcentreerd Afwasmiddel Original Citroen 550ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 550,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Keuken Ontvetter 650 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "TUC Paprika ovengebakken crackers 100 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.68,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Multi Ontvetter doekjes 80 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.3,
+      "actieprijs": 1.34,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "TUC Crackers Kaas Smaak 100g",
+      "productnaam": "Oddlygood Barista Vanille Haver Drink 1L",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.63,
+      "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "TUC Original ovengebakken crackers 100 g",
+      "productnaam": "Oddlygood Barista Salted Caramel Oat Drink 1L",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.53,
+      "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Mexicano Vleessnack Mini's Oven&Airfryer 10 Stuks",
+      "productnaam": "Oddlygood Barista Hazelnut Oat Drink 1L",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Rummo Metodo Lenta Lavorazione Farfalle No. 85 500 g",
+      "productnaam": "Hellmann's Cheddar Saus 250 ML",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.4,
-      "inhoud_waarde": 500,
+      "actieprijs": 1.54,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hellmann's Creamy Ranch 250ML",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.54,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hellmann's Spicy Burger Saus 250 ML",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.54,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Zonnatura Bio Aubergine Creamy Spread 175 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.64,
+      "inhoud_waarde": 175,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Illy Espresso Classico Koffiecups 10 Stuks",
+      "productnaam": "Verkade Dubai Style Melkchocoladereep",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.75,
-      "inhoud_waarde": 57,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 93,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Verstegen 4 Seizoenenpeper 150 g",
+      "productnaam": "Hellmann's Light 430ML",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.8,
-      "inhoud_waarde": 150,
+      "actieprijs": 2.19,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Beyond Hack Original Plantaardige Kruimels 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.24,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Beyond Steak Pieces Original Plantaardige Stukjes 160 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 160,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -171,60 +126,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.65,
       "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Rummo Metodo Lenta Lavorazione Mezzi Rigatoni No. 51 500 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Mix voor Gehakt Traditioneel 225 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.5,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Rummo Linguine No. 13 500 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Mix voor Gehakt Italiaans 40 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.8,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Taksi Tropisch Fruit GST 10-pack 0,2 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.55,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Taksi Tropisch Fruit 10-pack 0,2 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.55,
-      "inhoud_waarde": 2000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null

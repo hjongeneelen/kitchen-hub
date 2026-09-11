@@ -2,87 +2,123 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-09T10:51:53.441525+00:00",
+  "updated_at": "2026-09-11T10:43:47.461497+00:00",
   "deals": [
     {
-      "productnaam": "Calve Pindakaas creamy",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Muller Mullermilk protein banaan",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Calve Pindakaas light",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante pizza salami mozarella pesto",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante pizza bolognese",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante pizza quattro formaggi",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Go-Tan Gehakte gember",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.11,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Go-Tan Gehakte knoflook",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Go-Tan Udon noodles",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
+      "productnaam": "Palmolive Douchegel wellness massage",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.66,
       "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Showergel aroma essence love",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.66,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Douchegel relax",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.66,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Naturals douchemelk met olijf & hydraterende melk",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.66,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Naturals douchemelk met amandel & hydraterende melk",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.66,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep biscoff",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 90,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 2 sep. t/m di. 8 sep",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Cafe nova Snelfiltermaling cafeinevrij",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Cafe nova Snelfiltermaling rood",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sourcy Vitaminwater mango",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Apetina White cheese light plak",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.03,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode bieten sticks zoetzuur",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.18,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Zonnatura Detox citroengras",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hero Jam zero passievrucht",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
       "categorie": null
     }
   ]

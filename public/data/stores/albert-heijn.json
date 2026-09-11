@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-09-09T10:51:53.442898+00:00",
+  "updated_at": "2026-09-11T10:43:47.463446+00:00",
   "deals": [
     {
       "productnaam": "Bolsius True scents geurtheelichten granaatappel",
@@ -271,6 +271,78 @@
       "actieprijs": 2.15,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "DubbelFrisss Appel & perzik",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Orange arancia",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Japanese sencha green tea",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr Pepper Zero",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "DubbelFrisss Sinaasappel & mandarijn",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Yellow label",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.3,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Met roomboter smeerbaar",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 13 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Classico olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.63,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m zo. 13 sep",
       "categorie": null
     }

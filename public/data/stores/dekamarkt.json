@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-09T10:51:53.441957+00:00",
+  "updated_at": "2026-09-11T10:43:47.462201+00:00",
   "deals": [
     {
       "productnaam": "Campina Houdbare volle melk langlekker",
@@ -44,6 +44,33 @@
       "productnaam": "Liga Vitalu volkoren",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.3,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sense Margarine original",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 575,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Yum Yum Noodles kip",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.32,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Liga Vitalu volkoren",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.33,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
