@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-12T10:12:47.622603+00:00",
+  "updated_at": "2026-09-13T11:12:53.241606+00:00",
   "deals": [
     {
       "productnaam": "Oddlygood Barista Oat Drink 1 L",
@@ -86,6 +86,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Hela Original Satesaus 325 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.64,
+      "inhoud_waarde": 325,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Verkade Dubai Style Melkchocoladereep",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.99,
@@ -127,6 +136,33 @@
       "actieprijs": 1.65,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lezziz Kipgehakt 300 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Gemengd Gehakt 300 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Scharrelkip Gekruid Kipgehakt 300 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.98,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

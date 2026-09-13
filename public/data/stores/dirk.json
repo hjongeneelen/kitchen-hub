@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-12T10:12:47.620434+00:00",
+  "updated_at": "2026-09-13T11:12:53.239706+00:00",
   "deals": [
     {
       "productnaam": "3G Professioneel Schimmel- & aanslagreiniger",
@@ -19,6 +19,15 @@
       "actieprijs": 1.69,
       "inhoud_waarde": 570,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 15 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appel kruimelvlaai",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": "t/m di. 15 sep",
       "categorie": null
     },

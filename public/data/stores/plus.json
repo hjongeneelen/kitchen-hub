@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-09-12T10:12:47.619345+00:00",
+  "updated_at": "2026-09-13T11:12:53.238736+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea peach",
@@ -47,6 +47,15 @@
       "inhoud_waarde": 155,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Nectarines los",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
