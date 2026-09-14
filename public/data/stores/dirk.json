@@ -2,22 +2,13 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-13T11:12:53.239706+00:00",
+  "updated_at": "2026-09-14T11:59:29.854887+00:00",
   "deals": [
     {
       "productnaam": "3G Professioneel Schimmel- & aanslagreiniger",
       "korting_tekst": "-63% KORTING",
       "actieprijs": 1.99,
       "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 15 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Smaakfavoriet pittige zoete aardappel",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 570,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 15 sep",
       "categorie": null
@@ -41,15 +32,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Protein water cherry lemon",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 15 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "3G Professioneel Vlekverwijderaar",
       "korting_tekst": "-59% KORTING",
       "actieprijs": 1.99,
@@ -59,11 +41,20 @@
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep in zak romige mosterdsoep",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
+      "productnaam": "Duyvis Borrelnootjes doritos sweet chilli pepper",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 15 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duyvis Borrelnootjes lays patatje joppie",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 15 sep",
       "categorie": null
     },
@@ -86,29 +77,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep in zak romige champignonsoep",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 15 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Fernandes Green punch 4x25cl",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 1.8,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 15 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Danio Romige kwark kers",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 15 sep",
       "categorie": null
     },
@@ -131,28 +104,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Danio Romige kwark mango kiwi banaan",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 15 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Liga Belvita chocolade 6 x 4 stuks",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 1.69,
       "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 15 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Danio Kwark mango passievrucht",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 15 sep",
       "categorie": null
@@ -181,15 +136,6 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 680,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 15 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Heineken Pilsener alcoholvrij 6x33cl",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 1980,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 15 sep",
       "categorie": null
     },

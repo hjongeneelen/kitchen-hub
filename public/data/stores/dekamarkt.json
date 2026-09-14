@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-13T11:12:53.241060+00:00",
+  "updated_at": "2026-09-14T11:59:29.857078+00:00",
   "deals": [
     {
       "productnaam": "Campina Houdbare volle melk langlekker",
@@ -19,60 +19,6 @@
       "actieprijs": 0.83,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ajax Allesreiniger fete des fleurs lentebloem",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.43,
-      "inhoud_waarde": 1,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea peach",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Liga Vitalu volkoren",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.3,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sense Margarine original",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.4,
-      "inhoud_waarde": 575,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Yum Yum Noodles kip",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.32,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Liga Vitalu volkoren",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.33,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }
