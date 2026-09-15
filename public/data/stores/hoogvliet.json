@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-14T11:59:29.856534+00:00",
+  "updated_at": "2026-09-15T11:14:27.627293+00:00",
   "deals": [
     {
       "productnaam": "Palmolive Douchegel wellness massage",
@@ -55,15 +55,6 @@
       "actieprijs": 3.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Extra Peppermint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
