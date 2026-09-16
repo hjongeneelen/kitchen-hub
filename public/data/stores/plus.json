@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-09-15T11:14:27.625082+00:00",
+  "updated_at": "2026-09-16T10:57:26.581994+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea sparkling zero",
@@ -307,6 +307,123 @@
       "actieprijs": 7.75,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine D smelttablet",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 10.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine Boost 12+ kauwtablet aardbei",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine B complex forte tabletten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 6.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine Calcium + D Mint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 6.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jordan Tandenstoker double ended thin",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine Junior kauwtablet framboos",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 11.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jordan Dental Stick Double Ended Regular",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine Compleet mama Visolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 13.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Proper Paprika lentil chips",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gillette Series gevoelige huid shaving foam",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.05,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oppo Pint chocolate chip cooke dough",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.35,
+      "inhoud_waarde": 279,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oppo Pint double salted caramel swirl",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.35,
+      "inhoud_waarde": 279,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 15-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jan Volkoren pannenkoeken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 540,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m 15-09-2026",
       "categorie": null
     }
