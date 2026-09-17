@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-16T10:57:26.585024+00:00",
+  "updated_at": "2026-09-17T11:06:30.466301+00:00",
   "deals": [
     {
       "productnaam": "Palmolive Douchegel wellness massage",
@@ -252,6 +252,96 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.85,
       "inhoud_waarde": 43,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Knoflookpoeder",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.76,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Kwekkeboom Oven en Airfryer rundvlees croquetten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.2,
+      "inhoud_waarde": 280,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jordan Tandenborstel green clean soft",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen World Spice Blend harissa kruidenmix",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 34,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Marcel's green soap Handzeep lavender rosemary",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Good noodles piri piri",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.63,
+      "inhoud_waarde": 73,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Kwekkeboom Oven en Airfryer Old Amsterdam bitterbal",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Chocolate chip cookie dough chunks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.09,
+      "inhoud_waarde": 170,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Molen gekruid Himalaya zout",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.62,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen oregano",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.47,
+      "inhoud_waarde": 11,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
