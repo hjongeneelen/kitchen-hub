@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-17T11:06:30.467938+00:00",
+  "updated_at": "2026-09-18T10:41:27.074202+00:00",
   "deals": [
     {
       "productnaam": "ERU Cheddar Piment Sambal 8 Plakken 150 g",
@@ -91,6 +91,33 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 32,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Puur Vochtig Toiletpapier 38 Stuks",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig Toiletpapier Sensitive",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig Toiletpapier Aloe Vera",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
@@ -194,15 +221,6 @@
       "categorie": null
     },
     {
-      "productnaam": "PICKWICK GREEN & White Jasmin Passionfruit 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Pickwick Pure Groene Thee 20 Stuks",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 0.99,
@@ -280,6 +298,15 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 2,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Compleet Schoon Vochtig Toiletpapier",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
@@ -487,15 +514,6 @@
       "actieprijs": 2.0,
       "inhoud_waarde": 600,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Seepje Afwasmiddel Limoen Geur 500ML",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
