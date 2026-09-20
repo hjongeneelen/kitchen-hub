@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-19T10:26:00.652152+00:00",
+  "updated_at": "2026-09-20T10:46:03.488002+00:00",
   "deals": [
     {
       "productnaam": "Palmolive Douchegel wellness massage",
@@ -333,15 +333,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.62,
       "inhoud_waarde": 80,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen oregano",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.47,
-      "inhoud_waarde": 11,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null

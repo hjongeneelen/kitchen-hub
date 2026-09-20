@@ -2,8 +2,44 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-19T10:26:00.653070+00:00",
+  "updated_at": "2026-09-20T10:46:03.441797+00:00",
   "deals": [
+    {
+      "productnaam": "Mentos Pure fresh strong euca-menthol 28 st.",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 56,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Volle melk proteine",
+      "korting_tekst": "-64% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mentos Sour gum strawberry 28 st.",
+      "korting_tekst": "-63% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 56,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Halfvolle melk proteine",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
     {
       "productnaam": "Eat Me Passiefruit",
       "korting_tekst": "-60% KORTING",
@@ -14,10 +50,145 @@
       "categorie": null
     },
     {
+      "productnaam": "Haribo Aardbeienschuim",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tromp & Rueb Appelazijn",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duyvis Borrelnootjes doritos sweet chilli pepper",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duyvis Borrelnootjes lays patatje joppie",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Houdbare volle melk langlekker",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "CoolBest Fruitdrink mango",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Fruit Fusion Thee Variatiebox",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Groene thee mango & jasmine 20 zk.",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Maaza Mango drink",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Houdbare halfvolle melk langlekker",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
       "productnaam": "Ola Sinas split 9 stuks",
       "korting_tekst": "-53% KORTING",
       "actieprijs": 2.49,
       "inhoud_waarde": 603,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Ginger & lemongrass groene thee",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Spices Turkish Apple zwarte thee",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Sterrenmunt kruiden thee",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Kamille Honing kruiden thee",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Festini perenijs 12 stuks",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 710,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 22 sep",
       "categorie": null
@@ -41,11 +212,74 @@
       "categorie": null
     },
     {
+      "productnaam": "Haribo Kersen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Haribo Perziken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Spices Winterglow zwarte thee",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
       "productnaam": "Bits & Bites Olijven knoflook groen",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 130,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Cranberry groene thee",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Spices Minty Morocco kruidenthee",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Spices Autumn Storm zwarte thee",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 22 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Spices Caramelised pear kruidenthee",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": "t/m di. 22 sep",
       "categorie": null
     }

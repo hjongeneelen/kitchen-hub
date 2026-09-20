@@ -2,31 +2,13 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-16T10:57:26.586058+00:00",
+  "updated_at": "2026-09-20T10:46:03.489790+00:00",
   "deals": [
     {
-      "productnaam": "Campina Houdbare volle melk langlekker",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.83,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Houdbare halfvolle melk langlekker",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 0.83,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Liga Vitalu volkoren",
+      "productnaam": "Milka Oreo sandwich",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.3,
-      "inhoud_waarde": 200,
+      "actieprijs": 1.1,
+      "inhoud_waarde": 92,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
