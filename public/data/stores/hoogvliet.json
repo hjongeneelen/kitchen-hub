@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-20T10:46:03.488002+00:00",
+  "updated_at": "2026-09-21T12:10:02.176467+00:00",
   "deals": [
     {
       "productnaam": "Palmolive Douchegel wellness massage",
@@ -18,69 +18,6 @@
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.66,
       "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok roos en lelie 0% plastic",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok water & bloemen 0% plastic",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok blauwe bloesem 0% plastic",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok citrus & jasmijn 0% plastic",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok wild hibiscus 0% plastic",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletreiniger active gel hibiscus",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.52,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletreiniger active gel mint & jasmijn",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.52,
-      "inhoud_waarde": 750,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
@@ -122,33 +59,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Marcel's green soap Showergel vanilla cherryblossom",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.5,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup a soup mosterd",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.03,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Molen Italiaanse kruiden",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.54,
-      "inhoud_waarde": 25,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Smaakt Volkoren havermout",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.48,
@@ -167,83 +77,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Verstegen Provencaalse kruiden",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.3,
-      "inhoud_waarde": 11,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen World Spice Blend tandoori masala kruidenmix",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 34,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan Tandenstokers",
+      "productnaam": "Zwitsal Billendoekjes Sensitive",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.71,
-      "inhoud_waarde": 100,
+      "inhoud_waarde": 57,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan Dental stick extra thin",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.71,
-      "inhoud_waarde": 105,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan Everyday floss",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan Tandenborstel step 2 3-5 jaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.45,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan Tandenborstel step 3 6-9 jaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.45,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan 3 in 1 flosser",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.01,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jordan Tandenborstel small size soft",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.8,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
@@ -275,24 +113,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Jordan Tandenborstel green clean soft",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.8,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen World Spice Blend harissa kruidenmix",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 34,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Marcel's green soap Handzeep lavender rosemary",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.69,
@@ -302,20 +122,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Knorr Good noodles piri piri",
+      "productnaam": "Zwitsal Baby snoetenpoetsers hypoallergeen",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.63,
-      "inhoud_waarde": 73,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Kwekkeboom Oven en Airfryer Old Amsterdam bitterbal",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.25,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -329,11 +140,110 @@
       "categorie": null
     },
     {
-      "productnaam": "Verstegen Molen gekruid Himalaya zout",
+      "productnaam": "Zwitsal Baby bodylotion",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.62,
-      "inhoud_waarde": 80,
+      "actieprijs": 2.5,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Zwitsal Baby zinkzalf",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.5,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Slimpie Siroop bosvruchten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Slimpie Siroop framboos",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Slimpie Watermeloen aardbei",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Zwitsal Water & care babydoekjes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.19,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Marcel's green soap Handzeep orange & jasmin",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Zwitsal Zeepvrije wasgel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.85,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Lijnzaad",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Zwitsal Shampoo",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.12,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Marcel's green soap Handzeep navul orange",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.69,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Slimpie Ice tea perzik",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:46:03.489887+00:00",
+  "generated_at": "2026-09-21T12:10:02.397913+00:00",
   "stores": [
     {
       "slug": "aldi",
@@ -9,13 +9,6 @@
       "updated_at": "2026-08-31T12:53:18.586803+00:00"
     },
     {
-      "slug": "dirk",
-      "name": "Dirk",
-      "mode": "scan",
-      "deal_count": 31,
-      "updated_at": "2026-09-20T10:46:03.441797+00:00"
-    },
-    {
       "slug": "albert-heijn",
       "name": "Albert Heijn",
       "mode": "scan",
@@ -23,32 +16,46 @@
       "updated_at": "2026-09-20T10:46:03.442542+00:00"
     },
     {
-      "slug": "hoogvliet",
-      "name": "Hoogvliet",
-      "mode": "scan",
-      "deal_count": 37,
-      "updated_at": "2026-09-20T10:46:03.488002+00:00"
-    },
-    {
-      "slug": "jumbo",
-      "name": "Jumbo",
-      "mode": "scan",
-      "deal_count": 65,
-      "updated_at": "2026-09-20T10:46:03.488612+00:00"
-    },
-    {
-      "slug": "plus",
-      "name": "Plus",
-      "mode": "scan",
-      "deal_count": 6,
-      "updated_at": "2026-09-20T10:46:03.489431+00:00"
-    },
-    {
       "slug": "dekamarkt",
       "name": "Dekamarkt",
       "mode": "scan",
       "deal_count": 1,
       "updated_at": "2026-09-20T10:46:03.489790+00:00"
+    },
+    {
+      "slug": "dirk",
+      "name": "Dirk",
+      "mode": "scan",
+      "deal_count": 15,
+      "updated_at": "2026-09-21T12:10:02.051072+00:00"
+    },
+    {
+      "slug": "hoogvliet",
+      "name": "Hoogvliet",
+      "mode": "scan",
+      "deal_count": 27,
+      "updated_at": "2026-09-21T12:10:02.176467+00:00"
+    },
+    {
+      "slug": "jumbo",
+      "name": "Jumbo",
+      "mode": "scan",
+      "deal_count": 35,
+      "updated_at": "2026-09-21T12:10:02.292304+00:00"
+    },
+    {
+      "slug": "plus",
+      "name": "Plus",
+      "mode": "scan",
+      "deal_count": 4,
+      "updated_at": "2026-09-21T12:10:02.293388+00:00"
+    },
+    {
+      "slug": "poiesz",
+      "name": "Poiesz",
+      "mode": "scan",
+      "deal_count": 8,
+      "updated_at": "2026-09-21T12:10:02.397544+00:00"
     }
   ]
 }

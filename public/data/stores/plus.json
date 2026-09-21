@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-09-20T10:46:03.489431+00:00",
+  "updated_at": "2026-09-21T12:10:02.293388+00:00",
   "deals": [
     {
       "productnaam": "Del monte Fruitcocktail op siroop",
@@ -10,24 +10,6 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 420,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 16 sep. t/m di. 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fernandes Green punch",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 16 sep. t/m di. 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fernandes Cherry bouquet",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
       "geldig_tekst": "wo. 16 sep. t/m di. 22 sep",
       "categorie": null
     },

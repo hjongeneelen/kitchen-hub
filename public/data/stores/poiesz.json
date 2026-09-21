@@ -1,0 +1,80 @@
+{
+  "store": "Poiesz",
+  "slug": "poiesz",
+  "mode": "scan",
+  "updated_at": "2026-09-21T12:10:02.397544+00:00",
+  "deals": [
+    {
+      "productnaam": "Verstegen Zwarte Peper",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.25,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Roodschillige Aardappelen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 3000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Gevriesdroogde Oregano",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.4,
+      "inhoud_waarde": 18,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Royal Club Bitter lemon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Aardappelen Vastkokend",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 3000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Aardappelen Kruimig",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 3000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Royal Club Bitter lemon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Knoflookpoeder",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.75,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    }
+  ]
+}

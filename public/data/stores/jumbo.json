@@ -2,17 +2,8 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-20T10:46:03.488612+00:00",
+  "updated_at": "2026-09-21T12:10:02.292304+00:00",
   "deals": [
-    {
-      "productnaam": "ERU Cheddar Piment Sambal 8 Plakken 150 g",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
     {
       "productnaam": "Dr. Oetker Ristorante Pizza Salami Glutenvrij 315 g",
       "korting_tekst": "-60% KORTING",
@@ -41,47 +32,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Pickwick Herbal Ginger Goodness met Honingsmaak 15 x 1,75 g",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Ginger Goodness Orange Kruidenthee",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Ginger Goodness Lemon Kruidenthee",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Heinz Tomato Frito Multipack (Tomatensaus) 2 x 212g",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "ERU Cheddar Plakken 8 Stuks 150 g",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -104,33 +59,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Page Puur Vochtig Toiletpapier 38 Stuks",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Vochtig Toiletpapier Sensitive",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Vochtig Toiletpapier Aloe Vera",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Pickwick Fruit Infusion Variatiebox thee - paars",
       "korting_tekst": "-57% KORTING",
       "actieprijs": 0.99,
@@ -141,15 +69,6 @@
     },
     {
       "productnaam": "Pickwick Orange Mandarin Groene Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Spices Minty Morocco Kruiden Thee 20 Stuks",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 2,
@@ -176,70 +95,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Pickwick Spices Caramelised Pear Zwarte Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Fruit Infusion Raspberry & Strawberry 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Spices Autumn Storm Zwarte Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Lemon Groene Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Pickwick Cranberry Groene Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Kamille Honing Kruiden Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Pure Groene Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Kamille Kruiden Thee 20 Stuks",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 2,
@@ -311,24 +167,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Pickwick Rooibos Honey 20 x 1,5 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Compleet Schoon Vochtig Toiletpapier",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Pickwick Fruit Variatie Rood Fruit Thee 20 Stuks",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
@@ -365,24 +203,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Ontbijtkoekrepen Met Rozijnen 115g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.09,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Ontbijtkoekrepen Met Noten 115g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.09,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Oddlygood Barista Oat Drink 1 L",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.24,
@@ -392,54 +212,9 @@
       "categorie": null
     },
     {
-      "productnaam": "Ontbijtkoekrepen Met Chocolade 147g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.34,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ontbijtkoekrepen Met Dedroogd Fruit 147g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.34,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Rude Health Haver Barista 1L",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.34,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Parrano Geraspte Mozzarella",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Oddlygood Barista Salted Caramel Oat Drink 1L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Oddlygood Barista Hazelnut Oat Drink 1L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
@@ -464,91 +239,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Verkade Dubai Style Melkchocoladereep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 93,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Wijko Satesaus Geconcentreerd 540 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hellmann's Light 430ML",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.19,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Melitta CafeBar Selection Espresso Intense Filterkoffie 250 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Melitta CafeBar Selection Crema Intense Filterkoffie 250g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Melitta CafeBar Selection Espresso Classic Filterkoffie 250g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocomel Halfvol 6 x 200 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Jumbo Ovengroente Courgette, Paprika & Wortel 600 g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.0,
       "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Optimel Langlekker Drinkyoghurt Aardbei Framboos 0% Vet 6 x 200 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Crispy Mais Bio 300 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -572,7 +266,25 @@
       "categorie": null
     },
     {
-      "productnaam": "Senseo Espresso Coffee Pads 36 Stuks 250 g",
+      "productnaam": "Senseo Classic Coffee Pads 36 Stuks 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.06,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Senseo Extra Strong Coffee Pads 36 Stuks 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.07,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Senseo Strong Coffee Pads 36 Stuks 250 g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 3.35,
       "inhoud_waarde": 250,
@@ -581,11 +293,29 @@
       "categorie": null
     },
     {
-      "productnaam": "Senseo Classic Coffee Pads 36 Stuks 250 g",
+      "productnaam": "Senseo Mocca Gourmet Coffee Pads 36 Stuks 250 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.06,
+      "actieprijs": 3.35,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Kastanjechampignon & Broccoli Ovengroente 600 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chocomel 6 x 200 ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
