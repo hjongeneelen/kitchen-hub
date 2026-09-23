@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-09-22T11:04:52.159384+00:00",
+  "updated_at": "2026-09-23T10:54:21.604922+00:00",
   "deals": [
     {
       "productnaam": "Verstegen Zwarte Peper",
@@ -10,7 +10,7 @@
       "actieprijs": 4.25,
       "inhoud_waarde": 160,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 1.95,
       "inhoud_waarde": 3000,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
       "categorie": null
     },
     {
@@ -28,7 +28,7 @@
       "actieprijs": 3.4,
       "inhoud_waarde": 18,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
       "categorie": null
     },
     {
@@ -37,7 +37,7 @@
       "actieprijs": 1.25,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
       "categorie": null
     },
     {
@@ -46,7 +46,7 @@
       "actieprijs": 1.95,
       "inhoud_waarde": 3000,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
       "categorie": null
     },
     {
@@ -55,7 +55,7 @@
       "actieprijs": 1.95,
       "inhoud_waarde": 3000,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
       "categorie": null
     },
     {
@@ -64,7 +64,7 @@
       "actieprijs": 1.25,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
       "categorie": null
     },
     {
@@ -73,7 +73,34 @@
       "actieprijs": 2.75,
       "inhoud_waarde": 190,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Den Eelder Boeren Vanille Yoghurt",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.23,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Den Eelder Boeren Volle Yoghurt",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Den Eelder Boeren Halfvolle Yoghurt",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
       "categorie": null
     }
   ]

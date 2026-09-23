@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-22T11:04:52.156876+00:00",
+  "updated_at": "2026-09-23T10:54:21.602479+00:00",
   "deals": [
     {
       "productnaam": "Palmolive Douchegel wellness massage",
@@ -244,6 +244,15 @@
       "actieprijs": 1.7,
       "inhoud_waarde": 650,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Kwekkeboom Borrelmix hapjes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.75,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

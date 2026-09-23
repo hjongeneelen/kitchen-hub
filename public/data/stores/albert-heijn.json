@@ -2,105 +2,60 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-09-20T10:46:03.442542+00:00",
+  "updated_at": "2026-09-23T10:54:21.600517+00:00",
   "deals": [
     {
-      "productnaam": "Lassie Poke bowl rijst",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "productnaam": "Hertog Ijssalon drie chocolades",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": 830,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Lassie Pandan rijst builtje",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 300,
+      "productnaam": "Mora Crispy chick'n Japanese style",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 1.32,
+      "inhoud_waarde": 240,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Lassie Basmati rijst builtje",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 300,
+      "productnaam": "Mora Crispy chick'n Korean style",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 1.32,
+      "inhoud_waarde": 240,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "XXL Nutrition Fitmousse salted caramel chocolate",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.99,
+      "productnaam": "Leentjes Kraaaaaaak hagel aardbei",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 0.9,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "XXL Nutrition Fitmousse chocolate flavour",
+      "productnaam": "Jarritos Guave soda",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 370,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Just for me brownie mini cake",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 200,
+      "actieprijs": 0.92,
+      "inhoud_waarde": 70,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Risotto rijst",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Chocolademelk",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Chocolademelk karamel smaak",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Meer granenrijst",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 275,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Basmati rijst",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Zilvervliesrijst bio",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
@@ -109,106 +64,25 @@
       "actieprijs": 0.69,
       "inhoud_waarde": 120,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Nestle Sunny fruits knijpfruit banaan 12m+",
+      "productnaam": "Autodrop Most wanted watermeloen bussen",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 110,
+      "actieprijs": 0.69,
+      "inhoud_waarde": 120,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Nestle Fiesta fruits knijpfruit appel 12m+",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 110,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nestle Baby cool smoothie banaan bosbes 12m+",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.82,
-      "inhoud_waarde": 110,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hip Pop Living soda pink grapefruit",
+      "productnaam": "Red Band Juicy bites frambozensmaak",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Koopmans Pannenkoeken speculoos",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 320,
+      "inhoud_waarde": 145,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Koopmans Mix voor oma's pannenkoeken met kaneel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Zilvervliesrijst builtje",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Koopmans Mix voor poffertjes origineel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Fit yoghurt protein strawberry",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Fit yoghurt mango & granola",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Tover mix met vezel verrijkte korrels",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
@@ -217,7 +91,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
@@ -226,70 +100,43 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Nestle Baby snack chewing wheels banaan 10m+",
+      "productnaam": "AH Terra Groenteburger broccoli",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 28,
+      "actieprijs": 1.24,
+      "inhoud_waarde": 160,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Jan Pizzadeeg Napoli",
+      "productnaam": "AH Terra Groenteburger broccoli paprika",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.14,
-      "inhoud_waarde": 300,
+      "actieprijs": 1.24,
+      "inhoud_waarde": 160,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Jan Pizzadeeg Napoli XL",
+      "productnaam": "Venz Aardbeien smoothie aardbeismaak",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 500,
+      "actieprijs": 1.34,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Garnier Skinactive hydra bomb granaatappel mask",
+      "productnaam": "Venz Bananen split banaansmaak",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tony's Chocolonely Filled melk karamel zeezout crunch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 135,
+      "actieprijs": 1.34,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tony's Chocolonely Filled melk truffel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 127,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tony's Chocolonely Filled melk praline hazelnoot crunch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 127,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
@@ -298,7 +145,7 @@
       "actieprijs": 2.24,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
@@ -307,7 +154,7 @@
       "actieprijs": 2.24,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
@@ -316,16 +163,142 @@
       "actieprijs": 2.24,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Mentos Gum Vibes peppermint",
+      "productnaam": "Duracell MN21 specialty alkalinebatterij A23",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.39,
-      "inhoud_waarde": 94,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 20 sep",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell LR44 specialty alkalinebatterij A76",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.79,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell 2025 Lithium-knoopcelbatterijen CR2025",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.84,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell 2016 Lithium-knoopcelbatterijen CR2016",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.84,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Plus 9V-alkaline batterijen 6LR61",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Plus C-alkaline batterijen MN1400",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Plus AAA-alkaline batterijen MN2400",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.09,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Plus AA-alkaline batterijen MN1500",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.09,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Plus D-alkaline batterijen LR20",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.09,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Optimum AAA batterijen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.69,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Optimum AA batterijen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.69,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell 2032 Lithium-knoopcelbatterijen CR2032",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.99,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Optimum AA batterijen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 6.99,
+      "inhoud_waarde": 6,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Rechargeable AAA-batterijen 750 mAh",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.89,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Duracell Rechargeable AA-batterijen 1300 mAh",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.89,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:04:52.159697+00:00",
+  "generated_at": "2026-09-23T10:54:21.605284+00:00",
   "stores": [
     {
       "slug": "aldi",
@@ -9,34 +9,6 @@
       "updated_at": "2026-08-31T12:53:18.586803+00:00"
     },
     {
-      "slug": "albert-heijn",
-      "name": "Albert Heijn",
-      "mode": "scan",
-      "deal_count": 36,
-      "updated_at": "2026-09-20T10:46:03.442542+00:00"
-    },
-    {
-      "slug": "dekamarkt",
-      "name": "Dekamarkt",
-      "mode": "scan",
-      "deal_count": 1,
-      "updated_at": "2026-09-20T10:46:03.489790+00:00"
-    },
-    {
-      "slug": "dirk",
-      "name": "Dirk",
-      "mode": "scan",
-      "deal_count": 15,
-      "updated_at": "2026-09-22T11:04:52.156001+00:00"
-    },
-    {
-      "slug": "hoogvliet",
-      "name": "Hoogvliet",
-      "mode": "scan",
-      "deal_count": 27,
-      "updated_at": "2026-09-22T11:04:52.156876+00:00"
-    },
-    {
       "slug": "jumbo",
       "name": "Jumbo",
       "mode": "scan",
@@ -44,18 +16,46 @@
       "updated_at": "2026-09-22T11:04:52.157948+00:00"
     },
     {
+      "slug": "albert-heijn",
+      "name": "Albert Heijn",
+      "mode": "scan",
+      "deal_count": 33,
+      "updated_at": "2026-09-23T10:54:21.600517+00:00"
+    },
+    {
+      "slug": "dirk",
+      "name": "Dirk",
+      "mode": "scan",
+      "deal_count": 34,
+      "updated_at": "2026-09-23T10:54:21.601570+00:00"
+    },
+    {
+      "slug": "hoogvliet",
+      "name": "Hoogvliet",
+      "mode": "scan",
+      "deal_count": 28,
+      "updated_at": "2026-09-23T10:54:21.602479+00:00"
+    },
+    {
       "slug": "plus",
       "name": "Plus",
       "mode": "scan",
       "deal_count": 4,
-      "updated_at": "2026-09-22T11:04:52.158842+00:00"
+      "updated_at": "2026-09-23T10:54:21.603282+00:00"
+    },
+    {
+      "slug": "dekamarkt",
+      "name": "Dekamarkt",
+      "mode": "scan",
+      "deal_count": 33,
+      "updated_at": "2026-09-23T10:54:21.604080+00:00"
     },
     {
       "slug": "poiesz",
       "name": "Poiesz",
       "mode": "scan",
-      "deal_count": 8,
-      "updated_at": "2026-09-22T11:04:52.159384+00:00"
+      "deal_count": 11,
+      "updated_at": "2026-09-23T10:54:21.604922+00:00"
     }
   ]
 }

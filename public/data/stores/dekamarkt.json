@@ -2,13 +2,301 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-20T10:46:03.489790+00:00",
+  "updated_at": "2026-09-23T10:54:21.604080+00:00",
   "deals": [
     {
-      "productnaam": "Milka Oreo sandwich",
+      "productnaam": "Johma Kip mango pistachenootje salade",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 92,
+      "actieprijs": 1.58,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea peach",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.98,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint Peppermint xl sugarfree value pack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.95,
+      "inhoud_waarde": 105,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Zoetzuur-perzik",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 525,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green 4x25 cl",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.78,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fish Tales Skipjack tonijn in water",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.88,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint XL blackmint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.35,
+      "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Johma Oude kaas salade",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.68,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Aardappel anders Tuinkruiden knoflook",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.83,
+      "inhoud_waarde": 390,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea sparkling 4x25 cl",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.78,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Aardappel anders Bacon ui",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.63,
+      "inhoud_waarde": 390,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint XL peppermint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Cooking plant-based",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.93,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Sojadrink banaan",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.32,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.98,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea sparkling",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.98,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Johma Kip-pestosalade",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.73,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint Strawberry xl",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.38,
+      "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Johma Zalm salade",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.05,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Protein chocolate chip 3 st.",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fish Tales Skipjack tonijn in zonnebloemolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.88,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Aardappel anders Ham kaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.93,
+      "inhoud_waarde": 390,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Sojadrink banaan",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Hawai",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 515,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Ajam pangang",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 535,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Kerrie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 520,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Chicken Tonight Tomaat-room",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 495,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint Clean breath peppermint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.2,
+      "inhoud_waarde": 105,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Crunchy muesli 4 nuts",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.13,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Crunchy muesli chocolate",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.13,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint Duo pack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.23,
+      "inhoud_waarde": 16,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint Clean breath peppermint duopack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.18,
+      "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint Clean breath intensemint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": 70,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null

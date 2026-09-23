@@ -2,141 +2,312 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-22T11:04:52.156001+00:00",
+  "updated_at": "2026-09-23T10:54:21.601570+00:00",
   "deals": [
     {
-      "productnaam": "Mentos Pure fresh strong euca-menthol 28 st.",
+      "productnaam": "Hak Spinazie met room",
       "korting_tekst": "-65% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 56,
+      "inhoud_waarde": 345,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 22 sep",
+      "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },
     {
-      "productnaam": "Mentos Sour gum strawberry 28 st.",
+      "productnaam": "Silvo Peterselie",
       "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 56,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 5,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 22 sep",
+      "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },
     {
-      "productnaam": "Mentos Sour gum green apple 28 st.",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 56,
+      "productnaam": "Milka Oreo sandwich",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.85,
+      "inhoud_waarde": 92,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 22 sep",
+      "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },
     {
-      "productnaam": "Haribo Aardbeienschuim",
+      "productnaam": "Dr. Oetker Pizza big americans shoarma",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 415,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Pizza big americans bbq chicken",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Big Americans pizza Texas",
       "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.89,
+      "actieprijs": 1.89,
+      "inhoud_waarde": 435,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Green tea strawberry",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green zero",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Spinazie",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode bieten sticks zoetzuur",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Pizza big americans cheese burger",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 415,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Melkcreme",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.85,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode kool met stukjes peer en kaneel",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Gesneden bonen",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea zero sparkling",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea peach",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep choco-biscuit",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.85,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Knoflookpoeder",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rabarbercompote",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode kool met stukjes appel",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes met een vleugje kaneel",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Melkunie Protein kwark mango",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vivera Spinazie kaas filet 2 stuks",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.69,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 22 sep",
+      "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },
     {
-      "productnaam": "Tromp & Rueb Appelazijn",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "CoolBest Fruitdrink mango",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Starbucks Chilled coffee oat caramel",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 220,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Becel Margarine romig",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Groene thee mango & jasmine 20 zk.",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Maaza Mango drink",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola Sinas split 9 stuks",
+      "productnaam": "Milka Chocoladereep wit",
       "korting_tekst": "-53% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 603,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 22 sep",
+      "actieprijs": 0.85,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },
     {
-      "productnaam": "Ola Festini perenijs 12 stuks",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 710,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 22 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Mais",
+      "productnaam": "De Cecco Spaghettini",
       "korting_tekst": "-52% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 380,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 22 sep",
+      "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },
     {
-      "productnaam": "Unox Hotdog 8 stuks",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 2.79,
-      "inhoud_waarde": 570,
+      "productnaam": "De Cecco Spaghetti",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 22 sep",
+      "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },
     {
-      "productnaam": "Bits & Bites Olijven knoflook groen",
+      "productnaam": "Hak Rode bieten schijven",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 130,
+      "inhoud_waarde": 355,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 22 sep",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes extra kwaliteit",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode kool",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubbeldrank Ananas & guave",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Mexicaanse kruiden natriumarm",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Italiaanse kruiden natriumarm",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Kipkruiden natriumarm",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 43,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta pro glasur",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     }
   ]
