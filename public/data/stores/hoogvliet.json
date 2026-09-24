@@ -2,8 +2,26 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-23T10:54:21.602479+00:00",
+  "updated_at": "2026-09-24T11:14:01.182689+00:00",
   "deals": [
+    {
+      "productnaam": "Bar le Duc Mineraalwater kzh 4pk",
+      "korting_tekst": "-75% KORTING",
+      "actieprijs": 0.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bar le Duc Mineraalwater kzv 4pk",
+      "korting_tekst": "-75% KORTING",
+      "actieprijs": 0.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
     {
       "productnaam": "Palmolive Douchegel wellness massage",
       "korting_tekst": "-61% KORTING",
@@ -19,6 +37,15 @@
       "actieprijs": 1.66,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Koopmans Mix voor tompoucecake",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -41,6 +68,24 @@
       "categorie": null
     },
     {
+      "productnaam": "Unox Party knaks mager",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Vegetarische party knaks",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Palmolive Naturals douchemelk met amandel & hydraterende melk",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.66,
@@ -50,208 +95,172 @@
       "categorie": null
     },
     {
-      "productnaam": "Kuhne Rauwkost zoetzuur",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Volkoren havermout",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 500,
+      "productnaam": "Unox Party knaks kip",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Verstegen citroengras gemalen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 25,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Billendoekjes Sensitive",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.71,
-      "inhoud_waarde": 57,
+      "productnaam": "Santa Maria Tortilla wraps corn&wheat medium 8 stuks 336g",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 8,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Verstegen Molen knoflook",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.85,
-      "inhoud_waarde": 43,
+      "productnaam": "Santa Maria Oat wraps",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 240,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Verstegen Knoflookpoeder",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.76,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Kwekkeboom Oven en Airfryer rundvlees croquetten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.2,
-      "inhoud_waarde": 280,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Marcel's green soap Handzeep lavender rosemary",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.69,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Baby snoetenpoetsers hypoallergeen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.4,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's Chocolate chip cookie dough chunks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.09,
-      "inhoud_waarde": 170,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Baby bodylotion",
+      "productnaam": "Dubro Doekjes hygiene",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.5,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Baby zinkzalf",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.5,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Slimpie Siroop bosvruchten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Slimpie Siroop framboos",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Slimpie Watermeloen aardbei",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Water & care babydoekjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.19,
-      "inhoud_waarde": 75,
+      "inhoud_waarde": 80,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Marcel's green soap Handzeep orange & jasmin",
+      "productnaam": "Dubbelfrisss Sinaasappel mandarijn",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
+      "actieprijs": 1.42,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Amandeldrink Houdbaar",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Barista haver",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.33,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Plantaardige Variatie Op Kookroom",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.93,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Zwitsal Zeepvrije wasgel",
+      "productnaam": "Hak Kikkererwten in pak",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.85,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Lijnzaad",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 500,
+      "actieprijs": 0.75,
+      "inhoud_waarde": 380,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Zwitsal Shampoo",
+      "productnaam": "Dettol Handzeep lavendel antibacterieel",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.12,
-      "inhoud_waarde": 400,
+      "actieprijs": 1.5,
+      "inhoud_waarde": 250,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Marcel's green soap Handzeep navul orange",
+      "productnaam": "Dubro Keuken ontvetter spray",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.69,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Slimpie Ice tea perzik",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.7,
+      "actieprijs": 2.0,
       "inhoud_waarde": 650,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Kwekkeboom Borrelmix hapjes",
+      "productnaam": "Dubro Geconcentreerd afwasmiddel original citroen",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.75,
-      "inhoud_waarde": 260,
+      "actieprijs": 1.47,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mentos Pure Fresh Cherry Kers Kauwgom fruit Suikervrij Pot",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.5,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Daily Chef Pastasaus groene pesto",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Multi ontvetter spray",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Flower Farm Margarine",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.95,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Badkamer reiniger hygiene spray",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.96,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dettol Handzeep hydraterend",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Vergeer Geraspte gratin kaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null

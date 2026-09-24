@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-09-23T10:54:21.604922+00:00",
+  "updated_at": "2026-09-24T11:14:01.188424+00:00",
   "deals": [
     {
       "productnaam": "Verstegen Zwarte Peper",
@@ -35,69 +35,6 @@
       "productnaam": "Royal Club Bitter lemon",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.25,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aardappelen Vastkokend",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.95,
-      "inhoud_waarde": 3000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aardappelen Kruimig",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.95,
-      "inhoud_waarde": 3000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Bitter lemon",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Knoflookpoeder",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.75,
-      "inhoud_waarde": 190,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Den Eelder Boeren Vanille Yoghurt",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.23,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Den Eelder Boeren Volle Yoghurt",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Den Eelder Boeren Halfvolle Yoghurt",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",

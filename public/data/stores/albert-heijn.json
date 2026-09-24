@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-09-23T10:54:21.600517+00:00",
+  "updated_at": "2026-09-24T11:14:01.183758+00:00",
   "deals": [
     {
       "productnaam": "Hertog Ijssalon drie chocolades",
@@ -10,105 +10,6 @@
       "actieprijs": 1.8,
       "inhoud_waarde": 830,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mora Crispy chick'n Japanese style",
-      "korting_tekst": "-70% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mora Crispy chick'n Korean style",
-      "korting_tekst": "-70% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Leentjes Kraaaaaaak hagel aardbei",
-      "korting_tekst": "-70% KORTING",
-      "actieprijs": 0.9,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jarritos Guave soda",
-      "korting_tekst": "-70% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 370,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Just for me brownie mini cake",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.92,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Autodrop Most wanted tollende banaan wagens",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Autodrop Most wanted watermeloen bussen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Red Band Juicy bites frambozensmaak",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 145,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vitamin Well Zero raspberry",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Vitamin Well Zero lemon",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Groenteburger broccoli",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
@@ -122,182 +23,38 @@
       "categorie": null
     },
     {
-      "productnaam": "Venz Aardbeien smoothie aardbeismaak",
+      "productnaam": "Milner Jong belegen 20+ plakken",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.34,
-      "inhoud_waarde": 200,
+      "actieprijs": 1.55,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Venz Bananen split banaansmaak",
+      "productnaam": "Milner Komijn 30+ plakken",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.34,
-      "inhoud_waarde": 200,
+      "actieprijs": 1.6,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Eat Natural Granola protein",
+      "productnaam": "Milner Jong 35+ plakken",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
-      "inhoud_waarde": 350,
+      "actieprijs": 1.4,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     },
     {
-      "productnaam": "Eat Natural Granola nuts & seeds",
+      "productnaam": "Milner Extra belegen 35+ plakken",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
-      "inhoud_waarde": 350,
+      "actieprijs": 1.65,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Eat Natural Granola low sugar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell MN21 specialty alkalinebatterij A23",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.79,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell LR44 specialty alkalinebatterij A76",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.79,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell 2025 Lithium-knoopcelbatterijen CR2025",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.84,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell 2016 Lithium-knoopcelbatterijen CR2016",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.84,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Plus 9V-alkaline batterijen 6LR61",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Plus C-alkaline batterijen MN1400",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Plus AAA-alkaline batterijen MN2400",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.09,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Plus AA-alkaline batterijen MN1500",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.09,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Plus D-alkaline batterijen LR20",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.09,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Optimum AAA batterijen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.69,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Optimum AA batterijen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.69,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell 2032 Lithium-knoopcelbatterijen CR2032",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.99,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Optimum AA batterijen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 6.99,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Rechargeable AAA-batterijen 750 mAh",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.89,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 27 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Rechargeable AA-batterijen 1300 mAh",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.89,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "t/m zo. 27 sep",
       "categorie": null
     }

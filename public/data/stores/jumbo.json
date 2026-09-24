@@ -2,320 +2,284 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-22T11:04:52.157948+00:00",
+  "updated_at": "2026-09-24T11:14:01.186791+00:00",
   "deals": [
     {
-      "productnaam": "Dr. Oetker Ristorante Pizza Salami Glutenvrij 315 g",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 315,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante Pizza Mozzarella Glutenvrij 370 g",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 370,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Ginger Goodness Blueberry Kruidenthee",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heinz Tomato Frito Multipack (Tomatensaus) 2 x 212g",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante Pizza Barbecue 340 g",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 340,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Fruit Infusion Variatiebox thee - geel",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 32,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Fruit Infusion Variatiebox thee - paars",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Orange Mandarin Groene Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Sterrenmunt Kruiden Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Eru Prestige Extra Gerijpt 100 g",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Cranberry Groene Thee 20 Stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante Pizza Prosciutto 340 g",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 340,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Bosvruchten Fruit Thee 20 Stuks",
+      "productnaam": "Jumbo Aardappelen Kruimig/ Stamppot 600 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heinz Tomato Frito(r) Creations met gekarameliseerde uien & sjalotten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Kers Fruit Thee 20 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Mango Fruit Thee 20 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Aardbei Fruit Thee 20 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Sinaasappel Fruit Thee 20 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Fruit Variatie Rood Fruit Thee 20 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Fruit Variatie Oranje Fruit Thee 20 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "ERU Kids Snack Smeerkaas 50+ in Losse Porties van 20 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Rooibos Mango & Peach 20 x 2 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Oddlygood Barista Oat Drink 1 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Rude Health Haver Barista 1L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.34,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hellmann's Creamy Ranch 250ML",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.54,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Zonnatura Bio Aubergine Creamy Spread 175 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": 175,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Ovengroente Courgette, Paprika & Wortel 600 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
+      "actieprijs": 0.7,
       "inhoud_waarde": 600,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Campina Langlekker Halfvolle Melk Multipack Mini's 6 x 200 ml",
+      "productnaam": "Iglo Ping & Klaar Cordon Bleu 400 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.85,
-      "inhoud_waarde": 200,
+      "actieprijs": 3.15,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Ping & Klaar Carbonara 400 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Clipper Organic Earl Grey Tea 20 Stuks 41 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 41,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MAGGI Ovenschotel Broccoli Gratin Kruidenmix 43g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.95,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Scharrelkip Kipfilethaasjes 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.16,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hands Off Seriously Dark 85% Cocoa 85 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DubbelDrank Sinaasappel & Perzik met Appel 1 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Senseo Decaf Coffee Pads 36 Stuks 250 g",
+      "productnaam": "Jumbo Garnalen XXL Naturel 350 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.35,
-      "inhoud_waarde": 250,
+      "actieprijs": 4.0,
+      "inhoud_waarde": 350,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Senseo Classic Coffee Pads 36 Stuks 250 g",
+      "productnaam": "Jumbo Gesneden Andijvie 400 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.06,
-      "inhoud_waarde": 250,
+      "actieprijs": 0.9,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Senseo Extra Strong Coffee Pads 36 Stuks 250 g",
+      "productnaam": "Clipper Rooibos & Cinnamon Organic Infusion 20 Stuks 36 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.07,
-      "inhoud_waarde": 250,
+      "actieprijs": 1.9,
+      "inhoud_waarde": 36,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Senseo Strong Coffee Pads 36 Stuks 250 g",
+      "productnaam": "DubbelFrisss 1Kcal Appel - Perzik 1,5L",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.35,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.38,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Senseo Mocca Gourmet Coffee Pads 36 Stuks 250 g",
+      "productnaam": "Dubbelfrisss Framboos-Cranberry 1,5 L",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.35,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Kastanjechampignon & Broccoli Ovengroente 600 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Chocomel 6 x 200 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 200,
+      "actieprijs": 1.4,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Conimex Kroepoek Cassave 75g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.98,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Ping & Klaar Gegrilde Kipfilet met rosti & sperziebonen 390 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.15,
+      "inhoud_waarde": 390,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Kaas Belegen 30+ Plakken 190 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Ping & Klaar Lasagnette met sperziebonen 380 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo's Beste Koffie Snelfiltermaling Aroma 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's IJs Chocolate Fudge Brownie 465ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.65,
+      "inhoud_waarde": 408,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Clipper Orange & Turmeric Organic Infusion 20 Stuks 40 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gum Soft-Picks Pro L 30 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.35,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MAGGI Prei Kerrie 64g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.93,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Pinsa 230 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition Fit High Protein Kwark Perzik - Passievrucht 205g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.9,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's IJs Caramel Chew Chew 465ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 424,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "The Spice Tailor Classic Butter Chicken 300g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Kruidig Pastasaus 460 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.83,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MAGGI Witlof Creme 61 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.93,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch Kipfilet ca. 100 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ehrmann Grand Dessert Vanilla 190 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.6,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ehrmann Grand Dessert Chocolate 190 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.6,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }
