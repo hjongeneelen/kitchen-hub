@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-24T11:14:01.182689+00:00",
+  "updated_at": "2026-09-25T11:18:54.234672+00:00",
   "deals": [
     {
       "productnaam": "Bar le Duc Mineraalwater kzh 4pk",
@@ -82,7 +82,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 23 sep. t/m di. 29 sep",
       "categorie": null
     },
     {
@@ -100,7 +100,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 23 sep. t/m di. 29 sep",
       "categorie": null
     },
     {
@@ -136,133 +136,7 @@
       "actieprijs": 1.42,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Amandeldrink Houdbaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Barista haver",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.33,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Plantaardige Variatie Op Kookroom",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.93,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Kikkererwten in pak",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.75,
-      "inhoud_waarde": 380,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dettol Handzeep lavendel antibacterieel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Keuken ontvetter spray",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Geconcentreerd afwasmiddel original citroen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.47,
-      "inhoud_waarde": 550,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Pure Fresh Cherry Kers Kauwgom fruit Suikervrij Pot",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.5,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Daily Chef Pastasaus groene pesto",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Multi ontvetter spray",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Flower Farm Margarine",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.95,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Badkamer reiniger hygiene spray",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.96,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dettol Handzeep hydraterend",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Vergeer Geraspte gratin kaas",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.38,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 23 sep. t/m di. 29 sep",
       "categorie": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:14:01.188747+00:00",
+  "generated_at": "2026-09-25T11:18:54.240805+00:00",
   "stores": [
     {
       "slug": "aldi",
@@ -9,53 +9,53 @@
       "updated_at": "2026-08-31T12:53:18.586803+00:00"
     },
     {
+      "slug": "poiesz",
+      "name": "Poiesz",
+      "mode": "scan",
+      "deal_count": 4,
+      "updated_at": "2026-09-24T11:14:01.188424+00:00"
+    },
+    {
       "slug": "hoogvliet",
       "name": "Hoogvliet",
       "mode": "scan",
-      "deal_count": 29,
-      "updated_at": "2026-09-24T11:14:01.182689+00:00"
+      "deal_count": 15,
+      "updated_at": "2026-09-25T11:18:54.234672+00:00"
     },
     {
       "slug": "albert-heijn",
       "name": "Albert Heijn",
       "mode": "scan",
-      "deal_count": 6,
-      "updated_at": "2026-09-24T11:14:01.183758+00:00"
+      "deal_count": 37,
+      "updated_at": "2026-09-25T11:18:54.235702+00:00"
     },
     {
       "slug": "dirk",
       "name": "Dirk",
       "mode": "scan",
       "deal_count": 34,
-      "updated_at": "2026-09-24T11:14:01.184467+00:00"
+      "updated_at": "2026-09-25T11:18:54.236891+00:00"
     },
     {
       "slug": "plus",
       "name": "Plus",
       "mode": "scan",
-      "deal_count": 70,
-      "updated_at": "2026-09-24T11:14:01.185387+00:00"
+      "deal_count": 47,
+      "updated_at": "2026-09-25T11:18:54.238259+00:00"
     },
     {
       "slug": "jumbo",
       "name": "Jumbo",
       "mode": "scan",
-      "deal_count": 31,
-      "updated_at": "2026-09-24T11:14:01.186791+00:00"
+      "deal_count": 7,
+      "updated_at": "2026-09-25T11:18:54.239693+00:00"
     },
     {
       "slug": "dekamarkt",
       "name": "Dekamarkt",
       "mode": "scan",
-      "deal_count": 13,
-      "updated_at": "2026-09-24T11:14:01.187735+00:00"
-    },
-    {
-      "slug": "poiesz",
-      "name": "Poiesz",
-      "mode": "scan",
-      "deal_count": 4,
-      "updated_at": "2026-09-24T11:14:01.188424+00:00"
+      "deal_count": 6,
+      "updated_at": "2026-09-25T11:18:54.240406+00:00"
     }
   ]
 }
