@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-26T10:55:26.408016+00:00",
+  "updated_at": "2026-09-27T11:31:46.987111+00:00",
   "deals": [
     {
       "productnaam": "Jumbo Aardappelen Kruimig/ Stamppot 600 g",
@@ -14,47 +14,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Iglo Ping & Klaar Cordon Bleu 400 g",
+      "productnaam": "Mentos Gum Freshmint 28 Stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.15,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Iglo Ping & Klaar Carbonara 400 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Clipper Organic Earl Grey Tea 20 Stuks 41 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 41,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "MAGGI Ovenschotel Broccoli Gratin Kruidenmix 43g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
+      "actieprijs": 1.4,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Scharrelkip Kipfilethaasjes 500 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.16,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

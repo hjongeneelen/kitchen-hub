@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-09-26T10:55:26.406822+00:00",
+  "updated_at": "2026-09-27T11:31:46.985577+00:00",
   "deals": [
     {
       "productnaam": "NALYS Keukenpapier Limited 6+6 gratis",
@@ -415,15 +415,6 @@
       "actieprijs": 1.2,
       "inhoud_waarde": 160,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fernandes Cherry bouquet",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m 29-09-2026",
       "categorie": null
     }

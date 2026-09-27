@@ -2,22 +2,13 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-26T10:55:26.405739+00:00",
+  "updated_at": "2026-09-27T11:31:46.984682+00:00",
   "deals": [
     {
       "productnaam": "Hak Spinazie met room",
       "korting_tekst": "-65% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 345,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Peterselie",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 5,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
@@ -99,6 +90,15 @@
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.89,
       "inhoud_waarde": 415,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mora Frikandel shoarma oven & airfryer 4 st.",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.17,
+      "inhoud_waarde": 280,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
@@ -194,6 +194,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Becel Margarine romig",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
       "productnaam": "Melkunie Protein kwark mango",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 0.79,
@@ -207,6 +216,15 @@
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.69,
       "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Doritos Tortilla chips pure paprika",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 170,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
@@ -235,6 +253,15 @@
       "actieprijs": 1.29,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pepsi Zero 4x25 cl",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.56,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },

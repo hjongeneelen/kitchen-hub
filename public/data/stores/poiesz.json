@@ -2,42 +2,69 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-09-24T11:14:01.188424+00:00",
+  "updated_at": "2026-09-27T11:31:46.986517+00:00",
   "deals": [
     {
-      "productnaam": "Verstegen Zwarte Peper",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.25,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Roodschillige Aardappelen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.95,
-      "inhoud_waarde": 3000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Gevriesdroogde Oregano",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.4,
-      "inhoud_waarde": 18,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Royal Club Bitter lemon",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
+      "productnaam": "Fruityjuice sinaasappel-aardbei",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 20 sep. t/m za. 26 sep",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Blue Band Halvarine Vegan",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lay's Chips Paprika",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Sinaasappel Fruit Thee",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Orange Mandarin Groene Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Blue Band Goede Start! Halvarine Vegan",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Spices Caramelised Pear Zwarte Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
       "categorie": null
     }
   ]
