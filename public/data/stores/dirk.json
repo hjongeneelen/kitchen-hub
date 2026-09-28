@@ -2,17 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-27T11:31:46.984682+00:00",
+  "updated_at": "2026-09-28T13:05:20.353466+00:00",
   "deals": [
-    {
-      "productnaam": "Hak Spinazie met room",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 345,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
     {
       "productnaam": "Milka Oreo sandwich",
       "korting_tekst": "-60% KORTING",
@@ -68,24 +59,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Hak Spinazie",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Rode bieten sticks zoetzuur",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Dr. Oetker Pizza big americans cheese burger",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.89,
@@ -99,33 +72,6 @@
       "korting_tekst": "-57% KORTING",
       "actieprijs": 1.17,
       "inhoud_waarde": 280,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Melkcreme",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.85,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Rode kool met stukjes peer en kaneel",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Gesneden bonen",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 340,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
@@ -167,24 +113,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Hak Rabarbercompote",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 360,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Rode kool met stukjes appel",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Hak Appelmoes met een vleugje kaneel",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 0.99,
@@ -212,15 +140,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Vivera Spinazie kaas filet 2 stuks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Doritos Tortilla chips pure paprika",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 0.99,
@@ -235,6 +154,15 @@
       "actieprijs": 0.85,
       "inhoud_waarde": 90,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Festini perenijs 12 stuks",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 710,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },
@@ -266,11 +194,20 @@
       "categorie": null
     },
     {
-      "productnaam": "Hak Rode bieten schijven",
+      "productnaam": "1 de Beste Knetter toppers 6 stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 355,
+      "actieprijs": 0.62,
+      "inhoud_waarde": 278,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Watermeloenijsjes 6 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.77,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },
@@ -284,10 +221,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Hak Rode kool",
+      "productnaam": "1 de Beste Coloursticks 8 stuks",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 355,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
@@ -325,6 +262,33 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 43,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wagner Pizzeria style prosciutto funghi",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.24,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Pasta pronto fusili courgette broccoli kaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.57,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 29 sep",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hertog Softijs vanille met aardbeiensaus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.87,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 29 sep",
       "categorie": null
     },

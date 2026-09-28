@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-27T11:31:46.987111+00:00",
+  "updated_at": "2026-09-28T13:05:20.355967+00:00",
   "deals": [
     {
       "productnaam": "Jumbo Aardappelen Kruimig/ Stamppot 600 g",
@@ -19,6 +19,168 @@
       "actieprijs": 1.4,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint Clean Breath Intense Mint Suikervrij Duopack 2 x 50 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.3,
+      "inhoud_waarde": 35,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Ping & Klaar Cordon Bleu 400 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.15,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Ping & Klaar Carbonara 400 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Clipper Organic Earl Grey Tea 20 Stuks 41 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 41,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "MAGGI Ovenschotel Broccoli Gratin Kruidenmix 43g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.95,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Scharrelkip Kipfilethaasjes 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.16,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hands Off Seriously Dark 85% Cocoa 85 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DubbelDrank Sinaasappel & Perzik met Appel 1 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Garnalen XXL Naturel 350 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Gesneden Andijvie 400 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.9,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Clipper Rooibos & Cinnamon Organic Infusion 20 Stuks 36 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 36,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DubbelFrisss 1Kcal Appel - Perzik 1,5L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubbelfrisss Framboos-Cranberry 1,5 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Ping & Klaar Gegrilde Kipfilet met rosti & sperziebonen 390 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.15,
+      "inhoud_waarde": 390,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Ping & Klaar Lasagnette met sperziebonen 380 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 380,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Pesto Rosso 185 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 185,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Gerookte Spekblokjes 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.3,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Magere Spekblokjes 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.3,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

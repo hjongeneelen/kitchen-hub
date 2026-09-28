@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-09-27T11:31:46.985577+00:00",
+  "updated_at": "2026-09-28T13:05:20.352498+00:00",
   "deals": [
     {
       "productnaam": "NALYS Keukenpapier Limited 6+6 gratis",
@@ -10,24 +10,6 @@
       "actieprijs": 5.99,
       "inhoud_waarde": 6,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Almhof Magere Franse kwark",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "alleen maandag 28-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Always Inlegkruisjes protect extra long odour",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.33,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "t/m 29-09-2026",
       "categorie": null
     },
@@ -50,33 +32,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Tandpasta repair & protect",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta repair & protect whitening",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Repair & protect extra fresh tandpasta",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Gutlings Basil & Lemon",
       "korting_tekst": "-57% KORTING",
       "actieprijs": 0.99,
@@ -90,87 +45,6 @@
       "korting_tekst": "-57% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Taksi Jungle fruit geen suiker toegevoegd",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Taksi Exotisch fruit",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in Blik Goulashsoep",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "alleen zondag 27-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta complete protection",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Gevoeligheid & Tandvlees tandpasta",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Complete Protection Whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Tandpasta protection whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Tandpasta complete protection fresh",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Gevoelgheid & Tandvlees Whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m 29-09-2026",
       "categorie": null
@@ -275,6 +149,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Punchy Hydration mexican lime",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 29-09-2026",
+      "categorie": null
+    },
+    {
       "productnaam": "Luscombe Elderflower bubbly",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
@@ -365,15 +248,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Vivera Balletjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Verstegen Kruidenmix voor vlees (natriumarm)",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.44,
@@ -392,15 +266,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Fernandes Super Pineapple",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Unox Soep In Zak Champignonsoep",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.0,
@@ -415,6 +280,33 @@
       "actieprijs": 1.2,
       "inhoud_waarde": 160,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 29-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Classico olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.63,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 29-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Illy Arabica selection brazillie koffieboon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.25,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 29-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Originale extra vierge olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.15,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m 29-09-2026",
       "categorie": null
     }

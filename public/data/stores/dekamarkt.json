@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-26T10:55:26.408743+00:00",
+  "updated_at": "2026-09-28T13:05:20.356636+00:00",
   "deals": [
     {
       "productnaam": "Johma Kip mango pistachenootje salade",
@@ -41,11 +41,56 @@
       "categorie": null
     },
     {
-      "productnaam": "Lipton Ice tea green 4x25 cl",
+      "productnaam": "Fish Tales Skipjack tonijn in water",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.88,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Smint XL blackmint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.35,
+      "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Johma Oude kaas salade",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.68,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Aardappel anders Tuinkruiden knoflook",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.83,
+      "inhoud_waarde": 390,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea sparkling 4x25 cl",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.78,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Aardappel anders Bacon ui",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.63,
+      "inhoud_waarde": 390,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }
