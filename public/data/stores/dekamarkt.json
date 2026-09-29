@@ -2,94 +2,67 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-28T13:05:20.356636+00:00",
+  "updated_at": "2026-09-29T12:15:43.318711+00:00",
   "deals": [
     {
-      "productnaam": "Johma Kip mango pistachenootje salade",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.58,
-      "inhoud_waarde": 175,
+      "productnaam": "Grote mandarijnen",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 0.9,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Lipton Ice tea peach",
+      "productnaam": "Activia Yoghurt pruim",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.98,
-      "inhoud_waarde": 500,
+      "actieprijs": 1.45,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta multicare",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.9,
+      "inhoud_waarde": 75,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Smint Peppermint xl sugarfree value pack",
+      "productnaam": "Hak Boerenkool",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.95,
-      "inhoud_waarde": 105,
+      "actieprijs": 1.65,
+      "inhoud_waarde": 680,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Chicken Tonight Zoetzuur-perzik",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.95,
-      "inhoud_waarde": 525,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fish Tales Skipjack tonijn in water",
+      "productnaam": "Valess Schnitzel gepaneerd 2 stuks",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.88,
-      "inhoud_waarde": 160,
+      "inhoud_waarde": 180,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Smint XL blackmint",
+      "productnaam": "Sensodyne Tandpasta compl. protect. cool mint",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.35,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Johma Oude kaas salade",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.68,
-      "inhoud_waarde": 175,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Aardappel anders Tuinkruiden knoflook",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.83,
-      "inhoud_waarde": 390,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea sparkling 4x25 cl",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.78,
-      "inhoud_waarde": 1000,
+      "actieprijs": 3.6,
+      "inhoud_waarde": 75,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Aardappel anders Bacon ui",
+      "productnaam": "Peijnenburg Ontbijtkoek parelkandij",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.63,
-      "inhoud_waarde": 390,
+      "actieprijs": 1.15,
+      "inhoud_waarde": 348,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null

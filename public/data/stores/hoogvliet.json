@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-28T13:05:20.351515+00:00",
+  "updated_at": "2026-09-29T12:15:43.317774+00:00",
   "deals": [
     {
       "productnaam": "Bar le Duc Mineraalwater kzh 4pk",
@@ -77,15 +77,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Santa Maria Tortilla wraps corn&wheat medium 8 stuks 336g",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 8,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 23 sep. t/m di. 29 sep",
-      "categorie": null
-    },
-    {
       "productnaam": "Santa Maria Oat wraps",
       "korting_tekst": "-51% KORTING",
       "actieprijs": 1.49,
@@ -101,24 +92,6 @@
       "inhoud_waarde": 80,
       "inhoud_unit": "stuks",
       "geldig_tekst": "wo. 23 sep. t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Plantaardige Variatie Op Kookroom",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.93,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Keuken ontvetter spray",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
       "categorie": null
     }
   ]

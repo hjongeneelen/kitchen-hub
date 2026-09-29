@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-28T13:05:20.355967+00:00",
+  "updated_at": "2026-09-29T12:15:43.323149+00:00",
   "deals": [
     {
       "productnaam": "Jumbo Aardappelen Kruimig/ Stamppot 600 g",
@@ -153,15 +153,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 3.0,
       "inhoud_waarde": 380,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Pesto Rosso 185 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 185,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
