@@ -2,176 +2,149 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-09-29T12:15:43.323149+00:00",
+  "updated_at": "2026-09-30T12:01:51.049334+00:00",
   "deals": [
     {
-      "productnaam": "Jumbo Aardappelen Kruimig/ Stamppot 600 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.7,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Gum Freshmint 28 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.4,
+      "productnaam": "Jumbo - Reuze Rozijnenbollen - 4 Stuks",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Smint Clean Breath Intense Mint Suikervrij Duopack 2 x 50 stuks",
+      "productnaam": "Johma Komkommer Rauwkostsalade 350g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.3,
-      "inhoud_waarde": 35,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Iglo Ping & Klaar Cordon Bleu 400 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.15,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Iglo Ping & Klaar Carbonara 400 g",
+      "productnaam": "Perfect Fit - Adult - Kattenbrokken - Zalm - 750g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 3.0,
-      "inhoud_waarde": 400,
+      "inhoud_waarde": 750,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Clipper Organic Earl Grey Tea 20 Stuks 41 g",
+      "productnaam": "Lavazza Espresso Decafe koffiecups 10 stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 41,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "MAGGI Ovenschotel Broccoli Gratin Kruidenmix 43g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
+      "actieprijs": 2.5,
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Jumbo Scharrelkip Kipfilethaasjes 500 g",
+      "productnaam": "Becel Original Voordeelfles 750 ml",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.16,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
+      "actieprijs": 2.35,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Hands Off Seriously Dark 85% Cocoa 85 g",
+      "productnaam": "Gourmet Gold Malse Lekkernijen Kattenvoer nat met Kip",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.8,
+      "actieprijs": 0.48,
       "inhoud_waarde": 85,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "DubbelDrank Sinaasappel & Perzik met Appel 1 L",
+      "productnaam": "1FRUIT Appel 200ml",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
+      "actieprijs": 0.5,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gourmet Gold Luxe Mix Kattenvoer nat met Zeevis",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.48,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Gourmet Gold Hartig Torentje Kattenvoer nat met Tonijn",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.45,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CoolBest FruitDrink Mango 1 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Jumbo Garnalen XXL Naturel 350 g",
+      "productnaam": "CoolBest FruitDrink Pineapple 1 L",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.0,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Gesneden Andijvie 400 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.9,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Clipper Rooibos & Cinnamon Organic Infusion 20 Stuks 36 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 36,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "DubbelFrisss 1Kcal Appel - Perzik 1,5L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.38,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Framboos-Cranberry 1,5 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.4,
-      "inhoud_waarde": 1500,
+      "actieprijs": 1.15,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Iglo Ping & Klaar Gegrilde Kipfilet met rosti & sperziebonen 390 g",
+      "productnaam": "Nakd. Raw Fruitreep met noten Lemon Cake 35 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.15,
-      "inhoud_waarde": 390,
+      "actieprijs": 1.9,
+      "inhoud_waarde": 35,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Iglo Ping & Klaar Lasagnette met sperziebonen 380 g",
+      "productnaam": "Gourmet Gold Cassolettes Kattenvoer nat met Rund en Kip",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 380,
+      "actieprijs": 0.38,
+      "inhoud_waarde": 85,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Jumbo Gerookte Spekblokjes 250 g",
+      "productnaam": "Gourmet Gold Mousse Kattenvoer nat met Kalkoen",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.3,
-      "inhoud_waarde": 250,
+      "actieprijs": 0.45,
+      "inhoud_waarde": 85,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Jumbo Magere Spekblokjes 250 g",
+      "productnaam": "CoolBest FruitDrink Passionfruit 1 L",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.3,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Almhof 0% vet yoghurt aardbei",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.78,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     }

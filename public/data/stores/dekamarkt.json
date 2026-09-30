@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-29T12:15:43.318711+00:00",
+  "updated_at": "2026-09-30T12:01:51.044721+00:00",
   "deals": [
     {
       "productnaam": "Grote mandarijnen",
@@ -62,6 +62,33 @@
       "productnaam": "Peijnenburg Ontbijtkoek parelkandij",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.15,
+      "inhoud_waarde": 348,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta fresh mint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.1,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta extra fresh",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.85,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Peijnenburg Ontbijtkoek rozijnen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
       "inhoud_waarde": 348,
       "inhoud_unit": "gram",
       "geldig_tekst": null,

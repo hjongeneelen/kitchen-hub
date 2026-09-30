@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-09-29T12:15:43.319445+00:00",
+  "updated_at": "2026-09-30T12:01:51.046366+00:00",
   "deals": [
     {
       "productnaam": "NALYS Keukenpapier Limited 6+6 gratis",
@@ -307,6 +307,15 @@
       "actieprijs": 4.15,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 29-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mona Duopudding griesmeel-rode bessensaus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 296,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m 29-09-2026",
       "categorie": null
     }
