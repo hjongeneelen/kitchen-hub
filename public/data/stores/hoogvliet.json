@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-09-30T12:01:51.045662+00:00",
+  "updated_at": "2026-10-01T12:34:29.273243+00:00",
   "deals": [
     {
       "productnaam": "Nalys Vochtvangers 2-rol",
@@ -55,33 +55,6 @@
       "actieprijs": 1.15,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Gelderse rookworst",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 285,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Rookworst Extra Magere",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.25,
-      "inhoud_waarde": 275,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Mona Vanille pudding met saus",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     }

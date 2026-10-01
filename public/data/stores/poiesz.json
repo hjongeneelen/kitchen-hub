@@ -2,24 +2,33 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-09-30T12:01:51.048633+00:00",
+  "updated_at": "2026-10-01T12:34:29.275548+00:00",
   "deals": [
     {
-      "productnaam": "Fruityjuice sinaasappel-aardbei",
+      "productnaam": "Garnier Loving Blends Grape Moisture",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
+      "actieprijs": 2.4,
+      "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
       "categorie": null
     },
     {
-      "productnaam": "Blue Band Halvarine Vegan",
-      "korting_tekst": "-58% KORTING",
+      "productnaam": "Garnier Loving Blends Shampoo Grape Moisture",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.4,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Fruit Invusion framboos-aardbei",
+      "korting_tekst": "-56% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 500,
+      "inhoud_waarde": 36,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
       "categorie": null
     },
     {
@@ -28,16 +37,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 30,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Maaza mango",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.75,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
       "categorie": null
     },
     {
@@ -46,16 +46,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 20,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Blue Band Goede Start! Halvarine Vegan",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
       "categorie": null
     },
     {
@@ -64,7 +55,97 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 30,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "WC Eend Fresh Discs Lime Zest",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.93,
+      "inhoud_waarde": 36,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Boerenkool",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": 680,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes O%",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes Extra Kwaliteit",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.95,
+      "inhoud_waarde": 197,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes 0%",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes met Kaneel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pink Lady Appelmoes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.95,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelcompote",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
       "categorie": null
     },
     {
@@ -73,52 +154,7 @@
       "actieprijs": 0.98,
       "inhoud_waarde": 64,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dore aardappelen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.5,
-      "inhoud_waarde": 2000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Big Americans BBQ Pulled Pork",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.5,
-      "inhoud_waarde": 420,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Frutesse Stroop van Peren & Appels",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Frutesse Stroop Extra Rinse Appel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Frutesse Stroop Appel Kaneel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
       "categorie": null
     }
   ]

@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-09-30T12:01:51.044721+00:00",
+  "updated_at": "2026-10-01T12:34:29.272376+00:00",
   "deals": [
     {
       "productnaam": "Grote mandarijnen",
@@ -36,60 +36,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.65,
       "inhoud_waarde": 680,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Valess Schnitzel gepaneerd 2 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.88,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta compl. protect. cool mint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.6,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Ontbijtkoek parelkandij",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 348,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta fresh mint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta extra fresh",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.85,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Ontbijtkoek rozijnen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 348,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null

@@ -2,69 +2,24 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-09-30T12:01:51.047368+00:00",
+  "updated_at": "2026-10-01T12:34:29.274110+00:00",
   "deals": [
     {
-      "productnaam": "Milka Oreo sandwich",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.85,
-      "inhoud_waarde": 92,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Pizza big americans shoarma",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 415,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Pizza big americans bbq chicken",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 460,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Big Americans pizza Texas",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 435,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Green tea strawberry",
-      "korting_tekst": "-58% KORTING",
+      "productnaam": "Palmolive Aroma essences ultimate relax",
+      "korting_tekst": "-63% KORTING",
       "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
+      "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Lipton Ice tea green zero",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Pizza big americans cheese burger",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 415,
+      "productnaam": "Pedigree Hondensnacks ranchos cubes chicken",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 70,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -73,70 +28,52 @@
       "actieprijs": 1.17,
       "inhoud_waarde": 280,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Lipton Ice tea zero sparkling",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
+      "productnaam": "Mentos Gum vibes raspberry 40 st.",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 94,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Lipton Ice tea peach",
+      "productnaam": "Mentos Gum vibes peppermint 40 st.",
       "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 94,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Milka Chocoladereep choco-biscuit",
+      "productnaam": "Pedigree Hondensnacks schmackos multi mix 20 stuks",
       "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.85,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 144,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 6 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mentos Gum pure fresh strawberry 50 stuks",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.99,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Silvo Knoflookpoeder",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes met een vleugje kaneel",
+      "productnaam": "Mentos Kauwgom fresh mint 50 stuks",
       "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 360,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Becel Margarine romig",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Protein kwark mango",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -145,16 +82,16 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 170,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Milka Chocoladereep wit",
+      "productnaam": "Pedigree Tasty mini's cheesy bites met kaas en vlees",
       "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.85,
-      "inhoud_waarde": 90,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 140,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -163,34 +100,43 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 710,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "De Cecco Spaghettini",
+      "productnaam": "Wagner Piccolinis prosciutto 9 stuks",
       "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 500,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 270,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "De Cecco Spaghetti",
+      "productnaam": "Mentos Gum white sweetmint",
       "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 500,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 112,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Pepsi Zero 4x25 cl",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 1000,
+      "productnaam": "Wagner Piccolinis mozzarella tomaat 9 stuks",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 270,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 6 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum pint double caramel billionaire",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 440,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -199,7 +145,7 @@
       "actieprijs": 0.62,
       "inhoud_waarde": 278,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -208,16 +154,16 @@
       "actieprijs": 0.77,
       "inhoud_waarde": 330,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Hak Appelmoes extra kwaliteit",
+      "productnaam": "Hertog Citroentaart merengue",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -226,43 +172,34 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Dubbeldrank Ananas & guave",
+      "productnaam": "Wagner Piccolinis salami, 9 stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.19,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Mexicaanse kruiden natriumarm",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 40,
+      "actieprijs": 1.69,
+      "inhoud_waarde": 270,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Silvo Italiaanse kruiden natriumarm",
+      "productnaam": "Jozo Himalaya zout",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 30,
+      "actieprijs": 1.84,
+      "inhoud_waarde": 90,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Silvo Kipkruiden natriumarm",
+      "productnaam": "Mora Oven bitterballen vegetarisch",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 43,
+      "actieprijs": 2.14,
+      "inhoud_waarde": 240,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -271,7 +208,7 @@
       "actieprijs": 2.24,
       "inhoud_waarde": 375,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -280,7 +217,25 @@
       "actieprijs": 2.57,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Pasta pronto gnocchi tomaat mozzarella",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.57,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 6 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hertog Ijs oranje vanille",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.84,
+      "inhoud_waarde": 825,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -289,16 +244,25 @@
       "actieprijs": 2.87,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Tandpasta pro glasur",
+      "productnaam": "Ben & Jerry's Classic cool-lection 4 stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 75,
+      "actieprijs": 3.32,
+      "inhoud_waarde": 400,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 29 sep",
+      "geldig_tekst": "t/m di. 6 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Caramel brownie party",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.27,
+      "inhoud_waarde": 465,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     }
   ]

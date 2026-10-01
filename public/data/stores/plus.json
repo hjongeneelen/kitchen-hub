@@ -2,321 +2,726 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-09-30T12:01:51.046366+00:00",
+  "updated_at": "2026-10-01T12:34:29.270329+00:00",
   "deals": [
     {
-      "productnaam": "NALYS Keukenpapier Limited 6+6 gratis",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 5.99,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "YAYA Kombucha yuzu",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 330,
+      "productnaam": "Odorex Deodorant roller invisible care",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 50,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "YAYA Kombucha ginger",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 330,
+      "productnaam": "Odorex Deodorant roller 0%",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 50,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Gutlings Basil & Lemon",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 330,
+      "productnaam": "Odorex Deodorant roller active care",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 50,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Gutlings Peach & Ginger",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 330,
+      "productnaam": "Lipton Ice tea green zero",
+      "korting_tekst": "-73% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Unox Stevige soep tomaten groenten",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
+      "productnaam": "Lipton Ice tea peach zero",
+      "korting_tekst": "-73% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "alleen zondag 27-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep in Blik uiensoep",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
+      "productnaam": "Lipton Ice tea peach",
+      "korting_tekst": "-72% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "alleen zondag 27-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Verstegen Mix voor stamppot hutspot",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Mix voor andijvie stamppot",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Mix voor stamppot boerenkool",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Mix voor Braad en Grill BBQ",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Maaltijdmix voor nasi en bami goreng",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Mix voor mosselen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Mix voor hachee",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 16,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Mix voor gehakt bretons",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Punchy Everyday hydration blueberry",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 330,
+      "productnaam": "Lipton Ice tea sparkling zero",
+      "korting_tekst": "-72% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Punchy Hydration mexican lime",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 330,
+      "productnaam": "Lipton Ice tea green",
+      "korting_tekst": "-72% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Luscombe Elderflower bubbly",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 320,
+      "productnaam": "Lipton Raspberry",
+      "korting_tekst": "-72% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Bieze Rauwkost farmer",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
+      "productnaam": "PLUS Pompoen Hokkaido",
+      "korting_tekst": "-72% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Bieze Rauwkost komkommer",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bieze Rauwkost coleslaw",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bieze Rauwkost 4 seizoenen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bieze Rauwkost witte kool",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Luscombe Rhubarb crush",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 320,
+      "productnaam": "Lipton Ice tea sparkling",
+      "korting_tekst": "-72% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Luscombe Sicilian citrus crush",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 320,
+      "productnaam": "Ajax Allesreiniger eucalyptus",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Luscombe Mango & peach crush",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 320,
+      "productnaam": "Odorex Natural fresh deoroller",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 50,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Vivera Gerookte tofu",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.34,
-      "inhoud_waarde": 280,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
+      "productnaam": "Ajax Allesreiniger rode bloemen",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Verstegen Kruidenmix voor vlees (natriumarm)",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.44,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
+      "productnaam": "Ajax Allesreiniger lentebloem",
+      "korting_tekst": "-70% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Verstegen Mix voor hachee",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.44,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
+      "productnaam": "Ajax Allesreiniger fris",
+      "korting_tekst": "-69% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep In Zak Champignonsoep",
-      "korting_tekst": "-50% KORTING",
+      "productnaam": "Ajax Allesreiniger limoen",
+      "korting_tekst": "-69% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vogue Women Adore Parfum Deodorant",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.3,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vogue Parfum deodorant extravagant",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.46,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vogue Parfum deodorant enjoy",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.46,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vogue Parfum deodorant reve exotique",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.46,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "WC Eend Fresh disc refill Limited Edit",
+      "korting_tekst": "-67% KORTING",
       "actieprijs": 2.0,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "vanaf 30-09-2026",
       "categorie": null
     },
     {
-      "productnaam": "Mora Gehaktballetjes in Zoetzure Saus",
+      "productnaam": "WC Eend Fresh Discs navul Lime Zest",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "NALYS Zakdoek aloe vera",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Flespompoen",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Andijvie fijngesneden",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Odorex Deoroller marine fris",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Irish Glory Kruidenboter smeerbaar",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Peijnenburg Dubbel lekker naturel 4-pack",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 196,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Dieren Pasta",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep Hele Noot",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 95,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Tabletzeep olijf",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.66,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Tabletzeep sensitive",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.66,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben&Jerry's Chocolate fudge brownie",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben&Jerry's Non-dairy cookies on cookie dough",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kips Kleintje smeerleverworst mager",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben&Jerry's Brookies",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kips Kleintje kips",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Peijnenburg Parelkandij 4-pack",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 144,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben&Jerry's Cookie dough",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Swiffer Vloerreiniger Droog navulling",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Eru Cheddar slices",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Bananen Fairtrade",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig toiletpapier Shea butter",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben&Jerry's Ijs Strawberry Cheesecake Fairtrade",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig Toiletpapier Care",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Romig",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig toiletpapier puur 38 st",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel Drink Limited Edition 0% vet",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Alo� vera vochtig toiletpapier",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Sensitive vochtig toiletpapier",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep LU",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 87,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep Oreo Brownie",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep Oreo Sandwich",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 92,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kips Slagersleverworst",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Lasagnebladen verdi",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Eru Prestige",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kips Leverworst",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 230,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Compleet Schoon toiletpapier",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 12.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep Cookies",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Light",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Original",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Peijnenburg Naturel 4-pack",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 112,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "ANTA Refresh Eucalyptus",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "ANTA Refresh Sinaasappel",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Olijf vloeibaar",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Extra Magere Rookworst",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Fuze Tea Peach hibiscus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Fuze Tea Mango chamomile",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.55,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Bio quinoa mix",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Gele rijst",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.9,
+      "inhoud_waarde": 325,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Paella rijst",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.3,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel Yoghurt vezels Mango Kiwi Banaan",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Couscous biologisch",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.73,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel Magere kwark sinaasappel abrikoos",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.2,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Classico olijfolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.63,
       "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Illy Arabica selection brazillie koffieboon",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.25,
-      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
+      "geldig_tekst": "vanaf 30-09-2026",
       "categorie": null
     },
     {
-      "productnaam": "Bertolli Originale extra vierge olijfolie",
+      "productnaam": "Lassie Parelcouscous builtjes",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.15,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 29-09-2026",
+      "actieprijs": 1.55,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
       "categorie": null
     },
     {
-      "productnaam": "Mona Duopudding griesmeel-rode bessensaus",
+      "productnaam": "Optimel Yoghurt Griekse stijl vanille 0% vet",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Bio Bulgur",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.93,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "vanaf 30-09-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lucovitaal Magnesium Sachets 400mg",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 5.5,
+      "inhoud_waarde": 0,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 24-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "M�llermilk Milk shake aardbei",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 296,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 29-09-2026",
+      "inhoud_waarde": 381,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "vanaf 30-09-2026",
       "categorie": null
     }
   ]
