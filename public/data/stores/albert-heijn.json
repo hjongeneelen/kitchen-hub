@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-10-01T12:34:29.277470+00:00",
+  "updated_at": "2026-10-02T11:59:47.088443+00:00",
   "deals": [
     {
       "productnaam": "AH Liefde & Passie Spelt gesneden",
@@ -243,15 +243,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.5,
       "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Lavender & rosemary navulling",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 165,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m zo. 4 okt",
       "categorie": null
