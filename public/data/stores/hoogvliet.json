@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-02T11:59:47.084813+00:00",
+  "updated_at": "2026-10-03T11:12:57.907650+00:00",
   "deals": [
     {
       "productnaam": "Nalys Vochtvangers 2-rol",
@@ -10,7 +10,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 30 sep. t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 30 sep. t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -28,7 +28,7 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 150,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 30 sep. t/m di. 6 okt",
       "categorie": null
     },
     {
@@ -37,7 +37,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": null,
+      "geldig_tekst": "wo. 30 sep. t/m di. 6 okt",
       "categorie": null
     },
     {

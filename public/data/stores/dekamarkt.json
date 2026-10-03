@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-02T11:59:47.084086+00:00",
+  "updated_at": "2026-10-03T11:12:57.906854+00:00",
   "deals": [
     {
       "productnaam": "Grote mandarijnen",
@@ -28,15 +28,6 @@
       "actieprijs": 2.9,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Boerenkool",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 680,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }
