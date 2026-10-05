@@ -2,249 +2,78 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-10-04T11:52:35.808779+00:00",
+  "updated_at": "2026-10-05T13:47:56.995524+00:00",
   "deals": [
     {
-      "productnaam": "AH Liefde & Passie Spelt gesneden",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Biologische tofu",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.62,
-      "inhoud_waarde": 325,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Tempeh",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Plantaardige shoarma",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 175,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Plantaardige spinazierondo",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Biologische tofu grootverpakking",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.94,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Plantaardige kipnuggets",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.94,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Biologisch Slamelange rucola veldsla",
+      "productnaam": "Mona Pudding griesmeel rode bessensaus duo",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
+      "inhoud_waarde": 135,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 11 okt",
       "categorie": null
     },
     {
-      "productnaam": "AH Terra Plantaardige mini frikandel",
+      "productnaam": "Mona Pudding vanille met aardbeiensaus duo",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
+      "inhoud_waarde": 135,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 11 okt",
       "categorie": null
     },
     {
-      "productnaam": "AH Terra Biologische gerookte tofu",
+      "productnaam": "Mona Griesmeelpudding met rode bessensaus",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 11 okt",
       "categorie": null
     },
     {
-      "productnaam": "AH Terra Tempeh ketjap",
+      "productnaam": "Mona Vanillepudding met aardbeiensaus",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 11 okt",
       "categorie": null
     },
     {
-      "productnaam": "AH Terra Plantaardige kipstukjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.04,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Tempeh",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.14,
-      "inhoud_waarde": 395,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Crispy tofu",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Bio tofureepjes mild gekruid",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.34,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Tofureepjes Aziatisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Biologische tofureepjes pittig",
+      "productnaam": "AH Andijvie fijngesneden grootverpakking",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.44,
-      "inhoud_waarde": 180,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
+      "geldig_tekst": "t/m zo. 11 okt",
       "categorie": null
     },
     {
-      "productnaam": "AH Terra Plantaardige shoarma",
+      "productnaam": "Verstegen Kruidenmix voor kip pittige knoflook",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 300,
+      "actieprijs": 0.75,
+      "inhoud_waarde": 20,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
+      "geldig_tekst": "t/m zo. 11 okt",
       "categorie": null
     },
     {
-      "productnaam": "AH Terra Biologisch falafel courgette",
+      "productnaam": "Campina Volle milde kwark",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 150,
+      "actieprijs": 1.15,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
+      "geldig_tekst": "t/m zo. 11 okt",
       "categorie": null
     },
     {
-      "productnaam": "AH Terra Tempeh ketjap",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.54,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Terra Plantaardige kipstukjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.72,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok wc active citrus & jasmin",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.2,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok wc active wild hibiscus",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.2,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Persil Deep clean wasmiddel vloeibaar universal",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.75,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Persil Deep clean wasmiddel vloeibaar sensitive",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.75,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "WC-Eend Fresh discs anti-kalk navulling",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 4 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Rude Health Barista hazelnut",
+      "productnaam": "Verstegen Italiaanse kruiden",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 4 okt",
+      "inhoud_waarde": 13,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 11 okt",
       "categorie": null
     }
   ]

@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-10-04T11:52:35.806728+00:00",
+  "updated_at": "2026-10-05T13:47:56.993701+00:00",
   "deals": [
     {
       "productnaam": "Garnier Loving Blends Grape Moisture",
@@ -41,6 +41,24 @@
       "categorie": null
     },
     {
+      "productnaam": "Pickwick Original Rooibos Thee",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Fruit Fusion Thee Variatiebox Fruit Thee",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 32,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
       "productnaam": "Pickwick Orange Mandarin Groene Thee",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
@@ -50,7 +68,79 @@
       "categorie": null
     },
     {
+      "productnaam": "Pickwick Bosvruchten Fruit Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Spices Winterglow Zwarte Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Sterrenmunt Kruiden Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Lemon Groene Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Pure Groene Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
       "productnaam": "Pickwick Spices Caramelised Pear Zwarte Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Spices Autumn Storm Zwarte Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Cranberry Groene Thee",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 30,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick Kers Fruit Thee",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 30,

@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-10-04T11:52:35.805941+00:00",
+  "updated_at": "2026-10-05T13:47:56.992741+00:00",
   "deals": [
     {
       "productnaam": "Palmolive Aroma essences ultimate relax",
@@ -14,19 +14,19 @@
       "categorie": null
     },
     {
-      "productnaam": "Ola Sinas split 9 stuks",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 603,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 6 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Pedigree Hondensnacks ranchos cubes chicken",
       "korting_tekst": "-61% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 6 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pedigree Hondensnack rodeo kip 7st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 123,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
@@ -86,29 +86,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Doritos Tortilla chips pure paprika",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 170,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 6 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Pedigree Tasty mini's cheesy bites met kaas en vlees",
       "korting_tekst": "-53% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 140,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 6 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola Festini perenijs 12 stuks",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 710,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },
@@ -235,15 +217,6 @@
       "actieprijs": 2.57,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 6 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hertog Ijs oranje vanille",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.84,
-      "inhoud_waarde": 825,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 6 okt",
       "categorie": null
     },

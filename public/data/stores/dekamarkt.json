@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-04T11:52:35.799115+00:00",
+  "updated_at": "2026-10-05T13:47:56.991257+00:00",
   "deals": [
     {
       "productnaam": "Grote mandarijnen",
@@ -23,11 +23,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Tandpasta multicare",
+      "productnaam": "Hak Boerenkool",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.9,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 680,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

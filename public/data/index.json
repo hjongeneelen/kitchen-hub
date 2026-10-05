@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:52:35.809290+00:00",
+  "generated_at": "2026-10-05T13:47:56.995897+00:00",
   "stores": [
     {
       "slug": "aldi",
@@ -12,50 +12,50 @@
       "slug": "plus",
       "name": "Plus",
       "mode": "scan",
-      "deal_count": 80,
-      "updated_at": "2026-10-04T11:52:35.772584+00:00"
+      "deal_count": 63,
+      "updated_at": "2026-10-05T13:47:56.989617+00:00"
     },
     {
       "slug": "dekamarkt",
       "name": "Dekamarkt",
       "mode": "scan",
       "deal_count": 3,
-      "updated_at": "2026-10-04T11:52:35.799115+00:00"
+      "updated_at": "2026-10-05T13:47:56.991257+00:00"
     },
     {
       "slug": "hoogvliet",
       "name": "Hoogvliet",
       "mode": "scan",
-      "deal_count": 6,
-      "updated_at": "2026-10-04T11:52:35.805286+00:00"
+      "deal_count": 8,
+      "updated_at": "2026-10-05T13:47:56.991979+00:00"
     },
     {
       "slug": "dirk",
       "name": "Dirk",
       "mode": "scan",
-      "deal_count": 30,
-      "updated_at": "2026-10-04T11:52:35.805941+00:00"
+      "deal_count": 27,
+      "updated_at": "2026-10-05T13:47:56.992741+00:00"
     },
     {
       "slug": "poiesz",
       "name": "Poiesz",
       "mode": "scan",
-      "deal_count": 17,
-      "updated_at": "2026-10-04T11:52:35.806728+00:00"
+      "deal_count": 27,
+      "updated_at": "2026-10-05T13:47:56.993701+00:00"
     },
     {
       "slug": "jumbo",
       "name": "Jumbo",
       "mode": "scan",
-      "deal_count": 15,
-      "updated_at": "2026-10-04T11:52:35.807419+00:00"
+      "deal_count": 12,
+      "updated_at": "2026-10-05T13:47:56.994642+00:00"
     },
     {
       "slug": "albert-heijn",
       "name": "Albert Heijn",
       "mode": "scan",
-      "deal_count": 27,
-      "updated_at": "2026-10-04T11:52:35.808779+00:00"
+      "deal_count": 8,
+      "updated_at": "2026-10-05T13:47:56.995524+00:00"
     }
   ]
 }

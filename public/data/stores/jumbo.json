@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-10-04T11:52:35.807419+00:00",
+  "updated_at": "2026-10-05T13:47:56.994642+00:00",
   "deals": [
     {
       "productnaam": "Jumbo - Reuze Rozijnenbollen - 4 Stuks",
@@ -28,15 +28,6 @@
       "actieprijs": 3.0,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lavazza Espresso Decafe koffiecups 10 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.5,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     },
@@ -82,24 +73,6 @@
       "actieprijs": 0.45,
       "inhoud_waarde": 85,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "CoolBest FruitDrink Mango 1 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "CoolBest FruitDrink Pineapple 1 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
