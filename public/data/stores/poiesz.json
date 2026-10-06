@@ -2,8 +2,35 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-10-05T13:47:56.993701+00:00",
+  "updated_at": "2026-10-06T12:52:56.451821+00:00",
   "deals": [
+    {
+      "productnaam": "Sun Caps Brilliant Shine",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Vaatwastabletten All-in-One Regular",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 19,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun All-in-one tabs",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 314,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
     {
       "productnaam": "Garnier Loving Blends Grape Moisture",
       "korting_tekst": "-60% KORTING",
@@ -20,6 +47,69 @@
       "inhoud_waarde": 300,
       "inhoud_unit": "ml",
       "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tony's Chocolonely reep melk",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.08,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Tony's Chocolonely melk karamel zeezout",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.08,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Tony's Chocolonely reep melk everything",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.08,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Rumsmaak rozijnen vla",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel drinkyoghurt vezels mango ananas 0% vet",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.92,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel Drinkyoghurt mango passievrucht 0% vet",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Franse Uiensoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 64,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
       "categorie": null
     },
     {
@@ -149,6 +239,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Dore aardappelen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "WC Eend Fresh Discs Lime Zest",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.93,
@@ -189,60 +288,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.25,
       "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes Extra Kwaliteit",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
-      "inhoud_waarde": 197,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes 0%",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.7,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes met Kaneel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pink Lady Appelmoes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelcompote",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Maggi Prei Kerrie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.98,
-      "inhoud_waarde": 64,
       "inhoud_unit": "gram",
       "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
       "categorie": null

@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-05T13:47:56.991979+00:00",
+  "updated_at": "2026-10-06T12:52:56.452906+00:00",
   "deals": [
     {
       "productnaam": "Page wc papier - Compleet Schoon toiletpapier",
@@ -65,15 +65,6 @@
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Gelderse rookworst",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 285,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 30 sep. t/m di. 6 okt",
       "categorie": null
     }
   ]

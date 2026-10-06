@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-10-05T13:47:56.994642+00:00",
+  "updated_at": "2026-10-06T12:52:56.455770+00:00",
   "deals": [
     {
       "productnaam": "Jumbo - Reuze Rozijnenbollen - 4 Stuks",
@@ -28,87 +28,6 @@
       "actieprijs": 3.0,
       "inhoud_waarde": 750,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Becel Original Voordeelfles 750 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.35,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Gourmet Gold Malse Lekkernijen Kattenvoer nat met Kip",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.48,
-      "inhoud_waarde": 85,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "1FRUIT Appel 200ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Gourmet Gold Luxe Mix Kattenvoer nat met Zeevis",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.48,
-      "inhoud_waarde": 85,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Gourmet Gold Hartig Torentje Kattenvoer nat met Tonijn",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.45,
-      "inhoud_waarde": 85,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Nakd. Raw Fruitreep met noten Lemon Cake 35 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 35,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Gourmet Gold Cassolettes Kattenvoer nat met Rund en Kip",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.38,
-      "inhoud_waarde": 85,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Gourmet Gold Mousse Kattenvoer nat met Kalkoen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.45,
-      "inhoud_waarde": 85,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "CoolBest FruitDrink Passionfruit 1 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
