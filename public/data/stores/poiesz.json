@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-10-06T12:52:56.451821+00:00",
+  "updated_at": "2026-10-07T12:47:03.468012+00:00",
   "deals": [
     {
       "productnaam": "Sun Caps Brilliant Shine",
@@ -10,7 +10,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 240,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 19,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
@@ -28,25 +28,43 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 314,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
-      "productnaam": "Garnier Loving Blends Grape Moisture",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "productnaam": "Prei",
+      "korting_tekst": "-66% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
-      "productnaam": "Garnier Loving Blends Shampoo Grape Moisture",
+      "productnaam": "Honig basis voor Groentesoep",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "actieprijs": 0.74,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Kippensoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.74,
+      "inhoud_waarde": 53,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Tomatensoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.74,
+      "inhoud_waarde": 87,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
@@ -55,7 +73,7 @@
       "actieprijs": 1.08,
       "inhoud_waarde": 90,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
@@ -64,7 +82,7 @@
       "actieprijs": 1.08,
       "inhoud_waarde": 90,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
@@ -73,7 +91,7 @@
       "actieprijs": 1.08,
       "inhoud_waarde": 90,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
@@ -82,7 +100,34 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel Drink Sinaasappel - Aardbei",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel Drinkyoghurt banaan 0% vet",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.96,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel Drinkyoghurt vezels framboos bosbes 0% vet",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.92,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
@@ -91,7 +136,43 @@
       "actieprijs": 0.92,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Boeren Groentesoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 41,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Franse Champignonsoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 107,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel Drinkyoghurt framboos 0% vet",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Optimel Drinkyoghurt limoen 0% vet",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
@@ -100,7 +181,79 @@
       "actieprijs": 0.84,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Chinese Tomatensoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 112,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Tomaten Cremesoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 112,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Tomaten Groentesoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 79,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Basis voor Juliennesoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Romige Lente-uisoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 102,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Indiase Kerriesoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 108,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Deense Rundvleessoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 74,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig basis voor Limburgse Aspergesoep",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 106,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
@@ -109,187 +262,34 @@
       "actieprijs": 0.8,
       "inhoud_waarde": 64,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
-      "productnaam": "Pickwick Fruit Invusion framboos-aardbei",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 36,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Sinaasappel Fruit Thee",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Original Rooibos Thee",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Fruit Fusion Thee Variatiebox Fruit Thee",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 32,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Orange Mandarin Groene Thee",
+      "productnaam": "Key Aardbeien op Siroop",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
-      "productnaam": "Pickwick Bosvruchten Fruit Thee",
+      "productnaam": "Boursin Knoflook & Fijne Kruiden",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 30,
+      "inhoud_waarde": 80,
       "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     },
     {
-      "productnaam": "Pickwick Spices Winterglow Zwarte Thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Sterrenmunt Kruiden Thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Lemon Groene Thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Pure Groene Thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Spices Caramelised Pear Zwarte Thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Spices Autumn Storm Zwarte Thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Cranberry Groene Thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Kers Fruit Thee",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dore aardappelen",
+      "productnaam": "Happysoaps Deodorant Kokos en Limoen",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 2000,
+      "actieprijs": 4.5,
+      "inhoud_waarde": 45,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "WC Eend Fresh Discs Lime Zest",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.93,
-      "inhoud_waarde": 36,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Boerenkool",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.7,
-      "inhoud_waarde": 680,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes O%",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 27 sep. t/m za. 3 okt",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     }
   ]

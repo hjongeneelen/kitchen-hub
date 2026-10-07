@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-06T12:52:56.449318+00:00",
+  "updated_at": "2026-10-07T12:47:03.466124+00:00",
   "deals": [
     {
       "productnaam": "Pepsi Zero 4x1.5 l",
@@ -136,6 +136,114 @@
       "actieprijs": 1.56,
       "inhoud_waarde": 54,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum mini double gold caramel billionair 6 st.",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.45,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Oatly Haverdrink vol",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.32,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum mini la pistache 6 st.",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.45,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum pint pistache",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.9,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Nescafe Oploskoffie cappuccino 10 koppen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.83,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Oatly Haverdrank bio plantaardig",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.43,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fuze tea Green",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.33,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Oatly Haverdrank barista edition plantaardig",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum la pistache 3 st.",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.43,
+      "inhoud_waarde": 270,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum la peche 3 st.",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.43,
+      "inhoud_waarde": 270,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum pint double caramel billionaire",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.7,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fuze tea Ice tea peach hibiscus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.33,
+      "inhoud_waarde": 1250,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
