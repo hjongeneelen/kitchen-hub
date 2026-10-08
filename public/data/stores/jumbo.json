@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-10-07T12:47:03.485883+00:00",
+  "updated_at": "2026-10-08T12:56:07.802787+00:00",
   "deals": [
     {
       "productnaam": "Remia Truffel Mayonaise met Zwarte Truffel 300 ml",
@@ -86,6 +86,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Jumbo Bami Ketjap Verspakket 2 Personen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 720,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Jumbo Fusilli Salsa Rossa Verspakket 4 Personen",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.74,
@@ -145,24 +154,6 @@
       "actieprijs": 1.8,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Impossible \"Chicken\" Filet 180 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.25,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Den Eelder Geitenmelk 0,75 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": null,
       "categorie": null
     }

@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-10-06T12:52:56.450497+00:00",
+  "updated_at": "2026-10-08T12:56:07.798155+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea green zero",
@@ -77,24 +77,6 @@
       "categorie": null
     },
     {
-      "productnaam": "WC Eend Fresh disc refill Limited Edit",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "vanaf 30-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "WC Eend Fresh Discs navul Lime Zest",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "vanaf 30-09-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "NALYS Zakdoek aloe vera",
       "korting_tekst": "-67% KORTING",
       "actieprijs": 1.0,
@@ -149,21 +131,12 @@
       "categorie": null
     },
     {
-      "productnaam": "Palmolive Tabletzeep olijf",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "vanaf 30-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Tabletzeep sensitive",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "vanaf 30-09-2026",
+      "productnaam": "Milka Chocoladereep Hele Noot",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 95,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
@@ -221,12 +194,30 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Bananen Fairtrade",
+      "productnaam": "Dr. Oetker Bistro Baguette pizzabroodje Hawaii",
       "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Bistro Baguette champignon",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Bistro baguette bolognaise",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
       "categorie": null
     },
     {
@@ -266,6 +257,24 @@
       "categorie": null
     },
     {
+      "productnaam": "Dr. Oetker Bistro Baguette pizzabroodje salami",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep LU",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 87,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
       "productnaam": "Milka Chocoladereep Oreo Brownie",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
@@ -293,6 +302,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Dr. Oetker Bistro Baguette tomaat en kaas",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 13-10-2026",
+      "categorie": null
+    },
+    {
       "productnaam": "Honig Lasagnebladen verdi",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
@@ -308,15 +326,6 @@
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m 13-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Compleet Schoon toiletpapier",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 12.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "vanaf 30-09-2026",
       "categorie": null
     },
     {
@@ -356,42 +365,6 @@
       "categorie": null
     },
     {
-      "productnaam": "ANTA Refresh Eucalyptus",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "vanaf 30-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "ANTA Refresh Sinaasappel",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "vanaf 30-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Becel Olijf vloeibaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "vanaf 30-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Extra Magere Rookworst",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.29,
-      "inhoud_waarde": 275,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "vanaf 30-09-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Fuze Tea Peach hibiscus",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.38,
@@ -410,21 +383,12 @@
       "categorie": null
     },
     {
-      "productnaam": "Lassie Bio quinoa mix",
+      "productnaam": "Lucovitaal Magnesium Sachets 400mg",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 275,
+      "actieprijs": 5.5,
+      "inhoud_waarde": 0,
       "inhoud_unit": "gram",
-      "geldig_tekst": "vanaf 30-09-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Gele rijst",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.9,
-      "inhoud_waarde": 325,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "vanaf 30-09-2026",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     }
   ]
