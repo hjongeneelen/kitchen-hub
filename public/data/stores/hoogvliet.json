@@ -2,8 +2,44 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-08T12:56:07.803637+00:00",
+  "updated_at": "2026-10-09T12:41:47.448528+00:00",
   "deals": [
+    {
+      "productnaam": "Sun Brilliant shine+",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.59,
+      "inhoud_waarde": 16,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Brilliant shine capsules",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 16,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun All-in 1 vaatwastabletten",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 19,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun All-in 1 vaatwastabletten lemon",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.16,
+      "inhoud_waarde": 19,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "categorie": null
+    },
     {
       "productnaam": "Coca-Cola Cola zero zero",
       "korting_tekst": "-50% KORTING",
