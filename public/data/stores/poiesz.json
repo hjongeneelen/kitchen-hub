@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-10-09T12:41:47.449385+00:00",
+  "updated_at": "2026-10-10T12:00:42.753093+00:00",
   "deals": [
     {
       "productnaam": "Sun Caps Brilliant Shine",
@@ -284,12 +284,21 @@
       "categorie": null
     },
     {
+      "productnaam": "Dore aardappelen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "categorie": null
+    },
+    {
       "productnaam": "Happysoaps Deodorant Kokos en Limoen",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 4.5,
       "inhoud_waarde": 45,
       "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "geldig_tekst": null,
       "categorie": null
     }
   ]

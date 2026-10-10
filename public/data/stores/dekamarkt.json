@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-09T12:41:47.446050+00:00",
+  "updated_at": "2026-10-10T12:00:42.749380+00:00",
   "deals": [
     {
       "productnaam": "Pepsi Zero 4x1.5 l",
@@ -23,55 +23,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Knorr Cup-a-soup prei creme 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup franse ui 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 39,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup tomaat creme 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 54,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Knorr Cup-a-soup kip 3 st.",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
+      "actieprijs": 0.78,
       "inhoud_waarde": 36,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup groente 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup indiase kerrie 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 51,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -86,45 +41,9 @@
       "categorie": null
     },
     {
-      "productnaam": "Knorr Cup-a-soup rundvlees 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup mosterd 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup pittige tomaat 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Cup-a-soup chinese tomaat 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
-      "inhoud_waarde": 51,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Knorr Cup-a-soup champignon creme 3 st.",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
+      "actieprijs": 0.78,
       "inhoud_waarde": 51,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
@@ -133,8 +52,89 @@
     {
       "productnaam": "Knorr Cup-a-soup tomaat 3 st.",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.56,
+      "actieprijs": 0.78,
       "inhoud_waarde": 54,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup prei creme 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 48,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup franse ui 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 39,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup tomaat creme 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 54,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup groente 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 48,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup indiase kerrie 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 51,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup rundvlees 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 45,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup mosterd 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup pittige tomaat 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 48,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup chinese tomaat 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 51,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -172,15 +172,6 @@
       "actieprijs": 3.9,
       "inhoud_waarde": 440,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Nescafe Oploskoffie cappuccino 10 koppen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.83,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

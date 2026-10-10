@@ -2,8 +2,17 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-10-09T12:41:47.450505+00:00",
+  "updated_at": "2026-10-10T12:00:42.754231+00:00",
   "deals": [
+    {
+      "productnaam": "Pedigree Hondensnacks ranchos cubes chicken",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
     {
       "productnaam": "Knorr Wereldgerecht zuid-afrikaanse bobotie",
       "korting_tekst": "-61% KORTING",
@@ -18,6 +27,15 @@
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.79,
       "inhoud_waarde": 303,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Cup-a-soup asperge 3 st.",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 45,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 13 okt",
       "categorie": null
@@ -212,11 +230,29 @@
       "categorie": null
     },
     {
+      "productnaam": "Pedigree Tasty mini's cheesy bites met kaas en vlees",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 140,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
+    {
       "productnaam": "Dr. Oetker Suprema small pizza cinque formaggi",
       "korting_tekst": "-53% KORTING",
       "actieprijs": 2.49,
       "inhoud_waarde": 424,
       "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Festini perenijs 12 stuks",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 710,
+      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 13 okt",
       "categorie": null
     },
@@ -266,6 +302,33 @@
       "categorie": null
     },
     {
+      "productnaam": "1 de Beste Watermeloenijsjes 6 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.77,
+      "inhoud_waarde": 330,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hertog Citroentaart merengue",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "1 de Beste Coloursticks 8 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
+    {
       "productnaam": "Optimel Yoghurt Griekse stijl vanille",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.19,
@@ -284,10 +347,28 @@
       "categorie": null
     },
     {
+      "productnaam": "Jozo Himalaya zout",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.84,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
+    {
       "productnaam": "Calve Mayonaise yofresh",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.89,
       "inhoud_waarde": 430,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Classic cool-lection 4 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.32,
+      "inhoud_waarde": 400,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 13 okt",
       "categorie": null

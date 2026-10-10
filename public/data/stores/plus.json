@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-10-09T12:41:47.447177+00:00",
+  "updated_at": "2026-10-10T12:00:42.750505+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea green zero",
@@ -371,15 +371,6 @@
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m 13-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lucovitaal Magnesium Sachets 400mg",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.5,
-      "inhoud_waarde": 0,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     }
   ]
