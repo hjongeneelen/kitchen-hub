@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-10-10T12:00:42.756209+00:00",
+  "updated_at": "2026-10-11T12:13:23.011293+00:00",
   "deals": [
     {
       "productnaam": "Remia Truffel Mayonaise met Zwarte Truffel 300 ml",
@@ -145,15 +145,6 @@
       "actieprijs": 3.5,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Zwarte Bes 1 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.8,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

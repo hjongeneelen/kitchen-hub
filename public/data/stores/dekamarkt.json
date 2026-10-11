@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-10T12:00:42.749380+00:00",
+  "updated_at": "2026-10-11T12:13:23.004916+00:00",
   "deals": [
     {
       "productnaam": "Pepsi Zero 4x1.5 l",
@@ -136,42 +136,6 @@
       "actieprijs": 0.84,
       "inhoud_waarde": 51,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola Magnum mini double gold caramel billionair 6 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.45,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Oatly Haverdrink vol",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola Magnum mini la pistache 6 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.45,
-      "inhoud_waarde": 330,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola Magnum pint pistache",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.9,
-      "inhoud_waarde": 440,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

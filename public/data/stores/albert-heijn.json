@@ -2,150 +2,15 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-10-10T12:00:42.755341+00:00",
+  "updated_at": "2026-10-11T12:13:23.012304+00:00",
   "deals": [
-    {
-      "productnaam": "Palmolive Naturals melk & amandel",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.06,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unicura Balans anti bacterieel handzeep navul",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Naturals zeeptablet original",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 270,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Naturals zeeptablet sensitive",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 270,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unicura Balans antibacterieel handzeep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Almond en melk navulling",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.68,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Olijf & melk navulling",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.72,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Naturals olijf handzeep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Moroccan rose & peony handzeep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Lavender & bergamot handzeep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Hygiene-plus sensitive handzeep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Keuken anti geur handzeep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Hygiene plus family handzeep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Keuken handzeep navulling",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.76,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Magic colour changing foam",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
     {
       "productnaam": "Mona Pudding griesmeel rode bessensaus duo",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 135,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
+      "geldig_tekst": "vandaag",
       "categorie": null
     },
     {
@@ -154,7 +19,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 135,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
+      "geldig_tekst": "vandaag",
       "categorie": null
     },
     {
@@ -163,7 +28,7 @@
       "actieprijs": 1.29,
       "inhoud_waarde": 450,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
+      "geldig_tekst": "vandaag",
       "categorie": null
     },
     {
@@ -172,7 +37,7 @@
       "actieprijs": 1.29,
       "inhoud_waarde": 450,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 11 okt",
+      "geldig_tekst": "vandaag",
       "categorie": null
     },
     {
@@ -181,16 +46,7 @@
       "actieprijs": 1.44,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 11 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Kruidenmix voor kip pittige knoflook",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.75,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 11 okt",
+      "geldig_tekst": "vandaag",
       "categorie": null
     }
   ]
