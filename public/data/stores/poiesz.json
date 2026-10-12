@@ -2,35 +2,8 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-10-11T12:13:23.008731+00:00",
+  "updated_at": "2026-10-12T14:36:15.225013+00:00",
   "deals": [
-    {
-      "productnaam": "Sun Caps Brilliant Shine",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sun Vaatwastabletten All-in-One Regular",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 19,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sun All-in-one tabs",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 314,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
     {
       "productnaam": "Prei",
       "korting_tekst": "-66% KORTING",
@@ -41,246 +14,12 @@
       "categorie": null
     },
     {
-      "productnaam": "Honig basis voor Groentesoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Kippensoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 53,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Tomatensoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 87,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tony's Chocolonely reep melk",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.08,
-      "inhoud_waarde": 90,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tony's Chocolonely melk karamel zeezout",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.08,
-      "inhoud_waarde": 90,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tony's Chocolonely reep melk everything",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.08,
-      "inhoud_waarde": 90,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Campina Rumsmaak rozijnen vla",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Optimel Drink Sinaasappel - Aardbei",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Optimel Drinkyoghurt banaan 0% vet",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.96,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Optimel Drinkyoghurt vezels framboos bosbes 0% vet",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.92,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Optimel drinkyoghurt vezels mango ananas 0% vet",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.92,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Boeren Groentesoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 41,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Franse Champignonsoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 107,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Optimel Drinkyoghurt framboos 0% vet",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Optimel Drinkyoghurt limoen 0% vet",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Optimel Drinkyoghurt mango passievrucht 0% vet",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Chinese Tomatensoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 112,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Tomaten Cremesoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 112,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Tomaten Groentesoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 79,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Basis voor Juliennesoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Romige Lente-uisoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.84,
-      "inhoud_waarde": 102,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Indiase Kerriesoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.8,
-      "inhoud_waarde": 108,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Deense Rundvleessoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.8,
-      "inhoud_waarde": 74,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Limburgse Aspergesoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.8,
-      "inhoud_waarde": 106,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig basis voor Franse Uiensoep",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.8,
-      "inhoud_waarde": 64,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Key Aardbeien op Siroop",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Boursin Knoflook & Fijne Kruiden",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 80,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
       "categorie": null
     },
     {
@@ -289,16 +28,565 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 2000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
       "categorie": null
     },
     {
-      "productnaam": "Happysoaps Deodorant Kokos en Limoen",
+      "productnaam": "Hak Appelmoes",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.5,
-      "inhoud_waarde": 45,
+      "actieprijs": 1.18,
+      "inhoud_waarde": 355,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Remia Fritessaus Classic",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ajax Limoen Allesreiniger",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes O%",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Remia Fritessaus zero sugar",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.1,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Remia American Fritessaus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.08,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Komkommersalade",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes Extra Kwaliteit",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.95,
+      "inhoud_waarde": 197,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dove Go Fresh Cucumber & Green Tea",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.1,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Taksi tropisch fruit 10-pack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.63,
+      "inhoud_waarde": 2000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes 0%",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": 700,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes met Kaneel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pink Lady Appelmoes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Trattoria Kipfilet Toscana",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelcompote",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina magere kwark naturel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina magere kwark met een vleugje vanille",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.05,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kaas Mosterd Salade",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Mineraalwater",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.4,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht Mexicaanse Nacho's",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.4,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Maaltijdpakket Mexicaanse Bu...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.45,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Maaltijdpakket Griekse Kofta",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.4,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Pindakaas 100% Naturel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Indiase Kip Madras Familiepa...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Zwarte Peper met Molen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Maaltijdpakket Japanse Teriy...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.35,
+      "inhoud_waarde": 317,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht Mexicaanse Taco's",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht kip Piri Piri",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.35,
+      "inhoud_waarde": 205,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Zwarte Peper Gemalen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.85,
+      "inhoud_waarde": 38,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Maaltijdpakket Indiase Kip T...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Biologische Zwarte Peper met Molen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 38,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Maaltijdpakketten Italiaanse...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.35,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Maaltijdpakket Indiase Kip M...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.23,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Slagroom Vla",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.3,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Maaltijdpakket Thaise Kip Si...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.23,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Maaltijdpakketten Indonesisc...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.35,
+      "inhoud_waarde": 259,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Zeezout met Molen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 85,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Oregano",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 11,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerechten Maaltijdpakket Chinese Kanto...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 248,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht Maaltijdpakket Indiase Kip Tan...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.83,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Biologische Oregano",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht Maaltijdpakket Zuid-Afrikaanse...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.5,
+      "inhoud_waarde": 309,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht Maaltijdpakket Chinese Beef Sh...",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht maaltijdpakket Hokkien Noodles",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.5,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Koopmans Pannenkoeken Glutenvrij",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.45,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Koopmans Pannenkoeken Compleet mix",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.98,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Koopmans Schudfles pannenkoeken origineel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.05,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Koopmans Schudfles pannenkoeken compleet",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 210,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Himalaya Zout Gekruid met Molen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Koopmans Pannenkoeken Volkoren",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.9,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Koopmans Pannenkoek zesgranen mix",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.9,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Tafelgoud Alternatief Zout",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 44,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Poiesz Pizza Salami Picante",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.45,
+      "inhoud_waarde": 430,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verstegen Selderijzout",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 94,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ei Bieslooksalade Vrije Uitloop",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Van de Boom appel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelsientje kids fruitdrink appel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 1200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Garnier Loving Blends Grape Moisture",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Olijfolie Traditioneel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.85,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Garnier Loving Blends Shampoo Grape Moisture",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Strawberry Cheesecake",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 416,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 4 okt. t/m za. 10 okt",
       "categorie": null
     }
   ]

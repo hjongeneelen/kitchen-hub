@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-10-11T12:13:23.010040+00:00",
+  "updated_at": "2026-10-12T14:36:15.226360+00:00",
   "deals": [
     {
       "productnaam": "Pedigree Hondensnacks ranchos cubes chicken",
@@ -32,15 +32,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Knorr Cup-a-soup asperge 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Knorr Wereldgerecht surinaamse roti",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.79,
@@ -59,37 +50,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Knorr Cup-a-soup mosterd 3 st.",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Fruitdrink sinaasappel",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Knorr Wereldgerecht mexiaanse tacos",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.79,
       "inhoud_waarde": 136,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Santa Maria Tortilla whole wheat large 6 stuks",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 371,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 13 okt",
       "categorie": null
@@ -131,47 +95,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Danio Romige kwark kers",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Garden Gourmet Spinazie kaas rondo",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 1.79,
       "inhoud_waarde": 180,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht Indiase kip madras",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.79,
-      "inhoud_waarde": 326,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Santa Maria Tortilla garlic-herbs 8 stuks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 320,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Fruitdrink Goudappeltje",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 13 okt",
       "categorie": null
     },
@@ -185,20 +113,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Nescafe Gold oploskoffie sticks",
+      "productnaam": "Knorr Wereldgerecht Indiase kip madras",
       "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 25,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Fruitdrink multifruit",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 326,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 13 okt",
       "categorie": null
     },
@@ -244,15 +163,6 @@
       "actieprijs": 2.49,
       "inhoud_waarde": 424,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola Festini perenijs 12 stuks",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 710,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 13 okt",
       "categorie": null
     },
@@ -370,6 +280,15 @@
       "actieprijs": 3.32,
       "inhoud_waarde": 400,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Pan-bake Appelkruimeltaart 4 st.",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 13 okt",
       "categorie": null
     }
