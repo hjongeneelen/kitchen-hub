@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-12T14:36:15.227332+00:00",
+  "updated_at": "2026-10-13T13:41:34.776114+00:00",
   "deals": [
     {
       "productnaam": "Becel Margarine romig",
@@ -127,6 +127,15 @@
       "actieprijs": 1.83,
       "inhoud_waarde": 20,
       "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Air Wick Home spray eucalyptus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 237,
+      "inhoud_unit": "ml",
       "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
       "categorie": null
     }

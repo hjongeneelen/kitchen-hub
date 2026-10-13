@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-10-12T14:36:15.225013+00:00",
+  "updated_at": "2026-10-13T13:41:34.773025+00:00",
   "deals": [
     {
       "productnaam": "Prei",
@@ -14,20 +14,20 @@
       "categorie": null
     },
     {
-      "productnaam": "Campina Rumsmaak rozijnen vla",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Dore aardappelen",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.49,
       "inhoud_waarde": 2000,
       "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Rumsmaak rozijnen vla",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
       "geldig_tekst": "zo. 11 okt. t/m za. 17 okt",
       "categorie": null
     },
