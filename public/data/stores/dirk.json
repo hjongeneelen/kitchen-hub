@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-10-13T13:41:34.774874+00:00",
+  "updated_at": "2026-10-14T11:20:02.185651+00:00",
   "deals": [
     {
       "productnaam": "Pedigree Hondensnacks ranchos cubes chicken",
@@ -280,15 +280,6 @@
       "actieprijs": 3.32,
       "inhoud_waarde": 400,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pan-bake Appelkruimeltaart 4 st.",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 13 okt",
       "categorie": null
     }

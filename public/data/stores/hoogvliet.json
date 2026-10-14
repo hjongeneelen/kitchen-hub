@@ -2,141 +2,123 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-13T13:41:34.776114+00:00",
+  "updated_at": "2026-10-14T11:20:02.184284+00:00",
   "deals": [
     {
-      "productnaam": "Becel Margarine romig",
+      "productnaam": "Unox Good pasta kaas broccoli",
+      "korting_tekst": "-69% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 69,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Good pasta 4kazen",
+      "korting_tekst": "-68% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 66,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Good pasta tomaat bolognese",
+      "korting_tekst": "-68% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 68,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wasa Knackebrod gluten&lact.vrij",
+      "korting_tekst": "-66% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Calve Pindakaas creamy",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelsientje Multivruchtensap zwarte bes",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marne Honing mosterdsaus",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
       "categorie": null
     },
     {
-      "productnaam": "Becel Margarine light",
-      "korting_tekst": "-51% KORTING",
+      "productnaam": "La Vache qui rit Naturel",
+      "korting_tekst": "-54% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 225,
+      "inhoud_waarde": 120,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
       "categorie": null
     },
     {
-      "productnaam": "Coca-Cola Cola zero zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Iglo Roerbak Groente-Idee Italiaans",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 480,
+      "productnaam": "Calve Pindakaas light",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
       "categorie": null
     },
     {
-      "productnaam": "Clipper Rooibos orange",
+      "productnaam": "Dr. Oetker Ristorante pizza salami mozarella pesto",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.83,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "actieprijs": 1.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
       "categorie": null
     },
     {
-      "productnaam": "Clipper Nighty night",
+      "productnaam": "Dr. Oetker Ristorante pizza bolognese",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.88,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "actieprijs": 1.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
       "categorie": null
     },
     {
-      "productnaam": "Easy Roerbaksaus chicken tonight hawai",
+      "productnaam": "Dr. Oetker Ristorante pizza quattro formaggi",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 515,
+      "actieprijs": 1.89,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.91,
+      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Air Wick Le refill magnolia & cherry blossom",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.25,
-      "inhoud_waarde": 19,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Deodorant poederzacht",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.25,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pampers Baby dry pants maat 5",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 8.0,
-      "inhoud_waarde": 24,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pampers Baby dry maat 4",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.15,
-      "inhoud_waarde": 21,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pampers Baby dry maat 6",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.5,
-      "inhoud_waarde": 18,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Clipper Happy monday",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Clipper Organic Lemon & Ginger",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.83,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Air Wick Home spray eucalyptus",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.15,
-      "inhoud_waarde": 237,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 7 okt. t/m di. 13 okt",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
       "categorie": null
     }
   ]

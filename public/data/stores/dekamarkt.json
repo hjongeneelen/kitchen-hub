@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-13T13:41:34.772002+00:00",
+  "updated_at": "2026-10-14T11:20:02.183550+00:00",
   "deals": [
     {
       "productnaam": "Grote mandarijnen",
@@ -28,42 +28,6 @@
       "actieprijs": 3.38,
       "inhoud_waarde": 19,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Perfect Fit Kattenvoer droog adult kip",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.9,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Perfect Fit Kattenvoer droog senior kip",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.98,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Andijvie fijngesneden",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.7,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Perfect Fit Kattenvoer droog adult zalm",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.98,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }
