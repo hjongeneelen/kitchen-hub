@@ -2,15 +2,60 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-10-14T11:20:02.186973+00:00",
+  "updated_at": "2026-10-15T10:57:45.806524+00:00",
   "deals": [
+    {
+      "productnaam": "Page Sensitive",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 6.66,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Strenghten & Protect Freshmint",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Wasparfum Puur & Zacht",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.8,
+      "inhoud_waarde": 342,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Quickwash Optimum White",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 7.6,
+      "inhoud_waarde": 837,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Robijn Quickwash Puur & Zacht",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 7.6,
+      "inhoud_waarde": 837,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
     {
       "productnaam": "PLUS Blauwe bessen",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.08,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
       "categorie": null
     },
     {
@@ -19,7 +64,7 @@
       "actieprijs": 0.8,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
       "categorie": null
     },
     {
@@ -28,16 +73,70 @@
       "actieprijs": 0.68,
       "inhoud_waarde": 225,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep in Blik Tomatencreme Soep",
+      "productnaam": "Parodontax Active GUM Whitening",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Active GUM Repair",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta rapid Relief Whitening",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Tandpasta protection whitening",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Tandpasta complete protection fresh",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Complete Protection Extra Fr",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in Blik Tomatencr�me Soep",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
       "categorie": null
     },
     {
@@ -46,7 +145,16 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Proglasur Active Shield Whitening",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -55,7 +163,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
       "categorie": null
     },
     {
@@ -64,7 +172,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
       "categorie": null
     },
     {
@@ -73,7 +181,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
       "categorie": null
     },
     {
@@ -82,7 +190,25 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Rijstwafels gezouten biologisch",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Tarwezemelen bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -91,7 +217,7 @@
       "actieprijs": 0.74,
       "inhoud_waarde": 40,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -100,7 +226,7 @@
       "actieprijs": 0.74,
       "inhoud_waarde": 40,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -109,7 +235,7 @@
       "actieprijs": 0.94,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -118,7 +244,97 @@
       "actieprijs": 0.94,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "BioToday Soda apple & elderflower",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "BioToday Vegan ricecakes chocolate bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Kikkererwten bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 370,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "BioToday Soda pink grapefruit",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "BioToday Soda white grape & cardamom",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Roggevlokken bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "RAW Organic Sports Protein Salted Caramel Bar Bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 47,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "RAW Organic Sports Protein Chocolate Bar Bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 47,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Gepofte tarwe bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Roggemeel bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -127,7 +343,7 @@
       "actieprijs": 1.04,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -136,115 +352,79 @@
       "actieprijs": 1.04,
       "inhoud_waarde": 360,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Gierst - bio",
+      "productnaam": "Raw Organic Food RAW Kokosrasp bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.14,
-      "inhoud_waarde": 400,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 125,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "BioToday Powershot Gember",
+      "productnaam": "Smaakt Gepofte spelt bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.14,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Peterselie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 5,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Lupinebonen bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "BioToday Hummuschips sweet chili bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.29,
       "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Zwarte bonen bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Less Carb Konjac Rijst - bio",
+      "productnaam": "Smaakt Pofmais bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 270,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Viergranenvlokken bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Roggebrood bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Zuurkool & rode biet bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Groene linzen biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
+      "actieprijs": 1.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "BioToday Linzenwafels bio",
+      "productnaam": "Raw Organic Food Lijnzaadmix goji bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Adukibonen bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Raw Organic Food Lijnzaadmix chia sesam bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
+      "actieprijs": 1.29,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Jackfruit Original",
+      "productnaam": "Smaakt Rode splitlinzen biologisch",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
+      "actieprijs": 1.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -253,7 +433,7 @@
       "actieprijs": 1.32,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -262,7 +442,7 @@
       "actieprijs": 1.34,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -271,7 +451,7 @@
       "actieprijs": 1.34,
       "inhoud_waarde": 350,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -280,7 +460,7 @@
       "actieprijs": 1.34,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -289,7 +469,7 @@
       "actieprijs": 1.34,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -298,79 +478,7 @@
       "actieprijs": 1.34,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Speltvlokken biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "BioToday Hummuschips Indian curry",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "BioToday Kokosrasp fijn bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Maismeel bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Kikkererwten biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "BioToday Hummus smoky salt tomato bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "BioToday Hummus spicy bell pepper bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Mungbonen biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -379,7 +487,7 @@
       "actieprijs": 1.54,
       "inhoud_waarde": 680,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -388,7 +496,7 @@
       "actieprijs": 1.54,
       "inhoud_waarde": 11,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -397,7 +505,7 @@
       "actieprijs": 1.54,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -406,7 +514,7 @@
       "actieprijs": 1.54,
       "inhoud_waarde": 30,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -415,169 +523,115 @@
       "actieprijs": 1.54,
       "inhoud_waarde": 40,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Raw Organic Food Protein oatmeal - bio",
+      "productnaam": "Smaakt Dadels bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Sultanarozijnen bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
+      "actieprijs": 1.59,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Proteine brood less carb biologisch",
+      "productnaam": "Smaakt Mayonaise zonder ei bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": 250,
+      "actieprijs": 1.59,
+      "inhoud_waarde": 235,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "BioToday Crispy cracker sesam rozemarijn bio",
+      "productnaam": "Smaakt Tomatensap bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": 250,
+      "actieprijs": 1.59,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Lijnzaad 500g - bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Lijnzaadmeel biologisch",
+      "productnaam": "Silvo Peper zwart molen",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
+      "actieprijs": 1.59,
+      "inhoud_waarde": 35,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Ontbijtgranenmix bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Wortelsap biologisch",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Peterselie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 17,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Smaakt Paneermeel 400g - bio",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.79,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Kikkererwtenmeel bio",
+      "productnaam": "Silvo Italiaanse kruiden",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": 400,
+      "actieprijs": 1.79,
+      "inhoud_waarde": 32,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "BioToday Pate kruiden bio",
+      "productnaam": "BioToday Spelt speculaasjes BIOT bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Koeken cranberry en kokos bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "BioToday Coconut lemon cookies bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
+      "actieprijs": 1.79,
       "inhoud_waarde": 175,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Zwitsal sensitive billendoekjes",
+      "productnaam": "Smaakt Rodebietensap bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 57,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Rode linzenpasta bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Sesamzaad zwart bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Studentenhaver biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Kokosmeel bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Parelcouscous bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Sesamzaad ongepeld biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Peper zwart gemalen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Peper zwart heel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.74,
-      "inhoud_waarde": 44,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -586,7 +640,7 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -595,16 +649,16 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "BioToday Pate champignon bio",
+      "productnaam": "BioToday Pat� champignon bio",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.84,
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -613,7 +667,7 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -622,7 +676,7 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 160,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -631,7 +685,7 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -640,7 +694,7 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -649,7 +703,7 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -658,7 +712,7 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -667,7 +721,7 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -676,16 +730,7 @@
       "actieprijs": 1.84,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Pompoenpassata bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.94,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -694,7 +739,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "alleen zondag 18-10-2026",
       "categorie": null
     },
     {
@@ -703,16 +748,16 @@
       "actieprijs": 2.04,
       "inhoud_waarde": 120,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
       "productnaam": "BioToday Vegan Coconut Bar 3 stuks biologisch",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.04,
-      "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "inhoud_waarde": 3,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -721,7 +766,7 @@
       "actieprijs": 2.04,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -730,178 +775,79 @@
       "actieprijs": 2.04,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
       "productnaam": "Smaakt Vegan Caramel Bar 3 stuks biologisch",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.04,
-      "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "inhoud_waarde": 3,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Zwitsal Baby badschuim",
+      "productnaam": "Smaakt Vegan ravioli bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.14,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Tempeh bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.14,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Witte quinoa biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.14,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "BioToday No bee honey squeeze bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.14,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Appelsap bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.14,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Raw Organic Food Chiazaad biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
+      "actieprijs": 2.19,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "BioToday Pindakaas hazelnoot-cacao - bio",
+      "productnaam": "BioToday Pindakaas chili bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
+      "actieprijs": 2.19,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Proteine cracker less carb biologisch",
+      "productnaam": "BioToday Gemengde notenpasta bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
-      "inhoud_waarde": 200,
+      "actieprijs": 2.27,
+      "inhoud_waarde": 170,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Raw Organic Food Rozijnenmix bio",
+      "productnaam": "Smaakt Tamari biologisch",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
+      "actieprijs": 2.29,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Raw Organic Food Sultanarozijnen biologisch",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.29,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "BioToday Speltmeerzadenkoek bio",
+      "productnaam": "Smaakt Crackers boekweit bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
+      "actieprijs": 2.29,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Less carb pasta bio",
+      "productnaam": "Smaakt Crackers spelt & lijnzaad bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Less Carb Lijnzaadchips Kurkuma bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.24,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Less Carb Minicracker rozemarijn",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.34,
+      "actieprijs": 2.29,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Less carb cracker rozemarijn bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.34,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Less Carb Tortilla",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.34,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Quinoa tricolore met zeewier bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.34,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Tofu bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.34,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Less Carb Lijnzaadchips Chili bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.34,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -910,7 +856,7 @@
       "actieprijs": 2.44,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -919,7 +865,7 @@
       "actieprijs": 2.44,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -928,7 +874,7 @@
       "actieprijs": 2.44,
       "inhoud_waarde": 125,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -937,7 +883,7 @@
       "actieprijs": 2.44,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -946,7 +892,7 @@
       "actieprijs": 2.44,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -955,7 +901,7 @@
       "actieprijs": 2.44,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -964,79 +910,43 @@
       "actieprijs": 2.54,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "BioToday Kokosolie ontgeurd biologisch",
+      "productnaam": "Smaakt Cashewnoten biologisch",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.64,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Notenmix biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.64,
+      "actieprijs": 2.69,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Amandelschaafsel biologisch",
+      "productnaam": "Smaakt Noten-vruchtenmix bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.64,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Hazelnootmeel ger. bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.74,
+      "actieprijs": 2.69,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Abrikozen bio",
+      "productnaam": "Raw Organic Food Spirulinapoeder",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.74,
-      "inhoud_waarde": 250,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 175,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Raw Organic Food Crackers zaden-pitten",
+      "productnaam": "Smaakt Muesli less carb biologisch",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.84,
-      "inhoud_waarde": 125,
+      "actieprijs": 2.79,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Raw Organic Food Salademix Italiaans bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.84,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Raw Organic Food Raw crackers kikkererwt-zeezout bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.84,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -1045,61 +955,34 @@
       "actieprijs": 2.94,
       "inhoud_waarde": 170,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Raw Organic Food RAW Cacaonibs bio",
+      "productnaam": "Raw Organic Food Hennepzaad biologisch",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.24,
-      "inhoud_waarde": 125,
+      "actieprijs": 3.29,
+      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Pecannoten ongezouten bio",
+      "productnaam": "Zwitsal Billendoekjes Lotion",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.24,
-      "inhoud_waarde": 170,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "actieprijs": 3.29,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "BioToday Cashewnootpasta bio",
+      "productnaam": "Raw Organic Food Pompoenpitolie",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.34,
-      "inhoud_waarde": 170,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Muesli XL 1500g - bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.74,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smaakt Havervlokken XL biologisch",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.74,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal zeepvrije wasgel pomp",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.84,
-      "inhoud_waarde": 400,
+      "actieprijs": 3.79,
+      "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -1108,16 +991,16 @@
       "actieprijs": 4.04,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Pistachenoten gepeld bio",
+      "productnaam": "Smaakt Lijnzaad gebroken XL bio",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.24,
-      "inhoud_waarde": 170,
+      "actieprijs": 4.29,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -1126,25 +1009,7 @@
       "actieprijs": 5.84,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Shampoo",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 6.24,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Zeepvrije Wasgel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 6.24,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
@@ -1153,16 +1018,70 @@
       "actieprijs": 6.34,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Smaakt Speltmuesli XL 1500g - bio",
+      "productnaam": "Segafredo Espresso intermezzo bonen",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.24,
-      "inhoud_waarde": 1500,
+      "actieprijs": 9.99,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 14 okt. t/m di. 20 okt",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verkade Wit crisp chocoladereep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.18,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milner Jong 35+ plakken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verkade Hazelnoot/melk chocoladereep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milner Jong Belegen 35+ plakken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milner Belegen 35+ plakken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "NALYS Toiletpapier Soft Mega Pack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     }
   ]

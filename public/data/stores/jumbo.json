@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-10-14T11:20:02.186367+00:00",
+  "updated_at": "2026-10-15T10:57:45.807893+00:00",
   "deals": [
     {
       "productnaam": "Jumbo Biologische Pompoen",
@@ -14,10 +14,109 @@
       "categorie": null
     },
     {
-      "productnaam": "Jumbo Roerbakmix Italiaans 400 g",
+      "productnaam": "Frisia Sour Tunes 150 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.15,
+      "actieprijs": 0.94,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Grand'Italia Gnocchi di Patate 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jules Destrooper Crisp'n Cream Butter Crisps Filled with Vanilla Cream 114 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 114,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Grand'Italia Specialita Gnocchetti Sardi 500 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.44,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Holie's Chewy Bar Cookie Dough 105g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.64,
+      "inhoud_waarde": 105,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Kellogg's Rice Krispies 360 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 360,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Grand'Italia Gnocchi Formaggi 400 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
       "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Grand'Italia Gnocchi Mozzarella e Pomodoro 400 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Douwe Egberts Dolce Gusto Koffiecups Lungo 16 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 7,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Douwe Egberts Dolce Gusto Koffiecups Cafe au Lait 16 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Douwe Egberts Dolce Gusto Koffiecups Cappuccino 2 X 8 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 176,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's Strawberry Doughnut-eee 393 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 393,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
