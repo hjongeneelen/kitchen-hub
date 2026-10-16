@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-10-15T10:57:45.806524+00:00",
+  "updated_at": "2026-10-16T10:50:33.123857+00:00",
   "deals": [
     {
       "productnaam": "Page Sensitive",
@@ -77,6 +77,33 @@
       "categorie": null
     },
     {
+      "productnaam": "Sensodyne Tandpasta repair & protect",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta repair & protect whitening",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Repair & protect extra fresh tandpasta",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
       "productnaam": "Parodontax Active GUM Whitening",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 3.33,
@@ -87,6 +114,42 @@
     },
     {
       "productnaam": "Parodontax Active GUM Repair",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta complete protection",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Gevoeligheid & Tandvlees tandpasta",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Complete Protection Whitening",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta rapid relief",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
@@ -131,17 +194,17 @@
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep in Blik Tomatencr�me Soep",
+      "productnaam": "Sensodyne Gevoelgheid & Tandvlees Whitening",
       "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "alleen zondag 18-10-2026",
+      "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
     {
-      "productnaam": "Unox Stevige soep tomaten groenten",
-      "korting_tekst": "-53% KORTING",
+      "productnaam": "Unox Soep in Blik Tomatencr�me Soep",
+      "korting_tekst": "-54% KORTING",
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
       "inhoud_unit": "ml",
@@ -509,24 +572,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Silvo Italiaanse mix zonder zout",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.54,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Paprika mild",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.54,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Smaakt Dadels bio",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.59,
@@ -603,15 +648,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.79,
       "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Italiaanse kruiden",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.79,
-      "inhoud_waarde": 32,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
@@ -1045,42 +1081,6 @@
       "actieprijs": 1.4,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verkade Hazelnoot/melk chocoladereep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 90,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milner Jong Belegen 35+ plakken",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Milner Belegen 35+ plakken",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "NALYS Toiletpapier Soft Mega Pack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 8.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     }

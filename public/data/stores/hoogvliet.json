@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-15T10:57:45.804328+00:00",
+  "updated_at": "2026-10-16T10:50:33.120826+00:00",
   "deals": [
     {
       "productnaam": "Unox Good pasta kaas broccoli",
@@ -63,6 +63,15 @@
       "korting_tekst": "-56% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelsientje Goudappeltje voordeelpak",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
       "categorie": null
