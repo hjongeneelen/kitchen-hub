@@ -2,13 +2,22 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "scan",
-  "updated_at": "2026-08-31T12:53:18.586803+00:00",
+  "updated_at": "2026-10-19T12:20:12.586854+00:00",
   "deals": [
     {
-      "productnaam": "Mini-pruim-trostomaatjes",
-      "korting_tekst": "-52% KORTING",
+      "productnaam": "Reuze rozijnenbollen",
+      "korting_tekst": "-69% KORTING",
       "actieprijs": 1.25,
-      "inhoud_waarde": 300,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "klik voor datum",
+      "categorie": null
+    },
+    {
+      "productnaam": "Conference peren",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
       "geldig_tekst": "klik voor datum",
       "categorie": null

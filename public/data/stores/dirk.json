@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-10-18T10:30:37.258359+00:00",
+  "updated_at": "2026-10-19T12:20:12.590333+00:00",
   "deals": [
     {
       "productnaam": "Van Dobben Oven rundvlees croquetten",
@@ -86,28 +86,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Daily Chef Tagliatelle naturel",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 20 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Daily Chef Spaghetti",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes met een vleugje kaneel",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 360,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 20 okt",
       "categorie": null
@@ -154,15 +136,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 100,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Appelmoes extra kwaliteit",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 355,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 20 okt",
       "categorie": null
     },
@@ -230,15 +203,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Melkunie Vla rum rozijnen",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 20 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Klene Honingbijtjes Suikervrije Drop Zoet Zak",
       "korting_tekst": "-53% KORTING",
       "actieprijs": 0.99,
@@ -284,6 +248,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Colgate Tandpasta blue fresh gel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 20 okt",
+      "categorie": null
+    },
+    {
       "productnaam": "Look O Look Gevulde Kersen sticks Zoet Snoep Zak",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
@@ -306,15 +279,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "ERU Cheddar 45+ Sambal",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 20 okt",
       "categorie": null

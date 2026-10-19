@@ -2,98 +2,8 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-18T10:30:37.257363+00:00",
+  "updated_at": "2026-10-19T12:20:12.589607+00:00",
   "deals": [
-    {
-      "productnaam": "Sun Vaatwastabletten all in one regular",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 3.43,
-      "inhoud_waarde": 19,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sun Vaatwastabletten all in one lemon",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 3.38,
-      "inhoud_waarde": 19,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Zure Mat & Groene Appel 1kcal",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Framboos-cranberry 1kcal",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Appel-perzik",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Sinaasappel-mandarijn",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Witte druif-citroen",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Framboos-cranberry",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Witte druiven citroen 1kcl",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Appel-perzik 1kcal",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
     {
       "productnaam": "Sourcy Vitaminwater framboos-granaatappel",
       "korting_tekst": "-63% KORTING",
@@ -127,15 +37,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 455,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Lasagne verdi spinazie",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },

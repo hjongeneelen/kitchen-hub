@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-18T10:30:37.256352+00:00",
+  "updated_at": "2026-10-19T12:20:12.585806+00:00",
   "deals": [
     {
       "productnaam": "Unox Good pasta kaas broccoli",
@@ -28,33 +28,6 @@
       "actieprijs": 0.69,
       "inhoud_waarde": 68,
       "inhoud_unit": "gram",
-      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Wasa Knackebrod gluten&lact.vrij",
-      "korting_tekst": "-66% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Calve Pindakaas creamy",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Multivruchtensap zwarte bes",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
       "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
       "categorie": null
     },
@@ -113,11 +86,29 @@
       "categorie": null
     },
     {
+      "productnaam": "Namdong Beef jjigae",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 83,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
       "productnaam": "Dr. Oetker Ristorante pizza quattro formaggi",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.89,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.91,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
       "geldig_tekst": "di. 13 okt. t/m di. 20 okt",
       "categorie": null
     }

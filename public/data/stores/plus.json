@@ -2,8 +2,26 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-10-18T10:30:37.259356+00:00",
+  "updated_at": "2026-10-19T12:20:12.587549+00:00",
   "deals": [
+    {
+      "productnaam": "Sun Ultra Power Plus vaatwascapsules",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 4.33,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Intense Power vaatwascapsules",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.73,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
     {
       "productnaam": "Page Sensitive",
       "korting_tekst": "-61% KORTING",
@@ -77,33 +95,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Tandpasta repair & protect",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta repair & protect whitening",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Repair & protect extra fresh tandpasta",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Parodontax Active GUM Whitening",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 3.33,
@@ -122,61 +113,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Tandpasta complete protection",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Gevoeligheid & Tandvlees tandpasta",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Complete Protection Whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta rapid relief",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Sensodyne Tandpasta rapid Relief Whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Tandpasta protection whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Tandpasta complete protection fresh",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
@@ -194,39 +131,12 @@
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Gevoelgheid & Tandvlees Whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in Blik Tomatencr�me Soep",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "alleen zondag 18-10-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Sensodyne Proglasur Active Shield Whitening",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Stevige soep Chinese tomaat",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "alleen zondag 18-10-2026",
       "categorie": null
     },
     {
@@ -240,15 +150,6 @@
     },
     {
       "productnaam": "Unox Soep in Blik Champignonsoep",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "alleen zondag 18-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in Blik uiensoep",
       "korting_tekst": "-51% KORTING",
       "actieprijs": 1.99,
       "inhoud_waarde": 800,
@@ -374,6 +275,15 @@
       "categorie": null
     },
     {
+      "productnaam": "BioToday Soda rhubarb",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 275,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
       "productnaam": "RAW Organic Sports Protein Chocolate Bar Bio",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
@@ -432,15 +342,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.29,
       "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Peterselie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 5,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
@@ -554,15 +455,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Silvo Italiaanse kruiden",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.54,
-      "inhoud_waarde": 11,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Smaakt Pastasaus arrabiata bio",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.54,
@@ -608,15 +500,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Silvo Peper zwart molen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 35,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Smaakt Ontbijtgranenmix bio",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.59,
@@ -631,15 +514,6 @@
       "actieprijs": 1.59,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Peterselie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.79,
-      "inhoud_waarde": 17,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     },
@@ -1004,15 +878,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Zwitsal Billendoekjes Lotion",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.29,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Raw Organic Food Pompoenpitolie",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 3.79,
@@ -1049,15 +914,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Segafredo Selezione organica koffiebonen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 6.34,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Segafredo Espresso intermezzo bonen",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 9.99,
@@ -1080,6 +936,267 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.4,
       "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verkade Hazelnoot/melk chocoladereep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milner Jong Belegen 35+ plakken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milner Belegen 35+ plakken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "NALYS Toiletpapier Soft Mega Pack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 8.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milner Jong Belegen Komijn 30+ plakken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milner Belegen 35+ stuk",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Verspakket curry madras",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verkade Nizza kokos melk",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.3,
+      "inhoud_waarde": 177,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Original",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.88,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Romig",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Verkade Choco s'mores Kokos",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 66,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition N'Joy protein drink vanille",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 310,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Happy Earth Zeepvrije Shampoo Baby & Kids",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 5.0,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition N'Joy protein drink banaan",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 310,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Happy Earth Zeepvrije Was & Badgel Baby & Kids",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 5.0,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Waterwipes Babydoekjes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.1,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wilhelmina Zwart wit 3-pack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.98,
+      "inhoud_waarde": 117,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition N'Joy protein drink aardbei",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 310,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Happy Earth Zink Billencr�me Baby & Kids",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.5,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Waterwipes Babydoekjes 3x48 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 5.5,
+      "inhoud_waarde": 48,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Happy Earth Zachte Body Lotion Baby & Kids",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 5.0,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Verspakket groene curry",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": 1130,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Eat Me Passievrucht",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.33,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Verspakket ovenschotel Prei Kerrie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Original",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition Venom Pre-Workout drink",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Tandenborstel flex interdental medium",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel Light",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 450,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 20-10-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Bloemkoolroosjes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
