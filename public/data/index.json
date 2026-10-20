@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-10-19T12:20:12.592360+00:00",
+  "generated_at": "2026-10-20T11:00:59.572865+00:00",
   "stores": [
-    {
-      "slug": "albert-heijn",
-      "name": "Albert Heijn",
-      "mode": "scan",
-      "deal_count": 5,
-      "updated_at": "2026-10-11T12:13:23.012304+00:00"
-    },
     {
       "slug": "hoogvliet",
       "name": "Hoogvliet",
       "mode": "scan",
-      "deal_count": 12,
-      "updated_at": "2026-10-19T12:20:12.585806+00:00"
+      "deal_count": 11,
+      "updated_at": "2026-10-20T11:00:59.565695+00:00"
     },
     {
       "slug": "aldi",
       "name": "Aldi",
       "mode": "scan",
       "deal_count": 2,
-      "updated_at": "2026-10-19T12:20:12.586854+00:00"
+      "updated_at": "2026-10-20T11:00:59.566591+00:00"
     },
     {
       "slug": "plus",
       "name": "Plus",
       "mode": "scan",
-      "deal_count": 133,
-      "updated_at": "2026-10-19T12:20:12.587549+00:00"
-    },
-    {
-      "slug": "dekamarkt",
-      "name": "Dekamarkt",
-      "mode": "scan",
-      "deal_count": 6,
-      "updated_at": "2026-10-19T12:20:12.589607+00:00"
+      "deal_count": 111,
+      "updated_at": "2026-10-20T11:00:59.567236+00:00"
     },
     {
       "slug": "dirk",
       "name": "Dirk",
       "mode": "scan",
       "deal_count": 34,
-      "updated_at": "2026-10-19T12:20:12.590333+00:00"
+      "updated_at": "2026-10-20T11:00:59.569187+00:00"
     },
     {
       "slug": "poiesz",
       "name": "Poiesz",
       "mode": "scan",
       "deal_count": 4,
-      "updated_at": "2026-10-19T12:20:12.591319+00:00"
+      "updated_at": "2026-10-20T11:00:59.570146+00:00"
     },
     {
       "slug": "jumbo",
       "name": "Jumbo",
       "mode": "scan",
       "deal_count": 9,
-      "updated_at": "2026-10-19T12:20:12.591984+00:00"
+      "updated_at": "2026-10-20T11:00:59.570885+00:00"
+    },
+    {
+      "slug": "dekamarkt",
+      "name": "Dekamarkt",
+      "mode": "scan",
+      "deal_count": 5,
+      "updated_at": "2026-10-20T11:00:59.571705+00:00"
+    },
+    {
+      "slug": "albert-heijn",
+      "name": "Albert Heijn",
+      "mode": "scan",
+      "deal_count": 24,
+      "updated_at": "2026-10-20T11:00:59.572361+00:00"
     }
   ]
 }

@@ -2,59 +2,50 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-19T12:20:12.589607+00:00",
+  "updated_at": "2026-10-20T11:00:59.571705+00:00",
   "deals": [
     {
-      "productnaam": "Sourcy Vitaminwater framboos-granaatappel",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sourcy Vitaminwater mango-guave",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Rivella Original",
+      "productnaam": "Lipton Ice tea zero sparkling",
       "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Friesche Vlag Goudband extra romig",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 455,
+      "productnaam": "Lipton Ice tea green zero",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Friesche Vlag Balance",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 466,
+      "productnaam": "Lipton Ice tea peach",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Nestle Smarties yoghurt aardbei 2 stuks",
+      "productnaam": "Fruity Juice Sinaasappel-mango drink",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fruity Juice Sinaasappel-aardbei drink",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

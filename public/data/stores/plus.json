@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-10-19T12:20:12.587549+00:00",
+  "updated_at": "2026-10-20T11:00:59.567236+00:00",
   "deals": [
     {
       "productnaam": "Sun Ultra Power Plus vaatwascapsules",
@@ -32,15 +32,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Parodontax Strenghten & Protect Freshmint",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Robijn Wasparfum Puur & Zacht",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 2.8,
@@ -63,51 +54,6 @@
       "korting_tekst": "-60% KORTING",
       "actieprijs": 7.6,
       "inhoud_waarde": 837,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Blauwe bessen",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.08,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "alleen zondag 18-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Mango",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.8,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "alleen zondag 18-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Aardbeien (DV)",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.68,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "alleen zondag 18-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Active GUM Whitening",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Active GUM Repair",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
@@ -1054,150 +1000,6 @@
       "actieprijs": 5.0,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein drink banaan",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 310,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Happy Earth Zeepvrije Was & Badgel Baby & Kids",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.0,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Waterwipes Babydoekjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.1,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Wilhelmina Zwart wit 3-pack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.98,
-      "inhoud_waarde": 117,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein drink aardbei",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 310,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Happy Earth Zink Billencr�me Baby & Kids",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.5,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Waterwipes Babydoekjes 3x48 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.5,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Happy Earth Zachte Body Lotion Baby & Kids",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.0,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Verspakket groene curry",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 1130,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Eat Me Passievrucht",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.33,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Verspakket ovenschotel Prei Kerrie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Becel Original",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Venom Pre-Workout drink",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aquafresh Tandenborstel flex interdental medium",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.15,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Becel Light",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 20-10-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Bloemkoolroosjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m 20-10-2026",
       "categorie": null
     }
