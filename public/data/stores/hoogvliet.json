@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-21T11:17:20.249913+00:00",
+  "updated_at": "2026-10-22T11:23:49.553026+00:00",
   "deals": [
     {
       "productnaam": "Always Inlegkruisjes fresh & protect normal",
@@ -100,15 +100,6 @@
       "actieprijs": 2.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "di. 20 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Magnum Pistache pint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.0,
-      "inhoud_waarde": 440,
-      "inhoud_unit": "ml",
       "geldig_tekst": "di. 20 okt. t/m di. 27 okt",
       "categorie": null
     }
