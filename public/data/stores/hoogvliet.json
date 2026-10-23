@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-22T11:23:49.553026+00:00",
+  "updated_at": "2026-10-23T11:07:45.579559+00:00",
   "deals": [
     {
       "productnaam": "Always Inlegkruisjes fresh & protect normal",
@@ -63,15 +63,6 @@
       "korting_tekst": "-52% KORTING",
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 20 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Namdong Beef jjigae",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 83,
       "inhoud_unit": "gram",
       "geldig_tekst": "di. 20 okt. t/m di. 27 okt",
       "categorie": null
