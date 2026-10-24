@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-10-23T11:07:45.580992+00:00",
+  "updated_at": "2026-10-24T10:24:25.072799+00:00",
   "deals": [
     {
       "productnaam": "Aquafresh Fresh & Mint / Aquafresh Fresh & Minty Tandpasta 125ML",
@@ -181,24 +181,6 @@
       "actieprijs": 1.25,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dettol Antibacteriele Schoonmaakdoekjes Oceaanfris 72 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.25,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Clipper Organic Earl Grey Tea 20 Stuks 41 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
-      "inhoud_waarde": 41,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

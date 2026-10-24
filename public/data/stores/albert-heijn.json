@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-10-23T11:07:45.582465+00:00",
+  "updated_at": "2026-10-24T10:24:25.074320+00:00",
   "deals": [
     {
       "productnaam": "Campina Karnemelk bosvruchten",
@@ -189,15 +189,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 8.0,
       "inhoud_waarde": 30,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "A.Vogel Echinaforce sterk** tabletten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 9.5,
-      "inhoud_waarde": 60,
       "inhoud_unit": "stuks",
       "geldig_tekst": "t/m zo. 25 okt",
       "categorie": null

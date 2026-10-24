@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-10-23T11:07:45.580310+00:00",
+  "updated_at": "2026-10-24T10:24:25.072046+00:00",
   "deals": [
     {
       "productnaam": "Blue Band voor Koken, Bakken en Braden Vegan",
@@ -18,6 +18,51 @@
       "korting_tekst": "-51% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "L'OR Lungo Estremo Koffiecups Voordeelpak",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 104,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "L'OR Espresso Ristretto Koffiecups Voordeelpak",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 104,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "L'OR Lungo Elegante Koffiecups Voordeelpak",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 104,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "L'OR Capsules Forza",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 104,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "L'OR Lungo Profondo Koffiecups Voordeelpak",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 104,
       "inhoud_unit": "gram",
       "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
       "categorie": null

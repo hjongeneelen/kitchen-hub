@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-10-23T11:07:45.578643+00:00",
+  "updated_at": "2026-10-24T10:24:25.069979+00:00",
   "deals": [
     {
       "productnaam": "Unox Curry soep extra rijkgevuld",
@@ -28,6 +28,15 @@
       "actieprijs": 1.69,
       "inhoud_waarde": 570,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Daily Chef Spaghetti",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 27 okt",
       "categorie": null
     },
@@ -116,6 +125,51 @@
       "productnaam": "Melkunie Halfvolle yoghurt mild",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "CoolBest Fruitdrink strawberry",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "CoolBest Fruitdrink orange",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "CoolBest Fruitdrink mango",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "CoolBest Fruitdrink passionfruit",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "CoolBest Fruitdrink pineapple",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 27 okt",
