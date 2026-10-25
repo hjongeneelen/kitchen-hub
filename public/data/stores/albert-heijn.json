@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-10-24T10:24:25.074320+00:00",
+  "updated_at": "2026-10-25T10:52:08.321958+00:00",
   "deals": [
     {
       "productnaam": "Campina Karnemelk bosvruchten",
@@ -172,24 +172,6 @@
       "actieprijs": 1.75,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Kids fruitdrink framboos 6-pack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 1200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "A.Vogel Nachtrust 3-in-1",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 8.0,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "t/m zo. 25 okt",
       "categorie": null
     }
