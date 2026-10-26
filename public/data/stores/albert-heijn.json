@@ -2,33 +2,42 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-10-25T10:52:08.321958+00:00",
+  "updated_at": "2026-10-26T12:22:37.815847+00:00",
   "deals": [
+    {
+      "productnaam": "Bonduelle Crispy mais 2 mini's",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Rode bietenblokjes 2 mini's",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonduelle Kikkererwten 2 mini's",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 160,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 1 nov",
+      "categorie": null
+    },
     {
       "productnaam": "Campina Karnemelk bosvruchten",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.84,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Rodolfi Ciliegini cherrytomaten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Rodolfi Polpa tomatenpulp bio",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
@@ -37,7 +46,7 @@
       "actieprijs": 1.12,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
@@ -46,7 +55,7 @@
       "actieprijs": 1.12,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
@@ -55,43 +64,7 @@
       "actieprijs": 1.12,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Fitmousse salted caramel chocolate",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Fitmousse chocolate flavour",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "BitesWeLove Protein bar cookies & cream",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.34,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "BitesWeLove Protein bar cinnamon roll",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.34,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
@@ -100,7 +73,7 @@
       "actieprijs": 1.39,
       "inhoud_waarde": 256,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
@@ -109,7 +82,7 @@
       "actieprijs": 1.39,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
@@ -118,7 +91,7 @@
       "actieprijs": 1.39,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
@@ -127,7 +100,43 @@
       "actieprijs": 1.39,
       "inhoud_waarde": 175,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kleenex Family maxi pack tissues",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.59,
+      "inhoud_waarde": 128,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kleenex Ultra clean maxi keukenpapier",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.94,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kleenex Flexi clean maxi keukenpapier",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Tru Fru Ananas en witte chocolade",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.44,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
@@ -136,34 +145,16 @@
       "actieprijs": 3.49,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
-      "productnaam": "Honig Spaghetti original",
+      "productnaam": "Bepanthen Baby zalf bij rode babybilletjes",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
-      "inhoud_waarde": 550,
+      "actieprijs": 7.79,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Duracell Optimum AAA batterijen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.7,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 25 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "AH Gehaktballetjes ketjap",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 205,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     },
     {
@@ -172,7 +163,16 @@
       "actieprijs": 1.75,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 25 okt",
+      "geldig_tekst": "t/m zo. 1 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelsientje Kids fruitdrink framboos 6-pack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 1200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null
     }
   ]

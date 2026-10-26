@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-25T10:52:08.321114+00:00",
+  "updated_at": "2026-10-26T12:22:37.814953+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea zero sparkling",
@@ -45,6 +45,33 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Clipper Tea zen again 20 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.88,
+      "inhoud_waarde": 35,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Remia Mayolijn 100% plantaardig",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.23,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "7UP Regular",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null

@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-10-25T10:52:08.319242+00:00",
+  "updated_at": "2026-10-26T12:22:37.812515+00:00",
   "deals": [
     {
       "productnaam": "Blue Band voor Koken, Bakken en Braden Vegan",
@@ -10,6 +10,15 @@
       "actieprijs": 1.5,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marne Milde Franse Mosterd Saus",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
       "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
       "categorie": null
     },

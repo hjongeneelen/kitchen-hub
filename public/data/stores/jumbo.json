@@ -2,26 +2,8 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-10-25T10:52:08.320092+00:00",
+  "updated_at": "2026-10-26T12:22:37.813251+00:00",
   "deals": [
-    {
-      "productnaam": "Aquafresh Fresh & Mint / Aquafresh Fresh & Minty Tandpasta 125ML",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerechten Maaltijdpakket Italiaanse Risotto XXL 430 g",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 430,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
     {
       "productnaam": "Knorr Wereldgerechten Maaltijdpakket Indiase Kip Madras XXL 529 g",
       "korting_tekst": "-60% KORTING",
@@ -36,15 +18,6 @@
       "korting_tekst": "-60% KORTING",
       "actieprijs": 2.4,
       "inhoud_waarde": 245,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerechten Maaltijdpakket Mexicaanse Enchilada's XXL 328 g",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 328,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -104,15 +77,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Ristorante Al Salame Vegano 295 g",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 295,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Dr. Oetker Ristorante Pizza Prosciutto 340 g",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 2.0,
@@ -122,45 +86,9 @@
       "categorie": null
     },
     {
-      "productnaam": "Dettol Doekjes Cleanser 110 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.95,
-      "inhoud_waarde": 110,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Coca-Cola Zero Sugar Zero Cafeine 1 L",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.2,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dettol Doekjes Citrus 30 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dettol Spray Badkamer 500ML",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Optimel Magere Yoghurt Aardbei 0% Vet 1L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.3,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
@@ -176,11 +104,38 @@
       "categorie": null
     },
     {
-      "productnaam": "Optimel Magere Yoghurt Bosvruchten 0% Vet 1L",
+      "productnaam": "Clipper Organic Earl Grey Tea 20 Stuks 41 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 1.9,
+      "inhoud_waarde": 41,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mini Babybel Jonge 45+ kaas tussendoortje 5 x 20 g Mini Original Net",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.33,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verkade Ovengebakken Shuttels Kaas & Ui",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Verkade Prinses Aardbei koekjes 5x2 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.15,
+      "inhoud_waarde": 145,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }
