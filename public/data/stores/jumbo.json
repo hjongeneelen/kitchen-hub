@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-10-26T12:22:37.813251+00:00",
+  "updated_at": "2026-10-27T11:42:04.829835+00:00",
   "deals": [
     {
       "productnaam": "Knorr Wereldgerechten Maaltijdpakket Indiase Kip Madras XXL 529 g",
@@ -136,6 +136,69 @@
       "actieprijs": 1.15,
       "inhoud_waarde": 145,
       "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Taksi Jungle Fruit Geen Suiker Toegevoegd 1,5L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Taksi Tropisch Fruit Geen Suiker Toegevoegd 1,5 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.93,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Galbani Grana Padano Kaas 150 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Galbani Parmigiano Reggiano Kaas 100 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "DubbelFrisss 1Kcal Appel - Perzik 1,5L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Coca-Cola Original Taste 1 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.1,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubbelfrisss Framboos-Cranberry 1,5 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

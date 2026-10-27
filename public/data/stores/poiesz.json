@@ -2,96 +2,105 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-10-26T12:22:37.812515+00:00",
+  "updated_at": "2026-10-27T11:42:04.830672+00:00",
   "deals": [
     {
-      "productnaam": "Blue Band voor Koken, Bakken en Braden Vegan",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.5,
+      "productnaam": "Nivea Oogmake-Up Remover Korenbloem",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 3.28,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Vochtig Toiletpapier Fresh",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Rode Bieten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 720,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Pindakaas 100% met Stukjes Pinda",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.44,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Olijfolie Extra Vierge",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.84,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.18,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Mie Nestjes Original",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.98,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
       "categorie": null
     },
     {
-      "productnaam": "Marne Milde Franse Mosterd Saus",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
+      "productnaam": "Hak Appelmoes O%",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
       "inhoud_waarde": 350,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Marne Franse Mosterd Mild",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
       "categorie": null
     },
     {
-      "productnaam": "L'OR Lungo Estremo Koffiecups Voordeelpak",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 4.0,
-      "inhoud_waarde": 104,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "L'OR Espresso Ristretto Koffiecups Voordeelpak",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 4.0,
-      "inhoud_waarde": 104,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "L'OR Lungo Elegante Koffiecups Voordeelpak",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 4.0,
-      "inhoud_waarde": 104,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "L'OR Capsules Forza",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 4.0,
-      "inhoud_waarde": 104,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "L'OR Lungo Profondo Koffiecups Voordeelpak",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 4.0,
-      "inhoud_waarde": 104,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Ananas Stukjes",
+      "productnaam": "Hak Appelmoes met Kaneel",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 250,
+      "actieprijs": 1.2,
+      "inhoud_waarde": 355,
       "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
       "categorie": null
     },
     {
-      "productnaam": "DubbelFrisss 1kcal Witte Druiven-Citroen",
+      "productnaam": "Pink Lady Appelmoes",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.45,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 18 okt. t/m za. 24 okt",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelcompote",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 25 okt. t/m za. 31 okt",
       "categorie": null
     }
   ]

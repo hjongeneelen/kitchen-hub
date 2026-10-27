@@ -2,32 +2,104 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-26T12:22:37.814953+00:00",
+  "updated_at": "2026-10-27T11:42:04.829021+00:00",
   "deals": [
     {
-      "productnaam": "Lipton Ice tea zero sparkling",
+      "productnaam": "Lassie Basmatirijst builtjes",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Pizza big americans shoarma",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 415,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Big Americans pizza Hawaii",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Pizza big americans cheese burger",
       "korting_tekst": "-59% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 415,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Big Americans pizza bbq chicken",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Big Americans pizza Texas",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 435,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Basmatirijst",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum mini classic-almond-white",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 550,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Lipton Ice tea green zero",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
+      "productnaam": "WC-Eend Wc gel ocean",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.66,
+      "inhoud_waarde": 750,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Lipton Ice tea peach",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 1500,
+      "productnaam": "Fernandes Green punch 4x25cl",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.98,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Pickwick English zwarte thee voor pot voordeelpak",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -50,29 +122,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Clipper Tea zen again 20 stuks",
+      "productnaam": "Hak Boerenkool",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.88,
-      "inhoud_waarde": 35,
+      "actieprijs": 1.68,
+      "inhoud_waarde": 680,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Remia Mayolijn 100% plantaardig",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.23,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "7UP Regular",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.8,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
