@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-10-27T11:42:04.827144+00:00",
+  "updated_at": "2026-10-28T12:14:42.915357+00:00",
   "deals": [
     {
       "productnaam": "PLUS Pompoen Hokkaido",
@@ -297,6 +297,33 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.4,
       "inhoud_waarde": 171,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Den Eelder Geitenyoghurt",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.95,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Den Eelder Boeren vanilleyoghurt",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.18,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Big Americans XL pizza pepperoni",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.1,
+      "inhoud_waarde": 565,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
       "categorie": null

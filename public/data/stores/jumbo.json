@@ -2,8 +2,17 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-10-27T11:42:04.829835+00:00",
+  "updated_at": "2026-10-28T12:14:42.916668+00:00",
   "deals": [
+    {
+      "productnaam": "Ben & Jerry's Peanut Butter Cup 100ML",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
     {
       "productnaam": "Knorr Wereldgerechten Maaltijdpakket Indiase Kip Madras XXL 529 g",
       "korting_tekst": "-60% KORTING",
@@ -50,47 +59,137 @@
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Ristorante Pizza Salami Glutenvrij 315 g",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 315,
+      "productnaam": "Ben & Jerry's IJs Chocolate Fudge Brownie 100ml",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 72,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Ristorante Pizza Mozzarella Glutenvrij 370 g",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 370,
+      "productnaam": "Ben & Jerry's IJs Caramel Chew Chew 100ml",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 72,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Ristorante Pizza Barbecue 340 g",
+      "productnaam": "Ben & Jerry's IJs Cookie Dough 100 ml",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Ben & Jerry's IJs Strawberry Cheesecake 100 ml",
       "korting_tekst": "-57% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 340,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 72,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Ristorante Pizza Prosciutto 340 g",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 340,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Coca-Cola Zero Sugar Zero Cafeine 1 L",
+      "productnaam": "Honig Soep in Droge Vorm Basis voor Chinese Kippensoep 56g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 56,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Maaltijdmix voor Tomaten-cremesoep 112 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 112,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Bakplaat Mix Aardappel, Boontjes & Gehaktballetjes met Oosterse Specerijen 36g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 36,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Bakplaat Mix Aardappel, Broccoli & Rundervink met Provencaalse Kruiden 36g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 36,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Maaltijdmix voor Boeren Groentesoep 41 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 41,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Maaltijdmix voor Macaroni en Spaghetti 41 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 41,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Honig Basis voor Franse Champignonsoep 107 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 107,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Heks'nkaas Vegan Origineel 200 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.64,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Aardappelen Kruimig/ Stamppot 600 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.7,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jan Volkoren Pannenkoeken 8 Stuks 540 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 540,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Vivera Plantaardige Shoarma 175 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -113,19 +212,19 @@
       "categorie": null
     },
     {
-      "productnaam": "Mini Babybel Jonge 45+ kaas tussendoortje 5 x 20 g Mini Original Net",
+      "productnaam": "Verkade Ovengebakken Shuttels Kaas & Ui",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.33,
-      "inhoud_waarde": 20,
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Verkade Ovengebakken Shuttels Kaas & Ui",
+      "productnaam": "Jumbo's Vriesverse Maaltijd Groene Curry 450g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 150,
+      "actieprijs": 3.0,
+      "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -149,54 +248,18 @@
       "categorie": null
     },
     {
-      "productnaam": "Taksi Tropisch Fruit Geen Suiker Toegevoegd 1,5 L",
+      "productnaam": "Jan Pannenkoeken Naturel 8 Stuks 540 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.48,
+      "inhoud_waarde": 540,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Taksi Sinaasappel 1,5 L",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.93,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Galbani Grana Padano Kaas 150 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Galbani Parmigiano Reggiano Kaas 100 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "DubbelFrisss 1Kcal Appel - Perzik 1,5L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.38,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Coca-Cola Original Taste 1 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Framboos-Cranberry 1,5 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.4,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
