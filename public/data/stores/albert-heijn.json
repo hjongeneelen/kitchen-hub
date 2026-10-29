@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-10-28T12:14:42.918239+00:00",
+  "updated_at": "2026-10-29T12:24:37.530124+00:00",
   "deals": [
     {
       "productnaam": "Bonduelle Crispy mais 2 mini's",
@@ -171,24 +171,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.75,
       "inhoud_waarde": 1200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Fruitdrink appel 6-pack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Calve Mayonaise",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.35,
-      "inhoud_waarde": 225,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m zo. 1 nov",
       "categorie": null

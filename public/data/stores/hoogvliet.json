@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-10-28T12:14:42.916139+00:00",
+  "updated_at": "2026-10-29T12:24:37.525283+00:00",
   "deals": [
     {
       "productnaam": "Page Compleet schoon toiletpapier",
@@ -50,15 +50,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Peijnenburg Ontbijtkoek zero",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "di. 20 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
       "productnaam": "Zonnatura 100% brandnetel",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.3,
@@ -89,15 +80,6 @@
       "productnaam": "Zonnatura 100% kamille thee",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.3,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "di. 27 okt. t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zonnatura Groene thee & ginseng",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.35,
       "inhoud_waarde": 20,
       "inhoud_unit": "stuks",
       "geldig_tekst": "di. 27 okt. t/m di. 3 nov",

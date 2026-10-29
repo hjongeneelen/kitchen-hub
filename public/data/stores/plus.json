@@ -2,330 +2,393 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-10-28T12:14:42.915357+00:00",
+  "updated_at": "2026-10-29T12:24:37.523717+00:00",
   "deals": [
     {
-      "productnaam": "PLUS Pompoen Hokkaido",
-      "korting_tekst": "-72% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Roomboter croissant klein",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.22,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Breaker Stracciatella Yoghurt",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
+      "productnaam": "NALYS Keukenpapier Limited 6+6 gratis",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 5.32,
+      "inhoud_waarde": 6,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "geldig_tekst": "t/m 03-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Melkunie Breaker appeltaart Yoghurt",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Breaker zero banaan Yoghurt",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Melkunie Breaker Zero Peach",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Breaker cheesecake framboos Yoghurt",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Breaker Yoghurt Lemon Cheesecake",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Breaker zero aardbei Yoghurt",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Breaker vanille Yoghurt",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Breaker Aardbei Yoghurt",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Breaker Perzik Zonnebloempit Yoghurt",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Breaker Banaan Yoghurt",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep In Zak Champignonsoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 570,
+      "productnaam": "Robijn Quickwash Optimum White",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 6.32,
+      "inhoud_waarde": 837,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "geldig_tekst": "t/m 03-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep In Zak Heldere kippensoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.85,
-      "inhoud_waarde": 570,
+      "productnaam": "Robijn Quickwash Puur & Zacht",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 6.32,
+      "inhoud_waarde": 837,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "geldig_tekst": "t/m 03-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep In Zak Mosterdsoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.2,
-      "inhoud_waarde": 570,
+      "productnaam": "Robijn Wasparfum Puur & Zacht",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.33,
+      "inhoud_waarde": 342,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "geldig_tekst": "t/m 03-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Unox Soep In Zak Groentesoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.3,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Handappels Golden Delicious",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep In Zak Ossenstaartsoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.5,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Smeren zonder palmolie 500g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Bakken zonder palmolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in zak Klassieke tomatensoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.35,
-      "inhoud_waarde": 570,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Indomie Noodles mi goreng",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Stokbroodje kruidenboter",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.35,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Pindakaas zonder palmolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.8,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Pindakaas met stukjes zonder palmolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.85,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss 1kcal Appel & zwarte bes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.45,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fisherman's Friends Salmiak suikervrij 3 pack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.8,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Smeren zonder palm",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Afwasmiddel extra citroen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 550,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lu Prince Cake & Choc Chocolade Cakejes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
+      "productnaam": "Nivea Deo spray invisible black&white",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.64,
       "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lu Prince Fourre Koekjes Vanille",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.4,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lu Prince Choco koeken chocolade vanille",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.4,
-      "inhoud_waarde": 171,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Den Eelder Geitenyoghurt",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.95,
-      "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "geldig_tekst": "t/m 03-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Den Eelder Boeren vanilleyoghurt",
+      "productnaam": "Nivea 3-In-1 Verzachtende Reinigingsdoekjes",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.48,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Oogmake-Up Reinigingslotion",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.88,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elnett Satin haarspray Extra Strong Fix",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.88,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elnett Haarspray Satin sterk blauw",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.88,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Soft Cr�me",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Deo spray dry comfort",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.12,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Aftershave balsem sensitive",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 5.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Douchegel cool kick",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.28,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Soothing Micellair Water",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.4,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Douchegel sport",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.28,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Deo spray pearl&beauty",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.32,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Deo roller fresh natural",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.32,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Deo spray fresh active",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.28,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Deo roller dry impact",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.32,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Deo spray fresh natural",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.32,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Deo roller dry comfort",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.32,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Verzorgende Body Milk",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 3.4,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Express Body Lotion",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 3.4,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Douchegel sensitive",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.4,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Douchegel energy",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.32,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Prodent Tandpasta fresh breath",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.44,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Soft Creme",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.6,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elnett Haarspray Satin Normale Fixatie",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.48,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Essentials Dagcr�me 24H Voedend Spf15",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 4.8,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Essentials Dagcr�me + 24H Hydra SPF15",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 4.8,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea 3-in-1 Repair Handcreme",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.8,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Cr�me Blik",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 4.28,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Verzachtende Reinigingsmelk",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 3.2,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Verzachtende Tonic",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 3.2,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Doucheolie natural oil",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 3.2,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Cr�me Blik",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Sensitive Reinigingsdoekjes",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Douchecr�me cr�me care",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Cr�me Soft Douchecr�me",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nivea Douchegel hawaii flower&oil",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.2,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Korenlanders Lekkerste appeltaart",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.18,
+      "actieprijs": 2.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "alleen zondag 01-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Kokosnootdrink Houdbaar",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "geldig_tekst": "t/m 03-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Big Americans XL pizza pepperoni",
+      "productnaam": "Campina Chocoladevla",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.1,
-      "inhoud_waarde": 565,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 21 okt. t/m di. 27 okt",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
       "categorie": null
     }
   ]

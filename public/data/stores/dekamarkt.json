@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-10-28T12:14:42.917316+00:00",
+  "updated_at": "2026-10-29T12:24:37.527994+00:00",
   "deals": [
     {
       "productnaam": "Lassie Basmatirijst builtjes",
@@ -118,15 +118,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Boerenkool",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.68,
-      "inhoud_waarde": 680,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

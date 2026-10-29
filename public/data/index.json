@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:14:42.918946+00:00",
+  "generated_at": "2026-10-29T12:24:37.530696+00:00",
   "stores": [
     {
       "slug": "aldi",
@@ -9,53 +9,53 @@
       "updated_at": "2026-10-26T12:22:37.811105+00:00"
     },
     {
+      "slug": "dirk",
+      "name": "Dirk",
+      "mode": "scan",
+      "deal_count": 59,
+      "updated_at": "2026-10-29T12:24:37.521673+00:00"
+    },
+    {
       "slug": "plus",
       "name": "Plus",
       "mode": "scan",
-      "deal_count": 36,
-      "updated_at": "2026-10-28T12:14:42.915357+00:00"
+      "deal_count": 43,
+      "updated_at": "2026-10-29T12:24:37.523717+00:00"
     },
     {
       "slug": "hoogvliet",
       "name": "Hoogvliet",
       "mode": "scan",
-      "deal_count": 11,
-      "updated_at": "2026-10-28T12:14:42.916139+00:00"
+      "deal_count": 9,
+      "updated_at": "2026-10-29T12:24:37.525283+00:00"
     },
     {
       "slug": "jumbo",
       "name": "Jumbo",
       "mode": "scan",
-      "deal_count": 29,
-      "updated_at": "2026-10-28T12:14:42.916668+00:00"
+      "deal_count": 49,
+      "updated_at": "2026-10-29T12:24:37.526604+00:00"
     },
     {
       "slug": "dekamarkt",
       "name": "Dekamarkt",
       "mode": "scan",
-      "deal_count": 14,
-      "updated_at": "2026-10-28T12:14:42.917316+00:00"
+      "deal_count": 13,
+      "updated_at": "2026-10-29T12:24:37.527994+00:00"
     },
     {
       "slug": "poiesz",
       "name": "Poiesz",
       "mode": "scan",
-      "deal_count": 11,
-      "updated_at": "2026-10-28T12:14:42.917797+00:00"
+      "deal_count": 8,
+      "updated_at": "2026-10-29T12:24:37.529135+00:00"
     },
     {
       "slug": "albert-heijn",
       "name": "Albert Heijn",
       "mode": "scan",
-      "deal_count": 21,
-      "updated_at": "2026-10-28T12:14:42.918239+00:00"
-    },
-    {
-      "slug": "dirk",
-      "name": "Dirk",
-      "mode": "scan",
-      "deal_count": 10,
-      "updated_at": "2026-10-28T12:14:42.918744+00:00"
+      "deal_count": 19,
+      "updated_at": "2026-10-29T12:24:37.530124+00:00"
     }
   ]
 }
