@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-10-29T12:24:37.521673+00:00",
+  "updated_at": "2026-10-30T12:15:27.878554+00:00",
   "deals": [
     {
       "productnaam": "Robijn Wasverzachter tropical 38 wasbeurten",
@@ -47,6 +47,15 @@
       "inhoud_waarde": 525,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 3 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Melkunie Volle melk",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 27 okt",
       "categorie": null
     },
     {
@@ -155,6 +164,15 @@
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 3 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Melkunie Halfvolle melk",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 27 okt",
       "categorie": null
     },
     {

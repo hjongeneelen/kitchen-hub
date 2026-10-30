@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-10-29T12:24:37.523717+00:00",
+  "updated_at": "2026-10-30T12:15:27.880084+00:00",
   "deals": [
     {
       "productnaam": "NALYS Keukenpapier Limited 6+6 gratis",
@@ -371,24 +371,6 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "alleen zondag 01-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Kokosnootdrink Houdbaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Chocoladevla",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
       "categorie": null
     }
   ]
