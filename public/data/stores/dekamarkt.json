@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-11-01T12:46:39.126452+00:00",
+  "updated_at": "2026-11-02T14:55:18.398628+00:00",
   "deals": [
     {
       "productnaam": "Lassie Basmatirijst builtjes",
@@ -68,15 +68,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Ola Magnum mini classic-almond-white",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 550,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "WC-Eend Wc gel ocean",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 1.66,
@@ -118,6 +109,51 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Boerenkool",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.68,
+      "inhoud_waarde": 680,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Rode bieten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.47,
+      "inhoud_waarde": 705,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Sperziebonen fijn gebroken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": 675,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lavazza Koffiecups alu qualita oro",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.35,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Lavazza Koffiecups alu qualita rossa",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.05,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     }

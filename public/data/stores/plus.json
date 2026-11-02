@@ -2,35 +2,8 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-01T12:46:39.123399+00:00",
+  "updated_at": "2026-11-02T14:55:18.396978+00:00",
   "deals": [
-    {
-      "productnaam": "NALYS Keukenpapier Limited 6+6 gratis",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 5.32,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Quickwash Optimum White",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 6.32,
-      "inhoud_waarde": 837,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Quickwash Puur & Zacht",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 6.32,
-      "inhoud_waarde": 837,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
     {
       "productnaam": "Robijn Wasparfum Puur & Zacht",
       "korting_tekst": "-67% KORTING",
@@ -230,15 +203,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Prodent Tandpasta fresh breath",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Nivea Soft Creme",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 2.6,
@@ -371,6 +335,105 @@
       "inhoud_waarde": null,
       "inhoud_unit": null,
       "geldig_tekst": "alleen zondag 01-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Alpro Kokosnootdrink Houdbaar",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Chocoladevla",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Vanillevla",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Magnesium citraat",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hertog Hertog Pistache 825ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.98,
+      "inhoud_waarde": 825,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Zacht & luchtig chocolade",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine Speciaal Voor Nacht",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine D smelttablet",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 10.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine Boost 12+ kauwtablet aardbei",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine Calcium + D Mint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 6.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 03-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine Junior kauwtablet framboos",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 11.75,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 03-11-2026",
       "categorie": null
     }
   ]

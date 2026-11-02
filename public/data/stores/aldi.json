@@ -2,13 +2,13 @@
   "store": "Aldi",
   "slug": "aldi",
   "mode": "scan",
-  "updated_at": "2026-10-26T12:22:37.811105+00:00",
+  "updated_at": "2026-11-02T14:55:18.399226+00:00",
   "deals": [
     {
-      "productnaam": "Reuze rozijnenbollen",
-      "korting_tekst": "-69% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 4,
+      "productnaam": "GOUD GEBAKKEN Low carb crackers",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 3,
       "inhoud_unit": "stuks",
       "geldig_tekst": "klik voor datum",
       "categorie": null

@@ -2,177 +2,204 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-11-01T12:46:39.127949+00:00",
+  "updated_at": "2026-11-02T14:55:18.399673+00:00",
   "deals": [
     {
-      "productnaam": "Bonduelle Crispy mais 2 mini's",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Rode bietenblokjes 2 mini's",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Kikkererwten 2 mini's",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Karnemelk bosvruchten",
+      "productnaam": "Melkunie Bolletjesvla met vanillesmaak",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.84,
+      "actieprijs": 1.15,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
-      "productnaam": "True Dates Sweet peach",
+      "productnaam": "Palmolive Naturals olijf handzeep",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.12,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "True Dates Sour apple",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.12,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "True Dates Caramel popcorn",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.12,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
       "productnaam": "Flower Farm Granenbiscuit naturel zonder palmolie",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.39,
+      "actieprijs": 1.4,
       "inhoud_waarde": 256,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
-      "productnaam": "Grenade Oreo white",
+      "productnaam": "Palmolive Moroccan rose & peony handzeep",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 60,
+      "actieprijs": 1.65,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Lavender & bergamot handzeep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Gourmet Perle ocean flakes in saus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.75,
+      "inhoud_waarde": 340,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
-      "productnaam": "Grenade Oreo",
+      "productnaam": "Mama's Babi pangang",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 60,
+      "actieprijs": 3.25,
+      "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
-      "productnaam": "Flower Farm Regenwoud rakkers zonder palmolie",
+      "productnaam": "Bonzo Megabone hondensnack groot met rund",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.39,
+      "actieprijs": 1.2,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mama's Chicken teriyaki",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.25,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Magic colour changing foam",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.5,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Varta Longlife power AA alkaline batterijen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.85,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Flower Farm Hazelnootpasta zonder palmolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.3,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Varta Longlife power AAA alkaline batterijen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.85,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Almond en melk navulling",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.1,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Olijf & melk navulling",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.15,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonzo Funtastix bacon-kaassmaak hondensnack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
       "inhoud_waarde": 175,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
-      "productnaam": "Kleenex Family maxi pack tissues",
+      "productnaam": "Fitmeals XXL nutrition chicken piri piri",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.59,
-      "inhoud_waarde": 128,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kleenex Ultra clean maxi keukenpapier",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.94,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kleenex Flexi clean maxi keukenpapier",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 1 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tru Fru Ananas en witte chocolade",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.44,
-      "inhoud_waarde": 200,
+      "actieprijs": 3.15,
+      "inhoud_waarde": 425,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
-      "productnaam": "De Koffiejongens Dark roast koffiebonen",
+      "productnaam": "Fitmeals XXL nutrition chicken risotto",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 250,
+      "actieprijs": 3.25,
+      "inhoud_waarde": 425,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
-      "productnaam": "Bepanthen Baby zalf bij rode babybilletjes",
+      "productnaam": "Flower Farm Smeren zonder palmolie light",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.79,
-      "inhoud_waarde": 100,
+      "actieprijs": 1.6,
+      "inhoud_waarde": 375,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
-      "productnaam": "Appelsientje Kids fruitdrink appel 6-pack",
+      "productnaam": "Flower Farm Smeren zonder palmolie value pack",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     },
     {
-      "productnaam": "Appelsientje Kids fruitdrink framboos 6-pack",
+      "productnaam": "Flower Farm Opgroeien zonder palmolie",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 1200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m zo. 1 nov",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 8 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Ping & klaar cordon bleu",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.15,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
     }
   ]
