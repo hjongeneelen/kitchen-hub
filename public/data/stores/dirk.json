@@ -2,33 +2,15 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-11-03T13:43:55.127902+00:00",
+  "updated_at": "2026-11-04T13:52:36.750994+00:00",
   "deals": [
     {
-      "productnaam": "Robijn Wasverzachter tropical 38 wasbeurten",
-      "korting_tekst": "-74% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 765,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Robijn Wasverzachter paradise secret 38 wasbeurten",
-      "korting_tekst": "-73% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 765,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Vlaflip framboos",
+      "productnaam": "3G Professioneel Schimmel- & aanslagreiniger",
       "korting_tekst": "-64% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -37,7 +19,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 535,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -46,7 +28,16 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 525,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Mix voor ovenschotel broccoli",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 70,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -55,7 +46,7 @@
       "actieprijs": 0.79,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 27 okt",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -64,16 +55,16 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 525,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Campina Dubbelvlaflip chocolade vanille",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
+      "productnaam": "3G Professioneel Vlekverwijderaar",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -82,52 +73,43 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 520,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Maggi Dagschotel broccoli kaas",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 54,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "productnaam": "Hertog Ijs cookie crumble",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 825,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Maggi Hollands pannetje champignonsaus",
+      "productnaam": "Fernandes Cream ginger",
       "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "actieprijs": 0.45,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Maggi Kruidenmix stoofmix rundvlees",
+      "productnaam": "Fernandes Red grape",
       "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "actieprijs": 0.45,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Amandeldrink No Sugars",
+      "productnaam": "Den Eelder Boeren vla vanille",
       "korting_tekst": "-57% KORTING",
-      "actieprijs": 1.29,
+      "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smint XL blackmint",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -136,187 +118,97 @@
       "actieprijs": 0.69,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Campina Slagroomvla vanille",
+      "productnaam": "Hertog Ijs pistache",
       "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Zacht & luchtig framboos",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Zacht & Luchtig vanille",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Melkunie Halfvolle melk",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 27 okt",
-      "categorie": null
-    },
-    {
-      "productnaam": "Grolsch Pilsener alcoholvrij 6x33 cl",
-      "korting_tekst": "-55% KORTING",
       "actieprijs": 2.49,
-      "inhoud_waarde": 1980,
+      "inhoud_waarde": 825,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Maggi Ovenschotel kip-broccoli gratin",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 35,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "productnaam": "Fernandes Green punch",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.45,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Page Vochtig toiletpapier aloe vera",
+      "productnaam": "Fernandes Green punch 4x25cl",
       "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Page Vochtig toiletpapier sensitive",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Sojadrink rode vruchten",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.29,
+      "actieprijs": 1.8,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Go-Tan Mayonaise sriracha",
+      "productnaam": "Remia Satesaus kant en klaar hot",
       "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 215,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 325,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's Churrifically churros-y",
+      "productnaam": "Jimmy's Original popcorn zout",
       "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 465,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's Half baked",
+      "productnaam": "Jimmy's Original popcorn zoet & zout",
       "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 465,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "actieprijs": 0.89,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's Strawberry cheesecake",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 465,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "productnaam": "Dr. Oetker Ristorante pizza quattro formaggi",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's Cookies on cookie dough non dairy",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 465,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Liga Belvita honing & hazelnoot 6 x 4 stuks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.69,
+      "productnaam": "Palmolive Vloeibare zeep hygiene plus family",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.49,
       "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Home made Complete mix voor wafels",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.19,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Maggi Hollands pannetje sperziebonen jachtsaus",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 54,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Maggi Ovenschotel prei kerrie",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 64,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Maggi Ovenschotel witlof cremesaus",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 61,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Sojadrink vanille",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Palmolive Vloeibare zeeppomp keuken",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hertog Ijs aardbei meringue",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 825,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -325,7 +217,7 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -334,7 +226,7 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -343,7 +235,7 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -352,7 +244,7 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -361,7 +253,7 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -370,43 +262,34 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Liga Belvita chocolade 6 x 4 stuks",
+      "productnaam": "Dr. Oetker Ristorante pizza margherita",
       "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.69,
-      "inhoud_waarde": 300,
+      "actieprijs": 1.79,
+      "inhoud_waarde": 295,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's Cookie dough",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 465,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Sojadrink choco",
+      "productnaam": "Tilda Rijst basmati pure",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 1.29,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Barista kokos",
+      "productnaam": "Hertog Ijs pecan karamel vanille",
       "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 750,
+      "actieprijs": 2.49,
+      "inhoud_waarde": 825,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -415,97 +298,61 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Barista haver",
+      "productnaam": "Tilda volkoren basmati rijst",
       "korting_tekst": "-51% KORTING",
       "actieprijs": 1.29,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pepsi Zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
       "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Crystal Clear Peach",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "7UP Regular",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Maggi Dagschotel sperziebonen sate",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 70,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Sojadrink banaan",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.29,
+      "productnaam": "No Fairytales Tortilla zoete aardappel",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Fernandes Cherry bouquet 4x25cl",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.8,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Sojadrink choco",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "productnaam": "Unox Hotdog 8 stuks",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 570,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Barista soja",
+      "productnaam": "1 de Beste Knetter toppers 6 stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "actieprijs": 0.62,
+      "inhoud_waarde": 278,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Alpro Sojadrink banaan",
+      "productnaam": "Remia Satesaus kant en klaar",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Groeidrink soja 1-3 jaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 325,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
@@ -514,34 +361,7 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 515,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smint Clean breath peppermint duopack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Smint XL peppermint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's Chocolate fudge brownie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 465,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 3 nov",
+      "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     }
   ]

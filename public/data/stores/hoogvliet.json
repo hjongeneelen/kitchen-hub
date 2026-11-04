@@ -2,78 +2,249 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-11-03T13:43:55.131005+00:00",
+  "updated_at": "2026-11-04T13:52:36.748134+00:00",
   "deals": [
     {
-      "productnaam": "Page Compleet schoon toiletpapier",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "di. 27 okt. t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's Caramel chew chew",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
+      "productnaam": "Campina Lang lekker proteine vol",
+      "korting_tekst": "-64% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "di. 27 okt. t/m di. 3 nov",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's Brookies",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
+      "productnaam": "Ambi Pur Toiletblok citrus & jasmijn 0% plastic",
+      "korting_tekst": "-64% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok roos en lelie 0% plastic",
+      "korting_tekst": "-64% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok water & bloemen 0% plastic",
+      "korting_tekst": "-64% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok wild hibiscus 0% plastic",
+      "korting_tekst": "-64% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Lang lekker proteine halfvol",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "di. 27 okt. t/m di. 3 nov",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's Mini cup IJs Chocolate Fudge Brownie",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
+      "productnaam": "Ambi Pur Toiletblok blauwe bloesem 0% plastic",
+      "korting_tekst": "-62% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletreiniger active gel hibiscus",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "di. 27 okt. t/m di. 3 nov",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's Mini cup IJs Cookie Dough",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
+      "productnaam": "Ambi Pur Toiletreiniger active gel mint & jasmijn",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "di. 27 okt. t/m di. 3 nov",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Wagner Original Piccolinis salame",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.7,
-      "inhoud_waarde": 9,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "di. 27 okt. t/m di. 3 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Wagner Airfryer snack salami",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.45,
-      "inhoud_waarde": 195,
+      "productnaam": "Dr. Oetker Big americans shoarma",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 415,
       "inhoud_unit": "gram",
-      "geldig_tekst": "di. 27 okt. t/m di. 3 nov",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Tempo Zakdoeken original",
+      "productnaam": "Dr. Oetker Big Americans BBQ Chicken",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Big americans texas",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 1.89,
+      "inhoud_waarde": 435,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parrano Stuk Robusto",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 1.69,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Langlekker volle melk houdbaar",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Good potatoes ui & croutons",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 48,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Omo Wasmiddel kleur",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Good pasta tomaat bolognese",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 68,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Omo Wasmiddel waspoeder color",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 798,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Koggelandse Kaasstuk extra belegen",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.09,
+      "inhoud_waarde": 371,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Langlekker halfvolle melk houdbaar",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Lang lekker magere melk houdbaar",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Becel ProActiv Original Cholesterolverlagend",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.5,
-      "inhoud_waarde": 30,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "di. 27 okt. t/m di. 3 nov",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nestle Pyamapapje aardbei",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubbelfrisss Sinaasappel mandarijn",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.42,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Jan Pizzadeeg met tomatensaus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Aquafresh Tandpasta complete care aquafresh",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biotoday Citroen amandelkoeken",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.14,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
       "categorie": null
     }
   ]

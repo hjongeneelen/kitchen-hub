@@ -2,400 +2,193 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-11-03T13:43:55.132757+00:00",
+  "updated_at": "2026-11-04T13:52:36.754377+00:00",
   "deals": [
     {
-      "productnaam": "Ben & Jerry's Peanut Butter Cup 100ML",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 0.99,
+      "productnaam": "Bonduelle Crispy Mais Bio 150 g",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Melitta CafeBar Selection Espresso Intense Filterkoffie 250 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Melitta CafeBar Selection Crema Intense Filterkoffie 250g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Melitta CafeBar Selection Crema Gold Filterkoffie 250g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Melitta CafeBar Selection Espresso Classic Filterkoffie 250g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep in Blik Stevige Bruine bonensoep 800 ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.18,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Soep In Blik Stevige Champignonsoep 800 ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 800,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Nalys Blitz Keukenrol Papieren Verpakking 1 Rol",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Snel Ontkalker 500ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.65,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Multi Ontvetter 650 ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Geconcentreerd Afwasmiddel Original Citroen 550ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 550,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Keuken Ontvetter 650 ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Multi Ontvetter doekjes 80 Stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.3,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Jumbo Kaas Belegen 30+ Plakken 190 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 190,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Zwitsal Baby Zinkzalf 100 ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.25,
       "inhoud_waarde": 100,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Ben & Jerry's IJs Chocolate Fudge Brownie 100ml",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's IJs Caramel Chew Chew 100ml",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's IJs Cookie Dough 100 ml",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Marne Milde Franse Mosterdsaus 350 ml",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Marne Zoete Honing Mosterdsaus 350 ml",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben & Jerry's IJs Strawberry Cheesecake 100 ml",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Soep in Droge Vorm Basis voor Chinese Kippensoep 56g",
+      "productnaam": "Zwitsal Goedemorgen Vochtige Washandjes 20 Stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 56,
-      "inhoud_unit": "gram",
+      "actieprijs": 2.18,
+      "inhoud_waarde": 20,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Marne Pittige Mosterd Grove 250 g",
+      "productnaam": "Jumbo Rund Riblap 1 Stuk ca. 530 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 250,
+      "actieprijs": 5.01,
+      "inhoud_waarde": 530,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Honig Maaltijdmix voor Nasi Speciaal 39 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 39,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Maaltijdmix voor Lasagnesaus 125 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Marne Mosterd Sausa! Honing Dille 235 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 235,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Marne Mosterd Sausa! Honey Chili 235 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 235,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Marne Mosterd Sausa! Sweet Citrus 235 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 235,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Marne Zoete Mosterd Honing 225 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Marne Pittige Grove Mosterd Groninger 225 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 225,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Bakplaat Mix Aardappel, Boontjes & Gehaktballetjes met Oosterse Specerijen 36g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 36,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Bakplaat Mix Aardappel, Courgette & Kip met Mexicaanse Specerijen 36g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 36,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Bakplaat Mix Aardappel, Broccoli & Rundervink met Provencaalse Kruiden 36g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 36,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "JIMMY's Popcorn Nacho Cheese & Jalapeno",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 90,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Maaltijdmix voor Lasagnesaus Tradizionale 125 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Maaltijdmix voor Macaroni en Spaghetti 41 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 41,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jimmy's Air Popped Popcorn Salted Caramel 150 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Maaltijdmix voor Spaghettisaus Bolognese 41 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 41,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hertog IJssalon Mini IJs Drie Chocolades 200 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 113,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Basis voor Franse Champignonsoep 107 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 107,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Basis voor Macaronisaus Stroganoff 69 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 69,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hertog IJssalon Mini IJs Cookie Crumble 200 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 113,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "HEKS'NKAAS(r) Origineel 150 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.47,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "HEKS'NKAAS(r) Tomaat Basilicum 150 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heks'nkaas Origineel 200 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heks'nkaas Vegan Origineel 200 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.64,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Heks'nkaas Origineel XL 275 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.09,
-      "inhoud_waarde": 275,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Aardappelen Kruimig/ Stamppot 600 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.7,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jan Volkoren Pannenkoeken 8 Stuks 540 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.75,
-      "inhoud_waarde": 540,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Maza Muhammara 200g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo's Vriesverse Maaltijd Udon Noodles 450g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Gesneden Andijvie 400 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo's Vriesverse Maaltijd Groene Curry 450g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jan Pannenkoeken Naturel 8 Stuks 540 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 540,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "WC Eend Nr. 1 Ontkalker 750 ml",
+      "productnaam": "Lezziz Kipgehakt 300 g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.0,
-      "inhoud_waarde": 750,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Fuze Tea Green Tropical Passionfruit Taste 1,25 L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": 1250,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Falafel Tomaat/Paprika 250gr",
+      "productnaam": "Jumbo Gemengd Gehakt 300 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 250,
+      "actieprijs": 1.8,
+      "inhoud_waarde": 300,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Jumbo's Beste Koffie Snelfiltermaling Aroma 500 g",
+      "productnaam": "Zwitsal Billendoekjes Lotion 2 x 65 stuks",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dettol Power & Fresh Multi-Reinigingsdoekjes Sprankelende Citroen & Limoen Super Maxi 110 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.0,
-      "inhoud_waarde": 110,
+      "actieprijs": 3.3,
+      "inhoud_waarde": 130,
       "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null

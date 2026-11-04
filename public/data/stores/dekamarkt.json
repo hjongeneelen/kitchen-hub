@@ -2,158 +2,50 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-11-03T13:43:55.134554+00:00",
+  "updated_at": "2026-11-04T13:52:36.752965+00:00",
   "deals": [
     {
-      "productnaam": "Lassie Basmatirijst builtjes",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
+      "productnaam": "Melkunie Volle melk",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Pizza big americans shoarma",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 415,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Big Americans pizza Hawaii",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 460,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Pizza big americans cheese burger",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 415,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Big Americans pizza bbq chicken",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 460,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Big Americans pizza Texas",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 435,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Basmatirijst",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "WC-Eend Wc gel ocean",
+      "productnaam": "DekaVers Salade gerookte zalm",
       "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.66,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fernandes Green punch 4x25cl",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.98,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick English zwarte thee voor pot voordeelpak",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fruity Juice Sinaasappel-mango drink",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fruity Juice Sinaasappel-aardbei drink",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Boerenkool",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.68,
-      "inhoud_waarde": 680,
+      "actieprijs": 1.49,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Hak Rode bieten",
+      "productnaam": "Bertolli Vloeibaar",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.47,
-      "inhoud_waarde": 705,
+      "actieprijs": 1.95,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Yfood Cold brew coffee",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.18,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Margarine ongezouten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.13,
+      "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Sperziebonen fijn gebroken",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.35,
-      "inhoud_waarde": 675,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lavazza Koffiecups alu qualita oro",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.35,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lavazza Koffiecups alu qualita rossa",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.05,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     }

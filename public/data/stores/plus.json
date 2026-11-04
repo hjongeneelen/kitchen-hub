@@ -2,438 +2,303 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-03T13:43:55.129067+00:00",
+  "updated_at": "2026-11-04T13:52:36.746790+00:00",
   "deals": [
     {
-      "productnaam": "NALYS Keukenpapier Limited 6+6 gratis",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 5.32,
-      "inhoud_waarde": 6,
+      "productnaam": "Vogue Women Adore Parfum Deodorant",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Andijvie fijngesneden",
+      "korting_tekst": "-65% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 03-11-2026",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Robijn Wasparfum Puur & Zacht",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.33,
-      "inhoud_waarde": 342,
+      "productnaam": "Wasa Crunchy Twist Poppy Seeds & Sea Salt",
+      "korting_tekst": "-63% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 245,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Van Gilse Suikerklontjes origineel",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Builtjes pandanrijst 1 persoon",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie SRP basmati builtjes",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chupa Chups Mini 20st",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marne Franse mosterdsaus",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 350,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Nivea Deo spray invisible black&white",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.64,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea 3-In-1 Verzachtende Reinigingsdoekjes",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Oogmake-Up Reinigingslotion",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.88,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elnett Satin haarspray Extra Strong Fix",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.88,
+      "productnaam": "Wasa Knackebrod protein",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
       "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Elnett Haarspray Satin sterk blauw",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.88,
-      "inhoud_waarde": 200,
+      "productnaam": "Melkunie Bolletjesvla vanillesmaak met crunch",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Nivea Soft Cr�me",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.6,
+      "productnaam": "Royal Club Orange soda",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Royal Club Lemon soda",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marne Honing mosterdsaus",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Melkunie Rum rozijnen vla",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Langlekker Volle melk Extra Protein",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Melkunie Appel kaneel vla",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Basmati Rijst duurzaam (SRP)",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Zilvervliesrijst bio",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Campina Halfvolle melk Extra Protein",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep Oreo Sandwich",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 92,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Milka Chocoladereep Cookies",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Conimex Kroepoek Pittige cassave",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
       "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Nivea Deo spray dry comfort",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.12,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Aftershave balsem sensitive",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 5.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Douchegel cool kick",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.28,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Soothing Micellair Water",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Douchegel sport",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.28,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Deo spray pearl&beauty",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.32,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Deo roller fresh natural",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.32,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Deo spray fresh active",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.28,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Deo roller dry impact",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.32,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Deo spray fresh natural",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.32,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Deo roller dry comfort",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.32,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Verzorgende Body Milk",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 3.4,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Express Body Lotion",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 3.4,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Douchegel sensitive",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Douchegel energy",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.32,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Soft Creme",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.6,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elnett Haarspray Satin Normale Fixatie",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.48,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Essentials Dagcr�me 24H Voedend Spf15",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 4.8,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Essentials Dagcr�me + 24H Hydra SPF15",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 4.8,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea 3-in-1 Repair Handcreme",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.8,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Cr�me Blik",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 4.28,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Verzachtende Reinigingsmelk",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 3.2,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Verzachtende Tonic",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 3.2,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Doucheolie natural oil",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 3.2,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Cr�me Blik",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Sensitive Reinigingsdoekjes",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Douchecr�me cr�me care",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Cr�me Soft Douchecr�me",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nivea Douchegel hawaii flower&oil",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.2,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Korenlanders Lekkerste appeltaart",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "alleen zondag 01-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Alpro Kokosnootdrink Houdbaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Chocoladevla",
-      "korting_tekst": "-50% KORTING",
+      "productnaam": "Conimex Kroepoek sate",
+      "korting_tekst": "-52% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
+      "inhoud_waarde": 75,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Campina Vanillevla",
-      "korting_tekst": "-50% KORTING",
+      "productnaam": "Bieze Redslaw Aziatische stijl",
+      "korting_tekst": "-52% KORTING",
       "actieprijs": 1.0,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lassie Pandan rijst",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dettol Allesreiniger katoenfris",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.14,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Davitamon Magnesium citraat",
+      "productnaam": "Dettol Allesreiniger citrus",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.65,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 03-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Zacht & luchtig chocolade",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.2,
+      "actieprijs": 2.14,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 03-11-2026",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Davitamon Vitamine Speciaal Voor Nacht",
+      "productnaam": "Dettol Antibacteriele Reinigingsdoekjes ocean",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.75,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 03-11-2026",
+      "actieprijs": 2.24,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Davitamon Vitamine D smelttablet",
+      "productnaam": "Dettol Desinfecterende Reinigingsdoekjes",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 10.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 03-11-2026",
+      "actieprijs": 2.24,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Davitamon Vitamine Boost 12+ kauwtablet aardbei",
+      "productnaam": "Dettol Antibacteriele Multi-Reinigingsdoekjes",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.75,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 03-11-2026",
+      "actieprijs": 2.24,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Davitamon Vitamine Calcium + D Mint",
+      "productnaam": "Listerine Mondwater Totalcare",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 6.65,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 03-11-2026",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Davitamon Vitamine Junior kauwtablet framboos",
+      "productnaam": "Listerine Mondwater Coolmint",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 11.75,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 03-11-2026",
+      "actieprijs": 3.5,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Magnum Pint Almond",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.9,
+      "inhoud_waarde": 440,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 4 nov. t/m di. 10 nov",
       "categorie": null
     }
   ]
