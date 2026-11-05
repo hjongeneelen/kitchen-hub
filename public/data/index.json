@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-11-04T13:52:36.755755+00:00",
+  "generated_at": "2026-11-05T14:06:35.666290+00:00",
   "stores": [
     {
       "slug": "plus",
       "name": "Plus",
       "mode": "scan",
-      "deal_count": 33,
-      "updated_at": "2026-11-04T13:52:36.746790+00:00"
+      "deal_count": 40,
+      "updated_at": "2026-11-05T14:06:35.656117+00:00"
     },
     {
       "slug": "hoogvliet",
       "name": "Hoogvliet",
       "mode": "scan",
       "deal_count": 27,
-      "updated_at": "2026-11-04T13:52:36.748134+00:00"
+      "updated_at": "2026-11-05T14:06:35.657969+00:00"
     },
     {
       "slug": "dirk",
       "name": "Dirk",
       "mode": "scan",
-      "deal_count": 40,
-      "updated_at": "2026-11-04T13:52:36.750994+00:00"
+      "deal_count": 36,
+      "updated_at": "2026-11-05T14:06:35.659454+00:00"
     },
     {
       "slug": "poiesz",
       "name": "Poiesz",
       "mode": "scan",
       "deal_count": 12,
-      "updated_at": "2026-11-04T13:52:36.751947+00:00"
+      "updated_at": "2026-11-05T14:06:35.660892+00:00"
     },
     {
       "slug": "dekamarkt",
       "name": "Dekamarkt",
       "mode": "scan",
       "deal_count": 5,
-      "updated_at": "2026-11-04T13:52:36.752965+00:00"
+      "updated_at": "2026-11-05T14:06:35.662077+00:00"
     },
     {
       "slug": "aldi",
       "name": "Aldi",
       "mode": "scan",
       "deal_count": 1,
-      "updated_at": "2026-11-04T13:52:36.753708+00:00"
+      "updated_at": "2026-11-05T14:06:35.663100+00:00"
     },
     {
       "slug": "jumbo",
       "name": "Jumbo",
       "mode": "scan",
-      "deal_count": 21,
-      "updated_at": "2026-11-04T13:52:36.754377+00:00"
+      "deal_count": 22,
+      "updated_at": "2026-11-05T14:06:35.664074+00:00"
     },
     {
       "slug": "albert-heijn",
       "name": "Albert Heijn",
       "mode": "scan",
-      "deal_count": 23,
-      "updated_at": "2026-11-04T13:52:36.755207+00:00"
+      "deal_count": 22,
+      "updated_at": "2026-11-05T14:06:35.665367+00:00"
     }
   ]
 }

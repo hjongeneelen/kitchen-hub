@@ -2,17 +2,8 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-11-04T13:52:36.750994+00:00",
+  "updated_at": "2026-11-05T14:06:35.659454+00:00",
   "deals": [
-    {
-      "productnaam": "3G Professioneel Schimmel- & aanslagreiniger",
-      "korting_tekst": "-64% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 10 nov",
-      "categorie": null
-    },
     {
       "productnaam": "Chicken Tonight Ajam pangang",
       "korting_tekst": "-61% KORTING",
@@ -32,15 +23,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Knorr Mix voor ovenschotel broccoli",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 70,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 10 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "Melkunie Volle melk",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 0.79,
@@ -55,15 +37,6 @@
       "actieprijs": 1.49,
       "inhoud_waarde": 525,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "3G Professioneel Vlekverwijderaar",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
@@ -104,15 +77,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Den Eelder Boeren vla vanille",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 10 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "Lu Tuc minibites original",
       "korting_tekst": "-57% KORTING",
       "actieprijs": 0.69,
@@ -131,18 +95,18 @@
       "categorie": null
     },
     {
-      "productnaam": "Fernandes Green punch",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.45,
-      "inhoud_waarde": 250,
+      "productnaam": "Fernandes Green punch 4x25cl",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
     {
-      "productnaam": "Fernandes Green punch 4x25cl",
+      "productnaam": "Appelsientje Fruitdrink sinaasappel",
       "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.8,
+      "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 10 nov",
