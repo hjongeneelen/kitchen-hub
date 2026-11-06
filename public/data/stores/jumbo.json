@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-11-05T14:06:35.664074+00:00",
+  "updated_at": "2026-11-06T13:50:18.617244+00:00",
   "deals": [
     {
       "productnaam": "Bonduelle Crispy Mais Bio 150 g",
@@ -190,15 +190,6 @@
       "actieprijs": 1.8,
       "inhoud_waarde": 300,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fuze Tea Green Tea Tropical Passionfruit Taste 400 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.73,
-      "inhoud_waarde": 400,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

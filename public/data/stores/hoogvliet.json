@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-11-05T14:06:35.657969+00:00",
+  "updated_at": "2026-11-06T13:50:18.615008+00:00",
   "deals": [
     {
       "productnaam": "Campina Lang lekker proteine vol",
@@ -140,15 +140,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Omo Wasmiddel kleur",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "Unox Good pasta tomaat bolognese",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 0.99,
@@ -162,15 +153,6 @@
       "korting_tekst": "-54% KORTING",
       "actieprijs": 2.99,
       "inhoud_waarde": 798,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Koggelandse Kaasstuk extra belegen",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.09,
-      "inhoud_waarde": 371,
       "inhoud_unit": "gram",
       "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
       "categorie": null

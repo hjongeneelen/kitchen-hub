@@ -2,8 +2,26 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-11-05T14:06:35.660892+00:00",
+  "updated_at": "2026-11-06T13:50:18.614390+00:00",
   "deals": [
+    {
+      "productnaam": "Page Compleet Schoon toiletpapier",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 3.99,
+      "inhoud_waarde": 16,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mandarijnen",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
+      "categorie": null
+    },
     {
       "productnaam": "Sun Vaatwastabletten All-in-One Regular",
       "korting_tekst": "-60% KORTING",
@@ -100,6 +118,42 @@
       "actieprijs": 1.67,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Vochtig Toiletpapier Fresh",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Rode Bieten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 720,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Pindakaas 100% met Stukjes Pinda",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.44,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Olijfolie Extra Vierge",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.84,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
       "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
       "categorie": null
     },

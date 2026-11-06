@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-11-05T14:06:35.665367+00:00",
+  "updated_at": "2026-11-06T13:50:18.617809+00:00",
   "deals": [
     {
       "productnaam": "Melkunie Bolletjesvla met vanillesmaak",
@@ -162,33 +162,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 3.25,
       "inhoud_waarde": 425,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Flower Farm Smeren zonder palmolie light",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Flower Farm Smeren zonder palmolie value pack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 8 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Flower Farm Opgroeien zonder palmolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 375,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 8 nov",
       "categorie": null
