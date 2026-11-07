@@ -2,32 +2,14 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-11-06T13:50:18.614390+00:00",
+  "updated_at": "2026-11-07T12:33:53.764554+00:00",
   "deals": [
-    {
-      "productnaam": "Page Compleet Schoon toiletpapier",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 16,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
-      "categorie": null
-    },
     {
       "productnaam": "Mandarijnen",
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 1000,
       "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sun Vaatwastabletten All-in-One Regular",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 4.2,
-      "inhoud_waarde": 19,
-      "inhoud_unit": "stuks",
       "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
       "categorie": null
     },
@@ -104,6 +86,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Page Vochtig Toiletpapier Care",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
+      "categorie": null
+    },
+    {
       "productnaam": "Bieze redslaw aziatisch",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 1.0,
@@ -153,15 +144,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 4.84,
       "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Fanta Fanta lemon zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.43,
-      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": "zo. 1 nov. t/m za. 7 nov",
       "categorie": null
