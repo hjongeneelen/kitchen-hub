@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-11-08T12:51:48.396707+00:00",
+  "updated_at": "2026-11-09T15:26:34.533102+00:00",
   "deals": [
     {
       "productnaam": "Chicken Tonight Ajam pangang",
@@ -77,6 +77,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Den Eelder Boeren vla vanille",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
       "productnaam": "Lu Tuc minibites original",
       "korting_tekst": "-57% KORTING",
       "actieprijs": 0.69,
@@ -90,6 +99,24 @@
       "korting_tekst": "-56% KORTING",
       "actieprijs": 2.49,
       "inhoud_waarde": 825,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Fernandes Green punch",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.45,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Fernandes Super pineapple 4x 250ml",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 1.8,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
@@ -109,15 +136,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Remia Satesaus kant en klaar hot",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 325,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
     },
@@ -239,6 +257,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Fernandes Cherry bouquet",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 0.45,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
       "productnaam": "Tilda Rijst basmati pure",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 1.29,
@@ -306,15 +333,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.62,
       "inhoud_waarde": 278,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Remia Satesaus kant en klaar",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 325,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 10 nov",
       "categorie": null

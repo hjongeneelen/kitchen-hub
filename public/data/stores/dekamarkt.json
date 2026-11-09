@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-11-08T12:51:48.397852+00:00",
+  "updated_at": "2026-11-09T15:26:34.533996+00:00",
   "deals": [
     {
       "productnaam": "Melkunie Volle melk",
@@ -18,6 +18,15 @@
       "korting_tekst": "-55% KORTING",
       "actieprijs": 1.49,
       "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sportlife Smashmint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": 102,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -45,6 +54,60 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.13,
       "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Yfood Smooth vanilla",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.18,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Yfood Classic choco",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.18,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sportlife Frozn intensemint 4 st.",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": 72,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Cafe Royal Koffiecups tiramisu",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.23,
+      "inhoud_waarde": 10,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sportlife Kauwgom extramint",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": 102,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Sportlife Peppermint 4 st.",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.7,
+      "inhoud_waarde": 72,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
