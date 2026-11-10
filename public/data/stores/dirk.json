@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-11-09T15:26:34.533102+00:00",
+  "updated_at": "2026-11-10T14:26:45.537127+00:00",
   "deals": [
     {
       "productnaam": "Chicken Tonight Ajam pangang",
@@ -158,6 +158,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Dr. Oetker Ristorante pizza margherita",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 295,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
       "productnaam": "Dr. Oetker Ristorante pizza quattro formaggi",
       "korting_tekst": "-53% KORTING",
       "actieprijs": 1.79,
@@ -180,6 +189,15 @@
       "korting_tekst": "-53% KORTING",
       "actieprijs": 1.49,
       "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 10 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelsientje Fruitdrink Mango",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 10 nov",
       "categorie": null
@@ -243,15 +261,6 @@
       "korting_tekst": "-52% KORTING",
       "actieprijs": 0.89,
       "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante pizza margherita",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.79,
-      "inhoud_waarde": 295,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 10 nov",
       "categorie": null

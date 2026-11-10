@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-09T15:26:34.529646+00:00",
+  "updated_at": "2026-11-10T14:26:45.533679+00:00",
   "deals": [
     {
       "productnaam": "Royal Club Pink grapefruit",
@@ -144,6 +144,15 @@
       "korting_tekst": "-56% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m 10-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Kips Vega pate tuinkruiden & bospaddestoel",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 125,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m 10-11-2026",
       "categorie": null

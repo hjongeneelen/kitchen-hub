@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-11-09T15:26:34.530707+00:00",
+  "updated_at": "2026-11-10T14:26:45.534785+00:00",
   "deals": [
     {
       "productnaam": "Crosta Mollica Pizza base",
@@ -68,15 +68,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Philips Led fil standaard helder E27 75W",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m zo. 15 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "Yummygums Kids",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 10.0,
@@ -126,15 +117,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 9.75,
       "inhoud_waarde": 200,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m zo. 15 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "A.Vogel Echinaforce sterk ** + vitamine C",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 10.0,
-      "inhoud_waarde": 60,
       "inhoud_unit": "stuks",
       "geldig_tekst": "t/m zo. 15 nov",
       "categorie": null
