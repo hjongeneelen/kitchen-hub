@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-11-10T14:26:45.538165+00:00",
+  "updated_at": "2026-11-11T13:40:38.296208+00:00",
   "deals": [
     {
       "productnaam": "CAFE NOVA Filterkoffie roodmerk",
@@ -81,6 +81,24 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.75,
       "inhoud_waarde": 303,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Knorr Wereldgerecht mexicaanse burritos",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.63,
+      "inhoud_waarde": 228,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Mentos Gum pure fresh cherry 50 stuks",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.45,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null

@@ -2,50 +2,59 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-11-10T14:26:45.538820+00:00",
+  "updated_at": "2026-11-11T13:40:38.296975+00:00",
   "deals": [
     {
-      "productnaam": "Bonduelle Crispy Mais Bio 150 g",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
+      "productnaam": "Jumbo - Reuze Rozijnenbollen - 4 Stuks",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Melitta CafeBar Selection Crema Gold Filterkoffie 250g",
+      "productnaam": "Parrano Geraspte Mozzarella",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep in Blik Stevige Bruine bonensoep 800 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.18,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Soep In Blik Stevige Champignonsoep 800 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 800,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Nalys Blitz Keukenrol Papieren Verpakking 1 Rol",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.25,
+      "actieprijs": 1.49,
       "inhoud_waarde": null,
       "inhoud_unit": null,
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Classico olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.05,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Originale extra vierge olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 7.9,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Classico olijfolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.63,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Sugo Tradizionale Basilico Pastasaus 400 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.73,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -95,82 +104,91 @@
       "categorie": null
     },
     {
-      "productnaam": "Zwitsal Baby Zinkzalf 100 ml",
+      "productnaam": "Bertolli Smeerbaar 250 g",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.25,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Goedemorgen Vochtige Washandjes 20 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.18,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Rund Riblap 1 Stuk ca. 530 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.01,
-      "inhoud_waarde": 530,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lezziz Kipgehakt 300 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Fuze Tea Green Tropical Passionfruit Taste 1,25 L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.38,
-      "inhoud_waarde": 1250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Jumbo Gemengd Gehakt 300 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.8,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Zwitsal Billendoekjes Lotion 2 x 65 stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.3,
-      "inhoud_waarde": 130,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "ProActiv Original Verlaagt Cholesterol 250 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.9,
+      "actieprijs": 1.15,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Innocent immunity shot ginger 80ml",
+      "productnaam": "Bertolli Originale extra vierge olijfolie spray",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 80,
+      "actieprijs": 2.45,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "The Flower Farm Smeren zonder Palmolie Light 375 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Originale extra vierge olijfolie knijpfles",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.83,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Easy Asia Tonight Korean BBQ met Lente-ui 260g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 260,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "The Flower Farm Opgroeien Zonder Palmolie 375 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 375,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Kruidig Pastasaus 460 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.83,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Bolognese Pastasaus 460 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.25,
+      "inhoud_waarde": 460,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Bakolijfolie mild",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.65,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Geconcentreerd Afwasmiddel Limoen 550ml",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 550,
       "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null

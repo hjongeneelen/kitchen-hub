@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-11-10T14:26:45.534785+00:00",
+  "updated_at": "2026-11-11T13:40:38.292659+00:00",
   "deals": [
     {
       "productnaam": "Crosta Mollica Pizza base",
@@ -117,6 +117,15 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 9.75,
       "inhoud_waarde": 200,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m zo. 15 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "A.Vogel Echinaforce sterk ** + vitamine C",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 10.0,
+      "inhoud_waarde": 60,
       "inhoud_unit": "stuks",
       "geldig_tekst": "t/m zo. 15 nov",
       "categorie": null

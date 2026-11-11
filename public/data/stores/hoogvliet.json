@@ -2,150 +2,159 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-11-10T14:26:45.536341+00:00",
+  "updated_at": "2026-11-11T13:40:38.295400+00:00",
   "deals": [
     {
-      "productnaam": "Campina Lang lekker proteine vol",
-      "korting_tekst": "-64% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Lang lekker proteine halfvol",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok blauwe bloesem 0% plastic",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletreiniger active gel hibiscus",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletreiniger active gel mint & jasmijn",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Big americans shoarma",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 415,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Big Americans BBQ Chicken",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 460,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Big americans texas",
+      "productnaam": "Page wc papier - Compleet Schoon toiletpapier",
       "korting_tekst": "-59% KORTING",
-      "actieprijs": 1.89,
-      "inhoud_waarde": 435,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 12,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
       "categorie": null
     },
     {
-      "productnaam": "Campina Langlekker volle melk houdbaar",
-      "korting_tekst": "-58% KORTING",
+      "productnaam": "Koopmans Mix voor tompoucecake",
+      "korting_tekst": "-59% KORTING",
+      "actieprijs": 1.39,
+      "inhoud_waarde": 350,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Arla Protein mango yoghurt",
+      "korting_tekst": "-56% KORTING",
       "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Good potatoes ui & croutons",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Unox Good pasta tomaat bolognese",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 68,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Langlekker halfvolle melk houdbaar",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Campina Lang lekker magere melk houdbaar",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nestle Pyamapapje aardbei",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Jan Pizzadeeg met tomatensaus",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biotoday Citroen amandelkoeken",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.14,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Arla Protein framboos & aardbei shake",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 225,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Arla Protein aardbei yoghurt",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Arla Protein chocolade shake",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.79,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza quattro formaggi",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza diavola",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza margherita",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza salami mozarella pesto",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza bolognese",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Santa Maria Tortilla wraps corn&wheat medium 8 stuks 336g",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 8,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Santa Maria Oat wraps",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 240,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Iglo Roerbak Groente-Idee Italiaans",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 480,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mentos Pure Fresh Cherry Kers Kauwgom fruit Suikervrij Pot",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wella Haarspray ultra sterk",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.5,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Wella Haarspray extra sterk",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.65,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
       "categorie": null
     },
     {
@@ -154,7 +163,16 @@
       "actieprijs": 1.23,
       "inhoud_waarde": 130,
       "inhoud_unit": "gram",
-      "geldig_tekst": "di. 3 nov. t/m di. 10 nov",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mora Oven & Airfryer Carrero",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.64,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
       "categorie": null
     }
   ]
