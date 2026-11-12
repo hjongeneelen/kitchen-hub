@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-11T13:40:38.294249+00:00",
+  "updated_at": "2026-11-12T14:44:26.244661+00:00",
   "deals": [
     {
       "productnaam": "Aquafresh Coolmint",
@@ -44,9 +44,9 @@
       "productnaam": "Zonnatura Thee gember 100% bio",
       "korting_tekst": "-63% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -136,7 +136,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 100,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -226,7 +226,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 100,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -242,9 +242,9 @@
       "productnaam": "Kleenex Tissues balsam",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 64,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -280,16 +280,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 100,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kleenex Zakdoekjes Balsam",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 72,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -325,7 +316,7 @@
       "actieprijs": 0.33,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
