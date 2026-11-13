@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-11-12T14:44:26.241794+00:00",
+  "updated_at": "2026-11-13T14:01:30.269131+00:00",
   "deals": [
     {
       "productnaam": "Knorr Wereldgerecht zuid-afrikaanse bobotie",
@@ -235,6 +235,15 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Nescafe Gold oploskoffie sticks",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "stuks",
       "geldig_tekst": "t/m di. 17 nov",
       "categorie": null
     },

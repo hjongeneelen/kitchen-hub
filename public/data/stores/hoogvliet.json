@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-11-12T14:44:26.245709+00:00",
+  "updated_at": "2026-11-13T14:01:30.273724+00:00",
   "deals": [
     {
       "productnaam": "Page wc papier - Compleet Schoon toiletpapier",
@@ -104,15 +104,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Santa Maria Tortilla wraps corn&wheat medium 8 stuks 336g",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 8,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "Santa Maria Oat wraps",
       "korting_tekst": "-51% KORTING",
       "actieprijs": 1.49,
@@ -135,6 +126,33 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 2.49,
       "inhoud_waarde": 50,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun Brilliant shine+",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 5.39,
+      "inhoud_waarde": 16,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun All-in 1 vaatwastabletten lemon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.75,
+      "inhoud_waarde": 19,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sun All-in 1 vaatwastabletten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.5,
+      "inhoud_waarde": 19,
       "inhoud_unit": "stuks",
       "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
       "categorie": null

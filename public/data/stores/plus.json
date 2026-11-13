@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-12T14:44:26.244661+00:00",
+  "updated_at": "2026-11-13T14:01:30.271648+00:00",
   "deals": [
     {
       "productnaam": "Aquafresh Coolmint",
@@ -38,15 +38,6 @@
       "inhoud_waarde": 450,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zonnatura Thee gember 100% bio",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {

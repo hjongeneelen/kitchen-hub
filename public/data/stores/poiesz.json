@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-11-12T14:44:26.243893+00:00",
+  "updated_at": "2026-11-13T14:01:30.270818+00:00",
   "deals": [
     {
       "productnaam": "Palmolive Men Classic Scheercreme",
@@ -23,6 +23,24 @@
       "categorie": null
     },
     {
+      "productnaam": "G'woon Rode Bieten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.19,
+      "inhoud_waarde": 720,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Olijfolie Extra Vierge",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 4.84,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
+      "categorie": null
+    },
+    {
       "productnaam": "G'woon Ananas Stukjes",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.1,
@@ -36,6 +54,15 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 3.1,
       "inhoud_waarde": 150,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "7UP Regular Lemon Lime",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.38,
+      "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
       "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
       "categorie": null
