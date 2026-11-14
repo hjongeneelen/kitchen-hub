@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-11-13T14:01:30.269131+00:00",
+  "updated_at": "2026-11-14T13:04:02.436400+00:00",
   "deals": [
     {
       "productnaam": "Knorr Wereldgerecht zuid-afrikaanse bobotie",
@@ -203,11 +203,11 @@
       "categorie": null
     },
     {
-      "productnaam": "Always Discreet verband urineverlies long",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 10,
-      "inhoud_unit": "stuks",
+      "productnaam": "Lu Tuc minibites original",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.69,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 17 nov",
       "categorie": null
     },
@@ -216,6 +216,15 @@
       "korting_tekst": "-55% KORTING",
       "actieprijs": 0.89,
       "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes met een vleugje kaneel",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 360,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 17 nov",
       "categorie": null
@@ -289,6 +298,24 @@
       "actieprijs": 0.89,
       "inhoud_waarde": 1500,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Hak Appelmoes extra kwaliteit",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 355,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 17 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Paturain Roomkaas walnoot amandel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 150,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m di. 17 nov",
       "categorie": null
     },

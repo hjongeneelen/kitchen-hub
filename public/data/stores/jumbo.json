@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-11-13T14:01:30.275616+00:00",
+  "updated_at": "2026-11-14T13:04:02.439650+00:00",
   "deals": [
     {
       "productnaam": "Jumbo - Reuze Rozijnenbollen - 4 Stuks",
@@ -109,78 +109,6 @@
       "actieprijs": 1.15,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Originale extra vierge olijfolie spray",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.45,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Smeren zonder Palmolie Light 375 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Originale extra vierge olijfolie knijpfles",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.83,
-      "inhoud_waarde": 460,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Easy Asia Tonight Korean BBQ met Lente-ui 260g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.25,
-      "inhoud_waarde": 260,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Opgroeien Zonder Palmolie 375 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Kruidig Pastasaus 460 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.83,
-      "inhoud_waarde": 460,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Bolognese Pastasaus 460 g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.25,
-      "inhoud_waarde": 460,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Bakolijfolie mild",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.65,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }
