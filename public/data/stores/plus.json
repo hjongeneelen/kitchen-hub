@@ -2,17 +2,8 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-15T13:31:59.036903+00:00",
+  "updated_at": "2026-11-16T14:58:55.328097+00:00",
   "deals": [
-    {
-      "productnaam": "Aquafresh Coolmint",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
     {
       "productnaam": "Vergeer Geraspte kaas pasta",
       "korting_tekst": "-64% KORTING",
@@ -32,29 +23,11 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Klaverland Overjarig 48+ stuk",
-      "korting_tekst": "-64% KORTING",
-      "actieprijs": 4.5,
-      "inhoud_waarde": 450,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "Slagers kwaliteit Hamreepjes",
       "korting_tekst": "-62% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Aquafresh Tandsteen control",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
       "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
       "categorie": null
     },
@@ -82,15 +55,6 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Dubbel lekker naturel 4-pack",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 196,
-      "inhoud_unit": "gram",
       "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
       "categorie": null
     },
@@ -131,15 +95,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Catisfactions kattensnoepjes - Kip",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "Catisfactions Rund",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.0,
@@ -158,55 +113,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Catisfactions kattensnoepjes - Kaas",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben&Jerry's Non-dairy cookies on cookie dough",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "Slagers kwaliteit Hamblokjes",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ben&Jerry's Brookies",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kleenex Tissues Ultra Soft",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 64,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Parelkandij 4-pack",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 144,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
       "categorie": null
@@ -217,24 +127,6 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 100,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 17-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Catisfactions Catnip kattensnoepjes",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Kleenex Tissues balsam",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
       "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
@@ -320,29 +212,11 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Klaverland Jong belegen komijn 48+ stuk",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.75,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Kokoskransen",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 6,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Peijnenburg Naturel 4-pack",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 112,
-      "inhoud_unit": "gram",
       "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
       "categorie": null
     },
@@ -361,33 +235,6 @@
       "actieprijs": 1.24,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Axe Bodyspray Number 10",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.74,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Axe Fragrances Bodyspray Marshmallow Smoke",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.24,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Axe Fine Fragrances Bodyspray Indigo Haze",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.24,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
       "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
       "categorie": null
     },

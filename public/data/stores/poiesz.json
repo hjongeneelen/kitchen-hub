@@ -2,159 +2,123 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-11-15T13:31:59.036047+00:00",
+  "updated_at": "2026-11-16T14:58:55.329446+00:00",
   "deals": [
     {
-      "productnaam": "Palmolive Men Classic Scheercreme",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 0.76,
+      "productnaam": "Lenor Vloeibaar Wasverzachter Zeebries",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 4.0,
+      "inhoud_waarde": 1160,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Olvarit Pompoen Kip Pasta 12+ Maanden",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.93,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Olvarit Pompoen Kip Rijst 8+ Maanden",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Olvarit Pompoen-Kip-Aardappel 6 Mnd+",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Olvarit Pompoen curry met linzen 8+ maanden",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Olvarit Pompoen Rijst 4+ Maanden",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.6,
+      "inhoud_waarde": 125,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Olvarit Hutspot bulgur & linzen 12+ maanden",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.93,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonzo Funtastix Hondensnack",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonzo Beggin Strips met Baconsmaak",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 120,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonzo Picnic Variety",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.05,
       "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
       "categorie": null
     },
     {
-      "productnaam": "Page Compleet schoon",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 10.0,
-      "inhoud_waarde": 40,
+      "productnaam": "Bonzo Dental Delicious met Rund",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Bonzo Megabone Kauwstaaf met Rund",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mona Mini Griesmeel pudding met rode bessensaus",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.05,
+      "inhoud_waarde": 2,
       "inhoud_unit": "stuks",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Verstegen Zwarte Peper",
-      "korting_tekst": "-64% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 35,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sun Vaatwastabletten All-in-One Regular",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 4.2,
-      "inhoud_waarde": 19,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sun All-in-one tabs",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 4.2,
-      "inhoud_waarde": 314,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Volkorentarwemeel",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 0.74,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Pindakaas 100% met Stukjes Pinda",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 1.44,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Vochtig Toiletpapier Fresh",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.79,
-      "inhoud_waarde": 80,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Rode Bieten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.19,
-      "inhoud_waarde": 720,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Olijfolie Extra Vierge",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 4.84,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Ananas Stukjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dove Go Fresh Cucumber & Green Tea",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.1,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Wit Waspoeder, 30 Wasbeurten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 2025,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "7UP Regular Lemon Lime",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.38,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Mangostukjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Tropische Vruchten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "G'woon Avocadostukjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 8 nov. t/m za. 14 nov",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
       "categorie": null
     }
   ]

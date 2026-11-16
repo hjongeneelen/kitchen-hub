@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-11-15T13:31:59.040209+00:00",
+  "updated_at": "2026-11-16T14:58:55.331501+00:00",
   "deals": [
     {
       "productnaam": "Jumbo - Reuze Rozijnenbollen - 4 Stuks",
@@ -23,33 +23,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Bertolli Classico olijfolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.05,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Originale extra vierge olijfolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 7.9,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Bertolli Classico olijfolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.63,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Bertolli Sugo Tradizionale Basilico Pastasaus 400 g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.73,
@@ -59,55 +32,28 @@
       "categorie": null
     },
     {
-      "productnaam": "Dubro Snel Ontkalker 500ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.65,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Multi Ontvetter 650 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Geconcentreerd Afwasmiddel Original Citroen 550ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 550,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Keuken Ontvetter 650 ml",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Multi Ontvetter doekjes 80 Stuks",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.3,
-      "inhoud_waarde": 80,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Bertolli Smeerbaar 250 g",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.15,
       "inhoud_waarde": 250,
+      "inhoud_unit": "gram",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "Bertolli Originale extra vierge olijfolie spray",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.45,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "The Flower Farm Smeren zonder Palmolie Light 375 g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 375,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
