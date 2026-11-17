@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-16T14:58:55.328097+00:00",
+  "updated_at": "2026-11-17T15:35:49.531695+00:00",
   "deals": [
     {
       "productnaam": "Vergeer Geraspte kaas pasta",
@@ -10,7 +10,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -28,25 +28,25 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
       "productnaam": "Zonnatura Kamille & Salie Momentje Rust",
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
       "productnaam": "Zonnatura Citroengras & Eucalyptus Momentje Rust",
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -55,7 +55,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -64,7 +64,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -73,16 +73,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Klaverland Oud 48+ stuk",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 4.75,
-      "inhoud_waarde": 475,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -100,16 +91,16 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
       "productnaam": "Pedigree Dentastix mini",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 7,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -118,7 +109,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -136,7 +127,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -145,7 +136,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -154,7 +145,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -172,7 +163,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 350,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -181,7 +172,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -190,7 +181,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 150,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -203,39 +194,30 @@
       "categorie": null
     },
     {
-      "productnaam": "PLUS Klaverland Extra belegen 48+ stuk",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 4.75,
-      "inhoud_waarde": 475,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
-      "categorie": null
-    },
-    {
       "productnaam": "PLUS Kokoskransen",
       "korting_tekst": "-52% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 6,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Stegeman Vegetarische plakjes kerrie",
+      "productnaam": "Vegetarische Slager Boterhamworst",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 100,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 80,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Stegeman Vegetarische plakjes mediteraans",
+      "productnaam": "Vegetarische Slager Petit filet",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.24,
-      "inhoud_waarde": 100,
+      "actieprijs": 1.29,
+      "inhoud_waarde": 120,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     },
     {
@@ -244,7 +226,7 @@
       "actieprijs": 1.1,
       "inhoud_waarde": 250,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 11 nov. t/m di. 17 nov",
+      "geldig_tekst": "t/m 17-11-2026",
       "categorie": null
     }
   ]
