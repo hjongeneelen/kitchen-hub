@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-11-17T15:35:49.532389+00:00",
+  "updated_at": "2026-11-18T15:12:57.331270+00:00",
   "deals": [
     {
       "productnaam": "Lassie Basmatirijst builtjes",
@@ -64,51 +64,6 @@
       "actieprijs": 0.99,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola Magnum pint pistache",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.95,
-      "inhoud_waarde": 440,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lay's Oven chips paprika",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta multicare",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.9,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Lay's Oven chips naturel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.05,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta compl. protect. cool mint",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.6,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     }

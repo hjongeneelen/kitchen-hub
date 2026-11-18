@@ -2,231 +2,708 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-17T15:35:49.531695+00:00",
+  "updated_at": "2026-11-18T15:12:57.326441+00:00",
   "deals": [
     {
-      "productnaam": "Vergeer Geraspte kaas pasta",
-      "korting_tekst": "-64% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "productnaam": "Loving Blends Argan & camelia sublieme shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.55,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Vergeer Geraspte kaas pizza",
-      "korting_tekst": "-64% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "productnaam": "Loving Blends Avocado karite shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.06,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Slagers kwaliteit Hamreepjes",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "productnaam": "Loving Blends Honinggoud herstellende shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.06,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Zonnatura Kamille & Salie Momentje Rust",
+      "productnaam": "Loving Blends Conditioner honinggoud",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.06,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Loving Blends Grape Moisture Shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.06,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Loving Blends Grape Moisture Conditioner",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.06,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Loving Blends Conditioner Argan & Cameliaolie Droog",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.06,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Loving Blends Avocado karite conditioner",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.06,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Color Vive Shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Color Vive Conditioner",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Dream Lengths Shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Dream Lengths Conditioner",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Extraordinary Oil Shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Extraordinary Oil Conditioner",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Hydra Hyaluronic Shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Hydra Hyaluronic Conditioner",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Multivitamines 2in1 Shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Collagen Lifter Shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Collagen Lifter Conditioner",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Elvive Glycolic Gloss Shampoo",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Elvive Glycolic Gloss Conditioner",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 2.53,
+      "inhoud_waarde": 200,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition High Protein Bar 2.0 Vanilla Chocolate",
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 17-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zonnatura Citroengras & Eucalyptus Momentje Rust",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 17-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Tromp & Rueb Appelazijn natuurtroebel",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 17-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Grand'Italia Orzo Volkoren",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 500,
+      "inhoud_waarde": 50,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Tromp & Rueb Appelazijn uit 100% appel",
-      "korting_tekst": "-60% KORTING",
+      "productnaam": "XXL Nutrition N'Joy protein bar peanutbutter & caram",
+      "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 17-11-2026",
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben&Jerry's Chocolate fudge brownie",
-      "korting_tekst": "-58% KORTING",
+      "productnaam": "XXL Nutrition N'Joy protein bar white chocolate blue",
+      "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 17-11-2026",
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Catisfactions Rund",
-      "korting_tekst": "-58% KORTING",
+      "productnaam": "XXL Nutrition N'Joy protein bar cookie dough",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition High protein bar 2.0 cookies & cream",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition N'Joy protein bar chocolate & caramel",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition Crunchy Protein Bar Peanut Butter",
+      "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Pedigree Dentastix mini",
-      "korting_tekst": "-58% KORTING",
+      "productnaam": "XXL Nutrition Crunchy Protein Bar Salted Caramel",
+      "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 17-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Slagers kwaliteit Hamblokjes",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 150,
+      "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben&Jerry's Cookie dough",
-      "korting_tekst": "-58% KORTING",
+      "productnaam": "XXL Nutrition Crunchy Protein Bar Cookies & Cream",
+      "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 100,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition Crunchy Protein Bar Celebration Cake",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition Crunchy Protein Bar Stracciatella",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition Crunchy Protein Bar Coconut",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition N'Joy protein bar cookies & cream",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition High protein bar 2.0 chocolate",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 50,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Strenghten & Protect Freshmint",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Grand'Italia Pasta Orzo",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
+      "productnaam": "Dubro Doekjes hygiene",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Multi ontvetter doekjes citroen",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.84,
+      "inhoud_waarde": 80,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Multi Ontvetter spray",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Badkamer reiniger spray",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Keukenontvetter spray",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Antikalk Hygiene spray",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.6,
+      "inhoud_waarde": 650,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dubro Snelontkalker",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.32,
       "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Nora Dark & white biscuits",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Blue Band Finesse Luchtige Topping",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ben&Jerry's Ijs Strawberry Cheesecake Fairtrade",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
+      "productnaam": "Dubro Afwasmiddel extra citroen",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 550,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Grand'Italia Volkoren pasta Mini Penne",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Spijsbroodjes",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
+      "productnaam": "The Jelly Bean Fact Jelly beans mix cup",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 1.99,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Lu TUC Bake Rolls Sour Cream & Onion",
+      "productnaam": "Sensodyne Tandpasta repair & protect",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta repair & protect whitening",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Repair & protect extra fresh tandpasta",
+      "korting_tekst": "-58% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition Delicious oat bar witte chocolade kers",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 150,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "PLUS Triangel meergranen bruin",
+      "productnaam": "Parodontax Active GUM Whitening",
       "korting_tekst": "-56% KORTING",
-      "actieprijs": 0.33,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 17-11-2026",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "PLUS Kokoskransen",
+      "productnaam": "Parodontax Active GUM Repair",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta complete protection",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Gevoeligheid & Tandvlees tandpasta",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Complete Protection Whitening",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta rapid relief",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Tandpasta rapid Relief Whitening",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Tandpasta protection whitening",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Parodontax Tandpasta complete protection fresh",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Complete Protection Extra Fr",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Gevoelgheid & Tandvlees Whitening",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sensodyne Proglasur Active Shield Whitening",
       "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m 17-11-2026",
+      "actieprijs": 3.33,
+      "inhoud_waarde": 75,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Vegetarische Slager Boterhamworst",
+      "productnaam": "Honig Spaghetti vlugkokend",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 80,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Vegetarische Slager Petit filet",
+      "productnaam": "Honig Macaroni vlugkokend",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.29,
-      "inhoud_waarde": 120,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 700,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "PLUS Zomerfruit (DV)",
+      "productnaam": "Biologisch PLUS Verspakket tomaat-paprikasoep",
       "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.1,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 903,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Mentos Gum Breeze Mint Blister",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
+      "inhoud_waarde": 3,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sorbo Huishoudhandschoen geel L",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.55,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine elke dag",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 13.0,
+      "inhoud_waarde": 90,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sorbo Schuurspons XL",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.65,
+      "inhoud_waarde": 2,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Davitamon Vitamine D olie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 5.0,
+      "inhoud_waarde": 25,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sorbo Schuurspons XL Krasvrij",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.65,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Go-Tan Chili saus extra hot sweet chili",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.48,
+      "inhoud_waarde": 270,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Go-Tan Woksaus black bean all natural",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.35,
       "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "The Flower Farm Smeren zonder palmolie 500g",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 17-11-2026",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelsientje Sinaasappelsap met vruchtvlees",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Sorbo Schuurspons XL sanitairspons",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.8,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "The Flower Farm Bakken zonder palmolie",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelsientje Sinaasappelsap zonder vruchtvlees",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.5,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Appelsientje Tomatientje",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.25,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     }
   ]

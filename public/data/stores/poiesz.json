@@ -2,7 +2,7 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-11-17T15:35:49.532947+00:00",
+  "updated_at": "2026-11-18T15:12:57.332094+00:00",
   "deals": [
     {
       "productnaam": "Lenor Vloeibaar Wasverzachter Zeebries",
@@ -188,114 +188,6 @@
       "productnaam": "Olvarit Pompoen curry met linzen 8+ maanden",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.8,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonbebe Baby Waterdoekjes",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.75,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elmex Sensi Professional Xtra Soft",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.4,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dove Go Fresh Cucumber & Green Tea",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.1,
-      "inhoud_waarde": 150,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Olvarit Pompoen Rijst 4+ Maanden",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.6,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonbebe Toetenboeners",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.6,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Olvarit Hutspot bulgur & linzen 12+ maanden",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.93,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonzo Funtastix Hondensnack",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 175,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonzo Beggin Strips met Baconsmaak",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.27,
-      "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonzo Picnic Variety",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.17,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss zure mat & groene appel 1kcal",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.45,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonzo Dental Delicious met Rund",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.47,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonzo Megabone Kauwstaaf met Rund",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.27,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",

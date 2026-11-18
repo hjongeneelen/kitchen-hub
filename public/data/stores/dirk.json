@@ -2,357 +2,186 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-11-17T15:35:49.530002+00:00",
+  "updated_at": "2026-11-18T15:12:57.329006+00:00",
   "deals": [
     {
-      "productnaam": "Knorr Wereldgerecht zuid-afrikaanse bobotie",
-      "korting_tekst": "-70% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 309,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht griekse kofta",
-      "korting_tekst": "-70% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 303,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht surinaamse roti",
-      "korting_tekst": "-69% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 230,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht italiaanse risotto",
-      "korting_tekst": "-69% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 257,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht mexiaanse tacos",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 136,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht thaise kip siam",
+      "productnaam": "Texels Skuumkoppe 0.0% 6x300ml",
       "korting_tekst": "-65% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht lasagne bolognese",
-      "korting_tekst": "-65% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 192,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht Indiase kip madras",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 326,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Basmatirijst builtjes",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok rose & lily",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok water flowers",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok wild hibiscus",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Toiletblok citrus & jasmin",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 45,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Palmolive Aroma essences ultimate relax",
-      "korting_tekst": "-63% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 250,
+      "actieprijs": 2.99,
+      "inhoud_waarde": 1800,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Zonnatura Biologische kruidenthee brandnetel",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zonnatura Biologische kruidenthee venkel",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zonnatura Kruidenthee goede nachtrust 20 zakjes",
-      "korting_tekst": "-62% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 41,
+      "productnaam": "Silvo Kaneel gemalen",
+      "korting_tekst": "-63% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 40,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Zonnatura Biologische kruidenthee kamille",
+      "productnaam": "WC-Eend Toiletblok aqua blue 4 in 1",
       "korting_tekst": "-62% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m di. 17 nov",
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ambi Pur Toiletblok blue blossom",
+      "productnaam": "XXL NUTRITION Njoy protein bar cookie dough",
       "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 45,
+      "actieprijs": 0.99,
+      "inhoud_waarde": 55,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ambi Pur Wc active gel white flowers",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Zonnatura Kruidenthee goedemorgen 20 zakjes",
+      "productnaam": "XXL Nutrition High protein bar 2.0 cookies-cream",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 33,
+      "inhoud_waarde": 50,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Zonnatura Kruidenthee natuurlijke stoelgang 20 zakjes",
+      "productnaam": "XXL Nutrition Njoy bar peanut butter-caramel",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 0.99,
+      "inhoud_waarde": 55,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Chilipeper vlokken",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 29,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Komijn gemalen",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 1.49,
       "inhoud_waarde": 37,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Lassie Basmatirijst",
-      "korting_tekst": "-59% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 375,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht indiase kip tandoori",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 303,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Taksi Drakenfruit geen suiker toegevoegd",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1500,
+      "productnaam": "Starbucks Frappuccino caramel",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Taksi Exotisch fruit",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1500,
+      "productnaam": "Page Vochtig toiletpapier aloe vera",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 38,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Page Vochtig toiletpapier sensitive",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 38,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Silvo Gerookte paprikapoeder",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 1.49,
+      "inhoud_waarde": 40,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum pint double caramel billionaire",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 440,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Lu Tuc minibites original",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.69,
+      "productnaam": "Milka Chocoladereep peanut caramel",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 2.79,
+      "inhoud_waarde": 276,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "XXL Nutrition Delicious oat bar caramel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Lassie Rijst meer noten",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 250,
+      "productnaam": "XXL Nutrition Delicious oat bar wit choco kers",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Garden Gourmet Sensational burger 2 stuks",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 226,
+      "productnaam": "XXL Nutrition Delicious oat bar yoghurt muesli",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Taksi Safari fruit geen suiker toegevoegd",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht lasagne napoletana",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 240,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Knorr Wereldgerecht mexicaanse burritos",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.39,
-      "inhoud_waarde": 228,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lassie Zilvervliesrijst builtjes",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Karmeliet Tripel 0.4% 4x 33cl",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 3.99,
-      "inhoud_waarde": 1320,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Taksi Sinaasappel",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 0.89,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Paturain Roomkaas walnoot amandel",
+      "productnaam": "Silvo Paprikapoeder mild",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
-      "inhoud_waarde": 150,
+      "inhoud_waarde": 40,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     },
     {
-      "productnaam": "Ambi Pur Wc gel mint & jasmin",
+      "productnaam": "Silvo Ras el hanout",
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.49,
-      "inhoud_waarde": 750,
+      "inhoud_waarde": 38,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ola Magnum pint double seasalt caramel",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 3.49,
+      "inhoud_waarde": 440,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ambi Pur Wc gel pink hibiscus",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 758,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Iglo Fish cuisine florentine spinazie en kaas",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 380,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 17 nov",
+      "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
     }
   ]
