@@ -2,9 +2,8 @@
 
 A 100% static, free-to-host recipe app — Vite + React + Tailwind CSS, recipes
 as plain Markdown files with frontmatter — merged with a live Dutch
-grocery-deals dashboard (originally two separate projects,
-[recipe-app](https://github.com/hjongeneelen/recipe-app) and
-[boodschappen-dashboard](https://github.com/hjongeneelen/boodschappen-dashboard))
+grocery-deals dashboard (originally two separate projects: a Markdown
+recipe notebook and a supermarket deals dashboard)
 so you can see which of a recipe's ingredients are currently on sale, and
 where.
 
