@@ -2,7 +2,7 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-11-19T15:20:45.880823+00:00",
+  "updated_at": "2026-11-20T14:58:57.095990+00:00",
   "deals": [
     {
       "productnaam": "Knorr Good potatoes ui & croutons",
@@ -32,11 +32,29 @@
       "categorie": null
     },
     {
-      "productnaam": "Saitaku Poke rice",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
+      "productnaam": "ERU Cheddar sambal",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 150,
       "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "ERU Prestige",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 100,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Royal Club Ginger ale",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.17,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
       "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     }

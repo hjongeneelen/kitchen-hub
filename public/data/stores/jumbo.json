@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-11-19T15:20:45.877808+00:00",
+  "updated_at": "2026-11-20T14:58:57.093654+00:00",
   "deals": [
     {
       "productnaam": "Jumbo Tofu Reepjes Asian Style 180g",
@@ -248,15 +248,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Appelsientje FruitDrink Goudappeltje 1 L",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Pickwick Spices Caramelised Pear Zwarte Thee 20 Stuks",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 1.0,
@@ -324,15 +315,6 @@
       "korting_tekst": "-53% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Conimex Kroepoek Sate 75 g",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 75,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
