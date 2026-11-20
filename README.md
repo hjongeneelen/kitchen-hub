@@ -8,6 +8,8 @@ grocery-deals dashboard (originally two separate projects,
 so you can see which of a recipe's ingredients are currently on sale, and
 where.
 
+**Live site:** [hjongeneelen.github.io/kitchen-hub](https://hjongeneelen.github.io/kitchen-hub/)
+
 - **Recipes** work exactly as before — see below.
 - **Deals** (`/#/deals`) is a searchable, filterable grid of current
   supermarket deals sourced from supermarktscanner.nl's curated best-deals
@@ -160,3 +162,7 @@ daily scrape/build/deploy workflow does.
 - [`docs/architecture.md`](docs/architecture.md) — how the recipe pipeline, LLM editor, fridge, and i18n are built.
 - [`docs/deployment.md`](docs/deployment.md) — GitHub Pages setup.
 - [`backend/README.md`](backend/README.md) — the deal-scraper backend.
+
+## License
+
+[MIT](LICENSE)
