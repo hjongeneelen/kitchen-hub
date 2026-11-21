@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-11-20T14:58:57.091968+00:00",
+  "updated_at": "2026-11-21T14:19:10.741216+00:00",
   "deals": [
     {
       "productnaam": "Fleuril Renew color & fiber vloeibaar wasmiddel",
@@ -53,24 +53,6 @@
       "productnaam": "Arla Protein chocolade fudge mousse",
       "korting_tekst": "-55% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 22 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Yum Yum Curry flavour instant noodles",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.33,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 22 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Bonduelle Gebroken sperzieboontjes fijn",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.65,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 22 nov",

@@ -2,24 +2,87 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-20T14:58:57.089873+00:00",
+  "updated_at": "2026-11-21T14:19:10.739591+00:00",
   "deals": [
+    {
+      "productnaam": "Lipton Ice tea peach",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 24-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea sparkling zero",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 24-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 24-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Raspberry",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 24-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea sparkling",
+      "korting_tekst": "-74% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 24-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green zero",
+      "korting_tekst": "-73% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 24-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea peach zero",
+      "korting_tekst": "-73% KORTING",
+      "actieprijs": 0.5,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 24-11-2026",
+      "categorie": null
+    },
     {
       "productnaam": "Loving Blends Argan & camelia sublieme shampoo",
       "korting_tekst": "-67% KORTING",
       "actieprijs": 1.55,
       "inhoud_waarde": 300,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Loving Blends Avocado karite shampoo",
+      "productnaam": "Loving Blends Avocado karit� shampoo",
       "korting_tekst": "-67% KORTING",
       "actieprijs": 2.06,
       "inhoud_waarde": 300,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -28,7 +91,7 @@
       "actieprijs": 2.06,
       "inhoud_waarde": 300,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -37,7 +100,7 @@
       "actieprijs": 2.06,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -46,7 +109,7 @@
       "actieprijs": 2.06,
       "inhoud_waarde": 300,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -55,7 +118,7 @@
       "actieprijs": 2.06,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -64,16 +127,16 @@
       "actieprijs": 2.06,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Loving Blends Avocado karite conditioner",
+      "productnaam": "Loving Blends Avocado karit� conditioner",
       "korting_tekst": "-67% KORTING",
       "actieprijs": 2.06,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -82,7 +145,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -91,7 +154,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -100,7 +163,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -109,7 +172,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -118,7 +181,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -127,7 +190,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -136,7 +199,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -145,7 +208,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -154,7 +217,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -163,7 +226,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -172,7 +235,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -181,7 +244,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -190,7 +253,7 @@
       "actieprijs": 2.53,
       "inhoud_waarde": 200,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -199,7 +262,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 50,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -208,7 +271,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 55,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -217,7 +280,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 55,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -226,7 +289,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 55,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -235,7 +298,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 50,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -244,7 +307,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 55,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -253,7 +316,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -262,7 +325,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -271,7 +334,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -280,7 +343,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -289,7 +352,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -298,7 +361,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 60,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -307,7 +370,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 55,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -316,7 +379,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 50,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -325,7 +388,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -341,9 +404,9 @@
       "productnaam": "Dubro Multi ontvetter doekjes citroen",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.84,
-      "inhoud_waarde": 80,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -352,7 +415,7 @@
       "actieprijs": 1.6,
       "inhoud_waarde": 650,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -361,7 +424,7 @@
       "actieprijs": 1.6,
       "inhoud_waarde": 650,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -370,16 +433,16 @@
       "actieprijs": 1.6,
       "inhoud_waarde": 650,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
-      "productnaam": "Dubro Antikalk Hygiene spray",
+      "productnaam": "Dubro Antikalk Hygi�ne spray",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.6,
       "inhoud_waarde": 650,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -388,7 +451,7 @@
       "actieprijs": 1.32,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -397,7 +460,7 @@
       "actieprijs": 1.2,
       "inhoud_waarde": 550,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -406,7 +469,7 @@
       "actieprijs": 1.99,
       "inhoud_waarde": 200,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -433,7 +496,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -442,7 +505,7 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 100,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -451,7 +514,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -460,7 +523,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -487,7 +550,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -496,7 +559,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -505,7 +568,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -514,7 +577,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -523,7 +586,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -532,7 +595,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -550,7 +613,7 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     },
     {
@@ -569,132 +632,6 @@
       "inhoud_waarde": 700,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS Verspakket tomaat-paprikasoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 903,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Mentos Gum Breeze Mint Blister",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.35,
-      "inhoud_waarde": 3,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sorbo Huishoudhandschoen geel L",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.55,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Davitamon Vitamine elke dag",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 13.0,
-      "inhoud_waarde": 90,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sorbo Schuurspons XL",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.65,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Davitamon Vitamine D olie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 5.0,
-      "inhoud_waarde": 25,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sorbo Schuurspons XL Krasvrij",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.65,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Go-Tan Chili saus extra hot sweet chili",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.48,
-      "inhoud_waarde": 270,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Go-Tan Woksaus black bean all natural",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.35,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Smeren zonder palmolie 500g",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Sinaasappelsap met vruchtvlees",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sorbo Schuurspons XL sanitairspons",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.8,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "The Flower Farm Bakken zonder palmolie",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Appelsientje Sinaasappelsap zonder vruchtvlees",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null
     }
   ]

@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-11-20T14:58:57.092736+00:00",
+  "updated_at": "2026-11-21T14:19:10.741978+00:00",
   "deals": [
     {
       "productnaam": "Texels Skuumkoppe 0.0% 6x300ml",
@@ -234,42 +234,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 2,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubbelfrisss Appel perzik boost",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Paprikapoeder mild",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 40,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Silvo Ras el hanout",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.49,
-      "inhoud_waarde": 38,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Ola Magnum pint double seasalt caramel",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 3.49,
-      "inhoud_waarde": 440,
       "inhoud_unit": "ml",
       "geldig_tekst": "t/m di. 24 nov",
       "categorie": null
