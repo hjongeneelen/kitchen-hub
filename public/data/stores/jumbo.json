@@ -2,7 +2,7 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-11-21T14:19:10.742885+00:00",
+  "updated_at": "2026-11-22T14:09:55.740093+00:00",
   "deals": [
     {
       "productnaam": "Jumbo Tofu Reepjes Asian Style 180g",
@@ -50,6 +50,15 @@
       "categorie": null
     },
     {
+      "productnaam": "Milka Chocolademelk karamel smaak 750ml",
+      "korting_tekst": "-61% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Verkade Nizza Kokos Melkchocolade koekjes 177 g",
       "korting_tekst": "-61% KORTING",
       "actieprijs": 1.0,
@@ -86,6 +95,24 @@
       "categorie": null
     },
     {
+      "productnaam": "CoolBest FruitDrink Mango 1 L",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
+      "productnaam": "CoolBest FruitDrink Passionfruit 1 L",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Appelsientje FruitDrink Sinaasappel 1 L",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.0,
@@ -104,20 +131,20 @@
       "categorie": null
     },
     {
+      "productnaam": "CoolBest FruitDrink Orange 1L",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.0,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": null,
+      "categorie": null
+    },
+    {
       "productnaam": "Kleenex Balsam Tissues 3-Laags 64 Stuks",
       "korting_tekst": "-58% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 64,
       "inhoud_unit": "stuks",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Chocolademelk karamel smaak 750ml",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 750,
-      "inhoud_unit": "ml",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -140,15 +167,6 @@
       "categorie": null
     },
     {
-      "productnaam": "CoolBest FruitDrink Mango 1 L",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "CoolBest FruitDrink Pineapple 1 L",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 1.0,
@@ -158,7 +176,7 @@
       "categorie": null
     },
     {
-      "productnaam": "CoolBest FruitDrink Passionfruit 1 L",
+      "productnaam": "Pepsi Zero Sugar 1 L",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 1000,
@@ -176,7 +194,7 @@
       "categorie": null
     },
     {
-      "productnaam": "CoolBest FruitDrink Orange 1L",
+      "productnaam": "Pepsi 1 L",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 1000,

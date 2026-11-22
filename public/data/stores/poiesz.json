@@ -2,13 +2,22 @@
   "store": "Poiesz",
   "slug": "poiesz",
   "mode": "scan",
-  "updated_at": "2026-11-21T14:19:10.744504+00:00",
+  "updated_at": "2026-11-22T14:09:55.741340+00:00",
   "deals": [
     {
       "productnaam": "Lenor Vloeibaar Wasverzachter Zeebries",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 4.0,
       "inhoud_waarde": 1160,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "G'woon Olijfolie Extra Vierge",
+      "korting_tekst": "-56% KORTING",
+      "actieprijs": 4.84,
+      "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
       "geldig_tekst": "zo. 15 nov. t/m za. 21 nov",
       "categorie": null

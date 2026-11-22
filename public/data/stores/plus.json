@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-21T14:19:10.739591+00:00",
+  "updated_at": "2026-11-22T14:09:55.737482+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea peach",
@@ -613,24 +613,6 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Spaghetti�vlugkokend",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Honig Macaroni�vlugkokend",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 700,
-      "inhoud_unit": "gram",
       "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     }
