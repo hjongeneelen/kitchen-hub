@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-22T14:09:55.737482+00:00",
+  "updated_at": "2026-11-23T17:32:27.252425+00:00",
   "deals": [
     {
       "productnaam": "Lipton Ice tea peach",
@@ -257,132 +257,6 @@
       "categorie": null
     },
     {
-      "productnaam": "XXL Nutrition High Protein Bar 2.0 Vanilla Chocolate",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar peanutbutter & caram",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar white chocolate blue",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar cookie dough",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition High protein bar 2.0 cookies & cream",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar chocolate & caramel",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Peanut Butter",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Salted Caramel",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Cookies & Cream",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Celebration Cake",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Stracciatella",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Crunchy Protein Bar Coconut",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition N'Joy protein bar cookies & cream",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 55,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition High protein bar 2.0 chocolate",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 50,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Parodontax Strenghten & Protect Freshmint",
       "korting_tekst": "-61% KORTING",
       "actieprijs": 3.33,
@@ -491,24 +365,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Repair & protect extra fresh tandpasta",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "XXL Nutrition Delicious oat bar witte chocolade kers",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Parodontax Active GUM Whitening",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 3.33,
@@ -545,43 +401,7 @@
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Complete Protection Whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta rapid relief",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
       "productnaam": "Sensodyne Tandpasta rapid Relief Whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Tandpasta protection whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Tandpasta complete protection fresh",
       "korting_tekst": "-54% KORTING",
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
@@ -613,6 +433,15 @@
       "actieprijs": 3.33,
       "inhoud_waarde": 75,
       "inhoud_unit": "ml",
+      "geldig_tekst": "t/m 24-11-2026",
+      "categorie": null
+    },
+    {
+      "productnaam": "Biologisch PLUS Verspakket tomaat-paprikasoep",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.99,
+      "inhoud_waarde": 903,
+      "inhoud_unit": "gram",
       "geldig_tekst": "t/m 24-11-2026",
       "categorie": null
     }

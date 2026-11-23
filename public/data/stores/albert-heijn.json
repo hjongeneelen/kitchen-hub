@@ -2,60 +2,114 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-11-22T14:09:55.738832+00:00",
+  "updated_at": "2026-11-23T17:32:27.256386+00:00",
   "deals": [
     {
-      "productnaam": "Fleuril Renew color & fiber vloeibaar wasmiddel",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 4.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "t/m zo. 22 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dr. Oetker Ristorante pizza piccola margherita",
-      "korting_tekst": "-57% KORTING",
+      "productnaam": "Palmolive Magic colour changing foam",
+      "korting_tekst": "-60% KORTING",
       "actieprijs": 2.0,
-      "inhoud_waarde": 270,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 22 nov",
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "t/m zo. 29 nov",
       "categorie": null
     },
     {
-      "productnaam": "Dr. Oetker Ristorante pizza al salame vegano",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 2.0,
-      "inhoud_waarde": 295,
+      "productnaam": "Samasaya Boemboe babi ketjap",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.84,
+      "inhoud_waarde": 95,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 22 nov",
+      "geldig_tekst": "t/m zo. 29 nov",
       "categorie": null
     },
     {
-      "productnaam": "Eru Prestige",
-      "korting_tekst": "-55% KORTING",
+      "productnaam": "Samasaya Krupuk pedis",
+      "korting_tekst": "-50% KORTING",
       "actieprijs": 0.99,
-      "inhoud_waarde": 100,
+      "inhoud_waarde": 70,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 22 nov",
+      "geldig_tekst": "t/m zo. 29 nov",
       "categorie": null
     },
     {
-      "productnaam": "Arla Protein banaan toffee mousse",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 200,
+      "productnaam": "Samasaya Opak pedis",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.24,
+      "inhoud_waarde": 80,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 22 nov",
+      "geldig_tekst": "t/m zo. 29 nov",
       "categorie": null
     },
     {
-      "productnaam": "Arla Protein chocolade fudge mousse",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 200,
+      "productnaam": "Samasaya Kentang manis pedis",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.29,
+      "inhoud_waarde": 70,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 22 nov",
+      "geldig_tekst": "t/m zo. 29 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Whole earth Smooth 100% pindakaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.74,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 29 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Whole earth Crunchy 100% pindakaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 29 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Whole earth Crunchy pindakaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.79,
+      "inhoud_waarde": 340,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 29 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Whole earth Drizzler golden roasted peanut butter",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.94,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 29 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Chiaverini Vijgenconfiture met amandelen",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 320,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 29 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Whole earth Crunchy pindakaas",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.44,
+      "inhoud_waarde": 600,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 29 nov",
+      "categorie": null
+    },
+    {
+      "productnaam": "Felix Original rund en kip met groenten",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 2.49,
+      "inhoud_waarde": 1500,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "t/m zo. 29 nov",
       "categorie": null
     }
   ]

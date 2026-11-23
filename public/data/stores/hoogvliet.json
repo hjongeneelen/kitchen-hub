@@ -2,17 +2,8 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-11-22T14:09:55.741813+00:00",
+  "updated_at": "2026-11-23T17:32:27.257030+00:00",
   "deals": [
-    {
-      "productnaam": "Knorr Good potatoes ui & croutons",
-      "korting_tekst": "-57% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 48,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
     {
       "productnaam": "Saitaku Japanse style mayo wasabi",
       "korting_tekst": "-55% KORTING",
@@ -23,19 +14,10 @@
       "categorie": null
     },
     {
-      "productnaam": "Unox Good pasta tomaat bolognese",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 68,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "ERU Cheddar sambal",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 150,
+      "productnaam": "Saitaku Poke rice",
+      "korting_tekst": "-53% KORTING",
+      "actieprijs": 1.99,
+      "inhoud_waarde": 500,
       "inhoud_unit": "gram",
       "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
       "categorie": null

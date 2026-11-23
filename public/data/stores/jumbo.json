@@ -2,31 +2,13 @@
   "store": "Jumbo",
   "slug": "jumbo",
   "mode": "scan",
-  "updated_at": "2026-11-22T14:09:55.740093+00:00",
+  "updated_at": "2026-11-23T17:32:27.253640+00:00",
   "deals": [
     {
       "productnaam": "Jumbo Tofu Reepjes Asian Style 180g",
       "korting_tekst": "-64% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 180,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Witte Bonen in Tomatensaus 360 g",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 360,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "HAK Boerenkool 340 g",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 340,
       "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
@@ -104,16 +86,16 @@
       "categorie": null
     },
     {
-      "productnaam": "CoolBest FruitDrink Passionfruit 1 L",
+      "productnaam": "Stegeman Kip Fuet Bites 80g",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
+      "inhoud_waarde": 80,
+      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     },
     {
-      "productnaam": "Appelsientje FruitDrink Sinaasappel 1 L",
+      "productnaam": "CoolBest FruitDrink Passionfruit 1 L",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 1000,
@@ -136,15 +118,6 @@
       "actieprijs": 1.0,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Kleenex Balsam Tissues 3-Laags 64 Stuks",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 64,
-      "inhoud_unit": "stuks",
       "geldig_tekst": null,
       "categorie": null
     },
@@ -194,15 +167,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Pepsi 1 L",
-      "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
       "productnaam": "Jumbo Tempeh Naturel 395g",
       "korting_tekst": "-56% KORTING",
       "actieprijs": 1.0,
@@ -214,132 +178,6 @@
     {
       "productnaam": "Pickwick Fruit Infusion Variatiebox thee - paars",
       "korting_tekst": "-56% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Orange Mandarin Groene Thee 20 Stuks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Taksi Drakenfruit Geen suiker toegevoegd 1,5 L",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Boursin Garlic & Herbs Roomkaas 80 g",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 80,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Kips Originele Leverworst 230 g",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 230,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Sterrenmunt Kruiden Thee 20 Stuks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Spices Caramelised Pear Zwarte Thee 20 Stuks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "La Vache Qui Rit Smeerkaas Chili 120 g",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 120,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Fruit Infusion Raspberry & Strawberry 20 Stuks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Taksi Exotisch Fruit 1,5 L",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 1500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Lemon Groene Thee 20 Stuks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Cranberry Groene Thee 20 Stuks",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 2,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Kips Roompate 125 g",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 125,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Hak Doperwtjes met Worteltjes 350 g",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.0,
-      "inhoud_waarde": 350,
-      "inhoud_unit": "gram",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Pure Groene Thee 20 Stuks",
-      "korting_tekst": "-52% KORTING",
       "actieprijs": 1.0,
       "inhoud_waarde": 2,
       "inhoud_unit": "gram",
