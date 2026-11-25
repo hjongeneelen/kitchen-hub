@@ -2,7 +2,7 @@
   "store": "Albert Heijn",
   "slug": "albert-heijn",
   "mode": "scan",
-  "updated_at": "2026-11-24T17:03:40.871035+00:00",
+  "updated_at": "2026-11-25T16:53:49.242991+00:00",
   "deals": [
     {
       "productnaam": "Palmolive Magic colour changing foam",
@@ -81,33 +81,6 @@
       "korting_tekst": "-50% KORTING",
       "actieprijs": 1.94,
       "inhoud_waarde": 320,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 29 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Chiaverini Vijgenconfiture met amandelen",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 320,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 29 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Whole earth Crunchy pindakaas",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.44,
-      "inhoud_waarde": 600,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m zo. 29 nov",
-      "categorie": null
-    },
-    {
-      "productnaam": "Felix Original rund en kip met groenten",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.49,
-      "inhoud_waarde": 1500,
       "inhoud_unit": "gram",
       "geldig_tekst": "t/m zo. 29 nov",
       "categorie": null

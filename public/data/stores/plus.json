@@ -2,447 +2,375 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-24T17:03:40.866988+00:00",
+  "updated_at": "2026-11-25T16:53:49.242210+00:00",
   "deals": [
     {
-      "productnaam": "Lipton Ice tea peach",
-      "korting_tekst": "-74% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea sparkling zero",
-      "korting_tekst": "-74% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea green",
-      "korting_tekst": "-74% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Raspberry",
-      "korting_tekst": "-74% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea sparkling",
-      "korting_tekst": "-74% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea green zero",
-      "korting_tekst": "-73% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea peach zero",
-      "korting_tekst": "-73% KORTING",
-      "actieprijs": 0.5,
-      "inhoud_waarde": 1000,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Loving Blends Argan & camelia sublieme shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 1.55,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Loving Blends Avocado karit� shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.06,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Loving Blends Honinggoud herstellende shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.06,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Loving Blends Conditioner honinggoud",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.06,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Loving Blends Grape Moisture Shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.06,
-      "inhoud_waarde": 300,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Loving Blends Grape Moisture Conditioner",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.06,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Loving Blends Conditioner Argan & Cameliaolie Droog",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.06,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Loving Blends Avocado karit� conditioner",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.06,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Color Vive Shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Color Vive Conditioner",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Dream Lengths Shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Dream Lengths Conditioner",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Extraordinary Oil Shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Extraordinary Oil Conditioner",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Hydra Hyaluronic Shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Hydra Hyaluronic Conditioner",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Multivitamines 2in1 Shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Collagen Lifter Shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Collagen Lifter Conditioner",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Elvive Glycolic Gloss Shampoo",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 250,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Elvive Glycolic Gloss Conditioner",
-      "korting_tekst": "-67% KORTING",
-      "actieprijs": 2.53,
-      "inhoud_waarde": 200,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Strenghten & Protect Freshmint",
-      "korting_tekst": "-61% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Doekjes hygiene",
+      "productnaam": "Marcel's Green Soap Keuken spray Sinaasappel & Jasmijn",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 2.0,
+      "actieprijs": 1.48,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marcel's Green Soap Allesreiniger Sinaasappel & Jasmijn",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.48,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marcel's Green Soap Allesreiniger Sandelwood & Kardomom",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.48,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marcel's Green Soap Allesreiniger Sandelwood & Kardamom",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.48,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Gesuikerde donuts",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.2,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "t/m 24-11-2026",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     },
     {
-      "productnaam": "Dubro Multi ontvetter doekjes citroen",
+      "productnaam": "Dettol Handzeep hydraterend aloe vera",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.84,
+      "actieprijs": 1.2,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dettol Wasgel original",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.2,
+      "inhoud_waarde": 250,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marcel's Green Soap Allesreiniger Spray Navulling",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.24,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Gedecoreerde donuts Fairtrade cacao",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.34,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "t/m 24-11-2026",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     },
     {
-      "productnaam": "Dubro Multi Ontvetter spray",
+      "productnaam": "Marcel's Green Soap Vaatwastabletten all-in-one",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
+      "actieprijs": 4.4,
+      "inhoud_waarde": 481,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     },
     {
-      "productnaam": "Dubro Badkamer reiniger spray",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Keukenontvetter spray",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Antikalk Hygi�ne spray",
-      "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.6,
-      "inhoud_waarde": 650,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Dubro Snelontkalker",
+      "productnaam": "Marcel's Green Soap Afwasmiddel Lemon & Bergamot Navulling",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.32,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     },
     {
-      "productnaam": "Dubro Afwasmiddel extra citroen",
+      "productnaam": "Marcel's Green Soap Afwasmiddel Navulling Sinaasappel",
       "korting_tekst": "-60% KORTING",
-      "actieprijs": 1.2,
-      "inhoud_waarde": 550,
+      "actieprijs": 1.32,
+      "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     },
     {
-      "productnaam": "The Jelly Bean Fact Jelly beans mix cup",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 200,
+      "productnaam": "Dettol Navulverpakking handzeep aloe vera",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.92,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marcel's Green Soap Schoonmaakdoekjes Patchouli",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.44,
+      "inhoud_waarde": 60,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Marcel's Green Soap Afwasmiddel Sinaasappel & Jasmijn",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 1.4,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Donut Aardbei",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 0.32,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Oral-B iO UC Black opzetborstel",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 19.2,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza Mozzarella glutenvrij",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 370,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Tandpasta repair & protect",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
+      "productnaam": "Dr. Oetker Ristorante pizza Salami glutenvrij",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 2.0,
+      "inhoud_waarde": 315,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     },
     {
-      "productnaam": "Sensodyne Tandpasta repair & protect whitening",
-      "korting_tekst": "-58% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
+      "productnaam": "Oral-B Opzetborstel cross action",
+      "korting_tekst": "-60% KORTING",
+      "actieprijs": 11.2,
+      "inhoud_waarde": 4,
+      "inhoud_unit": "stuks",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     },
     {
-      "productnaam": "Parodontax Active GUM Whitening",
+      "productnaam": "PLUS Korenlanders Pan Cristal",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Korenlanders Stokbrood bruin meergranen",
+      "korting_tekst": "-57% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Dr. Oetker Ristorante pizza al salami vegan",
       "korting_tekst": "-56% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Parodontax Active GUM Repair",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta complete protection",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Gevoeligheid & Tandvlees tandpasta",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Tandpasta rapid Relief Whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Complete Protection Extra Fr",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Gevoelgheid & Tandvlees Whitening",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Sensodyne Proglasur Active Shield Whitening",
-      "korting_tekst": "-52% KORTING",
-      "actieprijs": 3.33,
-      "inhoud_waarde": 75,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "t/m 24-11-2026",
-      "categorie": null
-    },
-    {
-      "productnaam": "Biologisch PLUS Verspakket tomaat-paprikasoep",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 2.99,
-      "inhoud_waarde": 903,
+      "actieprijs": 2.0,
+      "inhoud_waarde": 295,
       "inhoud_unit": "gram",
-      "geldig_tekst": "t/m 24-11-2026",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Beemster Signature XO 48+ schuitje",
+      "korting_tekst": "-55% KORTING",
+      "actieprijs": 3.06,
+      "inhoud_waarde": 220,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Vegetarische Party knaks",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Unox Knaks Rund 400G",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Magere party knaks",
+      "korting_tekst": "-54% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Unox Kip party knaks",
+      "korting_tekst": "-52% KORTING",
+      "actieprijs": 2.29,
+      "inhoud_waarde": 400,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Beemster Signature Extra Aged 48+ borrelstuk",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 2.43,
+      "inhoud_waarde": 175,
+      "inhoud_unit": "gram",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green lemon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea sparkling zero",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green strawberry",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea peach zero",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea lemon",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea sparkling",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea sparkling green citrus zero",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea peach",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green mango zero",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Lipton Ice tea green zero",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 500,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "PLUS Korenlanders Rustiek baguette zout&peper",
+      "korting_tekst": "-50% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     }
   ]
