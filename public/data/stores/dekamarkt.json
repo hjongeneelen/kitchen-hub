@@ -2,7 +2,7 @@
   "store": "Dekamarkt",
   "slug": "dekamarkt",
   "mode": "scan",
-  "updated_at": "2026-11-25T16:53:49.240432+00:00",
+  "updated_at": "2026-11-26T16:30:11.065015+00:00",
   "deals": [
     {
       "productnaam": "Robijn Geurbuiltje intense morgenfris",
@@ -64,15 +64,6 @@
       "actieprijs": 0.79,
       "inhoud_waarde": 1000,
       "inhoud_unit": "ml",
-      "geldig_tekst": null,
-      "categorie": null
-    },
-    {
-      "productnaam": "Milka Melkcreme",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 100,
-      "inhoud_unit": "gram",
       "geldig_tekst": null,
       "categorie": null
     }

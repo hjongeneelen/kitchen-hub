@@ -2,7 +2,7 @@
   "store": "Plus",
   "slug": "plus",
   "mode": "scan",
-  "updated_at": "2026-11-25T16:53:49.242210+00:00",
+  "updated_at": "2026-11-26T16:30:11.066823+00:00",
   "deals": [
     {
       "productnaam": "Marcel's Green Soap Keuken spray Sinaasappel & Jasmijn",
@@ -10,7 +10,7 @@
       "actieprijs": 1.48,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -19,7 +19,7 @@
       "actieprijs": 1.48,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -28,7 +28,7 @@
       "actieprijs": 1.48,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -37,7 +37,7 @@
       "actieprijs": 1.48,
       "inhoud_waarde": 750,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -46,7 +46,7 @@
       "actieprijs": 0.2,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -55,7 +55,7 @@
       "actieprijs": 1.2,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -64,7 +64,7 @@
       "actieprijs": 1.2,
       "inhoud_waarde": 250,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -73,7 +73,7 @@
       "actieprijs": 1.24,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -82,7 +82,7 @@
       "actieprijs": 0.34,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -91,7 +91,7 @@
       "actieprijs": 4.4,
       "inhoud_waarde": 481,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -100,7 +100,7 @@
       "actieprijs": 1.32,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -109,7 +109,7 @@
       "actieprijs": 1.32,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -118,16 +118,16 @@
       "actieprijs": 1.92,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
       "productnaam": "Marcel's Green Soap Schoonmaakdoekjes Patchouli",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 1.44,
-      "inhoud_waarde": 60,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -136,7 +136,7 @@
       "actieprijs": 1.4,
       "inhoud_waarde": 500,
       "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -145,16 +145,16 @@
       "actieprijs": 0.32,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
       "productnaam": "Oral-B iO UC Black opzetborstel",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 19.2,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -163,7 +163,7 @@
       "actieprijs": 2.0,
       "inhoud_waarde": 370,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -172,16 +172,16 @@
       "actieprijs": 2.0,
       "inhoud_waarde": 315,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
       "productnaam": "Oral-B Opzetborstel cross action",
       "korting_tekst": "-60% KORTING",
       "actieprijs": 11.2,
-      "inhoud_waarde": 4,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -190,7 +190,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -199,7 +199,7 @@
       "actieprijs": 0.99,
       "inhoud_waarde": null,
       "inhoud_unit": null,
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -208,16 +208,7 @@
       "actieprijs": 2.0,
       "inhoud_waarde": 295,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Beemster Signature XO 48+ schuitje",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 3.06,
-      "inhoud_waarde": 220,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -226,7 +217,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -235,7 +226,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -244,7 +235,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     },
     {
@@ -253,124 +244,7 @@
       "actieprijs": 2.29,
       "inhoud_waarde": 400,
       "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Beemster Signature Extra Aged 48+ borrelstuk",
-      "korting_tekst": "-51% KORTING",
-      "actieprijs": 2.43,
-      "inhoud_waarde": 175,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea green",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea green lemon",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea sparkling zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea green strawberry",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea peach zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea lemon",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea sparkling",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea sparkling green citrus zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea peach",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea green mango zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Lipton Ice tea green zero",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "ml",
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "PLUS Korenlanders Rustiek baguette zout&peper",
-      "korting_tekst": "-50% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": null,
-      "inhoud_unit": null,
-      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "geldig_tekst": "t/m 01-12-2026",
       "categorie": null
     }
   ]

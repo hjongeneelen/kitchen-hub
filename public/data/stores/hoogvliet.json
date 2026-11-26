@@ -2,24 +2,60 @@
   "store": "Hoogvliet",
   "slug": "hoogvliet",
   "mode": "scan",
-  "updated_at": "2026-11-25T16:53:49.243399+00:00",
+  "updated_at": "2026-11-26T16:30:11.064459+00:00",
   "deals": [
     {
-      "productnaam": "Saitaku Japanse style mayo wasabi",
-      "korting_tekst": "-55% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 160,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "productnaam": "Knorr Champignon roomsaus",
+      "korting_tekst": "-68% KORTING",
+      "actieprijs": 0.99,
+      "inhoud_waarde": 300,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     },
     {
-      "productnaam": "Saitaku Poke rice",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 1.99,
-      "inhoud_waarde": 500,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "wo. 18 nov. t/m di. 24 nov",
+      "productnaam": "Omo Wasmiddel kleur grootverpakking",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 10.99,
+      "inhoud_waarde": 3750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletblok blauwe bloesem 0% plastic",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.3,
+      "inhoud_waarde": null,
+      "inhoud_unit": null,
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletreiniger active gel hibiscus",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.26,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Ambi Pur Toiletreiniger active gel mint & jasmijn",
+      "korting_tekst": "-67% KORTING",
+      "actieprijs": 1.26,
+      "inhoud_waarde": 750,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
+      "categorie": null
+    },
+    {
+      "productnaam": "Vintastic Schoonmaakazijn lavendel 100% natuurlijk",
+      "korting_tekst": "-51% KORTING",
+      "actieprijs": 0.49,
+      "inhoud_waarde": 1000,
+      "inhoud_unit": "ml",
+      "geldig_tekst": "wo. 25 nov. t/m di. 1 dec",
       "categorie": null
     }
   ]
