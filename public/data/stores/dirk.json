@@ -2,7 +2,7 @@
   "store": "Dirk",
   "slug": "dirk",
   "mode": "scan",
-  "updated_at": "2026-11-26T16:30:11.065509+00:00",
+  "updated_at": "2026-11-27T16:15:34.312236+00:00",
   "deals": [
     {
       "productnaam": "Chocomel Chocolademelk halfvol",
@@ -185,15 +185,6 @@
       "categorie": null
     },
     {
-      "productnaam": "Silvo Mix voor biefstuk",
-      "korting_tekst": "-54% KORTING",
-      "actieprijs": 0.69,
-      "inhoud_waarde": 12,
-      "inhoud_unit": "gram",
-      "geldig_tekst": "t/m di. 1 dec",
-      "categorie": null
-    },
-    {
       "productnaam": "Princes Tonijnstukken in zonnebloemolie",
       "korting_tekst": "-53% KORTING",
       "actieprijs": 1.19,
@@ -231,15 +222,6 @@
     },
     {
       "productnaam": "Pickwick Spices Turkish Apple zwarte thee",
-      "korting_tekst": "-53% KORTING",
-      "actieprijs": 0.99,
-      "inhoud_waarde": 20,
-      "inhoud_unit": "stuks",
-      "geldig_tekst": "t/m di. 1 dec",
-      "categorie": null
-    },
-    {
-      "productnaam": "Pickwick Kamille Honing kruiden thee",
       "korting_tekst": "-53% KORTING",
       "actieprijs": 0.99,
       "inhoud_waarde": 20,
